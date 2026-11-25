@@ -1,6 +1,7 @@
 // Confere os dados e o site gerado. Sai com código 1 se algo estiver errado.
 
 import { readdirSync, readFileSync, existsSync } from 'node:fs';
+import { resolve } from 'node:path';
 import { lerJSON, caminho, VERSAO, EXEMPLO, segunda, slugSemana } from './util.mjs';
 import { REDES } from '../src/redes.mjs';
 import { lerOmdb } from './fontes/omdb.mjs';
@@ -59,6 +60,7 @@ for (const [nome, html] of todas) {
   const desc = html.match(/<meta name="description" content="([^"]*)"/)?.[1] || '';
   ok(desc.length >= 100 && desc.length <= 200, `${nome}: description com ${desc.length} caracteres`);
   // CSP do netlify.toml: nada de script ou estilo inline (JSON-LD não executa, vale).
+  const pasta = nome.includes('/') ? nome.slice(0, nome.lastIndexOf('/') + 1) : '';
   ok(!/<script(?![^>]*(src=|application\/ld\+json))/.test(html), `${nome}: script inline`);
   ok(!/<style[\s>]/.test(html) && !/\sstyle="/.test(html), `${nome}: estilo inline`);
   for (const h of html.matchAll(/href="([^"]+)"/g)) {
@@ -71,7 +73,16 @@ for (const [nome, html] of todas) {
       const f = alvo.split('#')[0] || '/';
       const arq = f === '/' ? 'index.html' : f.slice(1);
       ok(existsSync(pub + '/' + arq), `${nome}: link interno quebrado ${alvo}`);
+    } else {
+      // o site é relativo para abrir também direto do disco: confere o arquivo a partir da pasta da página
+      ok(existsSync(resolve(pub, pasta, alvo.split('#')[0] || 'index.html')), `${nome}: link relativo quebrado ${alvo}`);
     }
+  }
+  // folhas de estilo, scripts e imagens do próprio site também precisam existir (e abrir sem servidor)
+  for (const s of html.matchAll(/(?:src|href)="([^"]+\.(?:css|js|svg))"/g)) {
+    if (/^https?:\/\//.test(s[1])) continue;
+    ok(!s[1].startsWith('/'), `${nome}: arquivo com caminho absoluto ${s[1]} (não abre direto do disco)`);
+    ok(existsSync(resolve(pub, pasta, s[1])), `${nome}: arquivo do site não existe ${s[1]}`);
   }
   const cinemas = html.match(/<section class="bloco" id="cinema">[\s\S]*?<\/section>/)?.[0] || '';
   const nCards = (cinemas.match(/<article class="card"/g) || []).length;

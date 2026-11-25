@@ -1,5 +1,10 @@
 # Histórico
 
+## 0.1.5 — 24/11/2026
+
+- Corrigido: abrir public/index.html direto do disco (duplo clique) deixava a página sem estilo e os botões \Todos juntos\ / \Por dia\ sem efeito, porque os links do site eram absolutos (\/assets/app.js\ apontava para a raiz da unidade). Agora links, CSS, JS e ícone saem relativos (\../assets/...\ nas páginas de semana); a 404 continua absoluta, porque o servidor a entrega em qualquer profundidade.
+- \	estar\ confere que links relativos e arquivos do site existem e recusa caminho absoluto de CSS/JS/SVG.
+
 ## 0.1.4 — 24/11/2026
 
 - Lançamentos futuros: a janela passa de 7 para 26 semanas à frente (~6 meses), 28 páginas de semana. O cinema é bem coberto; streaming futuro depende do que o TMDB já sabe.

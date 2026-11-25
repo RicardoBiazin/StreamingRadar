@@ -2,9 +2,20 @@
 
 import { esc, VERSAO, SITE } from '../scripts/util.mjs';
 
-export function pagina({ titulo, descricao, caminho, corpo, json = null }) {
+/**
+ * Links e arquivos do próprio site saem relativos ("../assets/app.js"), para a página funcionar também
+ * aberta direto do disco (file://), onde "/assets/..." apontaria para a raiz da unidade e perderia
+ * estilo e botões. A 404 fica absoluta: o servidor a entrega em qualquer profundidade de caminho.
+ */
+function relativos(html, caminho) {
+  if (caminho === '/404.html') return html;
+  const pref = caminho.split('/').length > 2 ? '../' : '';
+  return html.replace(/(href|src)="\/(?!\/)([^"]*)"/g, (_m, atr, resto) => `${atr}="${pref}${resto === '' ? 'index.html' : resto}"`);
+}
+
+export function pagina({ titulo, descricao, caminho, corpo, json = null, scripts = [] }) {
   const url = SITE + caminho;
-  return `<!doctype html>
+  return relativos(`<!doctype html>
 <html lang="pt-BR">
 <head>
 <meta charset="utf-8">
@@ -26,6 +37,7 @@ ${json ? `<script type="application/ld+json">${JSON.stringify(json).replace(/</g
 <body>
 <header class="topo">
   <a class="marca" href="/"><span class="radar" aria-hidden="true"></span>Streaming Radar</a>
+  <nav class="menu" aria-label="Principal"><a href="/">Semana</a><a href="/catalogo/">Catálogo</a></nav>
   <span class="versao">v${VERSAO}</span>
 </header>
 <main data-vista="junto">
@@ -40,7 +52,9 @@ ${corpo}
   Código aberto: <a href="https://github.com/RicardoBiazin/StreamingRadar" rel="noopener">GitHub</a>. v${VERSAO}.</p>
 </footer>
 <script src="/assets/app.js" defer></script>
+${scripts.map((s) => `<script src="${s}" defer></script>`).join('
+')}
 </body>
 </html>
-`;
+`, caminho);
 }
