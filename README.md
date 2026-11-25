@@ -6,7 +6,7 @@ Site estático e automático com os lançamentos da semana no Brasil, semana a s
 - **Filmes no streaming**: lançamentos digitais com a plataforma (Netflix, Prime Video, Disney+, Max, Globoplay...) e link.
 - **Séries**: estreias de série e de temporada, com plataforma e canal/rede de origem.
 
-Cada cartão traz pôster, nota, sinopse, trailer e links (TMDB, JustWatch, plataforma). A janela é a semana passada e as 7 seguintes; `index.html` mostra a semana atual.
+Cada cartão traz pôster, nota, sinopse, trailer e links (TMDB, JustWatch, plataforma). A janela é a semana passada e as 26 seguintes (~6 meses de lançamentos futuros); `index.html` mostra a semana atual.
 
 Os dados vêm da API do [TMDB](https://www.themoviedb.org/) (datas de estreia no Brasil, provedores por região do [JustWatch](https://www.justwatch.com/br)). **Limite conhecido:** as redes de cinema não têm API pública, então o site aponta para a página de programação de cada rede e não confirma que a rede exibe o filme.
 
@@ -16,6 +16,7 @@ Requer Node 20+. Sem dependências.
 
 ```
 copy .env.example .env      # preencha TMDB_API_KEY (grátis em themoviedb.org → Configurações → API)
+                            # e, opcional, OMDB_API_KEY (grátis em omdbapi.com/apikey.aspx) para as notas de críticos
 npm run atualizar           # coletar → normalizar → gerar → testar
 npm run preview             # http://127.0.0.1:4207, com a CSP do netlify.toml
 npm run exemplo             # dados FICTÍCIOS em .exemplo/, para ver o site sem chave
@@ -42,4 +43,4 @@ Regras: cinema = estreia teatral (tipos 2 e 3 do TMDB) no Brasil; filme no strea
 
 ## Licença e créditos
 
-MIT. Dados: TMDB e JustWatch. Este produto usa a API do TMDB, mas não é endossado nem certificado pelo TMDB.
+MIT. Dados: TMDB e JustWatch; notas do IMDb, Rotten Tomatoes e Metacritic via OMDb API. Este produto usa a API do TMDB, mas não é endossado nem certificado pelo TMDB.

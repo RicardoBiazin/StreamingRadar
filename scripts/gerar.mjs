@@ -15,6 +15,7 @@ if (!dados) {
   console.error('Sem dados/lancamentos.json: rode `npm run normalizar` primeiro.');
   process.exit(1);
 }
+const notas = lerJSON('dados/notas.json', {});
 const hoje = hojeBR();
 const IMG = 'https://image.tmdb.org/t/p/';
 
@@ -66,6 +67,13 @@ function cartao(i) {
     if (i.tipo === 'serie' && i.canais?.length) onde += `<p class="canal">Canal/rede de origem: ${esc(i.canais.join(', '))}</p>`;
   }
 
+  const n = i.imdb ? notas[i.imdb] : null;
+  const q = encodeURIComponent(i.original || i.titulo);
+  const selos = n ? [
+    n.imdb != null ? `<a class="selo imdb" href="https://www.imdb.com/title/${esc(i.imdb)}/" rel="noopener" title="IMDb${n.votos ? ', ' + n.votos.toLocaleString('pt-BR') + ' votos' : ''}"><b>IMDb</b> ${n.imdb.toFixed(1).replace('.', ',')}</a>` : '',
+    n.rt != null ? `<a class="selo rt ${n.rt >= 60 ? 'fresco' : 'podre'}" href="https://www.rottentomatoes.com/search?search=${q}" rel="noopener" title="Rotten Tomatoes (crítica)"><b>RT</b> ${n.rt}%</a>` : '',
+    n.mc != null ? `<a class="selo mc ${n.mc >= 61 ? 'bom' : n.mc >= 40 ? 'medio' : 'ruim'}" href="https://www.metacritic.com/search/${q}/" rel="noopener" title="Metacritic (Metascore)"><b>MC</b> ${n.mc}</a>` : '',
+  ].join('') : '';
   const links = [
     `<a href="${esc(tituloLink(i))}" rel="noopener">TMDB</a>`,
     i.trailer ? `<a href="https://www.youtube.com/watch?v=${esc(i.trailer)}" rel="noopener">Trailer</a>` : null,
@@ -79,6 +87,7 @@ function cartao(i) {
     <h3><a href="${esc(tituloLink(i))}" rel="noopener">${esc(i.titulo)}</a>${i.nota ? `<span class="nota" title="${i.votos} votos no TMDB">★ ${i.nota.toFixed(1).replace('.', ',')}</span>` : ''}</h3>
     ${i.original ? `<p class="orig">${esc(i.original)}</p>` : ''}
     <p class="meta">${meta.map(esc).join(' · ')}</p>
+    ${selos ? `<p class="selos">${selos}</p>` : ''}
     ${i.sinopse ? `<p class="sinopse">${esc(cortar(i.sinopse, 240))}</p>` : ''}
     ${onde}
     <p class="links">${links}</p>

@@ -34,7 +34,8 @@ ${corpo}
 <footer class="rodape">
   <p>Gerado de forma autônoma todo dia a partir do <a href="https://www.themoviedb.org/" rel="noopener">TMDB</a>.
   Onde assistir: dados do <a href="https://www.justwatch.com/br" rel="noopener">JustWatch</a>.
-  Este produto usa a API do TMDB, mas não é endossado nem certificado pelo TMDB.</p>
+  Este produto usa a API do TMDB, mas não é endossado nem certificado pelo TMDB.
+  Notas do IMDb, Rotten Tomatoes e Metacritic via <a href="https://www.omdbapi.com/" rel="noopener">OMDb API</a>, quando disponíveis.</p>
   <p>Datas e catálogos mudam sem aviso: confira no link da plataforma ou da rede antes de sair de casa.
   Código aberto: <a href="https://github.com/RicardoBiazin/StreamingRadar" rel="noopener">GitHub</a>. v${VERSAO}.</p>
 </footer>

@@ -1,12 +1,13 @@
 {
  "fonte": "tmdb",
- "coletadoEm": "2026-11-25T02:39:25.122Z",
+ "coletadoEm": "2026-11-25T02:47:53.571Z",
  "de": "2026-11-16",
- "ate": "2027-01-17",
+ "ate": "2027-05-30",
  "itens": [
   {
    "id": "serie-67335",
    "tmdb": 67335,
+   "imdb": "tt5676412",
    "tipo": "serie",
    "titulo": "Sin senos sí hay paraíso",
    "original": null,
@@ -42,6 +43,7 @@
   {
    "id": "filme-1378742",
    "tmdb": 1378742,
+   "imdb": "tt33512134",
    "tipo": "filme",
    "titulo": "Em Rota de Fuga",
    "original": "Drive Through Fire",
@@ -74,6 +76,7 @@
   {
    "id": "filme-1828712",
    "tmdb": 1828712,
+   "imdb": null,
    "tipo": "filme",
    "titulo": "Anjos Exterminadores",
    "original": null,
@@ -95,6 +98,7 @@
   {
    "id": "filme-1644267",
    "tmdb": 1644267,
+   "imdb": "tt43589577",
    "tipo": "filme",
    "titulo": "Entrevista com a Bruxa",
    "original": null,
@@ -118,6 +122,7 @@
   {
    "id": "cinema-1828253",
    "tmdb": 1828253,
+   "imdb": null,
    "tipo": "cinema",
    "titulo": "Tão Artificial Quanto Eu",
    "original": null,
@@ -142,6 +147,7 @@
   {
    "id": "filme-1827969",
    "tmdb": 1827969,
+   "imdb": null,
    "tipo": "filme",
    "titulo": "Movimento Rápido dos Olhos",
    "original": null,
@@ -163,6 +169,7 @@
   {
    "id": "filme-1773826",
    "tmdb": 1773826,
+   "imdb": "tt50137618",
    "tipo": "filme",
    "titulo": "La Befana",
    "original": null,
@@ -186,6 +193,7 @@
   {
    "id": "filme-1515348",
    "tmdb": 1515348,
+   "imdb": "tt37741878",
    "tipo": "filme",
    "titulo": "A Febre do Macaco Preto",
    "original": null,
@@ -207,6 +215,7 @@
   {
    "id": "filme-884568",
    "tmdb": 884568,
+   "imdb": "tt16250706",
    "tipo": "filme",
    "titulo": "O Chiclete",
    "original": "El chicle",
@@ -237,6 +246,7 @@
   {
    "id": "cinema-1815438",
    "tmdb": 1815438,
+   "imdb": null,
    "tipo": "cinema",
    "titulo": "erōtikós",
    "original": null,
@@ -260,6 +270,7 @@
   {
    "id": "filme-1368337",
    "tmdb": 1368337,
+   "imdb": "tt33764258",
    "tipo": "filme",
    "titulo": "A Odisseia",
    "original": "The Odyssey",
@@ -304,6 +315,7 @@
   {
    "id": "serie-62481",
    "tmdb": 62481,
+   "imdb": "tt3205302",
    "tipo": "serie",
    "titulo": "Duelo com Bobby Flay",
    "original": "Beat Bobby Flay",
@@ -336,6 +348,7 @@
   {
    "id": "filme-1198654",
    "tmdb": 1198654,
+   "imdb": "tt29714073",
    "tipo": "filme",
    "titulo": "Maçã Podre",
    "original": "Bad Apples",
@@ -379,6 +392,7 @@
   {
    "id": "serie-62543",
    "tmdb": 62543,
+   "imdb": "tt3746948",
    "tipo": "serie",
    "titulo": "Os Pequenos Johnstons",
    "original": "7 Little Johnstons",
@@ -413,6 +427,7 @@
   {
    "id": "cinema-1798642",
    "tmdb": 1798642,
+   "imdb": null,
    "tipo": "cinema",
    "titulo": "Colaboradores",
    "original": null,
@@ -436,6 +451,7 @@
   {
    "id": "cinema-1300968",
    "tmdb": 1300968,
+   "imdb": "tt32558705",
    "tipo": "cinema",
    "titulo": "Jogos Vorazes: Amanhecer na Colheita",
    "original": "The Hunger Games: Sunrise on the Reaping",
@@ -461,6 +477,7 @@
   {
    "id": "filme-1551025",
    "tmdb": 1551025,
+   "imdb": "tt6611324",
    "tipo": "filme",
    "titulo": "Protegendo Estrelas",
    "original": "Guarding Stars",
@@ -492,6 +509,7 @@
   {
    "id": "filme-1131943",
    "tmdb": 1131943,
+   "imdb": "tt24818230",
    "tipo": "filme",
    "titulo": "Madden: O Homem e o Jogo",
    "original": "Madden",
@@ -524,6 +542,7 @@
   {
    "id": "serie-332839",
    "tmdb": 332839,
+   "imdb": "tt44079238",
    "tipo": "serie",
    "titulo": "A Lei dos Monstros",
    "original": "Prawo bestii",
@@ -557,6 +576,7 @@
   {
    "id": "serie-340280",
    "tmdb": 340280,
+   "imdb": "tt41559886",
    "tipo": "serie",
    "titulo": "Gordon",
    "original": null,
@@ -590,6 +610,7 @@
   {
    "id": "serie-318420",
    "tmdb": 318420,
+   "imdb": "tt39161219",
    "tipo": "serie",
    "titulo": "Os 12 Signos de Valentina",
    "original": null,
@@ -623,6 +644,7 @@
   {
    "id": "serie-288120",
    "tmdb": 288120,
+   "imdb": "tt31844371",
    "tipo": "serie",
    "titulo": "O Jogo de Viena",
    "original": "Vienna Game",
@@ -655,6 +677,7 @@
   {
    "id": "serie-336592",
    "tmdb": 336592,
+   "imdb": "tt38885478",
    "tipo": "serie",
    "titulo": "Conquistando o Shopping",
    "original": "Win the Mall",
@@ -687,6 +710,7 @@
   {
    "id": "filme-1830483",
    "tmdb": 1830483,
+   "imdb": null,
    "tipo": "filme",
    "titulo": "O Melhor Dia de Todos",
    "original": null,
@@ -712,6 +736,7 @@
   {
    "id": "cinema-1827374",
    "tmdb": 1827374,
+   "imdb": null,
    "tipo": "cinema",
    "titulo": "Augusto!!",
    "original": null,
@@ -736,6 +761,7 @@
   {
    "id": "filme-1829152",
    "tmdb": 1829152,
+   "imdb": null,
    "tipo": "filme",
    "titulo": "4 Mortes / 2 Vidas",
    "original": null,
@@ -757,6 +783,7 @@
   {
    "id": "cinema-1839432",
    "tmdb": 1839432,
+   "imdb": null,
    "tipo": "cinema",
    "titulo": "Anathema",
    "original": null,
@@ -781,6 +808,7 @@
   {
    "id": "cinema-656908",
    "tmdb": 656908,
+   "imdb": "tt27988879",
    "tipo": "cinema",
    "titulo": "Ramayana: O Nascimento de uma Lenda",
    "original": "रामायणम्",
@@ -806,6 +834,7 @@
   {
    "id": "cinema-1286656",
    "tmdb": 1286656,
+   "imdb": "tt11995650",
    "tipo": "cinema",
    "titulo": "Eu Sou o Rocky",
    "original": "I Play Rocky",
@@ -830,6 +859,7 @@
   {
    "id": "serie-308007",
    "tmdb": 308007,
+   "imdb": "tt36786185",
    "tipo": "serie",
    "titulo": "Os Altruístas",
    "original": "The Altruists",
@@ -863,6 +893,7 @@
   {
    "id": "filme-1561834",
    "tmdb": 1561834,
+   "imdb": "tt50016818",
    "tipo": "filme",
    "titulo": "A Última Refeição",
    "original": "Son Yemek",
@@ -894,6 +925,7 @@
   {
    "id": "cinema-1299329",
    "tmdb": 1299329,
+   "imdb": "tt32321285",
    "tipo": "cinema",
    "titulo": "Josephine: Fragmentos de um Crime",
    "original": "Josephine",
@@ -918,6 +950,7 @@
   {
    "id": "serie-94038",
    "tmdb": 94038,
+   "imdb": "tt11382554",
    "tipo": "serie",
    "titulo": "Canada's Drag Race",
    "original": null,
@@ -950,6 +983,7 @@
   {
    "id": "filme-1165366",
    "tmdb": 1165366,
+   "imdb": "tt28553375",
    "tipo": "filme",
    "titulo": "De Gaulle: A França Livre - Parte 1",
    "original": "La Bataille de Gaulle : L’Âge de fer",
@@ -982,6 +1016,7 @@
   {
    "id": "filme-1165369",
    "tmdb": 1165369,
+   "imdb": "tt35856133",
    "tipo": "filme",
    "titulo": "De Gaulle: A França Livre - Parte 2",
    "original": "La Bataille de Gaulle : J'écris ton nom",
@@ -1014,6 +1049,7 @@
   {
    "id": "serie-87994",
    "tmdb": 87994,
+   "imdb": "tt10115054",
    "tipo": "serie",
    "titulo": "Vale dos Reis: Tesouros do Egito",
    "original": "Lost Treasures of Egypt",
@@ -1046,6 +1082,7 @@
   {
    "id": "cinema-1061798",
    "tmdb": 1061798,
+   "imdb": "tt36955518",
    "tipo": "cinema",
    "titulo": "Jim Queen à la Recherche de la Chloroqueer",
    "original": null,
@@ -1070,6 +1107,7 @@
   {
    "id": "cinema-1227877",
    "tmdb": 1227877,
+   "imdb": "tt30827810",
    "tipo": "cinema",
    "titulo": "I Love Boosters",
    "original": null,
@@ -1095,6 +1133,7 @@
   {
    "id": "cinema-1277882",
    "tmdb": 1277882,
+   "imdb": "tt35455855",
    "tipo": "cinema",
    "titulo": "As Crianças Estão Bem",
    "original": "Les enfants vont bien",
@@ -1118,6 +1157,7 @@
   {
    "id": "cinema-1255582",
    "tmdb": 1255582,
+   "imdb": "tt6305150",
    "tipo": "cinema",
    "titulo": "Eu Vou Ter Saudades de Você",
    "original": null,
@@ -1142,6 +1182,7 @@
   {
    "id": "cinema-1148331",
    "tmdb": 1148331,
+   "imdb": "tt28279347",
    "tipo": "cinema",
    "titulo": "Amálgama",
    "original": null,
@@ -1166,6 +1207,7 @@
   {
    "id": "cinema-1717652",
    "tmdb": 1717652,
+   "imdb": "tt9533506",
    "tipo": "cinema",
    "titulo": "Sem Pai Nem Mãe",
    "original": null,
@@ -1190,6 +1232,7 @@
   {
    "id": "cinema-1793945",
    "tmdb": 1793945,
+   "imdb": null,
    "tipo": "cinema",
    "titulo": "Camisas Negras",
    "original": null,
@@ -1214,6 +1257,7 @@
   {
    "id": "cinema-764516",
    "tmdb": 764516,
+   "imdb": "tt14113574",
    "tipo": "cinema",
    "titulo": "Fogaréu",
    "original": null,
@@ -1237,6 +1281,7 @@
   {
    "id": "cinema-1240002",
    "tmdb": 1240002,
+   "imdb": "tt30818243",
    "tipo": "cinema",
    "titulo": "Querido Mundo",
    "original": null,
@@ -1262,6 +1307,7 @@
   {
    "id": "cinema-1499805",
    "tmdb": 1499805,
+   "imdb": null,
    "tipo": "cinema",
    "titulo": "As Travessias de Letieres Leite",
    "original": null,
@@ -1285,6 +1331,7 @@
   {
    "id": "cinema-1598234",
    "tmdb": 1598234,
+   "imdb": "tt27480831",
    "tipo": "cinema",
    "titulo": "O Projeto",
    "original": null,
@@ -1308,6 +1355,7 @@
   {
    "id": "cinema-1560361",
    "tmdb": 1560361,
+   "imdb": null,
    "tipo": "cinema",
    "titulo": "Enaldinho em Uma Noite Infinita",
    "original": null,
@@ -1332,6 +1380,7 @@
   {
    "id": "filme-1595124",
    "tmdb": 1595124,
+   "imdb": "tt14413964",
    "tipo": "filme",
    "titulo": "Tipo Irmãs",
    "original": "Steps",
@@ -1366,6 +1415,7 @@
   {
    "id": "serie-103540",
    "tmdb": 103540,
+   "imdb": "tt12324366",
    "tipo": "serie",
    "titulo": "Percy Jackson e os Olimpianos",
    "original": "Percy Jackson and the Olympians",
@@ -1408,6 +1458,7 @@
   {
    "id": "filme-1568060",
    "tmdb": 1568060,
+   "imdb": "tt18351090",
    "tipo": "filme",
    "titulo": "Perfeitos Mentirosos",
    "original": "Perfectos mentirosos",
@@ -1440,6 +1491,7 @@
   {
    "id": "serie-300523",
    "tmdb": 300523,
+   "imdb": "tt38336631",
    "tipo": "serie",
    "titulo": "Estrada das Lágrimas",
    "original": "푸른길",
@@ -1473,6 +1525,7 @@
   {
    "id": "cinema-1280738",
    "tmdb": 1280738,
+   "imdb": "tt33311069",
    "tipo": "cinema",
    "titulo": "Fúria Incansável",
    "original": "火遮眼",
@@ -1498,6 +1551,7 @@
   {
    "id": "serie-275204",
    "tmdb": 275204,
+   "imdb": "tt14650074",
    "tipo": "serie",
    "titulo": "ढिंडोरा",
    "original": null,
@@ -1532,6 +1586,7 @@
   {
    "id": "filme-1307474",
    "tmdb": 1307474,
+   "imdb": "tt33402927",
    "tipo": "filme",
    "titulo": "Vicentina Pede Desculpas",
    "original": null,
@@ -1562,6 +1617,7 @@
   {
    "id": "serie-88384",
    "tmdb": 88384,
+   "imdb": "tt11950864",
    "tipo": "serie",
    "titulo": "Bright Minds",
    "original": "Astrid et Raphaëlle",
@@ -1594,6 +1650,7 @@
   {
    "id": "filme-1791730",
    "tmdb": 1791730,
+   "imdb": "tt48434154",
    "tipo": "filme",
    "titulo": "Pregadore$ no Horário Nobre",
    "original": "Primetime Preacher$",
@@ -1624,6 +1681,7 @@
   {
    "id": "filme-1196067",
    "tmdb": 1196067,
+   "imdb": "tt14264694",
    "tipo": "filme",
    "titulo": "O Legado do Apocalipse",
    "original": "Worldbreaker",
@@ -1649,6 +1707,7 @@
   {
    "id": "cinema-848700",
    "tmdb": 848700,
+   "imdb": "tt37118301",
    "tipo": "cinema",
    "titulo": "Minotauro",
    "original": "Minotaure",
@@ -1674,6 +1733,7 @@
   {
    "id": "serie-6480",
    "tmdb": 6480,
+   "imdb": "tt0369117",
    "tipo": "serie",
    "titulo": "Em Busca da Casa Perfeita",
    "original": "House Hunters",
@@ -1707,6 +1767,7 @@
   {
    "id": "serie-314131",
    "tmdb": 314131,
+   "imdb": "tt50666033",
    "tipo": "serie",
    "titulo": "Melania - A Série",
    "original": "MELANIA the Series",
@@ -1740,6 +1801,7 @@
   {
    "id": "serie-338549",
    "tmdb": 338549,
+   "imdb": "tt43620104",
    "tipo": "serie",
    "titulo": "Mascarade",
    "original": null,
@@ -1773,6 +1835,7 @@
   {
    "id": "serie-222598",
    "tmdb": 222598,
+   "imdb": "tt26778255",
    "tipo": "serie",
    "titulo": "LOL: Se Rir, Já Era Argentina",
    "original": "LOL: Last One Laughing Argentina",
@@ -1806,6 +1869,7 @@
   {
    "id": "filme-1630801",
    "tmdb": 1630801,
+   "imdb": "tt39402072",
    "tipo": "filme",
    "titulo": "Com Amor, Ted Bundy",
    "original": "Love, Ted Bundy",
@@ -1837,6 +1901,7 @@
   {
    "id": "serie-340624",
    "tmdb": 340624,
+   "imdb": "tt35463263",
    "tipo": "serie",
    "titulo": "Ayô",
    "original": null,
@@ -1870,6 +1935,7 @@
   {
    "id": "filme-1837201",
    "tmdb": 1837201,
+   "imdb": null,
    "tipo": "filme",
    "titulo": "Clue: O jogo",
    "original": null,
@@ -1894,6 +1960,7 @@
   {
    "id": "cinema-1814530",
    "tmdb": 1814530,
+   "imdb": null,
    "tipo": "cinema",
    "titulo": "American Trilogy",
    "original": null,
@@ -1917,6 +1984,7 @@
   {
    "id": "serie-17964",
    "tmdb": 17964,
+   "imdb": null,
    "tipo": "serie",
    "titulo": "சூப்பர் சிங்கர்",
    "original": null,
@@ -1950,6 +2018,7 @@
   {
    "id": "serie-239334",
    "tmdb": 239334,
+   "imdb": "tt30006118",
    "tipo": "serie",
    "titulo": "Frenchie Shore",
    "original": null,
@@ -1983,6 +2052,7 @@
   {
    "id": "filme-1801812",
    "tmdb": 1801812,
+   "imdb": null,
    "tipo": "filme",
    "titulo": "Água que Passarinho Também Bebe",
    "original": null,
@@ -2006,6 +2076,7 @@
   {
    "id": "cinema-1253389",
    "tmdb": 1253389,
+   "imdb": null,
    "tipo": "cinema",
    "titulo": "Reliquary",
    "original": null,
@@ -2029,6 +2100,7 @@
   {
    "id": "cinema-1824297",
    "tmdb": 1824297,
+   "imdb": null,
    "tipo": "cinema",
    "titulo": "Alain Delon da Bahia",
    "original": null,
@@ -2052,6 +2124,7 @@
   {
    "id": "serie-117488",
    "tmdb": 117488,
+   "imdb": "tt11041332",
    "tipo": "serie",
    "titulo": "Yellowjackets",
    "original": null,
@@ -2086,6 +2159,7 @@
   {
    "id": "serie-341164",
    "tmdb": 341164,
+   "imdb": "tt50688819",
    "tipo": "serie",
    "titulo": "Oobah Butler: Trapaças por um Futuro Melhor",
    "original": "Oobah: Scams for a Better Tomorrow",
@@ -2119,6 +2193,7 @@
   {
    "id": "cinema-1839526",
    "tmdb": 1839526,
+   "imdb": null,
    "tipo": "cinema",
    "titulo": "A liturgia do mofo",
    "original": null,
@@ -2140,6 +2215,7 @@
   {
    "id": "cinema-1839754",
    "tmdb": 1839754,
+   "imdb": null,
    "tipo": "cinema",
    "titulo": "Madorna",
    "original": null,
@@ -2161,6 +2237,7 @@
   {
    "id": "cinema-1842311",
    "tmdb": 1842311,
+   "imdb": null,
    "tipo": "cinema",
    "titulo": "Nada Mais Que o Bater de Suas Asas...",
    "original": null,
@@ -2184,6 +2261,7 @@
   {
    "id": "filme-1611767",
    "tmdb": 1611767,
+   "imdb": "tt39316936",
    "tipo": "filme",
    "titulo": "Correndo para o Natal",
    "original": "Clashing Through the Snow",
@@ -2215,6 +2293,7 @@
   {
    "id": "serie-340615",
    "tmdb": 340615,
+   "imdb": "tt33004920",
    "tipo": "serie",
    "titulo": "Os Julgamentos de Karen Read",
    "original": "The Trials of Karen Read",
@@ -2249,6 +2328,7 @@
   {
    "id": "serie-96091",
    "tmdb": 96091,
+   "imdb": "tt13618612",
    "tipo": "serie",
    "titulo": "Yétili",
    "original": null,
@@ -2283,6 +2363,7 @@
   {
    "id": "filme-1827515",
    "tmdb": 1827515,
+   "imdb": null,
    "tipo": "filme",
    "titulo": "Retratos",
    "original": null,
@@ -2306,6 +2387,7 @@
   {
    "id": "filme-1281331",
    "tmdb": 1281331,
+   "imdb": "tt37510326",
    "tipo": "filme",
    "titulo": "O Outro Lado das Redes",
    "original": "The Social Reckoning",
@@ -2330,6 +2412,7 @@
   {
    "id": "filme-1280115",
    "tmdb": 1280115,
+   "imdb": "tt32213169",
    "tipo": "filme",
    "titulo": "O Pequeno Guerreiro",
    "original": "Way of the Warrior Kid",
@@ -2354,6 +2437,7 @@
   {
    "id": "cinema-30017",
    "tmdb": 30017,
+   "imdb": "tt0100234",
    "tipo": "cinema",
    "titulo": "Close-Up",
    "original": "کلوزآپ ، نمای نزدیک",
@@ -2378,6 +2462,7 @@
   {
    "id": "filme-1802703",
    "tmdb": 1802703,
+   "imdb": "tt47597255",
    "tipo": "filme",
    "titulo": "Rob Lowe: The Outsider",
    "original": null,
@@ -2401,6 +2486,7 @@
   {
    "id": "filme-1655112",
    "tmdb": 1655112,
+   "imdb": "tt39646510",
    "tipo": "filme",
    "titulo": "O Último Pedido",
    "original": "One Last Order",
@@ -2424,6 +2510,7 @@
   {
    "id": "filme-1814094",
    "tmdb": 1814094,
+   "imdb": null,
    "tipo": "filme",
    "titulo": "Memórias de um Assassino de Tigres",
    "original": null,
@@ -2449,6 +2536,7 @@
   {
    "id": "cinema-94513",
    "tmdb": 94513,
+   "imdb": "tt0072902",
    "tipo": "cinema",
    "titulo": "Duas Soluções para Um Problema",
    "original": "دو راه حل برای يک مسئله",
@@ -2473,6 +2561,7 @@
   {
    "id": "cinema-1763409",
    "tmdb": 1763409,
+   "imdb": null,
    "tipo": "cinema",
    "titulo": "Tiro no Escuro",
    "original": null,
@@ -2497,6 +2586,7 @@
   {
    "id": "cinema-1400336",
    "tmdb": 1400336,
+   "imdb": "tt34966140",
    "tipo": "cinema",
    "titulo": "Entrando Numa Grande Fria",
    "original": "Focker In-Law",
@@ -2521,6 +2611,7 @@
   {
    "id": "cinema-1457866",
    "tmdb": 1457866,
+   "imdb": "tt36408401",
    "tipo": "cinema",
    "titulo": "As Novas Desventuras de Cliff Booth",
    "original": "THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH",
@@ -2546,6 +2637,7 @@
   {
    "id": "serie-224330",
    "tmdb": 224330,
+   "imdb": "tt27494436",
    "tipo": "serie",
    "titulo": "Ilhados com a Sogra",
    "original": null,
@@ -2578,6 +2670,7 @@
   {
    "id": "cinema-1824922",
    "tmdb": 1824922,
+   "imdb": null,
    "tipo": "cinema",
    "titulo": "Elders extreme damage",
    "original": null,
@@ -2601,6 +2694,7 @@
   {
    "id": "filme-1828420",
    "tmdb": 1828420,
+   "imdb": null,
    "tipo": "filme",
    "titulo": "Starlight",
    "original": null,
@@ -2626,6 +2720,7 @@
   {
    "id": "cinema-1507903",
    "tmdb": 1507903,
+   "imdb": null,
    "tipo": "cinema",
    "titulo": "Labirintite",
    "original": null,
@@ -2647,6 +2742,7 @@
   {
    "id": "cinema-1843307",
    "tmdb": 1843307,
+   "imdb": null,
    "tipo": "cinema",
    "titulo": "A Clave de Sol",
    "original": null,
@@ -2670,6 +2766,7 @@
   {
    "id": "cinema-1765072",
    "tmdb": 1765072,
+   "imdb": "tt45368240",
    "tipo": "cinema",
    "titulo": "Tudo Pode Ser Visto",
    "original": "You Can See Everything",
@@ -2693,6 +2790,7 @@
   {
    "id": "cinema-1538497",
    "tmdb": 1538497,
+   "imdb": "tt38077943",
    "tipo": "cinema",
    "titulo": "Enfeitiçadas: Bem-vindos a Hexe",
    "original": "Hexed",
@@ -2720,6 +2818,7 @@
   {
    "id": "serie-244447",
    "tmdb": 244447,
+   "imdb": "tt31038430",
    "tipo": "serie",
    "titulo": "Casadas e Caçadoras",
    "original": "The Hunting Wives",
@@ -2753,6 +2852,7 @@
   {
    "id": "cinema-1564614",
    "tmdb": 1564614,
+   "imdb": "tt39143902",
    "tipo": "cinema",
    "titulo": "Leviticus: Ritual de Sangue",
    "original": "Leviticus",
@@ -2777,6 +2877,7 @@
   {
    "id": "serie-218347",
    "tmdb": 218347,
+   "imdb": "tt11218290",
    "tipo": "serie",
    "titulo": "Sweetpea",
    "original": null,
@@ -2811,6 +2912,7 @@
   {
    "id": "cinema-1720486",
    "tmdb": 1720486,
+   "imdb": "tt43621069",
    "tipo": "cinema",
    "titulo": "Lilo & Scratch",
    "original": null,
@@ -2837,6 +2939,7 @@
   {
    "id": "cinema-1376415",
    "tmdb": 1376415,
+   "imdb": "tt35495035",
    "tipo": "cinema",
    "titulo": "The Money Maker - O Falsificador",
    "original": "L'Affaire Bojarski",
@@ -2862,6 +2965,7 @@
   {
    "id": "cinema-1554956",
    "tmdb": 1554956,
+   "imdb": "tt36980182",
    "tipo": "cinema",
    "titulo": "O Intruso",
    "original": "The Incomer",
@@ -2886,6 +2990,7 @@
   {
    "id": "cinema-1074074",
    "tmdb": 1074074,
+   "imdb": "tt33451014",
    "tipo": "cinema",
    "titulo": "O Ser Querido",
    "original": "El ser querido",
@@ -2909,6 +3014,7 @@
   {
    "id": "cinema-1401334",
    "tmdb": 1401334,
+   "imdb": "tt34384168",
    "tipo": "cinema",
    "titulo": "Pecadora",
    "original": null,
@@ -2932,6 +3038,7 @@
   {
    "id": "cinema-1748001",
    "tmdb": 1748001,
+   "imdb": "tt50017070",
    "tipo": "cinema",
    "titulo": "Andrew Lloyd Webber’s Starlight Express - Live on Stage",
    "original": "Andrew Lloyd Webber's Starlight Express: Live On-Stage",
@@ -2955,6 +3062,7 @@
   {
    "id": "cinema-1172343",
    "tmdb": 1172343,
+   "imdb": "tt12683954",
    "tipo": "cinema",
    "titulo": "Deus Ainda É Brasileiro",
    "original": null,
@@ -2978,6 +3086,7 @@
   {
    "id": "cinema-1359504",
    "tmdb": 1359504,
+   "imdb": null,
    "tipo": "cinema",
    "titulo": "Kopenawa: Sonhar a Terra-Floresta",
    "original": null,
@@ -3001,6 +3110,7 @@
   {
    "id": "cinema-1493089",
    "tmdb": 1493089,
+   "imdb": "tt7677738",
    "tipo": "cinema",
    "titulo": "Yellow Cake",
    "original": null,
@@ -3026,6 +3136,7 @@
   {
    "id": "cinema-1541094",
    "tmdb": 1541094,
+   "imdb": "tt37543363",
    "tipo": "cinema",
    "titulo": "Dona Onete: Meu Coração Neste Pedacinho Aqui",
    "original": null,
@@ -3050,6 +3161,7 @@
   {
    "id": "cinema-1782040",
    "tmdb": 1782040,
+   "imdb": null,
    "tipo": "cinema",
    "titulo": "Bárbara não lhe Adora",
    "original": null,
@@ -3073,6 +3185,7 @@
   {
    "id": "cinema-1282173",
    "tmdb": 1282173,
+   "imdb": "tt28734505",
    "tipo": "cinema",
    "titulo": "Loucos Amores Líquidos",
    "original": null,
@@ -3097,6 +3210,7 @@
   {
    "id": "cinema-1767350",
    "tmdb": 1767350,
+   "imdb": null,
    "tipo": "cinema",
    "titulo": "Dona Onete: Meu Coração Neste Pedacinho Aqui",
    "original": null,
@@ -3120,6 +3234,7 @@
   {
    "id": "cinema-1757371",
    "tmdb": 1757371,
+   "imdb": "tt51057542",
    "tipo": "cinema",
    "titulo": "Alucinação",
    "original": null,
@@ -3143,6 +3258,7 @@
   {
    "id": "cinema-1452644",
    "tmdb": 1452644,
+   "imdb": null,
    "tipo": "cinema",
    "titulo": "Apenas 3 Meninas",
    "original": null,
@@ -3167,6 +3283,7 @@
   {
    "id": "filme-1831520",
    "tmdb": 1831520,
+   "imdb": null,
    "tipo": "filme",
    "titulo": "Ás de Ouros",
    "original": null,
@@ -3190,6 +3307,7 @@
   {
    "id": "cinema-1800849",
    "tmdb": 1800849,
+   "imdb": null,
    "tipo": "cinema",
    "titulo": "Os irmãos Segreto",
    "original": null,
@@ -3213,6 +3331,7 @@
   {
    "id": "cinema-1748668",
    "tmdb": 1748668,
+   "imdb": null,
    "tipo": "cinema",
    "titulo": "Retratos da Várzea",
    "original": null,
@@ -3236,6 +3355,7 @@
   {
    "id": "cinema-1842830",
    "tmdb": 1842830,
+   "imdb": null,
    "tipo": "cinema",
    "titulo": "A Pessoa Que Eu Sou",
    "original": null,
@@ -3259,6 +3379,7 @@
   {
    "id": "cinema-1842980",
    "tmdb": 1842980,
+   "imdb": null,
    "tipo": "cinema",
    "titulo": "Interessante e Obsceno",
    "original": null,
@@ -3283,6 +3404,7 @@
   {
    "id": "serie-387",
    "tmdb": 387,
+   "imdb": "tt0206512",
    "tipo": "serie",
    "titulo": "Bob Esponja",
    "original": "SpongeBob SquarePants",
@@ -3335,6 +3457,7 @@
   {
    "id": "serie-247085",
    "tmdb": 247085,
+   "imdb": "tt31867638",
    "tipo": "serie",
    "titulo": "O romance do meu irmão",
    "original": "연애남매",
@@ -3368,6 +3491,7 @@
   {
    "id": "filme-1480665",
    "tmdb": 1480665,
+   "imdb": "tt37267166",
    "tipo": "filme",
    "titulo": "Quasímodo: A Alma de Paris",
    "original": "Quasimodo, l'âme de Paris",
@@ -3392,6 +3516,7 @@
   {
    "id": "cinema-1694282",
    "tmdb": 1694282,
+   "imdb": null,
    "tipo": "cinema",
    "titulo": "Breve Eternidade",
    "original": null,
@@ -3415,6 +3540,7 @@
   {
    "id": "cinema-1841632",
    "tmdb": 1841632,
+   "imdb": null,
    "tipo": "cinema",
    "titulo": "Lua Rosa, 108",
    "original": null,
@@ -3438,6 +3564,7 @@
   {
    "id": "serie-100833",
    "tmdb": 100833,
+   "imdb": "tt11942052",
    "tipo": "serie",
    "titulo": "J-Style Trip",
    "original": "周遊記",
@@ -3474,6 +3601,7 @@
   {
    "id": "cinema-1550500",
    "tmdb": 1550500,
+   "imdb": "tt38456044",
    "tipo": "cinema",
    "titulo": "O Assassino do Boom",
    "original": null,
@@ -3498,6 +3626,7 @@
   {
    "id": "cinema-1758819",
    "tmdb": 1758819,
+   "imdb": null,
    "tipo": "cinema",
    "titulo": "HOPE - 希望",
    "original": null,
@@ -3522,6 +3651,7 @@
   {
    "id": "filme-1594516",
    "tmdb": 1594516,
+   "imdb": "tt39126701",
    "tipo": "filme",
    "titulo": "Um Desejo de Natal em Walt Disney World",
    "original": "Holiday Ever After: A Disney World Wish Come True",
@@ -3548,6 +3678,7 @@
   {
    "id": "cinema-1824086",
    "tmdb": 1824086,
+   "imdb": null,
    "tipo": "cinema",
    "titulo": "NMIXX 1st World Tour Live Viewing",
    "original": "NMIXX 1ST WORLD TOUR 〈EPISODE 1: ZERO FRONTIER〉 FINALE IN INCHEON LIVE VIEWING",
@@ -3571,6 +3702,7 @@
   {
    "id": "cinema-1842105",
    "tmdb": 1842105,
+   "imdb": null,
    "tipo": "cinema",
    "titulo": "Until The Trophy",
    "original": null,
@@ -3594,6 +3726,7 @@
   {
    "id": "serie-296395",
    "tmdb": 296395,
+   "imdb": "tt37517058",
    "tipo": "serie",
    "titulo": "Prêmio Multishow de Humor: O Reality",
    "original": null,
@@ -3626,6 +3759,7 @@
   {
    "id": "filme-1828930",
    "tmdb": 1828930,
+   "imdb": null,
    "tipo": "filme",
    "titulo": "Deixei Um Bilhete, Não Me Sigas",
    "original": null,
@@ -3650,6 +3784,7 @@
   {
    "id": "filme-1823940",
    "tmdb": 1823940,
+   "imdb": null,
    "tipo": "filme",
    "titulo": "O Sentimento da Queda",
    "original": null,
@@ -3673,6 +3808,7 @@
   {
    "id": "serie-130853",
    "tmdb": 130853,
+   "imdb": "tt15203646",
    "tipo": "serie",
    "titulo": "Bad Monkey",
    "original": null,
@@ -3706,6 +3842,7 @@
   {
    "id": "filme-1137888",
    "tmdb": 1137888,
+   "imdb": "tt16995302",
    "tipo": "filme",
    "titulo": "Missão Resgate de Natal",
    "original": "The Man with the Bag",
@@ -3732,6 +3869,7 @@
   {
    "id": "cinema-969681",
    "tmdb": 969681,
+   "imdb": "tt22084616",
    "tipo": "cinema",
    "titulo": "Homem-Aranha: Um Novo Dia",
    "original": "Spider-Man: Brand New Day",
@@ -3744,11 +3882,11 @@
     "Aventura"
    ],
    "nota": 8.5,
-   "votos": 7090,
+   "votos": 7099,
    "sinopse": "É um novo dia para Peter Parker. Combatendo o crime em tempo integral como Homem-Aranha em um mundo que não se lembra mais dele e lidando com a pressão de ver seus antigos amigos seguirem em frente sem sua presença, Peter passa por uma mudança que talvez nem ele tenha o poder de controlar. Mas essa transformação também pode ser a única coisa capaz de deter uma surpreendente nova ameaça à cidade e às pessoas que ele ama: um poderoso vilão que ninguém sequer consegue enxergar.",
    "poster": "/x0nvYzQpyJc5pdT9lMnkMuYAg0O.jpg",
    "trailer": "QrxivJMVCyU",
-   "popularidade": 296.3028,
+   "popularidade": 292.181,
    "plataformas": [],
    "justwatch": null,
    "duracao": 143,
@@ -3757,6 +3895,7 @@
   {
    "id": "cinema-693134",
    "tmdb": 693134,
+   "imdb": "tt15239678",
    "tipo": "cinema",
    "titulo": "Duna: Parte Dois",
    "original": "Dune: Part Two",
@@ -3781,6 +3920,7 @@
   {
    "id": "cinema-438631",
    "tmdb": 438631,
+   "imdb": "tt1160419",
    "tipo": "cinema",
    "titulo": "Duna",
    "original": "Dune",
@@ -3803,32 +3943,9 @@
    "classificacao": "14"
   },
   {
-   "id": "cinema-1476746",
-   "tmdb": 1476746,
-   "tipo": "cinema",
-   "titulo": "A Última Entrega",
-   "original": "The Florist",
-   "data": "2026-12-03",
-   "semana": "2026-w49",
-   "segunda": "2026-11-30",
-   "generos": [
-    "Ação",
-    "Thriller"
-   ],
-   "nota": 5.6,
-   "votos": 41,
-   "sinopse": "Um horticultor discreto, que secretamente é um assassino profissional, vê sua identidade ameaçada ao criar uma amizade inesperada com uma testemunha de corrupção policial.",
-   "poster": "/iVYJbqGrAgwPAcihayklVRd7ZMF.jpg",
-   "trailer": "LNmIdALXoKo",
-   "popularidade": 22.5558,
-   "plataformas": [],
-   "justwatch": null,
-   "duracao": 97,
-   "classificacao": "16"
-  },
-  {
    "id": "cinema-1379486",
    "tmdb": 1379486,
+   "imdb": "tt34374553",
    "tipo": "cinema",
    "titulo": "Psicopata Vitoriana",
    "original": "Victorian Psycho",
@@ -3851,8 +3968,34 @@
    "classificacao": "18"
   },
   {
+   "id": "cinema-1476746",
+   "tmdb": 1476746,
+   "imdb": "tt33214716",
+   "tipo": "cinema",
+   "titulo": "A Última Entrega",
+   "original": "The Florist",
+   "data": "2026-12-03",
+   "semana": "2026-w49",
+   "segunda": "2026-11-30",
+   "generos": [
+    "Ação",
+    "Thriller"
+   ],
+   "nota": 5.6,
+   "votos": 41,
+   "sinopse": "Um horticultor discreto, que secretamente é um assassino profissional, vê sua identidade ameaçada ao criar uma amizade inesperada com uma testemunha de corrupção policial.",
+   "poster": "/iVYJbqGrAgwPAcihayklVRd7ZMF.jpg",
+   "trailer": "LNmIdALXoKo",
+   "popularidade": 19.3068,
+   "plataformas": [],
+   "justwatch": null,
+   "duracao": 97,
+   "classificacao": "16"
+  },
+  {
    "id": "cinema-1078446",
    "tmdb": 1078446,
+   "imdb": "tt32432428",
    "tipo": "cinema",
    "titulo": "Noite Ainda Mais Infeliz",
    "original": "Violent Night 2",
@@ -3878,6 +4021,7 @@
   {
    "id": "serie-101352",
    "tmdb": 101352,
+   "imdb": "tt12004706",
    "tipo": "serie",
    "titulo": "Panchayat",
    "original": "पंचायत",
@@ -3911,6 +4055,7 @@
   {
    "id": "cinema-1452168",
    "tmdb": 1452168,
+   "imdb": "tt36415529",
    "tipo": "cinema",
    "titulo": "Behemoth! Uma Vida Composta em Peças",
    "original": "Behemoth!",
@@ -3935,6 +4080,7 @@
   {
    "id": "cinema-31767",
    "tmdb": 31767,
+   "imdb": "tt0066993",
    "tipo": "cinema",
    "titulo": "Os Demônios",
    "original": "The Devils",
@@ -3960,6 +4106,7 @@
   {
    "id": "cinema-1408207",
    "tmdb": 1408207,
+   "imdb": "tt34491649",
    "tipo": "cinema",
    "titulo": "O Nascimento de Cristo: ZERO D.C.",
    "original": "Zero A.D.: The Birth of Christ",
@@ -3984,6 +4131,7 @@
   {
    "id": "cinema-975335",
    "tmdb": 975335,
+   "imdb": "tt36456563",
    "tipo": "cinema",
    "titulo": "Fernão de Magalhães",
    "original": "Magalhães",
@@ -4009,6 +4157,7 @@
   {
    "id": "serie-226254",
    "tmdb": 226254,
+   "imdb": "tt36325058",
    "tipo": "serie",
    "titulo": "Pablo & Luisão",
    "original": null,
@@ -4042,6 +4191,7 @@
   {
    "id": "cinema-1154304",
    "tmdb": 1154304,
+   "imdb": "tt26530493",
    "tipo": "cinema",
    "titulo": "Búfalo Kids",
    "original": "Buffalo Kids",
@@ -4068,6 +4218,7 @@
   {
    "id": "cinema-1280405",
    "tmdb": 1280405,
+   "imdb": "tt31520900",
    "tipo": "cinema",
    "titulo": "Guardiões do Reino",
    "original": "องครักษ์พิทักษ์เจี๊ยบ",
@@ -4094,6 +4245,7 @@
   {
    "id": "cinema-464198",
    "tmdb": 464198,
+   "imdb": "tt0997083",
    "tipo": "cinema",
    "titulo": "One Piece: Rei do Futebol dos Sonhos",
    "original": "ONE PIECE 夢のサッカー王!",
@@ -4119,6 +4271,7 @@
   {
    "id": "filme-1801852",
    "tmdb": 1801852,
+   "imdb": "tt50901529",
    "tipo": "filme",
    "titulo": "A Rocha Encantada - Um Presente Especial",
    "original": "Fraggle Rock: A Holiday Gift",
@@ -4144,6 +4297,7 @@
   {
    "id": "cinema-1587351",
    "tmdb": 1587351,
+   "imdb": "tt40423349",
    "tipo": "cinema",
    "titulo": "Verão da Lata",
    "original": null,
@@ -4168,6 +4322,7 @@
   {
    "id": "cinema-464305",
    "tmdb": 464305,
+   "imdb": "tt1010434",
    "tipo": "cinema",
    "titulo": "Mire! O Rei do Beisebol Pirata",
    "original": "ワンピース めざせ!海賊野球王",
@@ -4193,6 +4348,7 @@
   {
    "id": "cinema-47011",
    "tmdb": 47011,
+   "imdb": "tt0176227",
    "tipo": "cinema",
    "titulo": "Tarkovsky: Tempo de Viagem",
    "original": "Tempo di viaggio",
@@ -4217,6 +4373,7 @@
   {
    "id": "cinema-1616523",
    "tmdb": 1616523,
+   "imdb": "tt39368536",
    "tipo": "cinema",
    "titulo": "Fiz um Foguete Imaginando Que Você Vinha",
    "original": null,
@@ -4241,6 +4398,7 @@
   {
    "id": "cinema-1747184",
    "tmdb": 1747184,
+   "imdb": "tt45142065",
    "tipo": "cinema",
    "titulo": "Viver é Melhor Que Sonhar",
    "original": null,
@@ -4264,6 +4422,7 @@
   {
    "id": "cinema-1288393",
    "tmdb": 1288393,
+   "imdb": "tt32615472",
    "tipo": "cinema",
    "titulo": "Clarice Vê Estrelas",
    "original": null,
@@ -4288,6 +4447,7 @@
   {
    "id": "filme-1780359",
    "tmdb": 1780359,
+   "imdb": "tt43732472",
    "tipo": "filme",
    "titulo": "Jão: Memórias Póstumas",
    "original": null,
@@ -4312,6 +4472,7 @@
   {
    "id": "cinema-1530944",
    "tmdb": 1530944,
+   "imdb": null,
    "tipo": "cinema",
    "titulo": "Uma em Mil",
    "original": null,
@@ -4335,6 +4496,7 @@
   {
    "id": "filme-1058424",
    "tmdb": 1058424,
+   "imdb": "tt27369017",
    "tipo": "filme",
    "titulo": "Hope: O Primeiro Impacto",
    "original": "호프",
@@ -4360,6 +4522,7 @@
   {
    "id": "serie-71026",
    "tmdb": 71026,
+   "imdb": "tt3600266",
    "tipo": "serie",
    "titulo": "Super Wings",
    "original": "출동! 슈퍼윙스",
@@ -4400,8 +4563,43 @@
    ]
   },
   {
+   "id": "serie-87017",
+   "tmdb": 87017,
+   "imdb": "tt9340526",
+   "tipo": "serie",
+   "titulo": "P-Valley",
+   "original": null,
+   "data": "2026-12-04",
+   "semana": "2026-w49",
+   "segunda": "2026-11-30",
+   "generos": [
+    "Drama",
+    "Crime"
+   ],
+   "nota": 7.6,
+   "votos": 256,
+   "sinopse": "Bem ao Sul, no Delta do Mississippi, fica um oásis de cor e dor em meio a um pedacinho de terra esquecido e carente de beleza.",
+   "poster": "/qAuKjGNbcwdhbpxSciak8BFjQ5F.jpg",
+   "trailer": null,
+   "popularidade": 15.3971,
+   "plataformas": [
+    {
+     "id": 2358,
+     "nome": "Lionsgate+ Amazon Channel",
+     "logo": "/1356slxu4QrHOMrEVDKHJXRo5sW.png",
+     "tipo": "assinatura"
+    }
+   ],
+   "justwatch": "https://www.themoviedb.org/tv/87017-p-valley/watch?locale=BR",
+   "temporada": 3,
+   "canais": [
+    "STARZ"
+   ]
+  },
+  {
    "id": "serie-157061",
    "tmdb": 157061,
+   "imdb": "tt14379784",
    "tipo": "serie",
    "titulo": "A Hora do Diabo",
    "original": "The Devil's Hour",
@@ -4436,6 +4634,7 @@
   {
    "id": "serie-87826",
    "tmdb": 87826,
+   "imdb": "tt9817298",
    "tipo": "serie",
    "titulo": "Sunset - Milha de Ouro",
    "original": "Selling Sunset",
@@ -4468,6 +4667,7 @@
   {
    "id": "serie-273801",
    "tmdb": 273801,
+   "imdb": "tt33745056",
    "tipo": "serie",
    "titulo": "Só Acontece na Flórida.",
    "original": "It's Florida, Man.",
@@ -4507,6 +4707,7 @@
   {
    "id": "filme-1833178",
    "tmdb": 1833178,
+   "imdb": "tt51618959",
    "tipo": "filme",
    "titulo": "Um Lobisomem Cineasta Brasileiro no México",
    "original": null,
@@ -4530,8 +4731,34 @@
    "classificacao": "L"
   },
   {
+   "id": "filme-1827776",
+   "tmdb": 1827776,
+   "imdb": null,
+   "tipo": "filme",
+   "titulo": "Submersos: O Drama de Famílias Atingidas",
+   "original": null,
+   "data": "2026-12-04",
+   "semana": "2026-w49",
+   "segunda": "2026-11-30",
+   "generos": [
+    "Documentário",
+    "Drama"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "Dois anos após as enchentes que atingiram o Rio Grande do Sul em maio de 2024, um grupo de jovens reencontra duas famílias que tiveram suas vidas profundamente marcadas pela tragédia. A partir de seus relatos, o documentário busca compreender como o acontecimento transformou suas vidas, quais marcas permaneceram ao longo do tempo e, principalmente, como o apoio familiar foi fundamental para enfrentar as dificuldades e reconstruir suas histórias.  Mais do que revisitar uma tragédia, o filme propõe um olhar sobre os laços familiares, a união e a importância de ter com quem contar nos momentos mais difíceis. Uma reflexão sobre as consequências de um acontecimento que não terminou quando as águas baixaram, mas também sobre a força encontrada dentro da própria família para seguir em frente.",
+   "poster": null,
+   "trailer": null,
+   "popularidade": 0.0199,
+   "plataformas": [],
+   "justwatch": null,
+   "duracao": 30,
+   "classificacao": "L"
+  },
+  {
    "id": "filme-1816983",
    "tmdb": 1816983,
+   "imdb": null,
    "tipo": "filme",
    "titulo": "Purgatório: Nascimento",
    "original": null,
@@ -4555,6 +4782,7 @@
   {
    "id": "serie-72748",
    "tmdb": 72748,
+   "imdb": "tt4276618",
    "tipo": "serie",
    "titulo": "C. B. Strike",
    "original": "Strike",
@@ -4595,6 +4823,7 @@
   {
    "id": "serie-107113",
    "tmdb": 107113,
+   "imdb": "tt11691774",
    "tipo": "serie",
    "titulo": "Only Murders in the Building",
    "original": null,
@@ -4629,6 +4858,7 @@
   {
    "id": "serie-64840",
    "tmdb": 64840,
+   "imdb": "tt5332206",
    "tipo": "serie",
    "titulo": "Signal",
    "original": "시그널",
@@ -4676,6 +4906,7 @@
   {
    "id": "filme-1400940",
    "tmdb": 1400940,
+   "imdb": "tt34890576",
    "tipo": "filme",
    "titulo": "Cara-de-Barro",
    "original": "Clayface",
@@ -4701,6 +4932,7 @@
   {
    "id": "serie-283579",
    "tmdb": 283579,
+   "imdb": "tt35704111",
    "tipo": "serie",
    "titulo": "Flores e Esperança",
    "original": "Tuiskoms",
@@ -4733,6 +4965,7 @@
   {
    "id": "serie-250670",
    "tmdb": 250670,
+   "imdb": "tt27792190",
    "tipo": "serie",
    "titulo": "Maxton Hall - O Mundo Entre Nós",
    "original": "Maxton Hall – Die Welt zwischen uns",
@@ -4765,6 +4998,7 @@
   {
    "id": "cinema-1739622",
    "tmdb": 1739622,
+   "imdb": null,
    "tipo": "cinema",
    "titulo": "Todos Os Meus Amigos Estão Vivendo Um Amor Adolescente",
    "original": null,
@@ -4789,6 +5023,7 @@
   {
    "id": "cinema-1691779",
    "tmdb": 1691779,
+   "imdb": null,
    "tipo": "cinema",
    "titulo": "Doc Cineclube da Boca",
    "original": null,
@@ -4813,6 +5048,7 @@
   {
    "id": "cinema-808",
    "tmdb": 808,
+   "imdb": "tt0126029",
    "tipo": "cinema",
    "titulo": "Shrek",
    "original": null,
@@ -4840,6 +5076,7 @@
   {
    "id": "cinema-11036",
    "tmdb": 11036,
+   "imdb": "tt0332280",
    "tipo": "cinema",
    "titulo": "Diário de uma Paixão",
    "original": "The Notebook",
@@ -4864,6 +5101,7 @@
   {
    "id": "cinema-615",
    "tmdb": 615,
+   "imdb": "tt0335345",
    "tipo": "cinema",
    "titulo": "A Paixão de Cristo",
    "original": "The Passion of the Christ",
@@ -4887,6 +5125,7 @@
   {
    "id": "cinema-1581",
    "tmdb": 1581,
+   "imdb": "tt0457939",
    "tipo": "cinema",
    "titulo": "O Amor Não Tira Férias",
    "original": "The Holiday",
@@ -4911,6 +5150,7 @@
   {
    "id": "cinema-509",
    "tmdb": 509,
+   "imdb": "tt0125439",
    "tipo": "cinema",
    "titulo": "Um Lugar Chamado Notting Hill",
    "original": "Notting Hill",
@@ -4935,6 +5175,7 @@
   {
    "id": "cinema-23446",
    "tmdb": 23446,
+   "imdb": "tt0832449",
    "tipo": "cinema",
    "titulo": "One Piece: Aventura na Ilha Espiral",
    "original": "ワンピース ねじまき島の冒険",
@@ -4960,6 +5201,7 @@
   {
    "id": "cinema-44725",
    "tmdb": 44725,
+   "imdb": "tt0997084",
    "tipo": "cinema",
    "titulo": "One Piece: O Reino de Chopper na Ilha dos Animais Estranhos",
    "original": "ワンピース 珍獣島のチョッパー王国",
@@ -4985,6 +5227,7 @@
   {
    "id": "serie-290388",
    "tmdb": 290388,
+   "imdb": "tt33989829",
    "tipo": "serie",
    "titulo": "Yolanthe",
    "original": "YOLANTHE",
@@ -5017,6 +5260,7 @@
   {
    "id": "cinema-1218412",
    "tmdb": 1218412,
+   "imdb": "tt33311007",
    "tipo": "cinema",
    "titulo": "Paraíso Prometido",
    "original": "Promis le ciel",
@@ -5040,6 +5284,7 @@
   {
    "id": "cinema-1397375",
    "tmdb": 1397375,
+   "imdb": "tt34905624",
    "tipo": "cinema",
    "titulo": "O Último Teimoso",
    "original": "La vita va così",
@@ -5064,6 +5309,7 @@
   {
    "id": "cinema-310534",
    "tmdb": 310534,
+   "imdb": "tt3096778",
    "tipo": "cinema",
    "titulo": "Cássia Eller",
    "original": "Cássia",
@@ -5088,6 +5334,7 @@
   {
    "id": "cinema-1542796",
    "tmdb": 1542796,
+   "imdb": "tt29513298",
    "tipo": "cinema",
    "titulo": "Ary",
    "original": null,
@@ -5111,6 +5358,7 @@
   {
    "id": "cinema-1256908",
    "tmdb": 1256908,
+   "imdb": null,
    "tipo": "cinema",
    "titulo": "O Delator",
    "original": null,
@@ -5134,6 +5382,7 @@
   {
    "id": "cinema-1477082",
    "tmdb": 1477082,
+   "imdb": "tt36959167",
    "tipo": "cinema",
    "titulo": "Para Vigo Me Voy!",
    "original": null,
@@ -5157,6 +5406,7 @@
   {
    "id": "cinema-1472651",
    "tmdb": 1472651,
+   "imdb": "tt46023404",
    "tipo": "cinema",
    "titulo": "Talismã",
    "original": null,
@@ -5181,6 +5431,7 @@
   {
    "id": "filme-1794645",
    "tmdb": 1794645,
+   "imdb": null,
    "tipo": "filme",
    "titulo": "Atividade Paranormal: Portal Para o Mundo Fatal",
    "original": null,
@@ -5205,6 +5456,7 @@
   {
    "id": "cinema-1506980",
    "tmdb": 1506980,
+   "imdb": null,
    "tipo": "cinema",
    "titulo": "Se a Maré te Trouxe, Fica",
    "original": null,
@@ -5230,6 +5482,7 @@
   {
    "id": "cinema-1802656",
    "tmdb": 1802656,
+   "imdb": null,
    "tipo": "cinema",
    "titulo": "O Rio É o Mesmo",
    "original": null,
@@ -5253,6 +5506,7 @@
   {
    "id": "filme-1709695",
    "tmdb": 1709695,
+   "imdb": null,
    "tipo": "filme",
    "titulo": "Túnel das Memórias",
    "original": null,
@@ -5276,6 +5530,7 @@
   {
    "id": "cinema-1170608",
    "tmdb": 1170608,
+   "imdb": "tt31378509",
    "tipo": "cinema",
    "titulo": "Duna: Parte Três",
    "original": "Dune: Part Three",
@@ -5300,6 +5555,7 @@
   {
    "id": "serie-76178",
    "tmdb": 76178,
+   "imdb": "tt7829834",
    "tipo": "serie",
    "titulo": "O Próximo Convidado Dispensa Apresentação com David Letterman",
    "original": "My Next Guest Needs No Introduction with David Letterman",
@@ -5333,6 +5589,7 @@
   {
    "id": "cinema-1770999",
    "tmdb": 1770999,
+   "imdb": null,
    "tipo": "cinema",
    "titulo": "Suspect: The Road Rage Killer",
    "original": null,
@@ -5358,6 +5615,7 @@
   {
    "id": "cinema-1795580",
    "tmdb": 1795580,
+   "imdb": null,
    "tipo": "cinema",
    "titulo": "SLEEPLESS",
    "original": "SLEEPLESS: A Music Film",
@@ -5383,6 +5641,7 @@
   {
    "id": "cinema-1003596",
    "tmdb": 1003596,
+   "imdb": "tt21357150",
    "tipo": "cinema",
    "titulo": "Vingadores: Doutor Destino",
    "original": "Avengers: Doomsday",
@@ -5408,6 +5667,7 @@
   {
    "id": "serie-249522",
    "tmdb": 249522,
+   "imdb": "tt31812476",
    "tipo": "serie",
    "titulo": "Beast Games",
    "original": null,
@@ -5440,6 +5700,7 @@
   {
    "id": "serie-230003",
    "tmdb": 230003,
+   "imdb": "tt28288478",
    "tipo": "serie",
    "titulo": "O Ringue",
    "original": "La Cage",
@@ -5473,6 +5734,7 @@
   {
    "id": "filme-1760714",
    "tmdb": 1760714,
+   "imdb": null,
    "tipo": "filme",
    "titulo": "Os Crentes",
    "original": null,
@@ -5497,6 +5759,7 @@
   {
    "id": "cinema-1437981",
    "tmdb": 1437981,
+   "imdb": "tt39328391",
    "tipo": "cinema",
    "titulo": "Covarde",
    "original": "Les Braves",
@@ -5522,6 +5785,7 @@
   {
    "id": "serie-238108",
    "tmdb": 238108,
+   "imdb": "tt21908964",
    "tipo": "serie",
    "titulo": "Call Me Bae",
    "original": null,
@@ -5555,6 +5819,7 @@
   {
    "id": "cinema-1420851",
    "tmdb": 1420851,
+   "imdb": null,
    "tipo": "cinema",
    "titulo": "8 Segundos: O Desafio",
    "original": null,
@@ -5579,6 +5844,7 @@
   {
    "id": "cinema-1817963",
    "tmdb": 1817963,
+   "imdb": null,
    "tipo": "cinema",
    "titulo": "Malu Tatu",
    "original": null,
@@ -5602,6 +5868,7 @@
   {
    "id": "filme-1780133",
    "tmdb": 1780133,
+   "imdb": null,
    "tipo": "filme",
    "titulo": "nois",
    "original": null,
@@ -5626,6 +5893,7 @@
   {
    "id": "cinema-1398369",
    "tmdb": 1398369,
+   "imdb": "tt33428316",
    "tipo": "cinema",
    "titulo": "Filhas da Noite",
    "original": null,
@@ -5649,6 +5917,7 @@
   {
    "id": "filme-940009",
    "tmdb": 940009,
+   "imdb": "tt18270542",
    "tipo": "filme",
    "titulo": "Ray Gunn",
    "original": null,
@@ -5675,6 +5944,7 @@
   {
    "id": "filme-1749065",
    "tmdb": 1749065,
+   "imdb": null,
    "tipo": "filme",
    "titulo": "Meta(fora)ndo",
    "original": null,
@@ -5699,6 +5969,7 @@
   {
    "id": "filme-1825852",
    "tmdb": 1825852,
+   "imdb": null,
    "tipo": "filme",
    "titulo": "Festival Gorilla",
    "original": null,
@@ -5720,6 +5991,7 @@
   {
    "id": "filme-1457866",
    "tmdb": 1457866,
+   "imdb": "tt36408401",
    "tipo": "filme",
    "titulo": "As Novas Desventuras de Cliff Booth",
    "original": "THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH",
@@ -5745,6 +6017,7 @@
   {
    "id": "serie-82596",
    "tmdb": 82596,
+   "imdb": "tt8962124",
    "tipo": "serie",
    "titulo": "Emily em Paris",
    "original": "Emily in Paris",
@@ -5778,6 +6051,7 @@
   {
    "id": "cinema-1216052",
    "tmdb": 1216052,
+   "imdb": "tt33513652",
    "tipo": "cinema",
    "titulo": "Oceânico",
    "original": null,
@@ -5802,6 +6076,7 @@
   {
    "id": "cinema-1324893",
    "tmdb": 1324893,
+   "imdb": null,
    "tipo": "cinema",
    "titulo": "Cinco Júlias",
    "original": null,
@@ -5823,6 +6098,7 @@
   {
    "id": "serie-224021",
    "tmdb": 224021,
+   "imdb": "tt23664162",
    "tipo": "serie",
    "titulo": "Os Assassinatos de Åre",
    "original": "Åremorden",
@@ -5857,6 +6133,7 @@
   {
    "id": "serie-339979",
    "tmdb": 339979,
+   "imdb": null,
    "tipo": "serie",
    "titulo": "Fixer Upper: Chip Bought a Mansion",
    "original": null,
@@ -5887,6 +6164,7 @@
   {
    "id": "serie-293691",
    "tmdb": 293691,
+   "imdb": "tt32810392",
    "tipo": "serie",
    "titulo": "Uma Noite em Idaho: Os Assassinatos na Faculdade",
    "original": "One Night in Idaho",
@@ -5919,6 +6197,7 @@
   {
    "id": "serie-207863",
    "tmdb": 207863,
+   "imdb": "tt15428778",
    "tipo": "serie",
    "titulo": "As Bruxas Mayfair de Anne Rice",
    "original": "Mayfair Witches",
@@ -5958,6 +6237,7 @@
   {
    "id": "filme-1816371",
    "tmdb": 1816371,
+   "imdb": null,
    "tipo": "filme",
    "titulo": "Vai piorar muito antes de melhorar",
    "original": null,
@@ -5981,6 +6261,7 @@
   {
    "id": "cinema-1443069",
    "tmdb": 1443069,
+   "imdb": null,
    "tipo": "cinema",
    "titulo": "3xHelô",
    "original": null,
@@ -6004,6 +6285,7 @@
   {
    "id": "cinema-1591027",
    "tmdb": 1591027,
+   "imdb": null,
    "tipo": "cinema",
    "titulo": "Tadaima",
    "original": null,
@@ -6025,6 +6307,7 @@
   {
    "id": "cinema-1300926",
    "tmdb": 1300926,
+   "imdb": "tt32557122",
    "tipo": "cinema",
    "titulo": "Angry Birds 3: O Filme",
    "original": "The Angry Birds Movie 3",
@@ -6051,6 +6334,7 @@
   {
    "id": "serie-243200",
    "tmdb": 243200,
+   "imdb": "tt30817086",
    "tipo": "serie",
    "titulo": "Animal",
    "original": null,
@@ -6083,6 +6367,7 @@
   {
    "id": "serie-217745",
    "tmdb": 217745,
+   "imdb": "tt23058150",
    "tipo": "serie",
    "titulo": "LOL : Qui rira le dernier ?",
    "original": null,
@@ -6116,6 +6401,7 @@
   {
    "id": "cinema-1280623",
    "tmdb": 1280623,
+   "imdb": "tt32219564",
    "tipo": "cinema",
    "titulo": "A Morte Não Se Farta",
    "original": null,
@@ -6141,6 +6427,7 @@
   {
    "id": "cinema-1839262",
    "tmdb": 1839262,
+   "imdb": null,
    "tipo": "cinema",
    "titulo": "Vinho Seco",
    "original": null,
@@ -6165,6 +6452,7 @@
   {
    "id": "cinema-1470173",
    "tmdb": 1470173,
+   "imdb": "tt37439209",
    "tipo": "cinema",
    "titulo": "Homens mortos não contam histórias",
    "original": null,
@@ -6188,6 +6476,7 @@
   {
    "id": "serie-338239",
    "tmdb": 338239,
+   "imdb": null,
    "tipo": "serie",
    "titulo": "Bad Blood",
    "original": null,
@@ -6216,6 +6505,7 @@
   {
    "id": "cinema-1701996",
    "tmdb": 1701996,
+   "imdb": null,
    "tipo": "cinema",
    "titulo": "Quando a Noite Brilha",
    "original": null,
@@ -6240,6 +6530,7 @@
   {
    "id": "serie-61865",
    "tmdb": 61865,
+   "imdb": "tt2874692",
    "tipo": "serie",
    "titulo": "Quando Chama o Coração",
    "original": "When Calls the Heart",
@@ -6273,6 +6564,7 @@
   {
    "id": "serie-208569",
    "tmdb": 208569,
+   "imdb": "tt17543592",
    "tipo": "serie",
    "titulo": "Will Trent: Agente Especial",
    "original": "Will Trent",
@@ -6313,6 +6605,7 @@
   {
    "id": "serie-226637",
    "tmdb": 226637,
+   "imdb": "tt22091076",
    "tipo": "serie",
    "titulo": "Uma Mente Excepcional",
    "original": "High Potential",
@@ -6345,8 +6638,42 @@
    ]
   },
   {
+   "id": "serie-61581",
+   "tmdb": 61581,
+   "imdb": "tt2343157",
+   "tipo": "serie",
+   "titulo": "Vanderpump Rules",
+   "original": null,
+   "data": "2027-01-05",
+   "semana": "2027-w01",
+   "segunda": "2027-01-04",
+   "generos": [
+    "Reality"
+   ],
+   "nota": 6.2,
+   "votos": 51,
+   "sinopse": "A equipe do SUR celebra o Orgulho Gay com um carro alegórico chamativo; Jax quer colocar seu relacionamento com Stassi de volta no eixo, mas seu comportamento inadequado uma festa de aniversário pode ser a gota d'água.",
+   "poster": "/qovZ9pIWArGLTOguUFIWPccErqW.jpg",
+   "trailer": "vxuvhsip7W4",
+   "popularidade": 24.1445,
+   "plataformas": [
+    {
+     "id": 1889,
+     "nome": "Universal+ Amazon Channel",
+     "logo": "/j3Q750FwRyIejO5MrNu25Kia57.png",
+     "tipo": "assinatura"
+    }
+   ],
+   "justwatch": "https://www.themoviedb.org/tv/61581-vanderpump-rules/watch?locale=BR",
+   "temporada": 13,
+   "canais": [
+    "Bravo"
+   ]
+  },
+  {
    "id": "serie-79744",
    "tmdb": 79744,
+   "imdb": "tt7587890",
    "tipo": "serie",
    "titulo": "O Novato",
    "original": "The Rookie",
@@ -6399,6 +6726,7 @@
   {
    "id": "serie-260471",
    "tmdb": 260471,
+   "imdb": "tt31614348",
    "tipo": "serie",
    "titulo": "Reparos em Família",
    "original": "Shifting Gears",
@@ -6431,6 +6759,7 @@
   {
    "id": "cinema-1381273",
    "tmdb": 1381273,
+   "imdb": "tt34385689",
    "tipo": "cinema",
    "titulo": "Tigre de Papel",
    "original": "Paper Tiger",
@@ -6456,6 +6785,7 @@
   {
    "id": "cinema-1260649",
    "tmdb": 1260649,
+   "imdb": "tt26735127",
    "tipo": "cinema",
    "titulo": "Jumanji: Mundo Real",
    "original": "Jumanji: Open World",
@@ -6481,6 +6811,7 @@
   {
    "id": "cinema-1021848",
    "tmdb": 1021848,
+   "imdb": "tt27541205",
    "tipo": "cinema",
    "titulo": "Rainha ao Mar",
    "original": "Queen at Sea",
@@ -6504,6 +6835,7 @@
   {
    "id": "cinema-1454680",
    "tmdb": 1454680,
+   "imdb": "tt39149806",
    "tipo": "cinema",
    "titulo": "Victor, como Hugo",
    "original": "Victor comme tout le monde",
@@ -6528,6 +6860,7 @@
   {
    "id": "cinema-587357",
    "tmdb": 587357,
+   "imdb": "tt33996352",
    "tipo": "cinema",
    "titulo": "Senhorita Moxy",
    "original": "Miss Moxy",
@@ -6554,6 +6887,7 @@
   {
    "id": "serie-307913",
    "tmdb": 307913,
+   "imdb": "tt39093331",
    "tipo": "serie",
    "titulo": "Canadá Shore",
    "original": "Canada Shore",
@@ -6586,6 +6920,7 @@
   {
    "id": "cinema-1405205",
    "tmdb": 1405205,
+   "imdb": "tt33037670",
    "tipo": "cinema",
    "titulo": "A Margem do Rio",
    "original": null,
@@ -6609,6 +6944,7 @@
   {
    "id": "filme-1532610",
    "tmdb": 1532610,
+   "imdb": "tt37967547",
    "tipo": "filme",
    "titulo": "Ink",
    "original": null,
@@ -6633,6 +6969,7 @@
   {
    "id": "serie-278639",
    "tmdb": 278639,
+   "imdb": "tt34877015",
    "tipo": "serie",
    "titulo": "Zona de Sobrevivência",
    "original": "Extracted",
@@ -6665,6 +7002,7 @@
   {
    "id": "serie-297438",
    "tmdb": 297438,
+   "imdb": "tt38797595",
    "tipo": "serie",
    "titulo": "Akane-banashi",
    "original": "あかね噺",
@@ -6680,7 +7018,7 @@
    "sinopse": "Akane Osaki, fascinada desde a infância pelas performances mágicas de seu pai, Shinta Arakawa, testemunha um incidente chocante durante sua apresentação decisiva para a promoção a Shin’uchi (nível de mestre). Seis anos depois, agora estudante do ensino médio, ela estabelece como meta tornar-se uma Shin’uchi, avançando no mundo altamente competitivo do rakugo.",
    "poster": "/ix3Jv1p9IOHkssYO5uct86aMJ1q.jpg",
    "trailer": "PZJAOQ-7iJ8",
-   "popularidade": 17.5137,
+   "popularidade": 18.4937,
    "plataformas": [
     {
      "id": 8,
@@ -6720,6 +7058,7 @@
   {
    "id": "serie-238843",
    "tmdb": 238843,
+   "imdb": "tt28329410",
    "tipo": "serie",
    "titulo": "The Fable",
    "original": "ザ・ファブル",
@@ -6755,6 +7094,7 @@
   {
    "id": "serie-19653",
    "tmdb": 19653,
+   "imdb": "tt0315288",
    "tipo": "serie",
    "titulo": "Big Brother Brasil",
    "original": null,
@@ -6787,6 +7127,7 @@
   {
    "id": "serie-108545",
    "tmdb": 108545,
+   "imdb": "tt13016388",
    "tipo": "serie",
    "titulo": "O Problema dos 3 Corpos",
    "original": "3 Body Problem",
@@ -6821,6 +7162,7 @@
   {
    "id": "cinema-1084409",
    "tmdb": 1084409,
+   "imdb": "tt14129116",
    "tipo": "cinema",
    "titulo": "Como Nasce um Assassino",
    "original": "A Talent for Murder",
@@ -6846,6 +7188,7 @@
   {
    "id": "serie-215943",
    "tmdb": 215943,
+   "imdb": "tt15557874",
    "tipo": "serie",
    "titulo": "The Traitors",
    "original": null,
@@ -6879,6 +7222,7 @@
   {
    "id": "cinema-1440769",
    "tmdb": 1440769,
+   "imdb": "tt35935357",
    "tipo": "cinema",
    "titulo": "Beekeeper 2: Sem Perdão",
    "original": "The Beekeeper 2",
@@ -6904,6 +7248,7 @@
   {
    "id": "cinema-1599230",
    "tmdb": 1599230,
+   "imdb": "tt37363222",
    "tipo": "cinema",
    "titulo": "Elsinore",
    "original": null,
@@ -6927,6 +7272,7 @@
   {
    "id": "cinema-621304",
    "tmdb": 621304,
+   "imdb": "tt6779038",
    "tipo": "cinema",
    "titulo": "Filhos de Sangue e Osso",
    "original": "Children of Blood and Bone",
@@ -6951,6 +7297,7 @@
   {
    "id": "serie-326367",
    "tmdb": 326367,
+   "imdb": "tt40914930",
    "tipo": "serie",
    "titulo": "अलायन्स",
    "original": null,
@@ -6983,6 +7330,7 @@
   {
    "id": "cinema-1520592",
    "tmdb": 1520592,
+   "imdb": "tt33085567",
    "tipo": "cinema",
    "titulo": "River - Morte Sem Rosto",
    "original": "River",
@@ -7007,6 +7355,7 @@
   {
    "id": "cinema-1364953",
    "tmdb": 1364953,
+   "imdb": "tt15284556",
    "tipo": "cinema",
    "titulo": "Marama: A Herança do Mal",
    "original": "Mārama",
@@ -7032,6 +7381,7 @@
   {
    "id": "cinema-1433164",
    "tmdb": 1433164,
+   "imdb": "tt32558909",
    "tipo": "cinema",
    "titulo": "Minha Vida com Shurastey",
    "original": null,
@@ -7056,6 +7406,7 @@
   {
    "id": "cinema-1469522",
    "tmdb": 1469522,
+   "imdb": null,
    "tipo": "cinema",
    "titulo": "Álibi",
    "original": null,
@@ -7079,6 +7430,7 @@
   {
    "id": "serie-97951",
    "tmdb": 97951,
+   "imdb": "tt11712058",
    "tipo": "serie",
    "titulo": "O Dono de Kingstown",
    "original": "Mayor of Kingstown",
@@ -7118,6 +7470,7 @@
   {
    "id": "serie-246929",
    "tmdb": 246929,
+   "imdb": "tt31418326",
    "tipo": "serie",
    "titulo": "Your Majesty",
    "original": "Su majestad",
@@ -7150,6 +7503,7 @@
   {
    "id": "cinema-1684188",
    "tmdb": 1684188,
+   "imdb": "tt40056134",
    "tipo": "cinema",
    "titulo": "Eu, a Kombi e a Garotinha que Encontrei no Meio do Caminho",
    "original": null,
@@ -7169,6 +7523,2859 @@
    "justwatch": null,
    "duracao": null,
    "classificacao": "L"
+  },
+  {
+   "id": "serie-114461",
+   "tmdb": 114461,
+   "imdb": "tt13622776",
+   "tipo": "serie",
+   "titulo": "Ahsoka",
+   "original": null,
+   "data": "2027-01-19",
+   "semana": "2027-w03",
+   "segunda": "2027-01-18",
+   "generos": [
+    "Sci-Fi & Fantasy",
+    "Action & Adventure",
+    "Drama",
+    "War & Politics"
+   ],
+   "nota": 7.4,
+   "votos": 1371,
+   "sinopse": "Situada após a queda do Império, a série segue a ex-cavaleira Jedi Ahsoka Tano enquanto ela investiga uma ameaça emergente a uma galáxia vulnerável.",
+   "poster": "/eiJeWeCAEZAmRppnXHiTWDcCd3Q.jpg",
+   "trailer": "Z6nx8IPg8_Y",
+   "popularidade": 18.2829,
+   "plataformas": [
+    {
+     "id": 337,
+     "nome": "Disney Plus",
+     "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+     "tipo": "assinatura"
+    }
+   ],
+   "justwatch": "https://www.themoviedb.org/tv/114461-ahsoka/watch?locale=BR",
+   "temporada": 2,
+   "canais": [
+    "Disney+"
+   ]
+  },
+  {
+   "id": "serie-225180",
+   "tmdb": 225180,
+   "imdb": "tt13309742",
+   "tipo": "serie",
+   "titulo": "Samurai de Olhos Azuis",
+   "original": "BLUE EYE SAMURAI",
+   "data": "2027-01-19",
+   "semana": "2027-w03",
+   "segunda": "2027-01-18",
+   "generos": [
+    "Action & Adventure",
+    "Animação"
+   ],
+   "nota": 8.5,
+   "votos": 897,
+   "sinopse": "Movida pelo sonho de vingança contra as pessoas que a transformaram em excluída no Japão do período Edo, uma jovem guerreira decide trilhar um caminho sangrento.",
+   "poster": "/kgRZ9g4fnDRToxrUsWqEyCW4wbV.jpg",
+   "trailer": "3ciOn_4XFfE",
+   "popularidade": 13.0198,
+   "plataformas": [
+    {
+     "id": 8,
+     "nome": "Netflix",
+     "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "tipo": "assinatura"
+    }
+   ],
+   "justwatch": "https://www.themoviedb.org/tv/225180-blue-eye-samurai/watch?locale=BR",
+   "temporada": 2,
+   "canais": [
+    "Netflix"
+   ]
+  },
+  {
+   "id": "cinema-1719552",
+   "tmdb": 1719552,
+   "imdb": "tt43614363",
+   "tipo": "cinema",
+   "titulo": "JLI JIS",
+   "original": null,
+   "data": "2027-01-19",
+   "semana": "2027-w03",
+   "segunda": "2027-01-18",
+   "generos": [
+    "Drama",
+    "Documentário"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "JLI JIS é um curta-metragem filmado em áreas do interior da Paraíba.",
+   "poster": "/hKTrKAzyxJ1N9JjNZgNRsxQSs1Z.jpg",
+   "trailer": null,
+   "popularidade": 0.0713,
+   "plataformas": [],
+   "justwatch": null,
+   "duracao": null,
+   "classificacao": "16"
+  },
+  {
+   "id": "cinema-1422041",
+   "tmdb": 1422041,
+   "imdb": "tt35511966",
+   "tipo": "cinema",
+   "titulo": "A Bola Preta",
+   "original": "La bola negra",
+   "data": "2027-01-21",
+   "semana": "2027-w03",
+   "segunda": "2027-01-18",
+   "generos": [
+    "Drama",
+    "Guerra"
+   ],
+   "nota": 7.9,
+   "votos": 261,
+   "sinopse": "As histórias de três homens cujas vidas estão intimamente ligadas pelo desejo, pela dor e pela herança, ao longo de três épocas diferentes: 1932, 1937 e 2017.",
+   "poster": "/66Pj7O90qWce4pYZYKriVkFNcOS.jpg",
+   "trailer": "lBVxKt0gKDY",
+   "popularidade": 94.7194,
+   "plataformas": [],
+   "justwatch": null,
+   "duracao": 155,
+   "classificacao": "16"
+  },
+  {
+   "id": "serie-226174",
+   "tmdb": 226174,
+   "imdb": "tt26591147",
+   "tipo": "serie",
+   "titulo": "Matlock: Uma Advogada Improvável",
+   "original": "Matlock",
+   "data": "2027-01-21",
+   "semana": "2027-w03",
+   "segunda": "2027-01-18",
+   "generos": [
+    "Drama",
+    "Crime"
+   ],
+   "nota": 6.9,
+   "votos": 172,
+   "sinopse": "Madeline Matlock volta a trabalhar em um prestigiado escritório de advocacia, onde usa suas táticas astutas para ganhar casos e expor irregularidades.",
+   "poster": "/7tu7z99YjfLzF9u1SJV6ia87fFp.jpg",
+   "trailer": "-StZwoYw2fg",
+   "popularidade": 30.2389,
+   "plataformas": [
+    {
+     "id": 307,
+     "nome": "Globoplay",
+     "logo": "/9A6Oxd3F7iXm7mds7CxYOBicojs.png",
+     "tipo": "assinatura"
+    }
+   ],
+   "justwatch": "https://www.themoviedb.org/tv/226174-matlock/watch?locale=BR",
+   "temporada": 3,
+   "canais": [
+    "CBS"
+   ]
+  },
+  {
+   "id": "serie-117581",
+   "tmdb": 117581,
+   "imdb": "tt10813940",
+   "tipo": "serie",
+   "titulo": "Ginny e Georgia",
+   "original": "Ginny & Georgia",
+   "data": "2027-01-21",
+   "semana": "2027-w03",
+   "segunda": "2027-01-18",
+   "generos": [
+    "Comédia",
+    "Drama"
+   ],
+   "nota": 8,
+   "votos": 1848,
+   "sinopse": "Em busca de uma nova chance, Georgia leva os filhos Ginny e Austin para morar em outra cidade. Só que recomeçar do zero não é tão simples assim.",
+   "poster": "/uKval7QmEozy7R05FEvE3H9Qice.jpg",
+   "trailer": "T-tsnIjKV58",
+   "popularidade": 19.849,
+   "plataformas": [
+    {
+     "id": 8,
+     "nome": "Netflix",
+     "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "tipo": "assinatura"
+    }
+   ],
+   "justwatch": "https://www.themoviedb.org/tv/117581-ginny-georgia/watch?locale=BR",
+   "temporada": 4,
+   "canais": [
+    "Netflix"
+   ]
+  },
+  {
+   "id": "cinema-1461490",
+   "tmdb": 1461490,
+   "imdb": "tt17055444",
+   "tipo": "cinema",
+   "titulo": "Hershey",
+   "original": null,
+   "data": "2027-01-21",
+   "semana": "2027-w03",
+   "segunda": "2027-01-18",
+   "generos": [
+    "Drama",
+    "História",
+    "Romance"
+   ],
+   "nota": 9.3,
+   "votos": 3,
+   "sinopse": "A história real de Milton e Kitty Hershey, que, diante de uma tragédia, decidem deixar sua fortuna acumulada através de chocolates nas mãos de crianças.",
+   "poster": "/ojd8Gu2bPsOzdMz6Ip5AYDu4Vki.jpg",
+   "trailer": "NsHJw58wWRg",
+   "popularidade": 17.355,
+   "plataformas": [],
+   "justwatch": null,
+   "duracao": 110,
+   "classificacao": null
+  },
+  {
+   "id": "cinema-1492198",
+   "tmdb": 1492198,
+   "imdb": "tt37171180",
+   "tipo": "cinema",
+   "titulo": "Artificial",
+   "original": null,
+   "data": "2027-01-21",
+   "semana": "2027-w03",
+   "segunda": "2027-01-18",
+   "generos": [
+    "História",
+    "Drama",
+    "Comédia"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "Acompanhe a ascensão da OpenAI e a corrida tecnológica em torno da inteligência artificial ao longo de duas décadas. Após um avanço revolucionário do cientista Ilya Sutskever e do pioneiro Geoffrey Hinton atrair a elite do Vale do Silício, Ilya se une a Sam Altman, Elon Musk e Mira Murati para fundar a empresa. Quando a IA generativa se torna uma realidade poderosa e valiosa, Ilya precisa decidir em quem confiar o controle dessa tecnologia, travando uma batalha decisiva pelo futuro da humanidade.",
+   "poster": "/4QmPINfCQiUKnpi2ZJrpQGmMVY4.jpg",
+   "trailer": "ufeJbTNq-BI",
+   "popularidade": 16.6649,
+   "plataformas": [],
+   "justwatch": null,
+   "duracao": 141,
+   "classificacao": "12"
+  },
+  {
+   "id": "cinema-1336166",
+   "tmdb": 1336166,
+   "imdb": "tt33184695",
+   "tipo": "cinema",
+   "titulo": "Rolling Loud: Um Festival de Problemas",
+   "original": "Rolling Loud: The Movie",
+   "data": "2027-01-21",
+   "semana": "2027-w03",
+   "segunda": "2027-01-18",
+   "generos": [
+    "Comédia"
+   ],
+   "nota": 8.1,
+   "votos": 6,
+   "sinopse": "Um pai toma uma decisão errônea ao levar seu filho a um festival de hip-hop, o que provoca o caos entre a multidão, a segurança e a dinâmica familiar com os excêntricos companheiros.",
+   "poster": "/sZO7LHrza8exExg6hBqdCV5ePCA.jpg",
+   "trailer": "o_pIiP1A0RY",
+   "popularidade": 16.6391,
+   "plataformas": [],
+   "justwatch": null,
+   "duracao": 95,
+   "classificacao": null
+  },
+  {
+   "id": "cinema-1421903",
+   "tmdb": 1421903,
+   "imdb": "tt35514120",
+   "tipo": "cinema",
+   "titulo": "Lobis-Homem",
+   "original": "Werwulf",
+   "data": "2027-01-21",
+   "semana": "2027-w03",
+   "segunda": "2027-01-18",
+   "generos": [
+    "Terror",
+    "Fantasia"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "Na Inglaterra medieval do século XIII, um homem enfrenta uma transformação corporal em lobisomem, lidando com as consequências sobrenaturais e os perigos da época.",
+   "poster": "/qAvCgWOCzBGnhHIEkaWBSxhEEEk.jpg",
+   "trailer": "CL1EFACsWag",
+   "popularidade": 10.5691,
+   "plataformas": [],
+   "justwatch": null,
+   "duracao": 120,
+   "classificacao": "18"
+  },
+  {
+   "id": "cinema-1476614",
+   "tmdb": 1476614,
+   "imdb": "tt36834996",
+   "tipo": "cinema",
+   "titulo": "O Sentido da Vida",
+   "original": "急に具合が悪くなる",
+   "data": "2027-01-21",
+   "semana": "2027-w03",
+   "segunda": "2027-01-18",
+   "generos": [
+    "Drama"
+   ],
+   "nota": 7.8,
+   "votos": 84,
+   "sinopse": "Diretora de uma instituição de cuidados para idosos, Marie-Lou se esforça para introduzir uma filosofia de atendimento baseada na escuta e no respeito à dignidade dos residentes, apesar da resistência de parte de sua equipe. Seu encontro com Mari, uma diretora de teatro japonesa que luta contra o câncer, altera profundamente seu caminho. Ao formarem uma amizade profunda e de apoio mútuo, as duas unem forças em uma luta para tornar o impossível possível.",
+   "poster": "/gniQjGg0LaLaiWQOqxdVJkMH0Jx.jpg",
+   "trailer": "2AxtdPvDojA",
+   "popularidade": 8.9064,
+   "plataformas": [],
+   "justwatch": null,
+   "duracao": 196,
+   "classificacao": "L"
+  },
+  {
+   "id": "cinema-1084728",
+   "tmdb": 1084728,
+   "imdb": "tt32243339",
+   "tipo": "cinema",
+   "titulo": "Asterix: O Reino da Nubia",
+   "original": "Astérix - Le Royaume de Nubie",
+   "data": "2027-01-21",
+   "semana": "2027-w03",
+   "segunda": "2027-01-18",
+   "generos": [
+    "Animação",
+    "Aventura",
+    "Comédia",
+    "Família",
+    "Fantasia"
+   ],
+   "nota": 4.8,
+   "votos": 2,
+   "sinopse": "A tranquilidade da aldeia de Asterix e Obelix chega ao fim quando, por acidente, uma poção misteriosa transforma todos os moradores em crianças! Com os romanos prontos para atacar, a dupla parte em uma missão até o distante Reino da Núbia em busca de um ingrediente raro, o único capaz de desfazer essa transformação.",
+   "poster": "/uI9U22lV7R5OstzO6QPFgphgO1S.jpg",
+   "trailer": "JaRX_L9nlaQ",
+   "popularidade": 5.4615,
+   "plataformas": [],
+   "justwatch": null,
+   "duracao": 86,
+   "classificacao": null
+  },
+  {
+   "id": "cinema-1115030",
+   "tmdb": 1115030,
+   "imdb": "tt16911616",
+   "tipo": "cinema",
+   "titulo": "Animal Friends",
+   "original": null,
+   "data": "2027-01-21",
+   "semana": "2027-w03",
+   "segunda": "2027-01-18",
+   "generos": [
+    "Comédia",
+    "Aventura",
+    "Animação"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "A história da inesperada amizade entre dois animais.",
+   "poster": "/AfJldsj8a42yeg9Ued3MdgbfWnC.jpg",
+   "trailer": null,
+   "popularidade": 2.3722,
+   "plataformas": [],
+   "justwatch": null,
+   "duracao": null,
+   "classificacao": null
+  },
+  {
+   "id": "cinema-1530193",
+   "tmdb": 1530193,
+   "imdb": "tt39602467",
+   "tipo": "cinema",
+   "titulo": "Um Homem Perdido",
+   "original": "Der verlorene Mann",
+   "data": "2027-01-21",
+   "semana": "2027-w03",
+   "segunda": "2027-01-18",
+   "generos": [
+    "Drama"
+   ],
+   "nota": 6.2,
+   "votos": 4,
+   "sinopse": "A artista Hanne e o pastor aposentado Bernd vivem um casamento feliz que acomodou-se em uma rotina confortável, quando o ex-marido de Hanne, Kurt, surge inesperadamente à sua porta. Devido à demência, Kurt já não se lembra de que ele e Hanne estão divorciados há 20 anos.",
+   "poster": "/6IL3A66mtC0Xy1eVqxENqAcWgPe.jpg",
+   "trailer": null,
+   "popularidade": 0.804,
+   "plataformas": [],
+   "justwatch": null,
+   "duracao": 102,
+   "classificacao": null
+  },
+  {
+   "id": "cinema-1508855",
+   "tmdb": 1508855,
+   "imdb": "tt34737700",
+   "tipo": "cinema",
+   "titulo": "Nosso Lar 3: Vida Eterna",
+   "original": null,
+   "data": "2027-01-21",
+   "semana": "2027-w03",
+   "segunda": "2027-01-18",
+   "generos": [
+    "Drama"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "Zenóbia, líder de uma casa espiritual nas zonas umbralinas, enfrenta os abismos mais sombrios para resgatar espíritos arrependidos e salvar Domênico, sua alma gêmea perdida nas trevas. Entre batalhas espirituais e perdão extremo, ela arrisca tudo por um amor que acredita ser eterno.",
+   "poster": "/hTFSwqzsLRM0NQemJKShVZX6oFU.jpg",
+   "trailer": null,
+   "popularidade": 0.7252,
+   "plataformas": [],
+   "justwatch": null,
+   "duracao": null,
+   "classificacao": null
+  },
+  {
+   "id": "cinema-1477152",
+   "tmdb": 1477152,
+   "imdb": "tt34876798",
+   "tipo": "cinema",
+   "titulo": "Torniquete",
+   "original": null,
+   "data": "2027-01-21",
+   "semana": "2027-w03",
+   "segunda": "2027-01-18",
+   "generos": [
+    "Drama"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "Três gerações de mulheres da mesma família, vivendo pela primeira vez sob o mesmo teto, precisam reinventar o significado da palavra lar.",
+   "poster": "/fE9DQ8Y00oG7V497Z0pOroGOa0N.jpg",
+   "trailer": null,
+   "popularidade": 0.2049,
+   "plataformas": [],
+   "justwatch": null,
+   "duracao": 75,
+   "classificacao": "14"
+  },
+  {
+   "id": "filme-1749772",
+   "tmdb": 1749772,
+   "imdb": null,
+   "tipo": "filme",
+   "titulo": "A Trilha",
+   "original": null,
+   "data": "2027-01-22",
+   "semana": "2027-w03",
+   "segunda": "2027-01-18",
+   "generos": [
+    "Terror",
+    "Thriller"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "EM BREVE DISPONÍVEL NO YOUTUBE  Um grupo de jovens vai para uma trilha de sua cidade que se diz amaldiçoada para provar que tudo isso é um mito, mas o que eles encontram os surpreende mais.",
+   "poster": "/d1XvdD1SylDbgXovDJZVGuN9S1I.jpg",
+   "trailer": null,
+   "popularidade": 0.0025,
+   "plataformas": [],
+   "justwatch": null,
+   "duracao": null,
+   "classificacao": "14"
+  },
+  {
+   "id": "serie-228878",
+   "tmdb": 228878,
+   "imdb": "tt28093628",
+   "tipo": "serie",
+   "titulo": "Efeitos Colaterais",
+   "original": "Common Side Effects",
+   "data": "2027-01-24",
+   "semana": "2027-w03",
+   "segunda": "2027-01-18",
+   "generos": [
+    "Animação",
+    "Drama",
+    "Comédia",
+    "Sci-Fi & Fantasy"
+   ],
+   "nota": 8.5,
+   "votos": 374,
+   "sinopse": "Marshall e Frances, dois ex-colegas que compartilham um segredo: eles descobriram o melhor remédio do mundo, um cogumelo que cura quase tudo.",
+   "poster": "/kNRixn2I02msqH7x0nmNwMg6pez.jpg",
+   "trailer": "uHN9QbWytcE",
+   "popularidade": 10.7521,
+   "plataformas": [
+    {
+     "id": 1899,
+     "nome": "HBO Max",
+     "logo": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+     "tipo": "assinatura"
+    }
+   ],
+   "justwatch": "https://www.themoviedb.org/tv/228878-common-side-effects/watch?locale=BR",
+   "temporada": 2,
+   "canais": [
+    "Adult Swim"
+   ]
+  },
+  {
+   "id": "cinema-1384758",
+   "tmdb": 1384758,
+   "imdb": "tt34512981",
+   "tipo": "cinema",
+   "titulo": "A Era do Gelo: Mundo de Lava",
+   "original": "Ice Age: Boiling Point",
+   "data": "2027-01-28",
+   "semana": "2027-w04",
+   "segunda": "2027-01-25",
+   "generos": [
+    "Aventura",
+    "Animação",
+    "Família",
+    "Comédia"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "Uma aventura alucinante repleta de dinossauros e lava, que leva Manny, Sid, Diego, Ellie, Scrat e o resto do bando pelas regiões inexploradas do perigoso Mundo Perdido.",
+   "poster": "/lWjA97vk4kXhRF3ecGDEgVswz5p.jpg",
+   "trailer": "e67Qtn_3hkc",
+   "popularidade": 18.0704,
+   "plataformas": [],
+   "justwatch": null,
+   "duracao": 103,
+   "classificacao": "L"
+  },
+  {
+   "id": "cinema-1391239",
+   "tmdb": 1391239,
+   "imdb": "tt34718200",
+   "tipo": "cinema",
+   "titulo": "A Grande Estreia",
+   "original": "The Debut",
+   "data": "2027-01-28",
+   "semana": "2027-w04",
+   "segunda": "2027-01-25",
+   "generos": [
+    "Música",
+    "Comédia",
+    "Drama"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "Quando Mona Friedman é escalada para um papel menor em um pequeno teatro comunitário, ela se transforma de uma dona de casa tímida e despretensiosa em uma fervorosa atriz do Método, disposta a qualquer coisa para proteger a integridade artística de seu personagem secundário — mesmo que isso signifique travar uma guerra contra o diretor dominador do espetáculo.",
+   "poster": "/kOrkuio6VQZdAuvRnMv4vOAz4RG.jpg",
+   "trailer": "lF9n06SMDPU",
+   "popularidade": 7.9206,
+   "plataformas": [],
+   "justwatch": null,
+   "duracao": 105,
+   "classificacao": "16"
+  },
+  {
+   "id": "cinema-920167",
+   "tmdb": 920167,
+   "imdb": "tt31970593",
+   "tipo": "cinema",
+   "titulo": "Witch on the Holy Night: O Filme",
+   "original": "魔法使いの夜",
+   "data": "2027-01-28",
+   "semana": "2027-w04",
+   "segunda": "2027-01-25",
+   "generos": [
+    "Animação",
+    "Fantasia",
+    "Drama"
+   ],
+   "nota": 9,
+   "votos": 1,
+   "sinopse": "Aoko Aozaki é uma estudante do ensino médio que também é uma maga vivendo no mundo moderno. Enquanto passa seus dias ao lado de sua colega de quarto, Aoko se dedica arduamente para se tornar uma maga de pleno direito. Essa rotina muda com a chegada de um jovem que acaba cruzando o caminho das duas.",
+   "poster": "/cCujIxpgUxGg0X1X2ItSXCso9ws.jpg",
+   "trailer": "bkvGGVHT08M",
+   "popularidade": 4.6412,
+   "plataformas": [],
+   "justwatch": null,
+   "duracao": 130,
+   "classificacao": "14"
+  },
+  {
+   "id": "cinema-1124006",
+   "tmdb": 1124006,
+   "imdb": "tt27706987",
+   "tipo": "cinema",
+   "titulo": "O Senhor das Armas 2",
+   "original": "Lords of War",
+   "data": "2027-01-28",
+   "semana": "2027-w04",
+   "segunda": "2027-01-25",
+   "generos": [
+    "Crime",
+    "Thriller",
+    "Drama"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "",
+   "poster": "/66mWiwl4sbg0mV0sxdR7XV5oUOw.jpg",
+   "trailer": null,
+   "popularidade": 2.9301,
+   "plataformas": [],
+   "justwatch": null,
+   "duracao": null,
+   "classificacao": null
+  },
+  {
+   "id": "cinema-1747198",
+   "tmdb": 1747198,
+   "imdb": null,
+   "tipo": "cinema",
+   "titulo": "Tom Jobim: Este Seu Olhar",
+   "original": null,
+   "data": "2027-01-28",
+   "semana": "2027-w04",
+   "segunda": "2027-01-25",
+   "generos": [
+    "Documentário"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "Filme sobre a vida de Tom Jobim",
+   "poster": null,
+   "trailer": null,
+   "popularidade": 0.33,
+   "plataformas": [],
+   "justwatch": null,
+   "duracao": null,
+   "classificacao": null
+  },
+  {
+   "id": "cinema-1668360",
+   "tmdb": 1668360,
+   "imdb": null,
+   "tipo": "cinema",
+   "titulo": "Não Faltam Parafusos",
+   "original": null,
+   "data": "2027-01-31",
+   "semana": "2027-w04",
+   "segunda": "2027-01-25",
+   "generos": [
+    "Comédia",
+    "Drama"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "",
+   "poster": "/nqx7MU9t7I8VduKlxToNxV2BpNd.jpg",
+   "trailer": "yFxvH5XZI1Q",
+   "popularidade": 0.0746,
+   "plataformas": [],
+   "justwatch": null,
+   "duracao": 25,
+   "classificacao": "10"
+  },
+  {
+   "id": "serie-291339",
+   "tmdb": 291339,
+   "imdb": "tt35707374",
+   "tipo": "serie",
+   "titulo": "Memória de um Assassino",
+   "original": "Memory of a Killer",
+   "data": "2027-02-01",
+   "semana": "2027-w05",
+   "segunda": "2027-02-01",
+   "generos": [
+    "Crime",
+    "Drama"
+   ],
+   "nota": 7.8,
+   "votos": 94,
+   "sinopse": "Angelo vive uma vida dupla como assassino e pai de família, que funcionou bem até que ele sofreu de início precoce da doença de Alzheimer. Agora seus mundos colidem, colocando sua família em perigo.",
+   "poster": "/exoHO1kWoiOlwroAvVUJQc0lc8K.jpg",
+   "trailer": "TdenhFzKenM",
+   "popularidade": 13.9795,
+   "plataformas": [
+    {
+     "id": 1899,
+     "nome": "HBO Max",
+     "logo": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+     "tipo": "assinatura"
+    }
+   ],
+   "justwatch": "https://www.themoviedb.org/tv/291339-memory-of-a-killer/watch?locale=BR",
+   "temporada": 2,
+   "canais": [
+    "FOX"
+   ]
+  },
+  {
+   "id": "cinema-1725017",
+   "tmdb": 1725017,
+   "imdb": "tt39255366",
+   "tipo": "cinema",
+   "titulo": "INANE FECIT",
+   "original": null,
+   "data": "2027-02-02",
+   "semana": "2027-w05",
+   "segunda": "2027-02-01",
+   "generos": [
+    "Fantasia",
+    "Ficção científica",
+    "Drama",
+    "Thriller",
+    "Ação",
+    "Crime"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "",
+   "poster": "/xsJgjfGTn9ygX7WdpJnegMeB22D.jpg",
+   "trailer": null,
+   "popularidade": 0.1278,
+   "plataformas": [],
+   "justwatch": null,
+   "duracao": null,
+   "classificacao": "12"
+  },
+  {
+   "id": "serie-32390",
+   "tmdb": 32390,
+   "imdb": "tt1720601",
+   "tipo": "serie",
+   "titulo": "The Real Housewives of Beverly Hills",
+   "original": null,
+   "data": "2027-02-04",
+   "semana": "2027-w05",
+   "segunda": "2027-02-01",
+   "generos": [
+    "Reality"
+   ],
+   "nota": 6.1,
+   "votos": 111,
+   "sinopse": "Nesse reality de sucesso, um grupo de mulheres ricas vive amizades e conflitos regados a bons drinks e altas doses de drama.",
+   "poster": "/8ktaCSlCgGDMFzgdYc1LYF6CiWq.jpg",
+   "trailer": "d0NCzZ9q2kg",
+   "popularidade": 40.2674,
+   "plataformas": [
+    {
+     "id": 337,
+     "nome": "Disney Plus",
+     "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+     "tipo": "assinatura"
+    }
+   ],
+   "justwatch": "https://www.themoviedb.org/tv/32390-the-real-housewives-of-beverly-hills/watch?locale=BR",
+   "temporada": 16,
+   "canais": [
+    "Bravo"
+   ]
+  },
+  {
+   "id": "cinema-1401459",
+   "tmdb": 1401459,
+   "imdb": "tt35410859",
+   "tipo": "cinema",
+   "titulo": "Fjord",
+   "original": null,
+   "data": "2027-02-04",
+   "semana": "2027-w05",
+   "segunda": "2027-02-01",
+   "generos": [
+    "Drama"
+   ],
+   "nota": 7.2,
+   "votos": 146,
+   "sinopse": "Uma família romeno-norueguesa se muda para uma pequena cidade e vê a educação de seus filhos ser questionada quando contusões são encontradas no corpo da filha mais velha.",
+   "poster": "/rIhqYAVPmMQaTCiBJI5o21KDFM2.jpg",
+   "trailer": "frg59VOungA",
+   "popularidade": 32.8807,
+   "plataformas": [],
+   "justwatch": null,
+   "duracao": 146,
+   "classificacao": "14"
+  },
+  {
+   "id": "cinema-1425859",
+   "tmdb": 1425859,
+   "imdb": "tt35621542",
+   "tipo": "cinema",
+   "titulo": "Vestígios",
+   "original": "Remain",
+   "data": "2027-02-04",
+   "semana": "2027-w05",
+   "segunda": "2027-02-01",
+   "generos": [
+    "Romance",
+    "Mistério",
+    "Terror"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "Quando o recluso arquiteto Tate Gordon se muda para uma pequena cidade litorânea para concluir seu mais recente projeto, ele conhece uma jovem fascinante que o tira de sua concha e o coloca no centro de um mistério mortal que paira sobre a cidade.",
+   "poster": "/XPE1RcxKQgkhcmxQn6xv4KZQDd.jpg",
+   "trailer": "Fso81Ypg9T4",
+   "popularidade": 6.3969,
+   "plataformas": [],
+   "justwatch": null,
+   "duracao": null,
+   "classificacao": "16"
+  },
+  {
+   "id": "cinema-1372443",
+   "tmdb": 1372443,
+   "imdb": "tt30093348",
+   "tipo": "cinema",
+   "titulo": "A Vida Por Um Sonho",
+   "original": "Mr. Irrelevant",
+   "data": "2027-02-04",
+   "semana": "2027-w05",
+   "segunda": "2027-02-01",
+   "generos": [
+    "Drama"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "A emocionante história do impacto inspirador e duradouro que John Tuggle deixou em sua equipe e em seus companheiros após ser escolhido pelo New York Giants.",
+   "poster": "/7zqRyrih4esbQjFXdpxfHr64Wcc.jpg",
+   "trailer": "5DddMUVQ5xQ",
+   "popularidade": 4.5384,
+   "plataformas": [],
+   "justwatch": null,
+   "duracao": 125,
+   "classificacao": null
+  },
+  {
+   "id": "serie-209130",
+   "tmdb": 209130,
+   "imdb": "tt21942724",
+   "tipo": "serie",
+   "titulo": "Slumberkins - Fofos e Encantadores",
+   "original": "Slumberkins",
+   "data": "2027-02-04",
+   "semana": "2027-w05",
+   "segunda": "2027-02-01",
+   "generos": [
+    "Kids",
+    "Animação"
+   ],
+   "nota": 7.5,
+   "votos": 2,
+   "sinopse": "Embarque em aventuras com Pé-Grande, Unicórnio, Preguiça, Iaque e Raposa, enquanto eles exploram um mundo de sentimentos nessa série da Jim Henson Company, que traz o aprendizado emocional de Slumberkins à vida.",
+   "poster": "/3yfI3zXNDwiIUyl5LRdMMz21i0.jpg",
+   "trailer": "QGCep635LQg",
+   "popularidade": 2.9542,
+   "plataformas": [
+    {
+     "id": 350,
+     "nome": "Apple TV",
+     "logo": "/v9SnyvYt0U3KGgBH3Sbh3z4yODe.png",
+     "tipo": "assinatura"
+    }
+   ],
+   "justwatch": "https://www.themoviedb.org/tv/209130-slumberkins/watch?locale=BR",
+   "temporada": 2,
+   "canais": [
+    "Apple TV"
+   ]
+  },
+  {
+   "id": "cinema-1340208",
+   "tmdb": 1340208,
+   "imdb": "tt33295857",
+   "tipo": "cinema",
+   "titulo": "Karōshi: Código de Honra",
+   "original": "Karōshi",
+   "data": "2027-02-04",
+   "semana": "2027-w05",
+   "segunda": "2027-02-01",
+   "generos": [
+    "Ação",
+    "Thriller"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "Em uma Manhattan de um futuro próximo, a lealdade corporativa e a tradição cultural remodelam completamente o cotidiano. Quando um estranho misterioso se infiltra em uma empresa influente logo após a morte de um funcionário, ele passa a expor o sistema violento e implacável oculto sob uma fachada impecável.",
+   "poster": "/keQnXKzum19FU03HnxYuylALAzJ.jpg",
+   "trailer": "jQHoAsDcjVU",
+   "popularidade": 2.755,
+   "plataformas": [],
+   "justwatch": null,
+   "duracao": null,
+   "classificacao": null
+  },
+  {
+   "id": "cinema-1433027",
+   "tmdb": 1433027,
+   "imdb": "tt28766782",
+   "tipo": "cinema",
+   "titulo": "What Happened to Doris?",
+   "original": null,
+   "data": "2027-02-04",
+   "semana": "2027-w05",
+   "segunda": "2027-02-01",
+   "generos": [
+    "Terror",
+    "Thriller"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "Nos subúrbios de Los Angeles, no ano de 1974, uma mãe solteira enfrenta ataques violentos de uma entidade invisível. Quando ninguém acredita nela, ela busca ajuda de investigadores paranormais, dando início a um notório caso sobrenatural documentado.",
+   "poster": "/umSN8hRPvWxAHdTx4ZuTmT1BZlG.jpg",
+   "trailer": "4qSjCu3RvJw",
+   "popularidade": 1.3337,
+   "plataformas": [],
+   "justwatch": null,
+   "duracao": 92,
+   "classificacao": null
+  },
+  {
+   "id": "cinema-1308910",
+   "tmdb": 1308910,
+   "imdb": "tt35465639",
+   "tipo": "cinema",
+   "titulo": "Na Terra de Arto",
+   "original": "Le Pays d’Arto",
+   "data": "2027-02-04",
+   "semana": "2027-w05",
+   "segunda": "2027-02-01",
+   "generos": [
+    "Drama"
+   ],
+   "nota": 5.3,
+   "votos": 7,
+   "sinopse": "Céline chega à Armênia para legalizar a morte do marido, Arto, e descobre que ele mentiu: lutou na guerra, assumiu outra identidade e é considerado um desertor. Assim começa uma jornada pelo passado de Arto, enquanto ela conhece pessoas e assombrações de uma guerra sem fim.",
+   "poster": "/3JVAXZw7IH8dWBMskDALBbkFHC5.jpg",
+   "trailer": "rvBYxv8GurE",
+   "popularidade": 1.1711,
+   "plataformas": [],
+   "justwatch": null,
+   "duracao": 104,
+   "classificacao": null
+  },
+  {
+   "id": "serie-128904",
+   "tmdb": 128904,
+   "imdb": "tt15017118",
+   "tipo": "serie",
+   "titulo": "Dark Winds",
+   "original": null,
+   "data": "2027-02-07",
+   "semana": "2027-w05",
+   "segunda": "2027-02-01",
+   "generos": [
+    "Drama",
+    "Crime",
+    "Mistério"
+   ],
+   "nota": 7.5,
+   "votos": 227,
+   "sinopse": "Dois policiais da comunidade indígena Navajo, o xerife Joe Leaphorn e o novato Jim Chee, investigam um homícidio duplo em um motel de uma comunidade pacífica no sudeste dos Estados Unidos.",
+   "poster": "/kDlrMN0P9ByrEH2GoRbBFeZHbcf.jpg",
+   "trailer": "TcmY-9eeBIM",
+   "popularidade": 22.4127,
+   "plataformas": [
+    {
+     "id": 8,
+     "nome": "Netflix",
+     "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "tipo": "assinatura"
+    }
+   ],
+   "justwatch": "https://www.themoviedb.org/tv/128904-dark-winds/watch?locale=BR",
+   "temporada": 5,
+   "canais": [
+    "AMC"
+   ]
+  },
+  {
+   "id": "cinema-1689644",
+   "tmdb": 1689644,
+   "imdb": null,
+   "tipo": "cinema",
+   "titulo": "O Som da Sua Voz",
+   "original": null,
+   "data": "2027-02-10",
+   "semana": "2027-w06",
+   "segunda": "2027-02-08",
+   "generos": [
+    "Terror",
+    "Fantasia",
+    "Drama",
+    "Mistério"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "Após o abandono repentino da mãe, dois irmãos jovens tentam sobreviver sozinhos em uma casa cada vez mais sufocante. Enquanto a falta de dinheiro e a incapacidade de cuidar do lar aumentam a pressão sobre Nino, o irmão mais velho, uma presença do folclore brasileiro passa a rondar a casa: a Cabra Cabriola, criatura metade homem, metade cabra, capaz de imitar a voz do primeiro amor de suas vítimas. E aqueles meninos parecem ser o alvo perfeito.",
+   "poster": "/lD3I3FOGSyNwD9D9S8B2pP60bTP.jpg",
+   "trailer": null,
+   "popularidade": 0.2292,
+   "plataformas": [],
+   "justwatch": null,
+   "duracao": 20,
+   "classificacao": "12"
+  },
+  {
+   "id": "cinema-1147572",
+   "tmdb": 1147572,
+   "imdb": "tt9077514",
+   "tipo": "cinema",
+   "titulo": "Nárnia: O Sobrinho do Mago",
+   "original": "Narnia: The Magician's Nephew",
+   "data": "2027-02-11",
+   "semana": "2027-w06",
+   "segunda": "2027-02-08",
+   "generos": [
+    "Fantasia",
+    "Aventura",
+    "Família"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "",
+   "poster": "/qmVseldcsVO6ibt3pbJ47e2F5BH.jpg",
+   "trailer": "gDJ-ini7fF0",
+   "popularidade": 6.7201,
+   "plataformas": [],
+   "justwatch": null,
+   "duracao": null,
+   "classificacao": "10"
+  },
+  {
+   "id": "cinema-1380163",
+   "tmdb": 1380163,
+   "imdb": "tt34378250",
+   "tipo": "cinema",
+   "titulo": "Pendulum",
+   "original": null,
+   "data": "2027-02-11",
+   "semana": "2027-w06",
+   "segunda": "2027-02-08",
+   "generos": [
+    "Terror",
+    "Mistério"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "O casal Patrick e Abigail viaja para um retiro espiritual no Novo México em busca de cura após uma tragédia. Disposto a tudo para ajudar a esposa, Patrick passa a desconfiar das intenções e dos métodos pouco convencionais da enigmática líder do grupo, enquanto Abigail se deixa envolver cada vez mais por ela. Com a paranoia crescendo, o casal precisa descobrir se as terapias oferecidas trazem de fato a cura que procuram ou se escondem um segredo aterrorizante que ameaça consumi-los.",
+   "poster": "/shu3m0eShymGekTJW3X5ffEhlLB.jpg",
+   "trailer": "0z9o6EP6wvw",
+   "popularidade": 2.5084,
+   "plataformas": [],
+   "justwatch": null,
+   "duracao": 109,
+   "classificacao": null
+  },
+  {
+   "id": "cinema-1770147",
+   "tmdb": 1770147,
+   "imdb": null,
+   "tipo": "cinema",
+   "titulo": "Memorias do Amanhã",
+   "original": null,
+   "data": "2027-02-12",
+   "semana": "2027-w06",
+   "segunda": "2027-02-08",
+   "generos": [
+    "Animação",
+    "Fantasia",
+    "Aventura"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "Em uma jornada pelo tempo, Fafá mergulha nas histórias de seu avô Duda para explorar suas raízes culturais e confrontar a perseguição enfrentada pelo povo negro e suas crenças ao longo da história brasileira.",
+   "poster": "/afLEgDB7eIKI2xc4zFGuW7IFKVU.jpg",
+   "trailer": null,
+   "popularidade": 0.0219,
+   "plataformas": [],
+   "justwatch": null,
+   "duracao": 10,
+   "classificacao": "L"
+  },
+  {
+   "id": "serie-95557",
+   "tmdb": 95557,
+   "imdb": "tt6741278",
+   "tipo": "serie",
+   "titulo": "INVENCÍVEL",
+   "original": "INVINCIBLE",
+   "data": "2027-02-17",
+   "semana": "2027-w07",
+   "segunda": "2027-02-15",
+   "generos": [
+    "Animação",
+    "Drama",
+    "Sci-Fi & Fantasy",
+    "Action & Adventure"
+   ],
+   "nota": 8.6,
+   "votos": 6180,
+   "sinopse": "Uma animação de super-heróis para adultos e conta a história de Mark Grayson, de 17 anos, um cara como qualquer outro de sua idade, exceto que seu pai é o super-herói mais poderoso do planeta, Omni-Man. Porém, à medida que Mark desenvolve seus próprios poderes, ele descobre que o legado de seu pai pode não ser tão heroico quanto parece.",
+   "poster": "/qhb7RWU9ad9a5m3HbeRRXzjaMXf.jpg",
+   "trailer": "-bfAVpuko5o",
+   "popularidade": 75.3373,
+   "plataformas": [
+    {
+     "id": 119,
+     "nome": "Amazon Prime Video",
+     "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "tipo": "assinatura"
+    }
+   ],
+   "justwatch": "https://www.themoviedb.org/tv/95557-invincible/watch?locale=BR",
+   "temporada": 5,
+   "canais": [
+    "Prime Video"
+   ]
+  },
+  {
+   "id": "serie-247619",
+   "tmdb": 247619,
+   "imdb": "tt23488694",
+   "tipo": "serie",
+   "titulo": "Muito Esforçado",
+   "original": "Overcompensating",
+   "data": "2027-02-17",
+   "semana": "2027-w07",
+   "segunda": "2027-02-15",
+   "generos": [
+    "Comédia"
+   ],
+   "nota": 7.2,
+   "votos": 134,
+   "sinopse": "A jornada caótica de Benny, um ex-jogador de futebol enrustido e rei da festa de boas-vindas, enquanto se torna amigo de Carmen, uma estranha com a missão de se adequar a qualquer custo. Muito engraçada e pessoal, a série explora até que ponto todos nós nos esforçamos muito enquanto descobrimos quem somos.",
+   "poster": "/lwtBsOUCGumGd0kR8XBJWHlqel3.jpg",
+   "trailer": "LSli17bsonk",
+   "popularidade": 10.012,
+   "plataformas": [
+    {
+     "id": 119,
+     "nome": "Amazon Prime Video",
+     "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "tipo": "assinatura"
+    }
+   ],
+   "justwatch": "https://www.themoviedb.org/tv/247619-overcompensating/watch?locale=BR",
+   "temporada": 2,
+   "canais": [
+    "Prime Video"
+   ]
+  },
+  {
+   "id": "cinema-11",
+   "tmdb": 11,
+   "imdb": "tt0076759",
+   "tipo": "cinema",
+   "titulo": "Guerra nas Estrelas",
+   "original": "Star Wars",
+   "data": "2027-02-18",
+   "semana": "2027-w07",
+   "segunda": "2027-02-15",
+   "generos": [
+    "Aventura",
+    "Ação",
+    "Ficção científica"
+   ],
+   "nota": 8.2,
+   "votos": 23220,
+   "sinopse": "A princesa Leia é mantida refém pelas forças imperiais comandadas por Darth Vader. Luke Skywalker e Han Solo precisam libertá-la e restaurar a liberdade e a justiça na galáxia.",
+   "poster": "/dw7X9YPjjAfIxKHW04V64Bb9TB0.jpg",
+   "trailer": "i-vsILeJ8_8",
+   "popularidade": 28.9635,
+   "plataformas": [],
+   "justwatch": null,
+   "duracao": 121,
+   "classificacao": "10"
+  },
+  {
+   "id": "serie-156933",
+   "tmdb": 156933,
+   "imdb": "tt17677860",
+   "tipo": "serie",
+   "titulo": "Acima de Qualquer Suspeita",
+   "original": "Presumed Innocent",
+   "data": "2027-02-18",
+   "semana": "2027-w07",
+   "segunda": "2027-02-15",
+   "generos": [
+    "Drama",
+    "Mistério"
+   ],
+   "nota": 7.8,
+   "votos": 728,
+   "sinopse": "Um assassinato hediondo deixa o escritório da Promotoria de Justiça de Chicago de cabeça para baixo quando um dos funcionários é suspeito do crime, o que deixa o acusado lutando para manter sua família unida.",
+   "poster": "/bBX1PjeHpm00bhz6AbEcY0a41Ir.jpg",
+   "trailer": "ZNSY3lMioHs",
+   "popularidade": 16.0516,
+   "plataformas": [
+    {
+     "id": 350,
+     "nome": "Apple TV",
+     "logo": "/v9SnyvYt0U3KGgBH3Sbh3z4yODe.png",
+     "tipo": "assinatura"
+    }
+   ],
+   "justwatch": "https://www.themoviedb.org/tv/156933-presumed-innocent/watch?locale=BR",
+   "temporada": 2,
+   "canais": [
+    "Apple TV"
+   ]
+  },
+  {
+   "id": "cinema-1466228",
+   "tmdb": 1466228,
+   "imdb": "tt36593129",
+   "tipo": "cinema",
+   "titulo": "The Comeback King",
+   "original": null,
+   "data": "2027-02-18",
+   "semana": "2027-w07",
+   "segunda": "2027-02-15",
+   "generos": [
+    "Comédia",
+    "Faroeste",
+    "Romance"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "",
+   "poster": "/dHMQSBUsIh3epsx9MbFzG6RfsGK.jpg",
+   "trailer": "dlpxXcC8nPk",
+   "popularidade": 3.9618,
+   "plataformas": [],
+   "justwatch": null,
+   "duracao": null,
+   "classificacao": null
+  },
+  {
+   "id": "cinema-1425472",
+   "tmdb": 1425472,
+   "imdb": "tt35606013",
+   "tipo": "cinema",
+   "titulo": "O Último Rastro",
+   "original": "The Rescue",
+   "data": "2027-02-18",
+   "semana": "2027-w07",
+   "segunda": "2027-02-15",
+   "generos": [
+    "Faroeste",
+    "Thriller"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "Um ex-peão de rodeio decide agir por conta própria quando sua filha é sequestrada para o pagamento de um resgate. Com seu fiel cachorro ao lado, ele parte em uma missão para trazê-la de volta e não medirá esforços para encontrá-la.",
+   "poster": "/9fRu5vT7P0TgoNPJ2Sw22irtlmE.jpg",
+   "trailer": "nzNYomSd5Ls",
+   "popularidade": 2.6138,
+   "plataformas": [],
+   "justwatch": null,
+   "duracao": null,
+   "classificacao": null
+  },
+  {
+   "id": "cinema-1125822",
+   "tmdb": 1125822,
+   "imdb": "tt27725750",
+   "tipo": "cinema",
+   "titulo": "Amor Fora do Mapa",
+   "original": "Eternal Return",
+   "data": "2027-02-18",
+   "semana": "2027-w07",
+   "segunda": "2027-02-15",
+   "generos": [
+    "Romance",
+    "Fantasia"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "Siga Cass. Ela atingiu um ponto pessoal de invulnerabilidade emocional, até conhecer Virgil. Junto com seu parceiro Malcolm, eles tentarão viajar no tempo para despertar o amor em Cass.",
+   "poster": "/2uifxB5QsZoxgy1keRHTXJh1rwt.jpg",
+   "trailer": "2iIBYPng3uI",
+   "popularidade": 1.861,
+   "plataformas": [],
+   "justwatch": null,
+   "duracao": 115,
+   "classificacao": null
+  },
+  {
+   "id": "cinema-1523553",
+   "tmdb": 1523553,
+   "imdb": "tt16390372",
+   "tipo": "cinema",
+   "titulo": "Dark Horse",
+   "original": null,
+   "data": "2027-02-18",
+   "semana": "2027-w07",
+   "segunda": "2027-02-15",
+   "generos": [
+    "Drama",
+    "Crime"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "Acompanhe a ascensão política de Jair Bolsonaro durante a campanha de 2018, centrada no atentado sofrido em Juiz de Fora. Entre momentos de recuperação hospitalar e debates decisivos, a história utiliza flashbacks de sua carreira militar nos anos 1980 para construir o perfil de um vencedor improvável.",
+   "poster": "/8NFB1DI8fPVleIg4UutgKWC0N0i.jpg",
+   "trailer": null,
+   "popularidade": 1.8398,
+   "plataformas": [],
+   "justwatch": null,
+   "duracao": 100,
+   "classificacao": null
+  },
+  {
+   "id": "cinema-1511780",
+   "tmdb": 1511780,
+   "imdb": "tt34888026",
+   "tipo": "cinema",
+   "titulo": "Mulher Desconhecida",
+   "original": "Kvinde ukendt",
+   "data": "2027-02-18",
+   "semana": "2027-w07",
+   "segunda": "2027-02-15",
+   "generos": [
+    "Drama",
+    "Thriller"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "Marie, uma jovem babá e empregada doméstica, está prestes a se casar com seu patrão, Christian, um viúvo rico e mais velho. No entanto, ela esconde um segredo: durante a Segunda Guerra Mundial, teve um relacionamento com um soldado alemão. Agora, com o passado ameaçando vir à tona, ela se vê forçada a fazer de tudo para preservar seu novo status de senhora da casa em meio ao caos do pós-guerra.",
+   "poster": "/moWsebxgJjFB19CcZMvDjHEEbGp.jpg",
+   "trailer": null,
+   "popularidade": 1.345,
+   "plataformas": [],
+   "justwatch": null,
+   "duracao": 134,
+   "classificacao": null
+  },
+  {
+   "id": "cinema-1643909",
+   "tmdb": 1643909,
+   "imdb": "tt43655634",
+   "tipo": "cinema",
+   "titulo": "A Sua Frente",
+   "original": null,
+   "data": "2027-02-18",
+   "semana": "2027-w07",
+   "segunda": "2027-02-15",
+   "generos": [
+    "Drama"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "Juraci, uma senhora que leva uma vida solitária em seu apartamento, vê sua rotina mudar com a chegada de Ícaro, um estudante migrante, no apartamento à frente.",
+   "poster": "/15hBSGhMrLMAEm5OcmsZAJjTStF.jpg",
+   "trailer": "t1c50sqDtdU",
+   "popularidade": 0.1488,
+   "plataformas": [],
+   "justwatch": null,
+   "duracao": 21,
+   "classificacao": "L"
+  },
+  {
+   "id": "cinema-1798438",
+   "tmdb": 1798438,
+   "imdb": null,
+   "tipo": "cinema",
+   "titulo": "Ykamiabas",
+   "original": null,
+   "data": "2027-02-18",
+   "semana": "2027-w07",
+   "segunda": "2027-02-15",
+   "generos": [],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "Em uma pesquisa iniciada a partir de um presente misterioso, uma estudante de História mergulha em uma experiência do resgate mitológico das mulheres guerreiras que teriam migrado da Trácia (região dividida hoje como Bulgária, Grécia e Turquia) até o Amazonas. O que parecia ser uma simples busca por respostas se transforma em uma jornada imersiva no mundo das Ykamiabas.",
+   "poster": null,
+   "trailer": null,
+   "popularidade": 0.0451,
+   "plataformas": [],
+   "justwatch": null,
+   "duracao": 105,
+   "classificacao": null
+  },
+  {
+   "id": "filme-1450771",
+   "tmdb": 1450771,
+   "imdb": "tt27995870",
+   "tipo": "filme",
+   "titulo": "Agora Me Vês...",
+   "original": "Ahora Me Ves... De Nicolás de Jesús",
+   "data": "2027-02-19",
+   "semana": "2027-w07",
+   "segunda": "2027-02-15",
+   "generos": [
+    "Comédia",
+    "Drama",
+    "Thriller",
+    "Mistério"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "O esforçado dono da feira, Kesselring (Nicolás de Jesús), recebe uma oportunidade única de restaurar a antiga glória da feira quando seu amigo Dr. Goodkat (Fredy Roque) o apresenta a Marcus Kelevra (Alexis Adrián), um homem cujo ato misterioso atrairá as pessoas de volta à feira, a um custo mortal, e até mesmo despertará o interesse entre os outros frequentadores.",
+   "poster": "/iVvMHiEL4NUSJWUGCYYpUxXlKnn.jpg",
+   "trailer": "UM1_7Cwszao",
+   "popularidade": 1.1923,
+   "plataformas": [],
+   "justwatch": null,
+   "duracao": 119,
+   "classificacao": "16"
+  },
+  {
+   "id": "serie-211684",
+   "tmdb": 211684,
+   "imdb": "tt13062500",
+   "tipo": "serie",
+   "titulo": "The Walking Dead: Daryl Dixon",
+   "original": null,
+   "data": "2027-02-22",
+   "semana": "2027-w08",
+   "segunda": "2027-02-22",
+   "generos": [
+    "Sci-Fi & Fantasy",
+    "Action & Adventure",
+    "Drama"
+   ],
+   "nota": 8,
+   "votos": 948,
+   "sinopse": "Daryl Dixon chega à costa da França e luta para entender como chegou lá e por quê. A série acompanha a sua jornada por uma França quebrada, mas resiliente, enquanto ele tenta encontrar um caminho de volta para casa. As conexões que ele forma no caminho, no entanto, complicam os seus planos.",
+   "poster": "/72kaL0YYGYyPCDSEkW9QXyQZrzl.jpg",
+   "trailer": "iTOaFootkSk",
+   "popularidade": 26.6453,
+   "plataformas": [
+    {
+     "id": 119,
+     "nome": "Amazon Prime Video",
+     "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "tipo": "assinatura"
+    }
+   ],
+   "justwatch": "https://www.themoviedb.org/tv/211684-the-walking-dead-daryl-dixon/watch?locale=BR",
+   "temporada": 4,
+   "canais": [
+    "AMC"
+   ]
+  },
+  {
+   "id": "cinema-1517333",
+   "tmdb": 1517333,
+   "imdb": "tt8992304",
+   "tipo": "cinema",
+   "titulo": "K-Pop: O Debut",
+   "original": "K-POP: The Debut",
+   "data": "2027-02-25",
+   "semana": "2027-w08",
+   "segunda": "2027-02-22",
+   "generos": [
+    "Música",
+    "Comédia"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "Lizzy Lee é uma jovem coreano-americana que passou a vida inteira seguindo o caminho escolhido por sua família. Tudo muda quando ela conquista uma vaga em uma competição televisionada mundialmente para formar o próximo grande girl group de K-pop. Decidida a correr atrás do sonho que precisa manter em segredo, ela viaja para Seul, na Coreia do Sul. Cercada por artistas extraordinárias de várias partes do mundo, todas disputando apenas quatro vagas cobiçadas, Lizzy terá que superar seus próprios limites, assumir sua verdadeira identidade e provar que tem o que é preciso para estrear e conquistar seu lugar nos palcos globais.",
+   "poster": "/9MED2GFhwsMJvYKEc9Wt7aB0S2a.jpg",
+   "trailer": "_eco9F8FXK0",
+   "popularidade": 5.1027,
+   "plataformas": [],
+   "justwatch": null,
+   "duracao": null,
+   "classificacao": null
+  },
+  {
+   "id": "cinema-1473784",
+   "tmdb": 1473784,
+   "imdb": "tt36770512",
+   "tipo": "cinema",
+   "titulo": "Bunker",
+   "original": null,
+   "data": "2027-02-25",
+   "semana": "2027-w08",
+   "segunda": "2027-02-22",
+   "generos": [
+    "Drama",
+    "Thriller"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "Um arquiteto aceita construir um bunker de sobrevivência para um bilionário da tecnologia, uma decisão controversa que gera uma crise profunda no casamento de 17 anos com sua esposa.",
+   "poster": "/gPo96q7vKzoCiZlLH4T78FYStk0.jpg",
+   "trailer": "6Z-78xNh2KI",
+   "popularidade": 3.7708,
+   "plataformas": [],
+   "justwatch": null,
+   "duracao": 126,
+   "classificacao": null
+  },
+  {
+   "id": "cinema-1316999",
+   "tmdb": 1316999,
+   "imdb": "tt22183852",
+   "tipo": "cinema",
+   "titulo": "Tangles",
+   "original": null,
+   "data": "2027-02-25",
+   "semana": "2027-w08",
+   "segunda": "2027-02-22",
+   "generos": [
+    "Animação",
+    "Drama",
+    "Comédia",
+    "História"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "",
+   "poster": "/agQGw5Cux2CYaxI8UHlLbta2bgw.jpg",
+   "trailer": "mdGrH_f4wJw",
+   "popularidade": 2.9488,
+   "plataformas": [],
+   "justwatch": null,
+   "duracao": 102,
+   "classificacao": null
+  },
+  {
+   "id": "cinema-1480503",
+   "tmdb": 1480503,
+   "imdb": "tt31339071",
+   "tipo": "cinema",
+   "titulo": "CoComelon: O Filme",
+   "original": "CoComelon: The Movie",
+   "data": "2027-02-25",
+   "semana": "2027-w08",
+   "segunda": "2027-02-22",
+   "generos": [
+    "Animação",
+    "Família",
+    "Aventura",
+    "Fantasia",
+    "Comédia"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "No primeiro dia de aula, JJ descobre que seu amado ursinho de pelúcia Boba desapareceu. A partir disso, ele e seus amigos Cody, CeCe e Nina embarcam em uma missão que os transporta para a mágica Terra dos Achados e Perdidos, governada pela Princesa Harmony. Lá existe uma única regra: nada de cantar.",
+   "poster": "/8nu57ZfjKpCVyTR5SOtW9MIWdeG.jpg",
+   "trailer": "JciwN7x6mB8",
+   "popularidade": 2.4602,
+   "plataformas": [],
+   "justwatch": null,
+   "duracao": null,
+   "classificacao": "L"
+  },
+  {
+   "id": "cinema-1533611",
+   "tmdb": 1533611,
+   "imdb": "tt37897207",
+   "tipo": "cinema",
+   "titulo": "The Revenge of La Llorona",
+   "original": null,
+   "data": "2027-02-25",
+   "semana": "2027-w08",
+   "segunda": "2027-02-22",
+   "generos": [
+    "Terror"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "",
+   "poster": "/5XjRvsQLZd5W7g934C3GHxjyNRj.jpg",
+   "trailer": null,
+   "popularidade": 1.5448,
+   "plataformas": [],
+   "justwatch": null,
+   "duracao": null,
+   "classificacao": null
+  },
+  {
+   "id": "cinema-1046304",
+   "tmdb": 1046304,
+   "imdb": "tt37740247",
+   "tipo": "cinema",
+   "titulo": "9 Templos para o Céu",
+   "original": "9 วัด สู่สวรรค์",
+   "data": "2027-02-25",
+   "semana": "2027-w08",
+   "segunda": "2027-02-22",
+   "generos": [
+    "Drama",
+    "Comédia"
+   ],
+   "nota": 8.7,
+   "votos": 3,
+   "sinopse": "Depois que uma vidente prevê a morte iminente de sua mãe, Sakol reúne toda a família para uma peregrinação por nove templos budistas em um único dia. O que começa como uma experiência espiritual logo se transforma em um reencontro marcado por antigas mágoas, segredos e conflitos que há muito permaneciam adormecidos.",
+   "poster": "/9nBRqy5RS3HP9ru86ySVOB0PcqB.jpg",
+   "trailer": "m02q5G9rjSw",
+   "popularidade": 1.1345,
+   "plataformas": [],
+   "justwatch": null,
+   "duracao": 140,
+   "classificacao": null
+  },
+  {
+   "id": "cinema-1323717",
+   "tmdb": 1323717,
+   "imdb": "tt33055902",
+   "tipo": "cinema",
+   "titulo": "Bruna Surfistinha 2",
+   "original": null,
+   "data": "2027-02-25",
+   "semana": "2027-w08",
+   "segunda": "2027-02-22",
+   "generos": [
+    "Drama"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "Anos depois de abrir mão de ser a garota de programa mais famosa do Brasil, Raquel vê desmoronar o casamento com o ex-cliente Huldson. Disposta a tudo para recuperar o controle da própria história, ela resgata a poderosa Bruna Surfistinha e vai confrontar os limites entre sua identidade e o desafio de ser uma mulher livre.",
+   "poster": "/d6Mq47QP3mzI4PFZ0BIpjqBYpy9.jpg",
+   "trailer": null,
+   "popularidade": 1.0196,
+   "plataformas": [],
+   "justwatch": null,
+   "duracao": null,
+   "classificacao": "16"
+  },
+  {
+   "id": "cinema-1387778",
+   "tmdb": 1387778,
+   "imdb": "tt35305106",
+   "tipo": "cinema",
+   "titulo": "Next Life",
+   "original": null,
+   "data": "2027-02-25",
+   "semana": "2027-w08",
+   "segunda": "2027-02-22",
+   "generos": [
+    "Ficção científica",
+    "Romance",
+    "Comédia"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "",
+   "poster": "/5U5eCCWqklThjQZLuAWuNY4kFCc.jpg",
+   "trailer": null,
+   "popularidade": 0.6243,
+   "plataformas": [],
+   "justwatch": null,
+   "duracao": 112,
+   "classificacao": null
+  },
+  {
+   "id": "cinema-1492727",
+   "tmdb": 1492727,
+   "imdb": null,
+   "tipo": "cinema",
+   "titulo": "Amigos em Fuga",
+   "original": null,
+   "data": "2027-02-25",
+   "semana": "2027-w08",
+   "segunda": "2027-02-22",
+   "generos": [
+    "Comédia"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "Jeff e Johnny são dois amigos que compartilham o sonho de ingressar na polícia do Rio de Janeiro. Após sofrerem bullying durante o treinamento devido à sua orientação sexual, eles decidem provar seu valor e conquistar respeito ao solucionar um crime de grande repercussão. Desafiados a desbaratar o perigoso \"Bando da Onça\", a dupla se infiltra na quadrilha, enfrentando fugas atrapalhadas e situações inusitadas. O plano culmina em uma armadilha estratégica preparada para um grande evento de moda, onde os aspirantes a oficiais tentam, finalmente, consolidar suas carreiras.",
+   "poster": "/w4lwP3p9ftuWtnSIZ7NMl05AMmG.jpg",
+   "trailer": null,
+   "popularidade": 0.4389,
+   "plataformas": [],
+   "justwatch": null,
+   "duracao": null,
+   "classificacao": null
+  },
+  {
+   "id": "filme-1619081",
+   "tmdb": 1619081,
+   "imdb": null,
+   "tipo": "filme",
+   "titulo": "Mico 45/45",
+   "original": null,
+   "data": "2027-02-26",
+   "semana": "2027-w08",
+   "segunda": "2027-02-22",
+   "generos": [
+    "Drama",
+    "Documentário"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "",
+   "poster": "/bLoxk5tGAwYdZRp90xYRaM2FpCw.jpg",
+   "trailer": null,
+   "popularidade": 0.047,
+   "plataformas": [],
+   "justwatch": null,
+   "duracao": null,
+   "classificacao": null
+  },
+  {
+   "id": "cinema-1497464",
+   "tmdb": 1497464,
+   "imdb": "tt26443610",
+   "tipo": "cinema",
+   "titulo": "Gatto",
+   "original": null,
+   "data": "2027-03-04",
+   "semana": "2027-w09",
+   "segunda": "2027-03-01",
+   "generos": [
+    "Animação",
+    "Comédia",
+    "Crime",
+    "Família"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "Após anos navegando pela supersticiosa cidade repleta de canais, um gato preto chamado Nero começa a se questionar se viveu as vidas certas. Endividado com um chefe da máfia felina local, ele se vê em um grande dilema e é forçado a construir uma amizade verdadeiramente inesperada que pode, finalmente, levá-lo ao seu propósito — a menos que Veneza leve a melhor sobre ele primeiro.",
+   "poster": "/jPBZQwaKBc49p1RS05z3vIk58SU.jpg",
+   "trailer": "fq7Q-dtIZeM",
+   "popularidade": 7.0042,
+   "plataformas": [],
+   "justwatch": null,
+   "duracao": 98,
+   "classificacao": "L"
+  },
+  {
+   "id": "cinema-615121",
+   "tmdb": 615121,
+   "imdb": "tt5500064",
+   "tipo": "cinema",
+   "titulo": "Thomas Crown - A Arte do Crime",
+   "original": "The Thomas Crown Affair",
+   "data": "2027-03-04",
+   "semana": "2027-w09",
+   "segunda": "2027-03-01",
+   "generos": [
+    "Crime",
+    "Romance",
+    "Thriller"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "",
+   "poster": "/xTFj4zxTIz7oRqnqWntpGC5j1kO.jpg",
+   "trailer": "A643rogutGM",
+   "popularidade": 4.1634,
+   "plataformas": [],
+   "justwatch": null,
+   "duracao": 130,
+   "classificacao": null
+  },
+  {
+   "id": "cinema-1493762",
+   "tmdb": 1493762,
+   "imdb": "tt38871721",
+   "tipo": "cinema",
+   "titulo": "Se Não Eu, Quem Vai Fazer Você Feliz?",
+   "original": null,
+   "data": "2027-03-04",
+   "semana": "2027-w09",
+   "segunda": "2027-03-01",
+   "generos": [
+    "Drama"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "Em Santos, nos anos 90, Graziela e Chorão vivem um intenso romance marcado por arte, música e rebeldia. Unidos pela paixão e pelo sonho do sucesso, eles enfrentam os desafios da fama, os conflitos internos e as dores do crescimento.",
+   "poster": "/eluRWw3ZGeAOsN3ElDDNdJhcKDq.jpg",
+   "trailer": null,
+   "popularidade": 0.9849,
+   "plataformas": [],
+   "justwatch": null,
+   "duracao": 113,
+   "classificacao": "14"
+  },
+  {
+   "id": "cinema-1392164",
+   "tmdb": 1392164,
+   "imdb": null,
+   "tipo": "cinema",
+   "titulo": "Picaretas Não Vão Pro Céu",
+   "original": null,
+   "data": "2027-03-04",
+   "semana": "2027-w09",
+   "segunda": "2027-03-01",
+   "generos": [
+    "Comédia"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "Após serem jurados de morte por um traficante, os golpistas Perereca e Moqueca fogem para bem longe, indo parar em uma pequena cidade do interior chamada Xantózinho do Sul. Por coincidência, o novo padre da paróquia local está chegando também e Perereca resolve assumir sua identidade de olho nas doações para a igreja.",
+   "poster": "/xFhXB2JPIf0OVGNZWEI6SwqXis9.jpg",
+   "trailer": null,
+   "popularidade": 0.5126,
+   "plataformas": [],
+   "justwatch": null,
+   "duracao": 109,
+   "classificacao": null
+  },
+  {
+   "id": "cinema-1557131",
+   "tmdb": 1557131,
+   "imdb": null,
+   "tipo": "cinema",
+   "titulo": "Missão 171",
+   "original": null,
+   "data": "2027-03-04",
+   "semana": "2027-w09",
+   "segunda": "2027-03-01",
+   "generos": [
+    "Comédia"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "novo longa estrelado por Maurício Manfrini e Fabiana Karla",
+   "poster": null,
+   "trailer": null,
+   "popularidade": 0.2967,
+   "plataformas": [],
+   "justwatch": null,
+   "duracao": null,
+   "classificacao": null
+  },
+  {
+   "id": "cinema-1821864",
+   "tmdb": 1821864,
+   "imdb": null,
+   "tipo": "cinema",
+   "titulo": "Interferência",
+   "original": null,
+   "data": "2027-03-06",
+   "semana": "2027-w09",
+   "segunda": "2027-03-01",
+   "generos": [
+    "Thriller",
+    "Ficção científica"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "Após sair de um relacionamento abusivo, passar a ser vista como louca e ficar isolada na universidade, Samantha cria uma tecnologia capaz de captar pensamentos e usa os traumas mais íntimos do ex como arma.",
+   "poster": "/pX7o34TpK6PP3nYZVEcpH2chOGZ.jpg",
+   "trailer": null,
+   "popularidade": 0.0396,
+   "plataformas": [],
+   "justwatch": null,
+   "duracao": null,
+   "classificacao": "L"
+  },
+  {
+   "id": "cinema-1297467",
+   "tmdb": 1297467,
+   "imdb": "tt32492552",
+   "tipo": "cinema",
+   "titulo": "O Exorcista: Mártires",
+   "original": "The Exorcist: Martyrs",
+   "data": "2027-03-11",
+   "semana": "2027-w10",
+   "segunda": "2027-03-08",
+   "generos": [
+    "Terror"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "Treze anos após deter um notório assassino em série satânico, uma policial investiga uma nova série de assassinatos ligados ao seu passado, enquanto seu filho de 12 anos se torna alvo de uma força demoníaca aterrorizante.",
+   "poster": "/dVB1qOfralXq1E0XJRRVNfP4nFd.jpg",
+   "trailer": "iIEYfH-jg1Y",
+   "popularidade": 4.4346,
+   "plataformas": [],
+   "justwatch": null,
+   "duracao": null,
+   "classificacao": "18"
+  },
+  {
+   "id": "cinema-1487395",
+   "tmdb": 1487395,
+   "imdb": "tt41405120",
+   "tipo": "cinema",
+   "titulo": "The Chosen: Crucifixion",
+   "original": null,
+   "data": "2027-03-11",
+   "semana": "2027-w10",
+   "segunda": "2027-03-08",
+   "generos": [
+    "Drama"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "",
+   "poster": "/qgJzrvYmpVBH6GYwnFT8N5sWhsB.jpg",
+   "trailer": null,
+   "popularidade": 1.6528,
+   "plataformas": [],
+   "justwatch": null,
+   "duracao": null,
+   "classificacao": null
+  },
+  {
+   "id": "cinema-1401586",
+   "tmdb": 1401586,
+   "imdb": "tt16744566",
+   "tipo": "cinema",
+   "titulo": "Sonic 4: O Filme",
+   "original": "Sonic the Hedgehog 4",
+   "data": "2027-03-18",
+   "semana": "2027-w11",
+   "segunda": "2027-03-15",
+   "generos": [
+    "Comédia",
+    "Ação",
+    "Família",
+    "Ficção científica"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "Sonic, acompanhado por uma nova heroína chamada Amy, enfrenta um novo inimigo tecnológico conhecido como Metal Sonic.",
+   "poster": "/goS166oUlWRnMC766CLxeSCBLa.jpg",
+   "trailer": null,
+   "popularidade": 9.6322,
+   "plataformas": [],
+   "justwatch": null,
+   "duracao": null,
+   "classificacao": null
+  },
+  {
+   "id": "cinema-458896",
+   "tmdb": 458896,
+   "imdb": "tt4540534",
+   "tipo": "cinema",
+   "titulo": "O Rouxinol",
+   "original": "The Nightingale",
+   "data": "2027-03-18",
+   "semana": "2027-w11",
+   "segunda": "2027-03-15",
+   "generos": [
+    "Drama"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "As vidas de duas irmãs francesas (Elle Fanning e Dakota Fanning) são devastadas pela eclosão da Segunda Guerra Mundial.",
+   "poster": "/b6CN8AAjev9ud7z9DXCKk0ipAsm.jpg",
+   "trailer": "gNHr2-JjKRM",
+   "popularidade": 7.6543,
+   "plataformas": [],
+   "justwatch": null,
+   "duracao": null,
+   "classificacao": null
+  },
+  {
+   "id": "cinema-1688072",
+   "tmdb": 1688072,
+   "imdb": null,
+   "tipo": "cinema",
+   "titulo": "Deixar a Vida Me Levar",
+   "original": null,
+   "data": "2027-03-18",
+   "semana": "2027-w11",
+   "segunda": "2027-03-15",
+   "generos": [
+    "Drama",
+    "História"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "A história de vida de Jessé Gomes da Silva Filho, hoje conhecido como Zeca Pagodinho, desde a origem humilde nos subúrbios do Rio de Janeiro até a consagração como um dos maiores nomes da música brasileira.",
+   "poster": null,
+   "trailer": null,
+   "popularidade": 0.3493,
+   "plataformas": [],
+   "justwatch": null,
+   "duracao": null,
+   "classificacao": null
+  },
+  {
+   "id": "filme-1809957",
+   "tmdb": 1809957,
+   "imdb": null,
+   "tipo": "filme",
+   "titulo": "Véda Vérian",
+   "original": null,
+   "data": "2027-03-19",
+   "semana": "2027-w11",
+   "segunda": "2027-03-15",
+   "generos": [],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "Após a morte de sua irmã, um jovem recluso afasta-se até mesmo de seu melhor amigo, que carrega secretamente a verdade. Em meio a omissão, luto e culpa, figuras misteriosas manipulam tal momento de fragilidade para colocar essa grande amizade à prova.",
+   "poster": "/mvupIyTd7H6YV7PKKeKVQWtQ8qi.jpg",
+   "trailer": null,
+   "popularidade": 0.2142,
+   "plataformas": [],
+   "justwatch": null,
+   "duracao": 23,
+   "classificacao": "16"
+  },
+  {
+   "id": "serie-219080",
+   "tmdb": 219080,
+   "imdb": "tt26453092",
+   "tipo": "serie",
+   "titulo": "The Mighty Nein",
+   "original": null,
+   "data": "2027-03-24",
+   "semana": "2027-w12",
+   "segunda": "2027-03-22",
+   "generos": [
+    "Animação",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+   ],
+   "nota": 8.2,
+   "votos": 149,
+   "sinopse": "Um grupo de excluídos, criminosos e desajustados acaba salvando o continente quando uma relíquia arcana capaz de remodelar a realidade cai nas mãos erradas.",
+   "poster": "/qJTZanXDiJKABLNGRM9LmSg8YT7.jpg",
+   "trailer": "Ri2wNyvSpiY",
+   "popularidade": 14.8027,
+   "plataformas": [
+    {
+     "id": 119,
+     "nome": "Amazon Prime Video",
+     "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "tipo": "assinatura"
+    }
+   ],
+   "justwatch": "https://www.themoviedb.org/tv/219080-the-mighty-nein/watch?locale=BR",
+   "temporada": 2,
+   "canais": [
+    "Prime Video"
+   ]
+  },
+  {
+   "id": "serie-122241",
+   "tmdb": 122241,
+   "imdb": "tt13929916",
+   "tipo": "serie",
+   "titulo": "LOL: Last One Laughing - Alemanha",
+   "original": "LOL: Last One Laughing",
+   "data": "2027-03-25",
+   "semana": "2027-w12",
+   "segunda": "2027-03-22",
+   "generos": [
+    "Reality",
+    "Comédia"
+   ],
+   "nota": 7.4,
+   "votos": 90,
+   "sinopse": "",
+   "poster": "/wo6gbvAxX3wbrHwmQwB48uZMveO.jpg",
+   "trailer": null,
+   "popularidade": 10.0802,
+   "plataformas": [
+    {
+     "id": 119,
+     "nome": "Amazon Prime Video",
+     "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "tipo": "assinatura"
+    }
+   ],
+   "justwatch": "https://www.themoviedb.org/tv/122241-lol-last-one-laughing/watch?locale=BR",
+   "temporada": 8,
+   "canais": [
+    "Prime Video"
+   ]
+  },
+  {
+   "id": "cinema-1288438",
+   "tmdb": 1288438,
+   "imdb": "tt32561550",
+   "tipo": "cinema",
+   "titulo": "Godzilla x Kong: Supernova",
+   "original": null,
+   "data": "2027-03-25",
+   "semana": "2027-w12",
+   "segunda": "2027-03-22",
+   "generos": [
+    "Ficção científica",
+    "Ação",
+    "Aventura"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "",
+   "poster": "/gEGDDG6QMDFZ1sV32CGxvzaVPnv.jpg",
+   "trailer": null,
+   "popularidade": 4.5329,
+   "plataformas": [],
+   "justwatch": null,
+   "duracao": null,
+   "classificacao": null
+  },
+  {
+   "id": "cinema-1718699",
+   "tmdb": 1718699,
+   "imdb": "tt43609247",
+   "tipo": "cinema",
+   "titulo": "Interligados",
+   "original": "Not Alone",
+   "data": "2027-03-25",
+   "semana": "2027-w12",
+   "segunda": "2027-03-22",
+   "generos": [
+    "Animação",
+    "Comédia",
+    "Família",
+    "Romance",
+    "Ficção científica"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "Fran, uma brilhante astrobotânica, une forças com Joe para lançar o primeiro foguete movido a combustível vegetal do mundo, enquanto uma atração inesperada surge entre os dois. A missão toma um rumo caótico quando três pequenos alienígenas em fuga de um atrapalhado oficial interplanetário se escondem na casa de Joe, vendo na nave revolucionária de Fran sua única chance de voltar para casa.",
+   "poster": "/uUjNuBuJXo0ZSBLhqexa7ZleqSb.jpg",
+   "trailer": "wtUdmUTNbO4",
+   "popularidade": 2.5467,
+   "plataformas": [],
+   "justwatch": null,
+   "duracao": null,
+   "classificacao": null
+  },
+  {
+   "id": "cinema-1266643",
+   "tmdb": 1266643,
+   "imdb": "tt18795088",
+   "tipo": "cinema",
+   "titulo": "Sede de Sangue",
+   "original": "Day Drinker",
+   "data": "2027-03-25",
+   "semana": "2027-w12",
+   "segunda": "2027-03-22",
+   "generos": [
+    "Ação",
+    "Thriller"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "Uma bartender de iate particular conhece um passageiro misterioso. Logo, eles se veem envolvidos com uma figura do mundo do crime e conectados de maneiras totalmente inesperadas.",
+   "poster": "/zYZcelNmowkCuzQsJAvWMeoHHE5.jpg",
+   "trailer": null,
+   "popularidade": 2.502,
+   "plataformas": [],
+   "justwatch": null,
+   "duracao": null,
+   "classificacao": null
+  },
+  {
+   "id": "cinema-1679216",
+   "tmdb": 1679216,
+   "imdb": null,
+   "tipo": "cinema",
+   "titulo": "o nó entre nossos dedos",
+   "original": null,
+   "data": "2027-03-31",
+   "semana": "2027-w13",
+   "segunda": "2027-03-29",
+   "generos": [
+    "Terror"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "Ao romper um pacto de sangue, Íris sente as consequências dessa decisão no próprio corpo e percebe que certos vínculos não desaparecem com o fim de um relacionamento.",
+   "poster": "/qRGUQshoVMUsDxGfoulXHH0HQpe.jpg",
+   "trailer": null,
+   "popularidade": 0.0207,
+   "plataformas": [],
+   "justwatch": null,
+   "duracao": null,
+   "classificacao": null
+  },
+  {
+   "id": "cinema-1256192",
+   "tmdb": 1256192,
+   "imdb": "tt31869782",
+   "tipo": "cinema",
+   "titulo": "27 ans et demi",
+   "original": null,
+   "data": "2027-04-01",
+   "semana": "2027-w13",
+   "segunda": "2027-03-29",
+   "generos": [
+    "Drama",
+    "Cinema TV"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "Um jovem professor é expulso de casa após um colapso nervoso e encontra nos antigos amigos de infância o apoio necessário para atravessar esse momento delicado.",
+   "poster": "/vd1MQCTauba4oJBpCrwI7tvSfvp.jpg",
+   "trailer": null,
+   "popularidade": 0.946,
+   "plataformas": [],
+   "justwatch": null,
+   "duracao": 88,
+   "classificacao": null
+  },
+  {
+   "id": "cinema-1617101",
+   "tmdb": 1617101,
+   "imdb": null,
+   "tipo": "cinema",
+   "titulo": "A Farsa do Sertão",
+   "original": null,
+   "data": "2027-04-01",
+   "semana": "2027-w13",
+   "segunda": "2027-03-29",
+   "generos": [
+    "Comédia"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "Genésio, um ator fracassado que vagueia pelo Piauí com seu monólogo da Paixão de Cristo, esbarra em uma pequena vila que espera o retorno do filho de Deus e se aproveita da fé alheia, se passando por Jesus.",
+   "poster": "/1S48pzxQ2SD6JRhbkOFMhXCZtBo.jpg",
+   "trailer": null,
+   "popularidade": 0.4645,
+   "plataformas": [],
+   "justwatch": null,
+   "duracao": null,
+   "classificacao": null
+  },
+  {
+   "id": "cinema-1748713",
+   "tmdb": 1748713,
+   "imdb": null,
+   "tipo": "cinema",
+   "titulo": "Mentira Tem Perna Curta",
+   "original": null,
+   "data": "2027-04-01",
+   "semana": "2027-w13",
+   "segunda": "2027-03-29",
+   "generos": [
+    "Comédia"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "Naldo e Aurora, um casal que viaja para o casamento do seu filho em Minas Gerais. Porém, uma mentira do casal coloca em risco a celebração.",
+   "poster": null,
+   "trailer": null,
+   "popularidade": 0.4331,
+   "plataformas": [],
+   "justwatch": null,
+   "duracao": null,
+   "classificacao": null
+  },
+  {
+   "id": "filme-1147572",
+   "tmdb": 1147572,
+   "imdb": "tt9077514",
+   "tipo": "filme",
+   "titulo": "Nárnia: O Sobrinho do Mago",
+   "original": "Narnia: The Magician's Nephew",
+   "data": "2027-04-02",
+   "semana": "2027-w13",
+   "segunda": "2027-03-29",
+   "generos": [
+    "Fantasia",
+    "Aventura",
+    "Família"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "",
+   "poster": "/qmVseldcsVO6ibt3pbJ47e2F5BH.jpg",
+   "trailer": "gDJ-ini7fF0",
+   "popularidade": 6.7201,
+   "plataformas": [],
+   "justwatch": null,
+   "duracao": null,
+   "classificacao": "10"
+  },
+  {
+   "id": "cinema-1151265",
+   "tmdb": 1151265,
+   "imdb": "tt20259240",
+   "tipo": "cinema",
+   "titulo": "Cloud Girl",
+   "original": "La Fille Dans Les Nuages",
+   "data": "2027-04-08",
+   "semana": "2027-w14",
+   "segunda": "2027-04-05",
+   "generos": [
+    "Animação",
+    "Aventura",
+    "Fantasia"
+   ],
+   "nota": 8,
+   "votos": 1,
+   "sinopse": "",
+   "poster": "/mWv4HUYAUkjLAPnmkiyoCU2cx0Q.jpg",
+   "trailer": "UdLKENyhjKM",
+   "popularidade": 5.3416,
+   "plataformas": [],
+   "justwatch": null,
+   "duracao": 88,
+   "classificacao": null
+  },
+  {
+   "id": "cinema-1731801",
+   "tmdb": 1731801,
+   "imdb": "tt43677673",
+   "tipo": "cinema",
+   "titulo": "Boys for Life",
+   "original": null,
+   "data": "2027-04-08",
+   "semana": "2027-w14",
+   "segunda": "2027-04-05",
+   "generos": [
+    "Comédia"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "",
+   "poster": null,
+   "trailer": null,
+   "popularidade": 0.5129,
+   "plataformas": [],
+   "justwatch": null,
+   "duracao": null,
+   "classificacao": null
+  },
+  {
+   "id": "cinema-1361883",
+   "tmdb": 1361883,
+   "imdb": null,
+   "tipo": "cinema",
+   "titulo": "Estranho Amor",
+   "original": null,
+   "data": "2027-04-08",
+   "semana": "2027-w14",
+   "segunda": "2027-04-05",
+   "generos": [
+    "Drama"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "Vânia é uma jovem do interior que se apaixona por Paulo, um homem aparentemente perfeito e bastante admirado. Os dois se casam e Paulo revela-se um abusador cruel na intimidade, agredindo a esposa com frequência. Depois do trauma, ela entra na faculdade de Direito e decide se tornar delegada para combater casos parecidos e proteger mulheres presas em ciclos de violência.",
+   "poster": null,
+   "trailer": null,
+   "popularidade": 0.2475,
+   "plataformas": [],
+   "justwatch": null,
+   "duracao": null,
+   "classificacao": null
+  },
+  {
+   "id": "cinema-1289485",
+   "tmdb": 1289485,
+   "imdb": "tt41963466",
+   "tipo": "cinema",
+   "titulo": "Funk",
+   "original": null,
+   "data": "2027-04-08",
+   "semana": "2027-w14",
+   "segunda": "2027-04-05",
+   "generos": [
+    "Drama",
+    "Música"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "MC Sabrina, jovem funkeira, é conhecida por agitar bailes nas favelas cariocas. Seu talento está no sangue: ela é filha da MC Priscila, uma funkeira pioneira que não soube administrar seu sucesso e perdeu tudo. Morando juntas no Morro dos Prazeres, mãe e filha tem uma relação conflituosa, que fica ainda mais complicada quando Sabrina desperta a atenção de Alberto, um produtor musical de sucesso. Ele promete transformá-la numa estrela, mas para isso Sabrina terá que mudar de imagem, abandonando suas raízes.",
+   "poster": "/203s85Wlw0WloJJ1Pc6pWSGsRkB.jpg",
+   "trailer": null,
+   "popularidade": 0.2428,
+   "plataformas": [],
+   "justwatch": null,
+   "duracao": 107,
+   "classificacao": "16"
+  },
+  {
+   "id": "cinema-1624964",
+   "tmdb": 1624964,
+   "imdb": "tt13988176",
+   "tipo": "cinema",
+   "titulo": "Marta",
+   "original": null,
+   "data": "2027-04-08",
+   "semana": "2027-w14",
+   "segunda": "2027-04-05",
+   "generos": [
+    "Drama"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "Filme conta a trajetória de Marta Vieira da Silva, a maior jogadora da história do futebol.",
+   "poster": "/ot4PhffaxROVAucuK7gYyKXj9x6.jpg",
+   "trailer": null,
+   "popularidade": 0.2321,
+   "plataformas": [],
+   "justwatch": null,
+   "duracao": null,
+   "classificacao": null
+  },
+  {
+   "id": "cinema-1381087",
+   "tmdb": 1381087,
+   "imdb": "tt34383418",
+   "tipo": "cinema",
+   "titulo": "Monitor",
+   "original": null,
+   "data": "2027-04-15",
+   "semana": "2027-w15",
+   "segunda": "2027-04-12",
+   "generos": [
+    "Terror",
+    "Mistério"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "",
+   "poster": "/4mNVblPF1tTRok3PINiQnZW7RMl.jpg",
+   "trailer": null,
+   "popularidade": 1.4525,
+   "plataformas": [],
+   "justwatch": null,
+   "duracao": 88,
+   "classificacao": null
+  },
+  {
+   "id": "cinema-1255497",
+   "tmdb": 1255497,
+   "imdb": "tt12384306",
+   "tipo": "cinema",
+   "titulo": "Por um Fio",
+   "original": null,
+   "data": "2027-04-15",
+   "semana": "2027-w15",
+   "segunda": "2027-04-12",
+   "generos": [
+    "Drama",
+    "História"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "Um oncologista da rede pública que enfrenta um drama pessoal ao lidar com o câncer dentro da própria família, ao mesmo tempo em que atua em um cenário marcado pelos desafios que antecederam a consolidação do SUS.",
+   "poster": null,
+   "trailer": null,
+   "popularidade": 0.2663,
+   "plataformas": [],
+   "justwatch": null,
+   "duracao": null,
+   "classificacao": null
+  },
+  {
+   "id": "cinema-1306322",
+   "tmdb": 1306322,
+   "imdb": "tt32659463",
+   "tipo": "cinema",
+   "titulo": "Spaceballs: The New One",
+   "original": null,
+   "data": "2027-04-22",
+   "semana": "2027-w16",
+   "segunda": "2027-04-19",
+   "generos": [
+    "Comédia",
+    "Ficção científica",
+    "Aventura"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "",
+   "poster": "/9usPcpMm8GhzkHIXqiklhPrflY3.jpg",
+   "trailer": null,
+   "popularidade": 2.4244,
+   "plataformas": [],
+   "justwatch": null,
+   "duracao": null,
+   "classificacao": null
+  },
+  {
+   "id": "cinema-1360385",
+   "tmdb": 1360385,
+   "imdb": "tt33253151",
+   "tipo": "cinema",
+   "titulo": "O Último Dia",
+   "original": "The Last Day",
+   "data": "2027-04-22",
+   "semana": "2027-w16",
+   "segunda": "2027-04-19",
+   "generos": [
+    "Drama"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "Acompanhe um dia na vida de duas mulheres em busca de si mesmas: Julia, uma escritora que se prepara para oferecer uma elaborada Festa de 4 de Julho; e Taylor, uma jovem mãe de três filhos que luta para manter o equilíbrio.",
+   "poster": "/xFFnbhUIddss60t9LQuouqdMcuU.jpg",
+   "trailer": null,
+   "popularidade": 0.9419,
+   "plataformas": [],
+   "justwatch": null,
+   "duracao": 99,
+   "classificacao": null
+  },
+  {
+   "id": "serie-273240",
+   "tmdb": 273240,
+   "imdb": "tt33546863",
+   "tipo": "serie",
+   "titulo": "Off Campus: Amores Improváveis",
+   "original": "Off Campus",
+   "data": "2027-04-28",
+   "semana": "2027-w17",
+   "segunda": "2027-04-26",
+   "generos": [
+    "Drama"
+   ],
+   "nota": 8.8,
+   "votos": 925,
+   "sinopse": "Hannah Wells dá aulas ao capitão do hóquei, Garrett Graham, em troca de dicas para conquistar o paquera. O acordo vira uma conexão quando eles encaram o passado. Os amigos Logan, Dean, Tucker e Allie vivem a vida universitária e o amor.",
+   "poster": "/iQ1WbmoC08ql4qRZkfUD2LlzNOL.jpg",
+   "trailer": "wAozjf2frxw",
+   "popularidade": 38.58,
+   "plataformas": [
+    {
+     "id": 119,
+     "nome": "Amazon Prime Video",
+     "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "tipo": "assinatura"
+    }
+   ],
+   "justwatch": "https://www.themoviedb.org/tv/273240-off-campus/watch?locale=BR",
+   "temporada": 2,
+   "canais": [
+    "Prime Video"
+   ]
+  },
+  {
+   "id": "cinema-1177369",
+   "tmdb": 1177369,
+   "imdb": "tt29873948",
+   "tipo": "cinema",
+   "titulo": "A Lenda de Zelda",
+   "original": "The Legend of Zelda",
+   "data": "2027-05-06",
+   "semana": "2027-w18",
+   "segunda": "2027-05-03",
+   "generos": [
+    "Ação",
+    "Aventura",
+    "Fantasia"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "",
+   "poster": "/4XuaHHQ5eR9czPZPHcaaUjekx5w.jpg",
+   "trailer": null,
+   "popularidade": 3.278,
+   "plataformas": [],
+   "justwatch": null,
+   "duracao": null,
+   "classificacao": null
+  },
+  {
+   "id": "cinema-532652",
+   "tmdb": 532652,
+   "imdb": "tt5795232",
+   "tipo": "cinema",
+   "titulo": "A Ressurreição de Cristo: Parte I",
+   "original": "The Resurrection of the Christ: Part One",
+   "data": "2027-05-06",
+   "semana": "2027-w18",
+   "segunda": "2027-05-03",
+   "generos": [
+    "Drama"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "",
+   "poster": "/ii1EjWJOKUEcAopweLudZe2q0vk.jpg",
+   "trailer": null,
+   "popularidade": 2.4437,
+   "plataformas": [],
+   "justwatch": null,
+   "duracao": null,
+   "classificacao": null
+  },
+  {
+   "id": "cinema-1540936",
+   "tmdb": 1540936,
+   "imdb": "tt38120758",
+   "tipo": "cinema",
+   "titulo": "Anything but Ghosts",
+   "original": null,
+   "data": "2027-05-06",
+   "semana": "2027-w18",
+   "segunda": "2027-05-03",
+   "generos": [
+    "Terror",
+    "Comédia"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "Dois vigaristas que operam um falso negócio de investigação paranormal são arrastados para um pesadelo aterrorizante após encontrarem uma entidade maligna real.",
+   "poster": "/xOIlWYYR3lOJWuMTjAU5U1MDlpS.jpg",
+   "trailer": null,
+   "popularidade": 2.2831,
+   "plataformas": [],
+   "justwatch": null,
+   "duracao": null,
+   "classificacao": null
+  },
+  {
+   "id": "cinema-1559269",
+   "tmdb": 1559269,
+   "imdb": "tt38629979",
+   "tipo": "cinema",
+   "titulo": "Everybody Wants to Fuck Me",
+   "original": "Everybody Wants to F*ck Me",
+   "data": "2027-05-06",
+   "semana": "2027-w18",
+   "segunda": "2027-05-03",
+   "generos": [
+    "Comédia",
+    "Thriller"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "",
+   "poster": "/drBcCBZv8oYaqlKoFMoAKg17KVq.jpg",
+   "trailer": null,
+   "popularidade": 1.1713,
+   "plataformas": [],
+   "justwatch": null,
+   "duracao": 97,
+   "classificacao": null
+  },
+  {
+   "id": "cinema-1109469",
+   "tmdb": 1109469,
+   "imdb": "tt27435653",
+   "tipo": "cinema",
+   "titulo": "Leitura de Verão",
+   "original": "Beach Read",
+   "data": "2027-05-06",
+   "semana": "2027-w18",
+   "segunda": "2027-05-03",
+   "generos": [
+    "Romance",
+    "Comédia"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "",
+   "poster": null,
+   "trailer": null,
+   "popularidade": 1.1707,
+   "plataformas": [],
+   "justwatch": null,
+   "duracao": null,
+   "classificacao": null
+  },
+  {
+   "id": "cinema-1814321",
+   "tmdb": 1814321,
+   "imdb": null,
+   "tipo": "cinema",
+   "titulo": "O Legado de Mr. Catra",
+   "original": null,
+   "data": "2027-05-13",
+   "semana": "2027-w19",
+   "segunda": "2027-05-10",
+   "generos": [],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "Um retrato íntimo e inédito de Catra para o público, apresentando o artista versátil que transitou pelo rock, pelo samba e conquistou o Brasil com o funk, mas também o homem por trás da figura pública — alguém que construiu uma ideia própria e pouco convencional de família.",
+   "poster": null,
+   "trailer": null,
+   "popularidade": 0.1566,
+   "plataformas": [],
+   "justwatch": null,
+   "duracao": null,
+   "classificacao": null
+  },
+  {
+   "id": "cinema-1138528",
+   "tmdb": 1138528,
+   "imdb": "tt28018076",
+   "tipo": "cinema",
+   "titulo": "Bad Fairies",
+   "original": null,
+   "data": "2027-05-20",
+   "semana": "2027-w20",
+   "segunda": "2027-05-17",
+   "generos": [
+    "Animação",
+    "Comédia",
+    "Fantasia",
+    "Família"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "",
+   "poster": "/qv5bf7IXmVHpGE0TpYKA8tD2NFi.jpg",
+   "trailer": null,
+   "popularidade": 2.506,
+   "plataformas": [],
+   "justwatch": null,
+   "duracao": 109,
+   "classificacao": null
+  },
+  {
+   "id": "cinema-1617050",
+   "tmdb": 1617050,
+   "imdb": null,
+   "tipo": "cinema",
+   "titulo": "Guido",
+   "original": null,
+   "data": "2027-05-20",
+   "semana": "2027-w20",
+   "segunda": "2027-05-17",
+   "generos": [
+    "Drama"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "Cinebiografia de Guido Schaffer, um jovem surfista carioca que abandonou a carreira de médico e o noivado para se dedicar ao seminário. Às vésperas de receber a ordenação, no entanto, Guido morreu afogado na praia do Recreio.",
+   "poster": null,
+   "trailer": null,
+   "popularidade": 0.806,
+   "plataformas": [],
+   "justwatch": null,
+   "duracao": null,
+   "classificacao": null
+  },
+  {
+   "id": "cinema-1421745",
+   "tmdb": 1421745,
+   "imdb": null,
+   "tipo": "cinema",
+   "titulo": "Chá Revelação",
+   "original": null,
+   "data": "2027-05-20",
+   "semana": "2027-w20",
+   "segunda": "2027-05-17",
+   "generos": [
+    "Comédia"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "Ao descobrir uma gravidez inesperada, Anne precisa lidar com as expectativas dos pais.",
+   "poster": null,
+   "trailer": null,
+   "popularidade": 0.3075,
+   "plataformas": [],
+   "justwatch": null,
+   "duracao": null,
+   "classificacao": null
+  },
+  {
+   "id": "serie-284833",
+   "tmdb": 284833,
+   "imdb": "tt35854736",
+   "tipo": "serie",
+   "titulo": "Avatar: Os Sete Refúgios",
+   "original": "Avatar: Seven Havens",
+   "data": "2027-05-21",
+   "semana": "2027-w20",
+   "segunda": "2027-05-17",
+   "generos": [
+    "Animação",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy",
+    "Família"
+   ],
+   "nota": 8.9,
+   "votos": 209,
+   "sinopse": "Após um cataclismo global, uma jovem descobre ser o novo Avatar - agora rotulada como a Destruidora, não uma salvadora. Caçada por humanos e espíritos, ela e sua gêmea há muito perdida precisam descobrir suas origens e salvar a humanidade do colapso.",
+   "poster": "/l8qbsNAr1CZK2tZ60l5lrJdT5mW.jpg",
+   "trailer": "nhdh962_ee0",
+   "popularidade": 31.3915,
+   "plataformas": [
+    {
+     "id": 531,
+     "nome": "Paramount Plus",
+     "logo": "/pkx3klJlwW5JdtaulvDx6hDNtch.png",
+     "tipo": "assinatura"
+    },
+    {
+     "id": 484,
+     "nome": "Claro tv+",
+     "logo": "/olzQMHt2SX7iNy8WDMR299hVFcL.png",
+     "tipo": "assinatura"
+    }
+   ],
+   "justwatch": "https://www.themoviedb.org/tv/284833-avatar-seven-havens/watch?locale=BR",
+   "temporada": 2,
+   "canais": [
+    "Paramount+"
+   ]
+  },
+  {
+   "id": "cinema-1417668",
+   "tmdb": 1417668,
+   "imdb": "tt28069611",
+   "tipo": "cinema",
+   "titulo": "Star Wars: Starfighter",
+   "original": null,
+   "data": "2027-05-27",
+   "semana": "2027-w21",
+   "segunda": "2027-05-24",
+   "generos": [
+    "Ficção científica",
+    "Aventura",
+    "Ação"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "",
+   "poster": "/6LJetiEQjXUE9kDpXavXpZN1Vjk.jpg",
+   "trailer": null,
+   "popularidade": 2.9914,
+   "plataformas": [],
+   "justwatch": null,
+   "duracao": null,
+   "classificacao": null
+  },
+  {
+   "id": "cinema-1426957",
+   "tmdb": 1426957,
+   "imdb": "tt39382808",
+   "tipo": "cinema",
+   "titulo": "O Homem Mais Solitário da Cidade",
+   "original": "The Loneliest Man in Town",
+   "data": "2027-05-27",
+   "semana": "2027-w21",
+   "segunda": "2027-05-24",
+   "generos": [
+    "Música",
+    "Drama"
+   ],
+   "nota": 8.5,
+   "votos": 1,
+   "sinopse": "O músico de blues Al Cook vive em um apartamento repleto de memórias. Lá fora, o mundo segue em frente sem ele. Mas quando sua casa é destinada à demolição, das ruínas de sua existência, um sonho há muito esquecido ressurge repentinamente.",
+   "poster": "/dm8HprLOd4uKCuik8gpXhpc8LwB.jpg",
+   "trailer": "-M4x9qXC71k",
+   "popularidade": 2.0384,
+   "plataformas": [],
+   "justwatch": null,
+   "duracao": 86,
+   "classificacao": null
+  },
+  {
+   "id": "cinema-1218062",
+   "tmdb": 1218062,
+   "imdb": "tt32593356",
+   "tipo": "cinema",
+   "titulo": "Twisted",
+   "original": null,
+   "data": "2027-05-27",
+   "semana": "2027-w21",
+   "segunda": "2027-05-24",
+   "generos": [
+    "Aventura",
+    "Animação",
+    "Comédia",
+    "Família",
+    "Fantasia"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "",
+   "poster": "/2unM0Z2AeTJGCQg11MB0PkvkrwE.jpg",
+   "trailer": null,
+   "popularidade": 0.427,
+   "plataformas": [],
+   "justwatch": null,
+   "duracao": 83,
+   "classificacao": null
   }
  ]
 }

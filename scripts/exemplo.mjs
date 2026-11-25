@@ -21,7 +21,7 @@ const PLATS = [NETFLIX, PRIME, DISNEY, MAX, GLOBO];
 
 let n = 1000;
 const filme = (i, extra) => ({
-  id: ++n, titulo: `Filme Fictício ${i}`, original: i % 3 ? `Fictional Movie ${i}` : `Filme Fictício ${i}`, lingua: 'en',
+  id: ++n, imdb: `tt9${n}`, titulo: `Filme Fictício ${i}`, original: i % 3 ? `Fictional Movie ${i}` : `Filme Fictício ${i}`, lingua: 'en',
   sinopse: lorem, poster: null, generos: generos[i % generos.length], nota: 5 + (i % 5), votos: i % 4 ? 120 : 0,
   popularidade: 100 - i, duracao: 90 + i * 3, datas: [], classificacao: ['L', '10', '12', '14', '16'][i % 5], trailer: null,
   provedores: null, ...extra,
@@ -42,7 +42,7 @@ for (let i = 0; i < 20; i++) {
   const p = PLATS[(i + 1) % PLATS.length];
   const dia = d(-7 + (i % 7) + Math.floor(i / 7) * 7);
   series.push({
-    id: ++n, titulo: `Série Fictícia ${i}`, original: `Fictional Series ${i}`, lingua: 'en', sinopse: lorem, poster: null,
+    id: ++n, imdb: `tt9${n}`, titulo: `Série Fictícia ${i}`, original: `Fictional Series ${i}`, lingua: 'en', sinopse: lorem, poster: null,
     generos: generos[i % generos.length], nota: 7, votos: 300, popularidade: 80 - i, primeira: dia,
     temporadas: [{ n: i % 3 === 0 ? 1 : 2, data: dia }], canais: i % 2 ? [p.nome] : ['Canal Fictício'], trailer: null,
     provedores: { link: 'https://www.justwatch.com/br/serie/exemplo', flatrate: [p], rent: [], buy: [] },
@@ -50,6 +50,13 @@ for (let i = 0; i < 20; i++) {
 }
 
 gravarJSON('dados/brutos/tmdb.json', { fonte: 'exemplo', coletadoEm: new Date().toISOString(), hoje, de, ate, cinema, filmes, series });
+// Notas fictícias (variando para exercitar as cores dos selos).
+const notas = {};
+[...cinema, ...filmes, ...series].forEach((r, k) => {
+  notas[r.imdb] = k % 7 === 6 ? { imdb: null, votos: null, rt: null, mc: null, em: hoje }
+    : { imdb: 4 + (k % 6) + 0.3, votos: 1000 * (k + 1), rt: (k * 13) % 100, mc: k % 5 === 0 ? null : (k * 17) % 100, em: hoje };
+});
+gravarJSON('dados/notas.json', notas);
 await import('./normalizar.mjs');
 await import('./gerar.mjs');
 console.log('Exemplo pronto em .exemplo/public (rode `npm run preview` com SR_EXEMPLO=1 para abrir).');

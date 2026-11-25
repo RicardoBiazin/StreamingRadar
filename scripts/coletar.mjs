@@ -1,5 +1,5 @@
 // Coleta no TMDB e grava dados/brutos/tmdb.json.
-// Janela: a semana passada e as 7 seguintes (segunda a domingo).
+// Janela: a semana passada e as 26 seguintes (segunda a domingo).
 
 import { carregarEnv, gravarJSON, lerJSON, hojeBR, segunda, somarDias } from './util.mjs';
 import { coletarTudo } from './fontes/tmdb.mjs';
@@ -13,7 +13,8 @@ if (!chave) {
 
 const hoje = hojeBR();
 const de = somarDias(segunda(hoje), -7);
-const ate = somarDias(segunda(hoje), 7 * 7 + 6);
+const SEMANAS_FUTURAS = 26; // ~6 meses à frente
+const ate = somarDias(segunda(hoje), 7 * SEMANAS_FUTURAS + 6);
 console.log(`Coletando ${de} → ${ate}`);
 
 try {

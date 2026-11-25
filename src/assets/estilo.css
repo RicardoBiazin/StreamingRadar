@@ -65,6 +65,13 @@ main[data-vista="junto"] .card { height: 100%; }
 .nota { margin-left: 8px; font-size: .8rem; font-weight: 600; color: var(--nota); white-space: nowrap; }
 .orig { margin: 0; color: var(--suave); font-size: .82rem; font-style: italic; }
 .meta { margin: 3px 0 0; color: var(--suave); font-size: .82rem; }
+.selos { margin: 6px 0 0; display: flex; flex-wrap: wrap; gap: 6px; }
+.selo { display: inline-flex; gap: 5px; align-items: baseline; padding: 1px 8px; border-radius: 6px; border: 1px solid var(--linha); font-size: .8rem; font-weight: 600; text-decoration: none; color: var(--texto); background: var(--painel); }
+.selo b { font-size: .68rem; letter-spacing: .03em; color: var(--suave); }
+.selo.imdb b { color: #b08800; }
+.selo.fresco b, .selo.bom b { color: #1c8c4e; }
+.selo.podre b, .selo.ruim b { color: #c0392b; }
+.selo.medio b { color: #b9770e; }
 .sinopse { margin: 6px 0 0; font-size: .9rem; }
 .onde { margin-top: 8px; display: flex; flex-wrap: wrap; gap: 6px; align-items: center; }
 .rot { font-size: .75rem; text-transform: uppercase; letter-spacing: .04em; color: var(--suave); margin-right: 2px; }

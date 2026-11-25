@@ -78,7 +78,7 @@ async function detalheFilme(chave, id) {
   if (!d) return null;
   const br = d.release_dates?.results?.find((r) => r.iso_3166_1 === 'BR')?.release_dates || [];
   return {
-    id: d.id, titulo: d.title, original: d.original_title, lingua: d.original_language,
+    id: d.id, imdb: d.imdb_id || null, titulo: d.title, original: d.original_title, lingua: d.original_language,
     sinopse: d.overview, poster: d.poster_path, generos: (d.genres || []).map((g) => g.name),
     nota: d.vote_average, votos: d.vote_count, popularidade: d.popularity, duracao: d.runtime || null,
     datas: br.filter((x) => x.release_date).map((x) => ({ tipo: x.type, data: x.release_date.slice(0, 10) })),
@@ -89,11 +89,11 @@ async function detalheFilme(chave, id) {
 
 async function detalheSerie(chave, id) {
   const d = await tmdb(chave, `/tv/${id}`, {
-    language: 'pt-BR', append_to_response: 'videos,watch/providers', include_video_language: 'pt,en,null',
+    language: 'pt-BR', append_to_response: 'videos,watch/providers,external_ids', include_video_language: 'pt,en,null',
   });
   if (!d) return null;
   return {
-    id: d.id, titulo: d.name, original: d.original_name, lingua: d.original_language,
+    id: d.id, imdb: d.external_ids?.imdb_id || null, titulo: d.name, original: d.original_name, lingua: d.original_language,
     sinopse: d.overview, poster: d.poster_path, generos: (d.genres || []).map((g) => g.name),
     nota: d.vote_average, votos: d.vote_count, popularidade: d.popularity,
     primeira: d.first_air_date || null,
@@ -105,7 +105,7 @@ async function detalheSerie(chave, id) {
 }
 
 export async function coletarTudo(chave, { de, ate, paginas = {} }) {
-  const pg = { cinema: 8, filmes: 6, series: 6, ...paginas };
+  const pg = { cinema: 25, filmes: 10, series: 10, ...paginas };
   const lote = 8;
 
   const idsCinema = await descobrir(chave, 'movie', {
@@ -122,7 +122,7 @@ export async function coletarTudo(chave, { de, ate, paginas = {} }) {
   const idsSeriesNovas = await descobrir(chave, 'tv', {
     watch_region: 'BR', with_watch_monetization_types: 'flatrate', timezone: 'America/Sao_Paulo',
     'first_air_date.gte': de, 'first_air_date.lte': ate,
-  }, 3);
+  }, 5);
 
   // Por plataforma: a lista global por popularidade deixa de fora as plataformas menores
   // (Mercado Play, Claro, Looke, Pluto...). Cada provedor é consultado sozinho.
@@ -132,9 +132,9 @@ export async function coletarTudo(chave, { de, ate, paginas = {} }) {
     const base = { watch_region: 'BR', with_watch_providers: p.id, with_watch_monetization_types: 'flatrate' };
     const f = await descobrir(chave, 'movie', {
       ...base, region: 'BR', with_release_type: '1|4|5|6', 'release_date.gte': de, 'release_date.lte': ate,
-    }, 2);
-    const s1 = await descobrir(chave, 'tv', { ...base, timezone: 'America/Sao_Paulo', 'air_date.gte': de, 'air_date.lte': ate }, 4);
-    const s2 = await descobrir(chave, 'tv', { ...base, timezone: 'America/Sao_Paulo', 'first_air_date.gte': de, 'first_air_date.lte': ate }, 2);
+    }, 5);
+    const s1 = await descobrir(chave, 'tv', { ...base, timezone: 'America/Sao_Paulo', 'air_date.gte': de, 'air_date.lte': ate }, 8);
+    const s2 = await descobrir(chave, 'tv', { ...base, timezone: 'America/Sao_Paulo', 'first_air_date.gte': de, 'first_air_date.lte': ate }, 4);
     f.forEach((id) => idsFilmesPlat.add(id));
     [...s1, ...s2].forEach((id) => idsSeriesPlat.add(id));
   });

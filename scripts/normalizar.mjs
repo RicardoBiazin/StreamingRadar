@@ -33,7 +33,7 @@ function plataformas(p) {
 
 function base(r, tipo, data) {
   return {
-    id: `${tipo}-${r.id}`, tmdb: r.id, tipo, titulo: r.titulo, original: r.original && r.original !== r.titulo ? r.original : null,
+    id: `${tipo}-${r.id}`, tmdb: r.id, imdb: r.imdb || null, tipo, titulo: r.titulo, original: r.original && r.original !== r.titulo ? r.original : null,
     data, semana: slugSemana(data), segunda: segunda(data),
     generos: r.generos || [], nota: r.votos > 0 ? Math.round(r.nota * 10) / 10 : null, votos: r.votos || 0,
     sinopse: (r.sinopse || '').trim(), poster: r.poster || null, trailer: r.trailer || null,

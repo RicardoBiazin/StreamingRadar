@@ -3,9 +3,24 @@
 import { readdirSync, readFileSync, existsSync } from 'node:fs';
 import { lerJSON, caminho, VERSAO, EXEMPLO, segunda, slugSemana } from './util.mjs';
 import { REDES } from '../src/redes.mjs';
+import { lerOmdb } from './fontes/omdb.mjs';
 
 const erros = [];
 const ok = (cond, msg) => { if (!cond) erros.push(msg); };
+
+// Parser da OMDb (formato documentado em omdbapi.com).
+const amostra = lerOmdb({ Response: 'True', Metascore: '76', imdbRating: '8.4', imdbVotes: '1,234,567', Ratings: [{ Source: 'Internet Movie Database', Value: '8.4/10' }, { Source: 'Rotten Tomatoes', Value: '87%' }, { Source: 'Metacritic', Value: '76/100' }] });
+ok(amostra && amostra.imdb === 8.4 && amostra.votos === 1234567 && amostra.rt === 87 && amostra.mc === 76, 'lerOmdb não leu a amostra completa');
+const vazia = lerOmdb({ Response: 'True', imdbRating: 'N/A', imdbVotes: 'N/A', Metascore: 'N/A', Ratings: [] });
+ok(vazia && vazia.imdb === null && vazia.rt === null && vazia.mc === null, 'lerOmdb deveria devolver nulls para N/A');
+ok(lerOmdb({ Response: 'False', Error: 'Incorrect IMDb ID.' }) === null, 'lerOmdb deveria devolver null para Response False');
+const notasCache = lerJSON('dados/notas.json', {});
+for (const [id, n] of Object.entries(notasCache)) {
+  ok(/^tt\d+$/.test(id), `notas.json: id do IMDb inválido ${id}`);
+  ok(n.imdb == null || (n.imdb >= 0 && n.imdb <= 10), `notas.json: IMDb fora de 0-10 em ${id}`);
+  ok(n.rt == null || (n.rt >= 0 && n.rt <= 100), `notas.json: RT fora de 0-100 em ${id}`);
+  ok(n.mc == null || (n.mc >= 0 && n.mc <= 100), `notas.json: MC fora de 0-100 em ${id}`);
+}
 
 const dados = lerJSON('dados/lancamentos.json');
 ok(dados, 'dados/lancamentos.json não existe');

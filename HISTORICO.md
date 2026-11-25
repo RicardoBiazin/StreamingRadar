@@ -1,5 +1,11 @@
 # Histórico
 
+## 0.1.4 — 24/11/2026
+
+- Lançamentos futuros: a janela passa de 7 para 26 semanas à frente (~6 meses), 28 páginas de semana. O cinema é bem coberto; streaming futuro depende do que o TMDB já sabe.
+- Notas de críticos: selos IMDb, Rotten Tomatoes e Metacritic nos cartões, via OMDb API (`OMDB_API_KEY`, grátis, 1.000 consultas/dia; cache em `dados/notas.json`, no máximo 900 consultas por dia). Sem a chave o passo é pulado e fica só a nota do TMDB. O id do IMDb vem do TMDB.
+- `testar` confere o parser da OMDb e os limites das notas.
+
 ## 0.1.3 — 24/11/2026
 
 - Coleta por plataforma: cada provedor do Brasil (até 80, sem variantes de canal/anúncios) é consultado sozinho no TMDB. Antes só entrava o topo por popularidade e faltavam Prime Video, Disney+, Mercado Play e outras. Séries de 30 para 73 na janela.
