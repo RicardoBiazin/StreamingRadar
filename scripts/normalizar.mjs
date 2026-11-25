@@ -50,7 +50,7 @@ for (const r of bruto.cinema) {
 }
 
 for (const r of bruto.filmes) {
-  const datas = (r.datas || []).filter((x) => (x.tipo === 4 || x.tipo === 5) && dentro(x.data)).map((x) => x.data);
+  const datas = (r.datas || []).filter((x) => [1, 4, 5, 6].includes(x.tipo) && dentro(x.data)).map((x) => x.data);
   if (!datas.length) continue;
   itens.push({ ...base(r, 'filme', menor(datas)), duracao: r.duracao, classificacao: r.classificacao });
 }

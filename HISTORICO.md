@@ -1,5 +1,12 @@
 # Histórico
 
+## 0.1.3 — 24/11/2026
+
+- Coleta por plataforma: cada provedor do Brasil (até 80, sem variantes de canal/anúncios) é consultado sozinho no TMDB. Antes só entrava o topo por popularidade e faltavam Prime Video, Disney+, Mercado Play e outras. Séries de 30 para 73 na janela.
+- Filmes no streaming passam a aceitar também estreia (tipo 1) e TV (tipo 6), além de digital e físico.
+- Links de ~30 plataformas (Mercado Play, Pluto TV, Looke, Claro tv+, TV Brasil Play, Curiosity Stream, Oldflix, Belas Artes à La Carte, etc.); as demais caem no JustWatch.
+- Limite do TMDB: ele só sabe a data de lançamento, não a data em que o título entra no catálogo. Plataformas de acervo (Mercado Play: 1.197 filmes, nenhum com data na janela) quase não aparecem como "novidade".
+
 ## 0.1.2 — 24/11/2026
 
 - Modo de exibição: "Todos juntos" (padrão) lista os cartões numa grade alinhada, com a data em cada cartão; "Por dia" mantém as colunas por dia. A escolha fica salva no navegador.

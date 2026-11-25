@@ -124,15 +124,48 @@ export async function coletarTudo(chave, { de, ate, paginas = {} }) {
     'first_air_date.gte': de, 'first_air_date.lte': ate,
   }, 3);
 
-  // Um filme pode estar nas duas listas: o detalhe é buscado uma vez só.
-  const todosFilmes = [...new Set([...idsCinema, ...idsFilmes])];
+  // Por plataforma: a lista global por popularidade deixa de fora as plataformas menores
+  // (Mercado Play, Claro, Looke, Pluto...). Cada provedor é consultado sozinho.
+  const provs = await provedoresBR(chave);
+  const idsFilmesPlat = new Set(), idsSeriesPlat = new Set();
+  await emLote(provs, 5, async (p) => {
+    const base = { watch_region: 'BR', with_watch_providers: p.id, with_watch_monetization_types: 'flatrate' };
+    const f = await descobrir(chave, 'movie', {
+      ...base, region: 'BR', with_release_type: '1|4|5|6', 'release_date.gte': de, 'release_date.lte': ate,
+    }, 2);
+    const s1 = await descobrir(chave, 'tv', { ...base, timezone: 'America/Sao_Paulo', 'air_date.gte': de, 'air_date.lte': ate }, 4);
+    const s2 = await descobrir(chave, 'tv', { ...base, timezone: 'America/Sao_Paulo', 'first_air_date.gte': de, 'first_air_date.lte': ate }, 2);
+    f.forEach((id) => idsFilmesPlat.add(id));
+    [...s1, ...s2].forEach((id) => idsSeriesPlat.add(id));
+  });
+
+  // Um filme pode estar em várias listas: o detalhe é buscado uma vez só.
+  const listaFilmes = [...new Set([...idsFilmes, ...idsFilmesPlat])];
+  const todosFilmes = [...new Set([...idsCinema, ...listaFilmes])];
   const mapa = new Map();
   await emLote(todosFilmes, lote, async (id) => { mapa.set(id, await detalheFilme(chave, id)); });
-  const series = (await emLote([...new Set([...idsSeries, ...idsSeriesNovas])], lote, (id) => detalheSerie(chave, id))).filter(Boolean);
+  const idsTodasSeries = [...new Set([...idsSeries, ...idsSeriesNovas, ...idsSeriesPlat])];
+  const series = (await emLote(idsTodasSeries, lote, (id) => detalheSerie(chave, id))).filter(Boolean);
 
   return {
     cinema: idsCinema.map((id) => mapa.get(id)).filter(Boolean),
-    filmes: idsFilmes.map((id) => mapa.get(id)).filter(Boolean),
+    filmes: listaFilmes.map((id) => mapa.get(id)).filter(Boolean),
     series,
+    provedores: provs.map((p) => p.nome),
   };
+}
+
+// Provedores do Brasil (filmes e séries), sem as variantes (canais da Amazon/Apple, com anúncios)
+// e sem as lojas de aluguel/compra, que não têm catálogo por assinatura.
+const VARIANTE = /with ads|\bchannel\b|\bpremium\b|\bstore\b|amazon video|justwatch/i;
+async function provedoresBR(chave) {
+  const [m, t] = await Promise.all([
+    tmdb(chave, '/watch/providers/movie', { watch_region: 'BR', language: 'pt-BR' }),
+    tmdb(chave, '/watch/providers/tv', { watch_region: 'BR', language: 'pt-BR' }),
+  ]);
+  const mapa = new Map();
+  for (const p of [...(m?.results || []), ...(t?.results || [])]) {
+    if (!VARIANTE.test(p.provider_name)) mapa.set(p.provider_id, { id: p.provider_id, nome: p.provider_name, prio: p.display_priorities?.BR ?? 99 });
+  }
+  return [...mapa.values()].sort((a, b) => a.prio - b.prio).slice(0, 80);
 }

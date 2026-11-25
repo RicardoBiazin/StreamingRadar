@@ -1,6 +1,6 @@
 {
  "fonte": "tmdb",
- "coletadoEm": "2026-11-25T02:23:12.074Z",
+ "coletadoEm": "2026-11-25T02:39:25.122Z",
  "de": "2026-11-16",
  "ate": "2027-01-17",
  "itens": [
@@ -375,6 +375,40 @@
    "justwatch": "https://www.themoviedb.org/movie/1198654-bad-apples/watch?locale=BR",
    "duracao": 103,
    "classificacao": "18"
+  },
+  {
+   "id": "serie-62543",
+   "tmdb": 62543,
+   "tipo": "serie",
+   "titulo": "Os Pequenos Johnstons",
+   "original": "7 Little Johnstons",
+   "data": "2026-11-17",
+   "semana": "2026-w47",
+   "segunda": "2026-11-16",
+   "generos": [
+    "Comédia",
+    "Família",
+    "Reality"
+   ],
+   "nota": 6.5,
+   "votos": 24,
+   "sinopse": "Os Johnstons são uma família americana de sete pessoas que buscam o sonho americano. No entanto, esta não é uma família comum: todos os sete Johnstons são pessoas pequenas. O pai Trent e a mãe Amber têm cinco filhos menores de 16 anos, todos com nanismo acondroplásico. Jonah e Elizabeth são seus filhos biológicos e eles também adotaram Anna, Alex e Emma.",
+   "poster": "/xCQrPnMdvytlfp4EvbGGvFOv6ty.jpg",
+   "trailer": "ZpyP_hvARuM",
+   "popularidade": 8.7883,
+   "plataformas": [
+    {
+     "id": 1899,
+     "nome": "HBO Max",
+     "logo": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+     "tipo": "assinatura"
+    }
+   ],
+   "justwatch": "https://www.themoviedb.org/tv/62543-7-little-johnstons/watch?locale=BR",
+   "temporada": 18,
+   "canais": [
+    "TLC"
+   ]
   },
   {
    "id": "cinema-1798642",
@@ -882,6 +916,38 @@
    "classificacao": "16"
   },
   {
+   "id": "serie-94038",
+   "tmdb": 94038,
+   "tipo": "serie",
+   "titulo": "Canada's Drag Race",
+   "original": null,
+   "data": "2026-11-19",
+   "semana": "2026-w47",
+   "segunda": "2026-11-16",
+   "generos": [
+    "Reality"
+   ],
+   "nota": 6.8,
+   "votos": 31,
+   "sinopse": "",
+   "poster": "/ksANjHUK5BqZU5OP2ngMSuosfQr.jpg",
+   "trailer": "9nn8BM1_JwY",
+   "popularidade": 13.0294,
+   "plataformas": [
+    {
+     "id": 546,
+     "nome": "WOW Presents Plus",
+     "logo": "/8pME6TzkiDzMnKZioeoqqvfaNya.png",
+     "tipo": "assinatura"
+    }
+   ],
+   "justwatch": "https://www.themoviedb.org/tv/94038-canada-s-drag-race/watch?locale=BR",
+   "temporada": 7,
+   "canais": [
+    "Crave"
+   ]
+  },
+  {
    "id": "filme-1165366",
    "tmdb": 1165366,
    "tipo": "filme",
@@ -944,6 +1010,38 @@
    "justwatch": "https://www.themoviedb.org/movie/1165369-la-bataille-de-gaulle-j-ecris-ton-nom/watch?locale=BR",
    "duracao": 159,
    "classificacao": "14"
+  },
+  {
+   "id": "serie-87994",
+   "tmdb": 87994,
+   "tipo": "serie",
+   "titulo": "Vale dos Reis: Tesouros do Egito",
+   "original": "Lost Treasures of Egypt",
+   "data": "2026-11-19",
+   "semana": "2026-w47",
+   "segunda": "2026-11-16",
+   "generos": [
+    "Documentário"
+   ],
+   "nota": 7.5,
+   "votos": 25,
+   "sinopse": "Uma série imersiva, cheia de ação e guiada por descobertas que segue equipes internacionais de egiptólogos enquanto eles desenterram o mais rico ponto de arqueologia antiga do mundo - o Vale dos Reis do Egito.",
+   "poster": "/yepAD6s0yknRhji7Ea78aXVydHm.jpg",
+   "trailer": "aA7i6ZaFWr0",
+   "popularidade": 7.8378,
+   "plataformas": [
+    {
+     "id": 337,
+     "nome": "Disney Plus",
+     "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+     "tipo": "assinatura"
+    }
+   ],
+   "justwatch": "https://www.themoviedb.org/tv/87994-lost-treasures-of-egypt/watch?locale=BR",
+   "temporada": 7,
+   "canais": [
+    "National Geographic"
+   ]
   },
   {
    "id": "cinema-1061798",
@@ -1011,7 +1109,7 @@
    "sinopse": "Numa noite de verão, Suzanne chega inesperadamente à casa da irmã acompanhada dos dois filhos pequenos. A visita é ainda mais perturbadora porque as duas mulheres não se viam há meses. Na manhã seguinte, Suzanne desaparece.",
    "poster": "/dcrYTOab05vGKfEePZg6peX75K5.jpg",
    "trailer": "Qo1lgxJUog8",
-   "popularidade": 1.6507,
+   "popularidade": 1.8155,
    "plataformas": [],
    "justwatch": null,
    "duracao": 111,
@@ -1462,6 +1560,38 @@
    "classificacao": "12"
   },
   {
+   "id": "serie-88384",
+   "tmdb": 88384,
+   "tipo": "serie",
+   "titulo": "Bright Minds",
+   "original": "Astrid et Raphaëlle",
+   "data": "2026-11-20",
+   "semana": "2026-w47",
+   "segunda": "2026-11-16",
+   "generos": [
+    "Crime"
+   ],
+   "nota": 8,
+   "votos": 73,
+   "sinopse": "Quando a Comandante Raphaëlle Coste se dirige ao departamento de arquivos judiciais da polícia para uma de suas investigações, ela não suspeita que encontrará uma jovem tão brilhante quanto confusa, uma memória viva de investigações criminais, Astrid, 30 anos, com uma particularidade: Autista.",
+   "poster": "/cGaxpA7nSKtzxraAZsPHWXIV0B6.jpg",
+   "trailer": "MlAu5TAOY28",
+   "popularidade": 20.1145,
+   "plataformas": [
+    {
+     "id": 484,
+     "nome": "Claro tv+",
+     "logo": "/olzQMHt2SX7iNy8WDMR299hVFcL.png",
+     "tipo": "assinatura"
+    }
+   ],
+   "justwatch": "https://www.themoviedb.org/tv/88384-astrid-et-raphaelle/watch?locale=BR",
+   "temporada": 7,
+   "canais": [
+    "France 2"
+   ]
+  },
+  {
    "id": "filme-1791730",
    "tmdb": 1791730,
    "tipo": "filme",
@@ -1510,7 +1640,7 @@
    "sinopse": "Quando criaturas dimensionais ameaçam destruir tudo, um pai treina a filha escondida. Porém, com o caos se espalhando, eles descobrem que nenhum lugar é seguro.",
    "poster": "/svNNsHrcPqqq4cRfQ0Xs0MyrlOn.jpg",
    "trailer": "oJ960Hqz9DY",
-   "popularidade": 8.0258,
+   "popularidade": 8.0486,
    "plataformas": [],
    "justwatch": null,
    "duracao": 92,
@@ -1540,6 +1670,39 @@
    "justwatch": null,
    "duracao": 125,
    "classificacao": null
+  },
+  {
+   "id": "serie-6480",
+   "tmdb": 6480,
+   "tipo": "serie",
+   "titulo": "Em Busca da Casa Perfeita",
+   "original": "House Hunters",
+   "data": "2026-11-20",
+   "semana": "2026-w47",
+   "segunda": "2026-11-16",
+   "generos": [
+    "Reality",
+    "Documentário"
+   ],
+   "nota": 5.5,
+   "votos": 35,
+   "sinopse": "Esta série relata os desafios enfrentados pelos compradores de um imóvel. Cada episódio acompanha a jornada de indivíduos, casais e famílias que procuram uma nova casa para morar. Eles aprendem a selecionar imóveis e a reconhecer se uma casa é adequada ou não às suas necessidades, em uma experiência emocionante e repleta de aprendizados.",
+   "poster": "/e8AgoOQ7nsb5BL6HcSZIF2g2HT3.jpg",
+   "trailer": null,
+   "popularidade": 6.7553,
+   "plataformas": [
+    {
+     "id": 1899,
+     "nome": "HBO Max",
+     "logo": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+     "tipo": "assinatura"
+    }
+   ],
+   "justwatch": "https://www.themoviedb.org/tv/6480-house-hunters/watch?locale=BR",
+   "temporada": 282,
+   "canais": [
+    "HGTV"
+   ]
   },
   {
    "id": "serie-314131",
@@ -1603,6 +1766,39 @@
    ],
    "justwatch": "https://www.themoviedb.org/tv/338549-mascarade/watch?locale=BR",
    "temporada": 1,
+   "canais": [
+    "Prime Video"
+   ]
+  },
+  {
+   "id": "serie-222598",
+   "tmdb": 222598,
+   "tipo": "serie",
+   "titulo": "LOL: Se Rir, Já Era Argentina",
+   "original": "LOL: Last One Laughing Argentina",
+   "data": "2026-11-20",
+   "semana": "2026-w47",
+   "segunda": "2026-11-16",
+   "generos": [
+    "Reality",
+    "Comédia"
+   ],
+   "nota": 4.8,
+   "votos": 11,
+   "sinopse": "Este experimento social apresentado pela icônica Susana Giménez tentará encontrar o próximo campeão da comédia e coroar o primeiro vencedor do LOL Argentina. Quem rir, perde, e quem chegar até o fim e provocar mais risadas dos rivais será o vencedor da temporada.",
+   "poster": "/jMq6SAdD3wIjCsfzSvQU682sPk9.jpg",
+   "trailer": null,
+   "popularidade": 2.0469,
+   "plataformas": [
+    {
+     "id": 119,
+     "nome": "Amazon Prime Video",
+     "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "tipo": "assinatura"
+    }
+   ],
+   "justwatch": "https://www.themoviedb.org/tv/222598-lol-last-one-laughing-argentina/watch?locale=BR",
+   "temporada": 3,
    "canais": [
     "Prime Video"
    ]
@@ -1719,6 +1915,72 @@
    "classificacao": "L"
   },
   {
+   "id": "serie-17964",
+   "tmdb": 17964,
+   "tipo": "serie",
+   "titulo": "சூப்பர் சிங்கர்",
+   "original": null,
+   "data": "2026-11-21",
+   "semana": "2026-w47",
+   "segunda": "2026-11-16",
+   "generos": [
+    "Reality"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "",
+   "poster": "/vThkUfJOferJ69yuCCniB7AFRT8.jpg",
+   "trailer": "1hyBHinCqdg",
+   "popularidade": 20.44,
+   "plataformas": [
+    {
+     "id": 309,
+     "nome": "Sun Nxt",
+     "logo": "/1T9VcLknesOZZen9ZgLfcDdm5Ys.png",
+     "tipo": "assinatura"
+    }
+   ],
+   "justwatch": "https://www.themoviedb.org/tv/17964-cuppr-cinkr/watch?locale=BR",
+   "temporada": 12,
+   "canais": [
+    "STAR Vijay",
+    "JioHotstar"
+   ]
+  },
+  {
+   "id": "serie-239334",
+   "tmdb": 239334,
+   "tipo": "serie",
+   "titulo": "Frenchie Shore",
+   "original": null,
+   "data": "2026-11-21",
+   "semana": "2026-w47",
+   "segunda": "2026-11-16",
+   "generos": [
+    "Reality"
+   ],
+   "nota": 6,
+   "votos": 5,
+   "sinopse": "Seguindo os passos de reality shows como \"Jersey Shore\" e \"Geordie Shore\", os dez maiores festeiros da França se reúnem em Cap d'Agde para férias dos sonhos.",
+   "poster": "/AjnQUAy49iz7BMMve0ZKIfAWxFi.jpg",
+   "trailer": "_oKqMhOuCrU",
+   "popularidade": 4.2665,
+   "plataformas": [
+    {
+     "id": 531,
+     "nome": "Paramount Plus",
+     "logo": "/pkx3klJlwW5JdtaulvDx6hDNtch.png",
+     "tipo": "assinatura"
+    }
+   ],
+   "justwatch": "https://www.themoviedb.org/tv/239334-frenchie-shore/watch?locale=BR",
+   "temporada": 3,
+   "canais": [
+    "Paramount+",
+    "MTV France"
+   ]
+  },
+  {
    "id": "filme-1801812",
    "tmdb": 1801812,
    "tipo": "filme",
@@ -1781,7 +2043,7 @@
    "sinopse": "Querendo saber mais sobre o ator Geraldo Del Rey, sua sobrinha neta reúne uma equipe de filmagem  para conhecer mais do que a tela de cinema tem a mostrar.",
    "poster": "/35rVXKIDahnEuST3kbmAyjXbzSF.jpg",
    "trailer": null,
-   "popularidade": 0.1169,
+   "popularidade": 0.1106,
    "plataformas": [],
    "justwatch": null,
    "duracao": 20,
@@ -1982,6 +2244,40 @@
    "temporada": 1,
    "canais": [
     "Netflix"
+   ]
+  },
+  {
+   "id": "serie-96091",
+   "tmdb": 96091,
+   "tipo": "serie",
+   "titulo": "Yétili",
+   "original": null,
+   "data": "2026-11-23",
+   "semana": "2026-w48",
+   "segunda": "2026-11-23",
+   "generos": [
+    "Kids"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "",
+   "poster": "/hoHzdxtpJfO4QkDxhNdmdkFPlus.jpg",
+   "trailer": null,
+   "popularidade": 7.1512,
+   "plataformas": [
+    {
+     "id": 1715,
+     "nome": "Shahid VIP",
+     "logo": "/vmBE15FtFOa5RDcH5LEy5TftBLI.png",
+     "tipo": "assinatura"
+    }
+   ],
+   "justwatch": "https://www.themoviedb.org/tv/96091-yetili/watch?locale=BR",
+   "temporada": 7,
+   "canais": [
+    "France 5",
+    "France 4",
+    "Bentkey"
    ]
   },
   {
@@ -2248,6 +2544,38 @@
    "classificacao": "16"
   },
   {
+   "id": "serie-224330",
+   "tmdb": 224330,
+   "tipo": "serie",
+   "titulo": "Ilhados com a Sogra",
+   "original": null,
+   "data": "2026-11-25",
+   "semana": "2026-w48",
+   "segunda": "2026-11-23",
+   "generos": [
+    "Reality"
+   ],
+   "nota": 7.4,
+   "votos": 10,
+   "sinopse": "Em busca de um prêmio que pode mudar suas vidas, vários casais embarcam em uma jornada para um lugar paradisíaco e enfrentam desafios com a ajuda da sogra.",
+   "poster": "/4Xr8Oib95kvkJTwttKHK7jEgJqt.jpg",
+   "trailer": "ENsatoHyVZI",
+   "popularidade": 1.6112,
+   "plataformas": [
+    {
+     "id": 8,
+     "nome": "Netflix",
+     "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "tipo": "assinatura"
+    }
+   ],
+   "justwatch": "https://www.themoviedb.org/tv/224330-ilhados-com-a-sogra/watch?locale=BR",
+   "temporada": 4,
+   "canais": [
+    "Netflix"
+   ]
+  },
+  {
    "id": "cinema-1824922",
    "tmdb": 1824922,
    "tipo": "cinema",
@@ -2390,6 +2718,39 @@
    "classificacao": "10"
   },
   {
+   "id": "serie-244447",
+   "tmdb": 244447,
+   "tipo": "serie",
+   "titulo": "Casadas e Caçadoras",
+   "original": "The Hunting Wives",
+   "data": "2026-11-26",
+   "semana": "2026-w48",
+   "segunda": "2026-11-23",
+   "generos": [
+    "Drama",
+    "Mistério"
+   ],
+   "nota": 7,
+   "votos": 118,
+   "sinopse": "Sophie troca a Nova Inglaterra pelo leste do Texas e cai na órbita magnética de uma socialite rica — onde um grupo de donas de casa esconde segredos mortais.",
+   "poster": "/knR0tDKgFwsUMxe0MqZSWQYhwpL.jpg",
+   "trailer": "uZvZfqiAhdQ",
+   "popularidade": 16.2867,
+   "plataformas": [
+    {
+     "id": 8,
+     "nome": "Netflix",
+     "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "tipo": "assinatura"
+    }
+   ],
+   "justwatch": "https://www.themoviedb.org/tv/244447-the-hunting-wives/watch?locale=BR",
+   "temporada": 2,
+   "canais": [
+    "Netflix"
+   ]
+  },
+  {
    "id": "cinema-1564614",
    "tmdb": 1564614,
    "tipo": "cinema",
@@ -2407,11 +2768,45 @@
    "sinopse": "Dois adolescentes precisam escapar de um monstro violento capaz de se transformar na pessoa que a vítima mais deseja no mundo. Por estarem apaixonados, a criatura assume a aparência de um para atrair o outro, transformando o afeto em uma armadilha de sobrevivência.",
    "poster": "/tA2pUPCx4TyWn6rkH4XtAsvMaYS.jpg",
    "trailer": "WXuK0vlFxII",
-   "popularidade": 14.9939,
+   "popularidade": 14.885,
    "plataformas": [],
    "justwatch": null,
    "duracao": 88,
    "classificacao": "14"
+  },
+  {
+   "id": "serie-218347",
+   "tmdb": 218347,
+   "tipo": "serie",
+   "titulo": "Sweetpea",
+   "original": null,
+   "data": "2026-11-26",
+   "semana": "2026-w48",
+   "segunda": "2026-11-23",
+   "generos": [
+    "Comédia",
+    "Drama"
+   ],
+   "nota": 7.4,
+   "votos": 319,
+   "sinopse": "Sweetpea é a história bombástica de Rhiannon Lewis, uma moça tímida e invisível que é levada ao extremo quando seu pai morre e sua agressora dos tempos de escola volta para a cidade.",
+   "poster": "/feoDYCy0AUD031gLqBmA9gC4pw1.jpg",
+   "trailer": "7-Zb6aYhAsk",
+   "popularidade": 10.1039,
+   "plataformas": [
+    {
+     "id": 119,
+     "nome": "Amazon Prime Video",
+     "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "tipo": "assinatura"
+    }
+   ],
+   "justwatch": "https://www.themoviedb.org/tv/218347-sweetpea/watch?locale=BR",
+   "temporada": 2,
+   "canais": [
+    "Sky Atlantic",
+    "Sky Showcase"
+   ]
   },
   {
    "id": "cinema-1720486",
@@ -2938,6 +3333,39 @@
    ]
   },
   {
+   "id": "serie-247085",
+   "tmdb": 247085,
+   "tipo": "serie",
+   "titulo": "O romance do meu irmão",
+   "original": "연애남매",
+   "data": "2026-11-27",
+   "semana": "2026-w48",
+   "segunda": "2026-11-23",
+   "generos": [
+    "Reality"
+   ],
+   "nota": 7.4,
+   "votos": 5,
+   "sinopse": "É um programa de realidade de namoro familiar onde irmãos se reúnem para ajudar uns aos outros a encontrar parceiros românticos.",
+   "poster": "/4AaRNsJjlPgty4T0sGiX3vmDOvJ.jpg",
+   "trailer": null,
+   "popularidade": 3.3411,
+   "plataformas": [
+    {
+     "id": 464,
+     "nome": "Kocowa",
+     "logo": "/tUXhi1QnIhdoPOTFUKKTrshUuiV.png",
+     "tipo": "assinatura"
+    }
+   ],
+   "justwatch": "https://www.themoviedb.org/tv/247085-yeonaenammae/watch?locale=BR",
+   "temporada": 2,
+   "canais": [
+    "JTBC",
+    "wavve"
+   ]
+  },
+  {
    "id": "filme-1480665",
    "tmdb": 1480665,
    "tipo": "filme",
@@ -3006,6 +3434,42 @@
    "justwatch": null,
    "duracao": null,
    "classificacao": "12"
+  },
+  {
+   "id": "serie-100833",
+   "tmdb": 100833,
+   "tipo": "serie",
+   "titulo": "J-Style Trip",
+   "original": "周遊記",
+   "data": "2026-11-28",
+   "semana": "2026-w48",
+   "segunda": "2026-11-23",
+   "generos": [
+    "Reality"
+   ],
+   "nota": 8.1,
+   "votos": 9,
+   "sinopse": "O megastar Jay Chou se junta a seus amigos de primeira linha neste show de variedades mundial repleto de música e truques de mágica.",
+   "poster": "/daiKaJpck4ShIdHoidqxcX59j3v.jpg",
+   "trailer": null,
+   "popularidade": 5.1847,
+   "plataformas": [
+    {
+     "id": 8,
+     "nome": "Netflix",
+     "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "tipo": "assinatura"
+    }
+   ],
+   "justwatch": "https://www.themoviedb.org/tv/100833-zhou-you-ji/watch?locale=BR",
+   "temporada": 4,
+   "canais": [
+    "Netflix",
+    "Zhejiang Television",
+    "Youku",
+    "Mango TV",
+    "Migu Video"
+   ]
   },
   {
    "id": "cinema-1550500",
@@ -3128,6 +3592,38 @@
    "classificacao": "14"
   },
   {
+   "id": "serie-296395",
+   "tmdb": 296395,
+   "tipo": "serie",
+   "titulo": "Prêmio Multishow de Humor: O Reality",
+   "original": null,
+   "data": "2026-11-30",
+   "semana": "2026-w49",
+   "segunda": "2026-11-30",
+   "generos": [
+    "Reality"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "O Prêmio Multishow de Humor voltou em formato de reality. Convivência, bastidores e os desafios de criar comédia, com apresentação de Dani Calabresa.",
+   "poster": "/df1QCfuhuB9UyWMFwelXH4a3Pzp.jpg",
+   "trailer": null,
+   "popularidade": 0.9414,
+   "plataformas": [
+    {
+     "id": 307,
+     "nome": "Globoplay",
+     "logo": "/9A6Oxd3F7iXm7mds7CxYOBicojs.png",
+     "tipo": "assinatura"
+    }
+   ],
+   "justwatch": "https://www.themoviedb.org/tv/296395-premio-multishow-de-humor-o-reality/watch?locale=BR",
+   "temporada": 2,
+   "canais": [
+    "Multishow"
+   ]
+  },
+  {
    "id": "filme-1828930",
    "tmdb": 1828930,
    "tipo": "filme",
@@ -3173,6 +3669,39 @@
    "justwatch": null,
    "duracao": 20,
    "classificacao": "14"
+  },
+  {
+   "id": "serie-130853",
+   "tmdb": 130853,
+   "tipo": "serie",
+   "titulo": "Bad Monkey",
+   "original": null,
+   "data": "2026-12-01",
+   "semana": "2026-w49",
+   "segunda": "2026-11-30",
+   "generos": [
+    "Comédia",
+    "Crime"
+   ],
+   "nota": 7.2,
+   "votos": 238,
+   "sinopse": "Um investigador que se tornou vigilante sanitário no sul da Flórida é arrastado para um mundo de ganância e corrupção após um turista encontrar um braço decepado durante uma pescaria. E sim, há um macaco.",
+   "poster": "/gZBkZMV4covtVRV5k06gZGrmIfW.jpg",
+   "trailer": "cXdNTiQBdlI",
+   "popularidade": 16.0522,
+   "plataformas": [
+    {
+     "id": 350,
+     "nome": "Apple TV",
+     "logo": "/v9SnyvYt0U3KGgBH3Sbh3z4yODe.png",
+     "tipo": "assinatura"
+    }
+   ],
+   "justwatch": "https://www.themoviedb.org/tv/130853-bad-monkey/watch?locale=BR",
+   "temporada": 2,
+   "canais": [
+    "Apple TV"
+   ]
   },
   {
    "id": "filme-1137888",
@@ -3347,6 +3876,39 @@
    "classificacao": "16"
   },
   {
+   "id": "serie-101352",
+   "tmdb": 101352,
+   "tipo": "serie",
+   "titulo": "Panchayat",
+   "original": "पंचायत",
+   "data": "2026-12-03",
+   "semana": "2026-w49",
+   "segunda": "2026-11-30",
+   "generos": [
+    "Comédia",
+    "Drama"
+   ],
+   "nota": 8.2,
+   "votos": 164,
+   "sinopse": "Panchayat é uma comédia dramática que captura a jornada de um graduado em engenharia Abhishek, que, por falta de uma opção de trabalho melhor, ingressa como secretário de um escritório panchayat em um vilarejo remoto de Uttar Pradesh. Preso entre aldeões malucos e um estilo de vida difícil, Abhishek começa seu trabalho com a única motivação de sair de lá o mais rápido possível, para o qual ele até se prepara para o CAT.",
+   "poster": "/cPPhduQk1eX0MAE2JDaQRh3UZB5.jpg",
+   "trailer": "AHMEtNAZTP4",
+   "popularidade": 10.4092,
+   "plataformas": [
+    {
+     "id": 119,
+     "nome": "Amazon Prime Video",
+     "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "tipo": "assinatura"
+    }
+   ],
+   "justwatch": "https://www.themoviedb.org/tv/101352-pmcayt/watch?locale=BR",
+   "temporada": 5,
+   "canais": [
+    "Prime Video"
+   ]
+  },
+  {
    "id": "cinema-1452168",
    "tmdb": 1452168,
    "tipo": "cinema",
@@ -3443,6 +4005,39 @@
    "justwatch": null,
    "duracao": 160,
    "classificacao": "16"
+  },
+  {
+   "id": "serie-226254",
+   "tmdb": 226254,
+   "tipo": "serie",
+   "titulo": "Pablo & Luisão",
+   "original": null,
+   "data": "2026-12-03",
+   "semana": "2026-w49",
+   "segunda": "2026-11-30",
+   "generos": [
+    "Comédia",
+    "Família"
+   ],
+   "nota": 8.4,
+   "votos": 4,
+   "sinopse": "A série acompanha as divertidas e caóticas aventuras de Luisão (Aílton Graça), pai do humorista Paulo Vieira, e de seu inseparável amigo Pablo (Otávio Muller). Juntos, eles vivem inventando planos mirabolantes que acabam gerando consequências inusitadas – especialmente para as crianças Paulo (Yves Miguel), seu irmão Neto (João Pedro Martins) e a mãe dos meninos, Conceição (Dira Paes). Inspirada em acontecimentos reais da infância de Paulo Vieira, a trama mistura humor e afeto familiar.",
+   "poster": "/5dzl9zehL0zZ6gWQisU05eSQpOv.jpg",
+   "trailer": null,
+   "popularidade": 2.8384,
+   "plataformas": [
+    {
+     "id": 307,
+     "nome": "Globoplay",
+     "logo": "/9A6Oxd3F7iXm7mds7CxYOBicojs.png",
+     "tipo": "assinatura"
+    }
+   ],
+   "justwatch": "https://www.themoviedb.org/tv/226254-pablo-luisao/watch?locale=BR",
+   "temporada": 2,
+   "canais": [
+    "Globoplay"
+   ]
   },
   {
    "id": "cinema-1154304",
@@ -3805,6 +4400,111 @@
    ]
   },
   {
+   "id": "serie-157061",
+   "tmdb": 157061,
+   "tipo": "serie",
+   "titulo": "A Hora do Diabo",
+   "original": "The Devil's Hour",
+   "data": "2026-12-04",
+   "semana": "2026-w49",
+   "segunda": "2026-11-30",
+   "generos": [
+    "Mistério",
+    "Crime",
+    "Drama"
+   ],
+   "nota": 7.3,
+   "votos": 346,
+   "sinopse": "Lucy acorda exatamente às 3h33 todas as noites. Nada faz sentido na vida dela há muito tempo, mas as respostas estão lá fora, em algum lugar, no fim de uma série de assassinatos brutais.",
+   "poster": "/qFHKmswojrg4PmZOAgJ1oqVnrWS.jpg",
+   "trailer": "H5CCF39hIVw",
+   "popularidade": 12.4105,
+   "plataformas": [
+    {
+     "id": 119,
+     "nome": "Amazon Prime Video",
+     "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "tipo": "assinatura"
+    }
+   ],
+   "justwatch": "https://www.themoviedb.org/tv/157061-the-devil-s-hour/watch?locale=BR",
+   "temporada": 3,
+   "canais": [
+    "Prime Video"
+   ]
+  },
+  {
+   "id": "serie-87826",
+   "tmdb": 87826,
+   "tipo": "serie",
+   "titulo": "Sunset - Milha de Ouro",
+   "original": "Selling Sunset",
+   "data": "2026-12-04",
+   "semana": "2026-w49",
+   "segunda": "2026-11-30",
+   "generos": [
+    "Reality"
+   ],
+   "nota": 6.6,
+   "votos": 68,
+   "sinopse": "Os agentes de elite do Oppenheim Group vendem uma vida de luxo aos endinheirados de Los Angeles. Os relacionamentos são cruciais, e por isso geram fortes conflitos.",
+   "poster": "/u7oG5RKpXQC0c10jUvLfKYggKOY.jpg",
+   "trailer": "Xpa35HwBdwM",
+   "popularidade": 12.1097,
+   "plataformas": [
+    {
+     "id": 8,
+     "nome": "Netflix",
+     "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "tipo": "assinatura"
+    }
+   ],
+   "justwatch": "https://www.themoviedb.org/tv/87826-selling-sunset/watch?locale=BR",
+   "temporada": 10,
+   "canais": [
+    "Netflix"
+   ]
+  },
+  {
+   "id": "serie-273801",
+   "tmdb": 273801,
+   "tipo": "serie",
+   "titulo": "Só Acontece na Flórida.",
+   "original": "It's Florida, Man.",
+   "data": "2026-12-04",
+   "semana": "2026-w49",
+   "segunda": "2026-11-30",
+   "generos": [
+    "Comédia",
+    "Drama"
+   ],
+   "nota": 5.4,
+   "votos": 23,
+   "sinopse": "Irreverente comédia da HBO que traz para a tela as histórias mais absurdas da Flórida, recriadas por estrelas de Hollywood.",
+   "poster": "/PPHQJOstz1i64LbcQ2Vo3UUBXh.jpg",
+   "trailer": "ahRyxQn1l58",
+   "popularidade": 9.1227,
+   "plataformas": [
+    {
+     "id": 1899,
+     "nome": "HBO Max",
+     "logo": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+     "tipo": "assinatura"
+    },
+    {
+     "id": 484,
+     "nome": "Claro tv+",
+     "logo": "/olzQMHt2SX7iNy8WDMR299hVFcL.png",
+     "tipo": "assinatura"
+    }
+   ],
+   "justwatch": "https://www.themoviedb.org/tv/273801-it-s-florida-man/watch?locale=BR",
+   "temporada": 3,
+   "canais": [
+    "HBO"
+   ]
+  },
+  {
    "id": "filme-1833178",
    "tmdb": 1833178,
    "tipo": "filme",
@@ -3853,6 +4553,46 @@
    "classificacao": "12"
   },
   {
+   "id": "serie-72748",
+   "tmdb": 72748,
+   "tipo": "serie",
+   "titulo": "C. B. Strike",
+   "original": "Strike",
+   "data": "2026-12-06",
+   "semana": "2026-w49",
+   "segunda": "2026-11-30",
+   "generos": [
+    "Crime",
+    "Drama",
+    "Mistério"
+   ],
+   "nota": 7.2,
+   "votos": 286,
+   "sinopse": "O veterano de guerra Cormoran Strike retorna da guerra no Afeganistão e abre uma firma de investigação particular operando em Londres.",
+   "poster": "/9IF5DMeUcEaPXclFAfyMGP8CRg5.jpg",
+   "trailer": "tM8TECB9GAk",
+   "popularidade": 18.9439,
+   "plataformas": [
+    {
+     "id": 1899,
+     "nome": "HBO Max",
+     "logo": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+     "tipo": "assinatura"
+    },
+    {
+     "id": 1715,
+     "nome": "Shahid VIP",
+     "logo": "/vmBE15FtFOa5RDcH5LEy5TftBLI.png",
+     "tipo": "assinatura"
+    }
+   ],
+   "justwatch": "https://www.themoviedb.org/tv/72748-strike/watch?locale=BR",
+   "temporada": 7,
+   "canais": [
+    "BBC One"
+   ]
+  },
+  {
    "id": "serie-107113",
    "tmdb": 107113,
    "tipo": "serie",
@@ -3887,6 +4627,53 @@
    ]
   },
   {
+   "id": "serie-64840",
+   "tmdb": 64840,
+   "tipo": "serie",
+   "titulo": "Signal",
+   "original": "시그널",
+   "data": "2026-12-07",
+   "semana": "2026-w50",
+   "segunda": "2026-12-07",
+   "generos": [
+    "Crime",
+    "Mistério",
+    "Sci-Fi & Fantasy",
+    "Drama"
+   ],
+   "nota": 8.2,
+   "votos": 209,
+   "sinopse": "Detetives do presente e um detetive do passado se comunicam através de walkie-talkie para resolver um caso não solucionado há muito tempo.",
+   "poster": "/xURGDl0GdHVdoKbxwh3HmZKPilR.jpg",
+   "trailer": "JnX9ctyNrAI",
+   "popularidade": 11.6367,
+   "plataformas": [
+    {
+     "id": 8,
+     "nome": "Netflix",
+     "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "tipo": "assinatura"
+    },
+    {
+     "id": 119,
+     "nome": "Amazon Prime Video",
+     "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "tipo": "assinatura"
+    },
+    {
+     "id": 623,
+     "nome": "Tencent Video",
+     "logo": "/oxcvMEkpFb1x4I2xQuRH1yxuJoA.png",
+     "tipo": "assinatura"
+    }
+   ],
+   "justwatch": "https://www.themoviedb.org/tv/64840-sigeuneol/watch?locale=BR",
+   "temporada": 2,
+   "canais": [
+    "tvN"
+   ]
+  },
+  {
    "id": "filme-1400940",
    "tmdb": 1400940,
    "tipo": "filme",
@@ -3910,6 +4697,70 @@
    "justwatch": null,
    "duracao": 109,
    "classificacao": "18"
+  },
+  {
+   "id": "serie-283579",
+   "tmdb": 283579,
+   "tipo": "serie",
+   "titulo": "Flores e Esperança",
+   "original": "Tuiskoms",
+   "data": "2026-12-08",
+   "semana": "2026-w50",
+   "segunda": "2026-12-07",
+   "generos": [
+    "Drama"
+   ],
+   "nota": 6,
+   "votos": 14,
+   "sinopse": "Após uma série de infortúnios, Fleur decide pegar a filha e voltar para a cidade onde nasceu em busca de um novo propósito na vida.",
+   "poster": "/7wQJtLkG1T208bH0zUAKwrzs3LS.jpg",
+   "trailer": "c0YyNLCxGWw",
+   "popularidade": 3.2978,
+   "plataformas": [
+    {
+     "id": 8,
+     "nome": "Netflix",
+     "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "tipo": "assinatura"
+    }
+   ],
+   "justwatch": "https://www.themoviedb.org/tv/283579-tuiskoms/watch?locale=BR",
+   "temporada": 2,
+   "canais": [
+    "Netflix"
+   ]
+  },
+  {
+   "id": "serie-250670",
+   "tmdb": 250670,
+   "tipo": "serie",
+   "titulo": "Maxton Hall - O Mundo Entre Nós",
+   "original": "Maxton Hall – Die Welt zwischen uns",
+   "data": "2026-12-09",
+   "semana": "2026-w50",
+   "segunda": "2026-12-07",
+   "generos": [
+    "Drama"
+   ],
+   "nota": 8.3,
+   "votos": 691,
+   "sinopse": "Quando Ruby testemunha, sem querer, um segredo explosivo na escola particular de Maxton Hall, o arrogante e milionário herdeiro James Beaufort tem que lidar, para seu desgosto, com a perspicaz estudante bolsista, e está determinado a silenciar Ruby. A apaixonada troca de insultos entre eles surpreendentemente acende uma faísca...",
+   "poster": "/kI6BaSBXgHQ3naB4vwvB8eK6JtK.jpg",
+   "trailer": null,
+   "popularidade": 16.7692,
+   "plataformas": [
+    {
+     "id": 119,
+     "nome": "Amazon Prime Video",
+     "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "tipo": "assinatura"
+    }
+   ],
+   "justwatch": "https://www.themoviedb.org/tv/250670-maxton-hall-die-welt-zwischen-uns/watch?locale=BR",
+   "temporada": 3,
+   "canais": [
+    "Prime Video"
+   ]
   },
   {
    "id": "cinema-1739622",
@@ -4130,6 +4981,38 @@
    "justwatch": null,
    "duracao": 56,
    "classificacao": null
+  },
+  {
+   "id": "serie-290388",
+   "tmdb": 290388,
+   "tipo": "serie",
+   "titulo": "Yolanthe",
+   "original": "YOLANTHE",
+   "data": "2026-12-10",
+   "semana": "2026-w50",
+   "segunda": "2026-12-07",
+   "generos": [
+    "Reality"
+   ],
+   "nota": 6,
+   "votos": 1,
+   "sinopse": "Este reality acompanha Yolanthe Cabau em sua nova vida cheia de glamour em Los Angeles, enfrentando desafios inesperados e fantasmas do passado.",
+   "poster": "/yI2Z70b4vHfQWUFUY3rdZcTxqes.jpg",
+   "trailer": "TCyEj441wDo",
+   "popularidade": 1.5203,
+   "plataformas": [
+    {
+     "id": 8,
+     "nome": "Netflix",
+     "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "tipo": "assinatura"
+    }
+   ],
+   "justwatch": "https://www.themoviedb.org/tv/290388-yolanthe/watch?locale=BR",
+   "temporada": 2,
+   "canais": [
+    "Netflix"
+   ]
   },
   {
    "id": "cinema-1218412",
@@ -4415,6 +5298,39 @@
    "classificacao": "14"
   },
   {
+   "id": "serie-76178",
+   "tmdb": 76178,
+   "tipo": "serie",
+   "titulo": "O Próximo Convidado Dispensa Apresentação com David Letterman",
+   "original": "My Next Guest Needs No Introduction with David Letterman",
+   "data": "2026-12-15",
+   "semana": "2026-w51",
+   "segunda": "2026-12-14",
+   "generos": [
+    "Talk",
+    "Comédia"
+   ],
+   "nota": 7,
+   "votos": 80,
+   "sinopse": "Neste programa mensal, a lenda da TV David Letterman entrevista personalidades globais interessantes e visita lugares que têm uma história para contar.",
+   "poster": "/nV0ARN5gU82wcFztvQOA2z2ILUO.jpg",
+   "trailer": "ctBVhyZxXYY",
+   "popularidade": 8.2878,
+   "plataformas": [
+    {
+     "id": 8,
+     "nome": "Netflix",
+     "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "tipo": "assinatura"
+    }
+   ],
+   "justwatch": "https://www.themoviedb.org/tv/76178-my-next-guest-needs-no-introduction-with-david-letterman/watch?locale=BR",
+   "temporada": 7,
+   "canais": [
+    "Netflix"
+   ]
+  },
+  {
    "id": "cinema-1770999",
    "tmdb": 1770999,
    "tipo": "cinema",
@@ -4490,6 +5406,71 @@
    "classificacao": "14"
   },
   {
+   "id": "serie-249522",
+   "tmdb": 249522,
+   "tipo": "serie",
+   "titulo": "Beast Games",
+   "original": null,
+   "data": "2026-12-16",
+   "semana": "2026-w51",
+   "segunda": "2026-12-14",
+   "generos": [
+    "Reality"
+   ],
+   "nota": 7.3,
+   "votos": 256,
+   "sinopse": "Da mente inovadora de MrBeast, vem aí uma nova série de competição cheia de recordes chamada Beast Games. Incríveis 1.000 participantes competirão em desafios físicos e mentais eletrizantes pela chance de ganhar o grande prêmio de 5 milhões de dólares. Semana a semana, os competidores usarão sua força e inteligência para continuar no jogo, na esperança de se tornarem o vencedor multimilionário!",
+   "poster": "/cS9OE5qZDpZkUhrOBX6hnGZp1z1.jpg",
+   "trailer": "37ZG9lddxto",
+   "popularidade": 12.9333,
+   "plataformas": [
+    {
+     "id": 119,
+     "nome": "Amazon Prime Video",
+     "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "tipo": "assinatura"
+    }
+   ],
+   "justwatch": "https://www.themoviedb.org/tv/249522-beast-games/watch?locale=BR",
+   "temporada": 3,
+   "canais": [
+    "Prime Video"
+   ]
+  },
+  {
+   "id": "serie-230003",
+   "tmdb": 230003,
+   "tipo": "serie",
+   "titulo": "O Ringue",
+   "original": "La Cage",
+   "data": "2026-12-16",
+   "semana": "2026-w51",
+   "segunda": "2026-12-14",
+   "generos": [
+    "Action & Adventure",
+    "Drama"
+   ],
+   "nota": 6.7,
+   "votos": 110,
+   "sinopse": "Sonhando em se profissionalizar, um jovem lutador tenta ser notado até que um combate inesperado dá a ele a chance de sua vida, além de um rival violento no ringue.",
+   "poster": "/udy3hudTgKADO6oo0cAiEYYoQCC.jpg",
+   "trailer": null,
+   "popularidade": 6.7816,
+   "plataformas": [
+    {
+     "id": 8,
+     "nome": "Netflix",
+     "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "tipo": "assinatura"
+    }
+   ],
+   "justwatch": "https://www.themoviedb.org/tv/230003-la-cage/watch?locale=BR",
+   "temporada": 2,
+   "canais": [
+    "Netflix"
+   ]
+  },
+  {
    "id": "filme-1760714",
    "tmdb": 1760714,
    "tipo": "filme",
@@ -4537,6 +5518,39 @@
    "justwatch": null,
    "duracao": 128,
    "classificacao": "16"
+  },
+  {
+   "id": "serie-238108",
+   "tmdb": 238108,
+   "tipo": "serie",
+   "titulo": "Call Me Bae",
+   "original": null,
+   "data": "2026-12-17",
+   "semana": "2026-w51",
+   "segunda": "2026-12-14",
+   "generos": [
+    "Drama",
+    "Comédia"
+   ],
+   "nota": 7.6,
+   "votos": 7,
+   "sinopse": "",
+   "poster": "/qdWoYn4KOiZNjR4EOHUsNjamzJ0.jpg",
+   "trailer": null,
+   "popularidade": 3.3325,
+   "plataformas": [
+    {
+     "id": 119,
+     "nome": "Amazon Prime Video",
+     "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "tipo": "assinatura"
+    }
+   ],
+   "justwatch": "https://www.themoviedb.org/tv/238108-call-me-bae/watch?locale=BR",
+   "temporada": 2,
+   "canais": [
+    "Prime Video"
+   ]
   },
   {
    "id": "cinema-1420851",
@@ -4807,6 +5821,40 @@
    "classificacao": null
   },
   {
+   "id": "serie-224021",
+   "tmdb": 224021,
+   "tipo": "serie",
+   "titulo": "Os Assassinatos de Åre",
+   "original": "Åremorden",
+   "data": "2026-12-27",
+   "semana": "2026-w52",
+   "segunda": "2026-12-21",
+   "generos": [
+    "Drama",
+    "Crime",
+    "Mistério"
+   ],
+   "nota": 6.6,
+   "votos": 150,
+   "sinopse": "Alvo de uma investigação interna, uma policial de Estocolmo decide descansar numa região conhecida pelo esqui. Até que o desaparecimento de uma garota acaba com essa paz.",
+   "poster": "/1TUSNZdN1HWSGDMhjre0y33y1Me.jpg",
+   "trailer": "BY7ChjDm0GY",
+   "popularidade": 3.8994,
+   "plataformas": [
+    {
+     "id": 8,
+     "nome": "Netflix",
+     "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "tipo": "assinatura"
+    }
+   ],
+   "justwatch": "https://www.themoviedb.org/tv/224021-aremorden/watch?locale=BR",
+   "temporada": 2,
+   "canais": [
+    "Netflix"
+   ]
+  },
+  {
    "id": "serie-339979",
    "tmdb": 339979,
    "tipo": "serie",
@@ -4835,6 +5883,77 @@
    "justwatch": "https://www.themoviedb.org/tv/339979-fixer-upper-chip-bought-a-mansion/watch?locale=BR",
    "temporada": 1,
    "canais": []
+  },
+  {
+   "id": "serie-293691",
+   "tmdb": 293691,
+   "tipo": "serie",
+   "titulo": "Uma Noite em Idaho: Os Assassinatos na Faculdade",
+   "original": "One Night in Idaho",
+   "data": "2026-12-28",
+   "semana": "2026-w53",
+   "segunda": "2026-12-28",
+   "generos": [
+    "Documentário"
+   ],
+   "nota": 7.8,
+   "votos": 13,
+   "sinopse": "Na noite de 13 de novembro de 2022, quatro estudantes universitários foram brutalmente assassinados em uma casa fora do campus, na tranquila cidade universitária de Moscow, Idaho. Com acesso exclusivo e íntimo às pessoas mais próximas das vítimas, Uma Noite em Idaho: Os Assassinatos na Faculdade explora os desdobramentos emocionais dessa tragédia estadunidense e suas consequências contínuas.",
+   "poster": "/74KGPlhyBM7AUfYQJ9VWB2sifpu.jpg",
+   "trailer": "Ro_qTgaXCPk",
+   "popularidade": 2.8289,
+   "plataformas": [
+    {
+     "id": 119,
+     "nome": "Amazon Prime Video",
+     "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "tipo": "assinatura"
+    }
+   ],
+   "justwatch": "https://www.themoviedb.org/tv/293691-one-night-in-idaho/watch?locale=BR",
+   "temporada": 2,
+   "canais": [
+    "Prime Video"
+   ]
+  },
+  {
+   "id": "serie-207863",
+   "tmdb": 207863,
+   "tipo": "serie",
+   "titulo": "As Bruxas Mayfair de Anne Rice",
+   "original": "Mayfair Witches",
+   "data": "2026-12-30",
+   "semana": "2026-w53",
+   "segunda": "2026-12-28",
+   "generos": [
+    "Drama",
+    "Sci-Fi & Fantasy"
+   ],
+   "nota": 7.3,
+   "votos": 377,
+   "sinopse": "Rowan Fielding, uma jovem neurocirurgiã intuitiva, descobre que ela é a improvável herdeira de uma família de bruxas. Enquanto ela lida com seus novos poderes, ela deve lidar com uma presença sinistra que assombra sua família há gerações.",
+   "poster": "/hcGhWkbY2885PFAGSiWgsnEFBTY.jpg",
+   "trailer": "xscoUU7AeY8",
+   "popularidade": 22.0907,
+   "plataformas": [
+    {
+     "id": 8,
+     "nome": "Netflix",
+     "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "tipo": "assinatura"
+    },
+    {
+     "id": 119,
+     "nome": "Amazon Prime Video",
+     "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "tipo": "assinatura"
+    }
+   ],
+   "justwatch": "https://www.themoviedb.org/tv/207863-mayfair-witches/watch?locale=BR",
+   "temporada": 3,
+   "canais": [
+    "AMC"
+   ]
   },
   {
    "id": "filme-1816371",
@@ -4928,6 +6047,71 @@
    "justwatch": null,
    "duracao": 96,
    "classificacao": "L"
+  },
+  {
+   "id": "serie-243200",
+   "tmdb": 243200,
+   "tipo": "serie",
+   "titulo": "Animal",
+   "original": null,
+   "data": "2027-01-01",
+   "semana": "2026-w53",
+   "segunda": "2026-12-28",
+   "generos": [
+    "Comédia"
+   ],
+   "nota": 6.7,
+   "votos": 65,
+   "sinopse": "O veterinário pobretão Antón arruma emprego em uma pet shop chique e deixa de tratar animais de fazenda para dar petiscos premium a bichinhos mimados.",
+   "poster": "/5MGDcHyLLtrnv1v3vMaoJ8sMj7p.jpg",
+   "trailer": "UQI8Ac7OJEA",
+   "popularidade": 4.7185,
+   "plataformas": [
+    {
+     "id": 8,
+     "nome": "Netflix",
+     "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "tipo": "assinatura"
+    }
+   ],
+   "justwatch": "https://www.themoviedb.org/tv/243200-animal/watch?locale=BR",
+   "temporada": 2,
+   "canais": [
+    "Netflix"
+   ]
+  },
+  {
+   "id": "serie-217745",
+   "tmdb": 217745,
+   "tipo": "serie",
+   "titulo": "LOL : Qui rira le dernier ?",
+   "original": null,
+   "data": "2027-01-01",
+   "semana": "2026-w53",
+   "segunda": "2026-12-28",
+   "generos": [
+    "Reality",
+    "Comédia"
+   ],
+   "nota": 6.2,
+   "votos": 8,
+   "sinopse": "Patrick Huard convida 10 comediantes para esta experiência única que beira a tortura. Eles passarão seis horas juntos em um espaço fechado onde é proibido rir. O último a rir ganhará o concurso, bem como $ 100.000 para a fundação de sua escolha.",
+   "poster": "/fEjDxv11H3miUB2Q9nJJiuYbV8G.jpg",
+   "trailer": null,
+   "popularidade": 4.3815,
+   "plataformas": [
+    {
+     "id": 119,
+     "nome": "Amazon Prime Video",
+     "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "tipo": "assinatura"
+    }
+   ],
+   "justwatch": "https://www.themoviedb.org/tv/217745-lol-qui-rira-le-dernier/watch?locale=BR",
+   "temporada": 5,
+   "canais": [
+    "Prime Video"
+   ]
   },
   {
    "id": "cinema-1280623",
@@ -5213,6 +6397,38 @@
    ]
   },
   {
+   "id": "serie-260471",
+   "tmdb": 260471,
+   "tipo": "serie",
+   "titulo": "Reparos em Família",
+   "original": "Shifting Gears",
+   "data": "2027-01-06",
+   "semana": "2027-w01",
+   "segunda": "2027-01-04",
+   "generos": [
+    "Comédia"
+   ],
+   "nota": 6.4,
+   "votos": 82,
+   "sinopse": "Matt, um viúvo obstinado, é o proprietário de uma oficina de carros clássicos. Quando sua filha separada e seus filhos adolescentes chegam à sua casa, a verdadeira restauração começa.",
+   "poster": "/7CGvzN6cjzOkmtoWqQdgEZRhQfy.jpg",
+   "trailer": "bl6Ib5T_mBE",
+   "popularidade": 12.9894,
+   "plataformas": [
+    {
+     "id": 337,
+     "nome": "Disney Plus",
+     "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+     "tipo": "assinatura"
+    }
+   ],
+   "justwatch": "https://www.themoviedb.org/tv/260471-shifting-gears/watch?locale=BR",
+   "temporada": 3,
+   "canais": [
+    "ABC"
+   ]
+  },
+  {
    "id": "cinema-1381273",
    "tmdb": 1381273,
    "tipo": "cinema",
@@ -5336,6 +6552,38 @@
    "classificacao": null
   },
   {
+   "id": "serie-307913",
+   "tmdb": 307913,
+   "tipo": "serie",
+   "titulo": "Canadá Shore",
+   "original": "Canada Shore",
+   "data": "2027-01-07",
+   "semana": "2027-w01",
+   "segunda": "2027-01-04",
+   "generos": [
+    "Reality"
+   ],
+   "nota": 6,
+   "votos": 6,
+   "sinopse": "Dez jovens canadenses ousados invadem uma cidade de festas à beira de um lago na Colúmbia Britânica para seu primeiro verão de bebedeira, pegação e decisões ruins, enquanto obedecem à chefe icônica: a única e inigualável Snooki.",
+   "poster": "/gItzF0zia8qMaAqniM6mhPgbbsl.jpg",
+   "trailer": "MlTMqgas974",
+   "popularidade": 1.009,
+   "plataformas": [
+    {
+     "id": 531,
+     "nome": "Paramount Plus",
+     "logo": "/pkx3klJlwW5JdtaulvDx6hDNtch.png",
+     "tipo": "assinatura"
+    }
+   ],
+   "justwatch": "https://www.themoviedb.org/tv/307913-canada-shore/watch?locale=BR",
+   "temporada": 2,
+   "canais": [
+    "Paramount+"
+   ]
+  },
+  {
    "id": "cinema-1405205",
    "tmdb": 1405205,
    "tipo": "cinema",
@@ -5381,6 +6629,160 @@
    "justwatch": null,
    "duracao": 116,
    "classificacao": "16"
+  },
+  {
+   "id": "serie-278639",
+   "tmdb": 278639,
+   "tipo": "serie",
+   "titulo": "Zona de Sobrevivência",
+   "original": "Extracted",
+   "data": "2027-01-08",
+   "semana": "2027-w01",
+   "segunda": "2027-01-04",
+   "generos": [
+    "Reality"
+   ],
+   "nota": 7.4,
+   "votos": 11,
+   "sinopse": "Os competidores enfrentam condições extremas na natureza enquanto suas famílias assistem por meio de uma transmissão ao vivo e podem decidir seu destino negociando o envio de suprimentos essenciais ou pressionando o botão \"Extrair\".",
+   "poster": "/qSZiSeDSPmEtvKHb61NxzX7dSMf.jpg",
+   "trailer": "3xnELnmTxlU",
+   "popularidade": 3.1154,
+   "plataformas": [
+    {
+     "id": 1899,
+     "nome": "HBO Max",
+     "logo": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+     "tipo": "assinatura"
+    }
+   ],
+   "justwatch": "https://www.themoviedb.org/tv/278639-extracted/watch?locale=BR",
+   "temporada": 3,
+   "canais": [
+    "FOX"
+   ]
+  },
+  {
+   "id": "serie-297438",
+   "tmdb": 297438,
+   "tipo": "serie",
+   "titulo": "Akane-banashi",
+   "original": "あかね噺",
+   "data": "2027-01-09",
+   "semana": "2027-w01",
+   "segunda": "2027-01-04",
+   "generos": [
+    "Animação",
+    "Drama"
+   ],
+   "nota": 7.7,
+   "votos": 32,
+   "sinopse": "Akane Osaki, fascinada desde a infância pelas performances mágicas de seu pai, Shinta Arakawa, testemunha um incidente chocante durante sua apresentação decisiva para a promoção a Shin’uchi (nível de mestre). Seis anos depois, agora estudante do ensino médio, ela estabelece como meta tornar-se uma Shin’uchi, avançando no mundo altamente competitivo do rakugo.",
+   "poster": "/ix3Jv1p9IOHkssYO5uct86aMJ1q.jpg",
+   "trailer": "PZJAOQ-7iJ8",
+   "popularidade": 17.5137,
+   "plataformas": [
+    {
+     "id": 8,
+     "nome": "Netflix",
+     "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "tipo": "assinatura"
+    }
+   ],
+   "justwatch": "https://www.themoviedb.org/tv/297438-akane-xin/watch?locale=BR",
+   "temporada": 2,
+   "canais": [
+    "tv asahi",
+    "Nagoya TV",
+    "KBC",
+    "ABC TV",
+    "NCC",
+    "OAB",
+    "ABA",
+    "Niigata Television Network 21",
+    "khb",
+    "KFB",
+    "HOME",
+    "KSB",
+    "Kagoshima Broadcasting",
+    "Iwate Asahi TV",
+    "Akita Asahi Broadcasting",
+    "Yamagata Television System",
+    "Shizuoka Asahi TV",
+    "Asahi Broadcasting Nagano",
+    "Hokuriku Asahi Broadcasting",
+    "Ehime Asahi TV",
+    "Yamaguchi Asahi Broadcasting",
+    "Kumamoto Asahi Broadcasting",
+    "Ryu-Q Asahi Broadcasting"
+   ]
+  },
+  {
+   "id": "serie-238843",
+   "tmdb": 238843,
+   "tipo": "serie",
+   "titulo": "The Fable",
+   "original": "ザ・ファブル",
+   "data": "2027-01-09",
+   "semana": "2027-w01",
+   "segunda": "2027-01-04",
+   "generos": [
+    "Animação",
+    "Comédia",
+    "Action & Adventure",
+    "Crime"
+   ],
+   "nota": 7.7,
+   "votos": 54,
+   "sinopse": "Fable é um assassino invencível, capaz de eliminar qualquer alvo em menos de seis segundos. Um dia, a chefia da organização ordena que ele não mate ninguém por um ano e tenha uma vida comum. Assim começa a pausa de um ano, cómica e ligeiramente excêntrica, da matança, de Fable.",
+   "poster": "/svJlYlNgkHNi8bvYxZPFXHYI4EM.jpg",
+   "trailer": null,
+   "popularidade": 16.7079,
+   "plataformas": [
+    {
+     "id": 337,
+     "nome": "Disney Plus",
+     "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+     "tipo": "assinatura"
+    }
+   ],
+   "justwatch": "https://www.themoviedb.org/tv/238843-za-fuaburu/watch?locale=BR",
+   "temporada": 2,
+   "canais": [
+    "Nippon TV"
+   ]
+  },
+  {
+   "id": "serie-19653",
+   "tmdb": 19653,
+   "tipo": "serie",
+   "titulo": "Big Brother Brasil",
+   "original": null,
+   "data": "2027-01-11",
+   "semana": "2027-w02",
+   "segunda": "2027-01-11",
+   "generos": [
+    "Reality"
+   ],
+   "nota": 4.7,
+   "votos": 50,
+   "sinopse": "Confinados em uma casa, participantes precisam conviver — e enfrentar diferentes personalidades —, dividir tarefas, participar de competições e enfrentar o temido \"paredão\" até quem um deles se consagre campeão do reality show mais assistido do Brasil desde 2002. E tudo isso permeado por festas, romances e muitas confusões.",
+   "poster": "/7n7uoEiIcpZkEFNZ83PFPrQzoaR.jpg",
+   "trailer": null,
+   "popularidade": 0.444,
+   "plataformas": [
+    {
+     "id": 307,
+     "nome": "Globoplay",
+     "logo": "/9A6Oxd3F7iXm7mds7CxYOBicojs.png",
+     "tipo": "assinatura"
+    }
+   ],
+   "justwatch": "https://www.themoviedb.org/tv/19653-big-brother-brasil/watch?locale=BR",
+   "temporada": 27,
+   "canais": [
+    "TV Globo"
+   ]
   },
   {
    "id": "serie-108545",
@@ -5547,6 +6949,38 @@
    "classificacao": "14"
   },
   {
+   "id": "serie-326367",
+   "tmdb": 326367,
+   "tipo": "serie",
+   "titulo": "अलायन्स",
+   "original": null,
+   "data": "2027-01-14",
+   "semana": "2027-w02",
+   "segunda": "2027-01-11",
+   "generos": [
+    "Reality"
+   ],
+   "nota": 6.5,
+   "votos": 2,
+   "sinopse": "",
+   "poster": "/t9Og3WjlXcptadBFhLFJL3cSMDy.jpg",
+   "trailer": "XvCJ9g-XJgo",
+   "popularidade": 4.1805,
+   "plataformas": [
+    {
+     "id": 119,
+     "nome": "Amazon Prime Video",
+     "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "tipo": "assinatura"
+    }
+   ],
+   "justwatch": "https://www.themoviedb.org/tv/326367-alayns/watch?locale=BR",
+   "temporada": 2,
+   "canais": [
+    "Prime Video"
+   ]
+  },
+  {
    "id": "cinema-1520592",
    "tmdb": 1520592,
    "tipo": "cinema",
@@ -5679,6 +7113,38 @@
    "temporada": 5,
    "canais": [
     "Paramount+"
+   ]
+  },
+  {
+   "id": "serie-246929",
+   "tmdb": 246929,
+   "tipo": "serie",
+   "titulo": "Your Majesty",
+   "original": "Su majestad",
+   "data": "2027-01-15",
+   "semana": "2027-w02",
+   "segunda": "2027-01-11",
+   "generos": [
+    "Comédia"
+   ],
+   "nota": 6.8,
+   "votos": 35,
+   "sinopse": "Depois de se ver envolvido num escândalo financeiro, o rei Alfonso XIV decide afastar-se da vida pública durante alguns meses. Entretanto, alguém tem de assumir as rédeas da monarquia e a única alternativa é a sua filha Pilar. A princesa terá de provar ao país que não é a rapariga irresponsável, preguiçosa e inútil que todos pensam. Mas talvez não estejam assim tão enganados.",
+   "poster": "/oYz66iyll5q5yImMnzVkvUOxBho.jpg",
+   "trailer": null,
+   "popularidade": 3.0908,
+   "plataformas": [
+    {
+     "id": 119,
+     "nome": "Amazon Prime Video",
+     "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "tipo": "assinatura"
+    }
+   ],
+   "justwatch": "https://www.themoviedb.org/tv/246929-su-majestad/watch?locale=BR",
+   "temporada": 2,
+   "canais": [
+    "Prime Video"
    ]
   },
   {

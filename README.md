@@ -32,7 +32,9 @@ npm run exemplo             # dados FICTÍCIOS em .exemplo/, para ver o site sem
 | gerar | `scripts/gerar.mjs`, `src/` | `public/` (uma página por semana) |
 | testar | `scripts/testar.mjs` | confere dados, links, versão, créditos, CSP |
 
-Regras: cinema = estreia teatral (tipos 2 e 3 do TMDB) no Brasil; filme no streaming = lançamento digital/físico (tipos 4 e 5) **com plataforma informada**; série = estreia de série ou de temporada com plataforma de assinatura. Itens sem plataforma são descartados porque não teriam link útil.
+Regras: cinema = estreia teatral (tipos 2 e 3 do TMDB) no Brasil; filme no streaming = lançamento digital/físico (tipos 4 e 5) **com plataforma informada**; série = estreia de série ou de temporada com plataforma de assinatura. Séries sem plataforma são descartadas porque não teriam link útil; filmes sem plataforma entram como "Plataforma ainda não informada". A coleta consulta cada plataforma do Brasil separadamente.
+
+**Limite do TMDB:** ele só informa a data de lançamento, não a data em que um título entra no catálogo de uma plataforma. Por isso plataformas de acervo (ex.: Mercado Play) quase não aparecem como novidade.
 
 ## Publicação
 
