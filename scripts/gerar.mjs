@@ -4,7 +4,7 @@
 import { cpSync, rmSync, mkdirSync } from 'node:fs';
 import {
   lerJSON, gravarTexto, caminho, esc, slug, cortar, hojeBR, segunda, somarDias, slugSemana, diaLongo,
-  faixa, VERSAO, SITE, EXEMPLO,
+  faixa, diaMini, VERSAO, SITE, EXEMPLO,
 } from './util.mjs';
 import { pagina } from '../src/layout.mjs';
 import { REDES, linkRede } from '../src/redes.mjs';
@@ -75,6 +75,7 @@ function cartao(i) {
   return `<article class="card" data-plat="${esc(platSlugs)}">
   <a class="capa" href="${esc(tituloLink(i))}" rel="noopener">${poster}</a>
   <div class="info">
+    <p class="quando">${esc(diaMini(i.data))}</p>
     <h3><a href="${esc(tituloLink(i))}" rel="noopener">${esc(i.titulo)}</a>${i.nota ? `<span class="nota" title="${i.votos} votos no TMDB">★ ${i.nota.toFixed(1).replace('.', ',')}</span>` : ''}</h3>
     ${i.original ? `<p class="orig">${esc(i.original)}</p>` : ''}
     <p class="meta">${meta.map(esc).join(' · ')}</p>
@@ -114,6 +115,7 @@ function paginaSemana(w, k, alvo) {
 </div>
 <nav class="abas" aria-label="Seções">
   ${SECOES.map((s) => `<a href="#${s.id}">${s.titulo} <span class="qtd">${qtd(s.tipo)}</span></a>`).join('\n  ')}
+  <span class="vista" role="group" aria-label="Modo de exibição"><button type="button" data-vista="junto" aria-pressed="true">Todos juntos</button><button type="button" data-vista="dia" aria-pressed="false">Por dia</button></span>
   ${opcoes.length ? `<label class="filtro">Plataforma <select id="f-plat"><option value="">Todas</option>${opcoes.map(([s, n]) => `<option value="${esc(s)}">${esc(n)}</option>`).join('')}</select></label>` : ''}
 </nav>
 ${SECOES.map((s) => secao(w, s)).join('\n')}

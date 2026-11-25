@@ -41,6 +41,16 @@ main, .topo, .rodape { max-width: 1180px; margin: 0 auto; padding-left: 16px; pa
 .dias { display: grid; grid-template-columns: repeat(auto-fill, minmax(340px, 1fr)); gap: 8px 16px; align-items: start; }
 .dia-tit { font-size: .95rem; color: var(--suave); margin: 12px 0 8px; font-weight: 600; }
 .dia-tit::first-letter { text-transform: uppercase; }
+.quando { display: none; margin: 0 0 2px; font-size: .75rem; font-weight: 600; color: var(--destaque); text-transform: uppercase; letter-spacing: .03em; }
+main[data-vista="junto"] .quando { display: block; }
+main[data-vista="junto"] .dias { align-items: stretch; gap: 12px; }
+main[data-vista="junto"] .dia, main[data-vista="junto"] .grade { display: contents; }
+main[data-vista="junto"] .dia-tit { display: none; }
+main[data-vista="junto"] .card { height: 100%; }
+.vista { display: inline-flex; margin-left: auto; border: 1px solid var(--linha); border-radius: 999px; overflow: hidden; background: var(--painel); }
+.vista button { font: inherit; font-size: .85rem; padding: 6px 12px; border: 0; background: transparent; color: var(--texto); cursor: pointer; }
+.vista button[aria-pressed="true"] { background: var(--destaque); color: var(--fundo); font-weight: 600; }
+.vista + .filtro { margin-left: 0; }
 .vazio, .vazio-filtro { color: var(--suave); }
 .grade { display: flex; flex-direction: column; gap: 12px; }
 
@@ -82,4 +92,5 @@ a.chip:hover { text-decoration: underline; }
   .semana-tit { grid-column: 1 / -1; grid-row: 1; }
   .semana-nav .seta { font-size: .8rem; padding: 7px 9px; }
   .filtro { margin-left: 0; width: 100%; }
+  .vista { margin-left: 0; }
 }

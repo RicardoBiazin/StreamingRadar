@@ -1,5 +1,10 @@
 # Histórico
 
+## 0.1.2 — 24/11/2026
+
+- Modo de exibição: "Todos juntos" (padrão) lista os cartões numa grade alinhada, com a data em cada cartão; "Por dia" mantém as colunas por dia. A escolha fica salva no navegador.
+- O `testar` confere que toda data de cartão está preenchida.
+
 ## 0.1.1 — 24/11/2026
 
 Primeira coleta com a chave real do TMDB (219 itens em 9 semanas) e ajustes a partir dela.

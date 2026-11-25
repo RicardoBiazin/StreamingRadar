@@ -28,7 +28,7 @@ ${json ? `<script type="application/ld+json">${JSON.stringify(json).replace(/</g
   <a class="marca" href="/"><span class="radar" aria-hidden="true"></span>Streaming Radar</a>
   <span class="versao">v${VERSAO}</span>
 </header>
-<main>
+<main data-vista="junto">
 ${corpo}
 </main>
 <footer class="rodape">

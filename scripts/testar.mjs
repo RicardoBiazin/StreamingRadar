@@ -64,6 +64,7 @@ for (const [nome, html] of todas) {
     const n = (cinemas.match(new RegExp(`class="chip rede" href="[^"]+" rel="noopener">${r.nome.replace('.', '\\.')}<`, 'g')) || []).length;
     ok(n === nCards, `${nome}: rede ${r.nome} em ${n} de ${nCards} cartões de cinema`);
   }
+  ok(!/class="quando"><\/p>/.test(html), `${nome}: data vazia no cartão`);
   ok(!/\bundefined\b|\bNaN\b|\[object Object\]/.test(html), `${nome}: texto quebrado (undefined/NaN/[object Object])`);
 }
 

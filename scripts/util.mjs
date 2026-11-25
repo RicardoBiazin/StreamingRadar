@@ -67,6 +67,7 @@ export function slugSemana(s) {
 
 const fmt = (opts) => new Intl.DateTimeFormat('pt-BR', { timeZone: 'UTC', ...opts });
 export const diaLongo = (s) => fmt({ weekday: 'long', day: 'numeric', month: 'long' }).format(paraMs(s));
+export const diaMini = (s) => fmt({ weekday: 'short', day: 'numeric', month: 'short' }).format(paraMs(s)).replace(/\./g, '');
 export const diaCurto = (s) => fmt({ day: 'numeric', month: 'short' }).format(paraMs(s)).replace('.', '');
 
 // "24 a 30 de novembro" ou "29 de nov. a 5 de dez."

@@ -1,5 +1,17 @@
-// Filtro por plataforma (só esconde cartões; sem o JS a página mostra tudo).
+// Modo de exibição (todos juntos / por dia) e filtro por plataforma.
+// Sem JS a página mostra tudo, no modo "todos juntos".
 (function () {
+  var main = document.querySelector('main');
+  var botoes = [].slice.call(document.querySelectorAll('.vista button'));
+
+  function vista(v) {
+    main.setAttribute('data-vista', v);
+    botoes.forEach(function (b) { b.setAttribute('aria-pressed', String(b.getAttribute('data-vista') === v)); });
+    try { localStorage.setItem('sr-vista', v); } catch (e) {}
+  }
+  botoes.forEach(function (b) { b.addEventListener('click', function () { vista(b.getAttribute('data-vista')); }); });
+  try { var salvo = localStorage.getItem('sr-vista'); if (salvo === 'dia' || salvo === 'junto') vista(salvo); } catch (e) {}
+
   var sel = document.getElementById('f-plat');
   if (!sel) return;
   var cartoes = [].slice.call(document.querySelectorAll('.card'));
