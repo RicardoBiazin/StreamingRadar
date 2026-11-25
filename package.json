@@ -1,6 +1,6 @@
 {
   "name": "streaming-radar",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "private": true,
   "description": "Lançamentos da semana no Brasil: cinema (com redes), filmes e séries no streaming, com links",
   "license": "MIT",

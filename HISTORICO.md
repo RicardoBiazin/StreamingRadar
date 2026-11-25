@@ -1,5 +1,10 @@
 # Histórico
 
+## 0.2.1 — 25/11/2026
+
+- Séries originais sem dado de provedor no TMDB agora aparecem. Caso que mostrou o furo: Blade Runner 2099 (Prime Video) não tinha provedor nenhum para o Brasil no dia da estreia e era descartado. A coleta passa a consultar também por rede de origem (Netflix, Prime Video, Disney+, Apple TV, HBO Max, Paramount+, Crunchyroll) e a plataforma é deduzida do nome da rede quando o TMDB não informa (só redes que são streaming; canal de TV não entra). Séries na janela: 92 para 172.
+- Limite: o mesmo furo existe para filmes originais sem provedor; eles só entram se tiverem data digital/física no TMDB.
+
 ## 0.2.0 — 24/11/2026
 
 - Catálogo completo: tudo que está disponível por assinatura, grátis ou com anúncios no Brasil, por plataforma (53 plataformas, ~59 mil títulos únicos; a coleta faz ~3.700 consultas ao TMDB em ~2,5 min). Página `/catalogo/` com busca entre plataformas ("onde assistir?") e uma página por plataforma (`/catalogo/<plataforma>.html`) com busca, filtro por tipo e gênero, ordem (popularidade, nota, ano, A a Z) e "Mostrar mais". Os 48 mais populares já vêm no HTML.

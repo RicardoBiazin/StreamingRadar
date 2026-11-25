@@ -64,14 +64,24 @@ for (const i of itens.filter((x) => x.tipo === 'filme' && !x.plataformas.length)
 }
 for (let k = itens.length - 1; k >= 0; k--) if (itens[k].descartar) itens.splice(k, 1);
 
+// Quando o TMDB ainda não tem provedor para a série, a rede de origem diz a plataforma
+// (só redes que SÃO streaming; canal de TV não entra). Marcado como "inferido".
+const REDES_STREAMING = [
+  [/^prime video$|^amazon$/i, 'Amazon Prime Video'], [/^netflix$/i, 'Netflix'], [/^disney\+$|^disney plus$/i, 'Disney Plus'],
+  [/^apple tv\+?$/i, 'Apple TV'], [/^(hbo )?max$|^hbo max$/i, 'HBO Max'], [/^paramount\+$|^paramount plus$/i, 'Paramount Plus'],
+  [/^crunchyroll$/i, 'Crunchyroll'], [/^globoplay$/i, 'Globoplay'], [/^mercado play$/i, 'Mercado Play'],
+];
+const deduzir = (canais) => (canais || []).flatMap((c) => REDES_STREAMING.filter(([re]) => re.test(c)).map(([, nome]) => ({ id: null, nome, logo: null, tipo: 'assinatura', inferido: true })));
+
 for (const r of bruto.series) {
-  const pl = plataformas(r.provedores);
+  let pl = plataformas(r.provedores);
+  if (!pl.length) pl = deduzir(r.canais);
   // Estreia de temporada: data da temporada, ou episódio 1 (último/próximo) dentro da janela.
   const temps = (r.temporadas || []).filter((t) => t.n > 0 && dentro(t.data));
   for (const e of [r.ultimoEp, r.proximoEp]) if (e && e.episodio === 1 && e.temporada > 0 && dentro(e.data)) temps.push({ n: e.temporada, data: e.data });
   if (!pl.length || !temps.length) continue;
   const t = temps.sort((a, b) => a.data.localeCompare(b.data))[0];
-  itens.push({ ...base(r, 'serie', t.data), temporada: t.n, canais: r.canais || [] });
+  itens.push({ ...base(r, 'serie', t.data), plataformas: pl, temporada: t.n, canais: r.canais || [] });
 }
 
 itens.sort((a, b) => a.data.localeCompare(b.data) || b.popularidade - a.popularidade);

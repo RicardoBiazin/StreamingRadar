@@ -139,6 +139,17 @@ export async function coletarTudo(chave, { de, ate, paginas = {} }) {
     [...s1, ...s2].forEach((id) => idsSeriesPlat.add(id));
   });
 
+  // Séries originais ainda SEM dado de provedor no TMDB (ex.: Blade Runner 2099 no dia da estreia)
+  // não aparecem na consulta por provedor. A rede de origem (Prime Video, Netflix...) as pega;
+  // a plataforma é então deduzida do nome da rede (ver REDES_STREAMING em normalizar.mjs).
+  const REDES_STREAMING = [213, 1024, 2739, 2552, 3186, 4330, 1112]; // Netflix, Prime, Disney+, Apple TV, HBO Max, Paramount+, Crunchyroll
+  await emLote(REDES_STREAMING, 4, async (rede) => {
+    const base = { with_networks: rede, timezone: 'America/Sao_Paulo' };
+    const s1 = await descobrir(chave, 'tv', { ...base, 'air_date.gte': de, 'air_date.lte': ate }, 6);
+    const s2 = await descobrir(chave, 'tv', { ...base, 'first_air_date.gte': de, 'first_air_date.lte': ate }, 4);
+    [...s1, ...s2].forEach((id) => idsSeriesPlat.add(id));
+  });
+
   // Um filme pode estar em várias listas: o detalhe é buscado uma vez só.
   const listaFilmes = [...new Set([...idsFilmes, ...idsFilmesPlat])];
   const todosFilmes = [...new Set([...idsCinema, ...listaFilmes])];

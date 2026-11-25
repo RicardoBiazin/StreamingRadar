@@ -1,7 +1,7 @@
 {
  "fonte": "tmdb",
- "coletadoEm": "2026-11-25T02:47:53.571Z",
- "hoje": "2026-11-24",
+ "coletadoEm": "2026-11-25T03:10:15.297Z",
+ "hoje": "2026-11-25",
  "de": "2026-11-16",
  "ate": "2027-05-30",
  "cinema": [
@@ -420,7 +420,7 @@
    ],
    "nota": 0,
    "votos": 0,
-   "popularidade": 45.6487,
+   "popularidade": 48.0643,
    "duracao": 150,
    "datas": [
     {
@@ -2955,7 +2955,7 @@
    ],
    "nota": 0,
    "votos": 0,
-   "popularidade": 1.8398,
+   "popularidade": 1.9441,
    "duracao": 100,
    "datas": [
     {
@@ -3858,7 +3858,7 @@
    ],
    "nota": 7.4,
    "votos": 19,
-   "popularidade": 0.7708,
+   "popularidade": 0.7628,
    "duracao": 120,
    "datas": [
     {
@@ -5928,7 +5928,7 @@
    ],
    "nota": 0,
    "votos": 0,
-   "popularidade": 0.1272,
+   "popularidade": 0.1188,
    "duracao": 10,
    "datas": [
     {
@@ -6911,7 +6911,7 @@
    ],
    "nota": 7.833,
    "votos": 9,
-   "popularidade": 22.7132,
+   "popularidade": 21.4323,
    "duracao": 146,
    "datas": [
     {
@@ -12425,7 +12425,7 @@
    ],
    "nota": 7.839,
    "votos": 1173,
-   "popularidade": 118.0342,
+   "popularidade": 124.2824,
    "primeira": "2011-01-09",
    "ultimoEp": {
     "data": "2026-05-17",
@@ -17667,7 +17667,7 @@
    ],
    "nota": 6.6,
    "votos": 21,
-   "popularidade": 35.5053,
+   "popularidade": 33.2516,
    "primeira": "2026-11-18",
    "ultimoEp": {
     "data": "2026-11-18",
@@ -23524,7 +23524,7 @@
    ],
    "nota": 8.151,
    "votos": 149,
-   "popularidade": 14.8027,
+   "popularidade": 15.0616,
    "primeira": "2025-11-19",
    "ultimoEp": {
     "data": "2025-12-22",
@@ -28073,7 +28073,7 @@
    ],
    "nota": 6.6,
    "votos": 150,
-   "popularidade": 3.8994,
+   "popularidade": 3.766,
    "primeira": "2025-02-06",
    "ultimoEp": {
     "data": "2025-02-06",
@@ -29627,7 +29627,7 @@
    ],
    "nota": 0,
    "votos": 0,
-   "popularidade": 0.9414,
+   "popularidade": 0.9287,
    "primeira": "2025-07-01",
    "ultimoEp": {
     "data": "2025-08-26",
@@ -34615,6 +34615,5025 @@
     "rent": [],
     "buy": []
    }
+  },
+  {
+   "id": 215528,
+   "imdb": "tt31512174",
+   "titulo": "Neuromancer",
+   "original": "Neuromancer",
+   "lingua": "en",
+   "sinopse": "Um super-hacker arruinado e uma assassina letal são recrutados para uma missão arriscada: roubar uma poderosa dinastia corporativa que tem uma fortuna incalculável... e segredos que eles matariam para proteger.",
+   "poster": "/iqgZcf5g0KfyAXqyANNun9k2Asg.jpg",
+   "generos": [
+    "Sci-Fi & Fantasy",
+    "Mistério"
+   ],
+   "nota": 0,
+   "votos": 0,
+   "popularidade": 7.4424,
+   "primeira": "2027-01-21",
+   "ultimoEp": null,
+   "proximoEp": {
+    "data": "2027-01-21",
+    "temporada": 1,
+    "episodio": 1
+   },
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2027-01-21"
+    }
+   ],
+   "canais": [
+    "Apple TV"
+   ],
+   "trailer": null,
+   "provedores": null
+  },
+  {
+   "id": 290825,
+   "imdb": "tt36842987",
+   "titulo": "The Wanted Man",
+   "original": "The Wanted Man",
+   "lingua": "en",
+   "sinopse": "",
+   "poster": "/sVlwTGXBwm1UqM75CMMDf7MC7ZI.jpg",
+   "generos": [
+    "Crime",
+    "Drama"
+   ],
+   "nota": 0,
+   "votos": 0,
+   "popularidade": 3.0245,
+   "primeira": "2027-01-06",
+   "ultimoEp": null,
+   "proximoEp": {
+    "data": "2027-01-06",
+    "temporada": 1,
+    "episodio": 1
+   },
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2027-01-06"
+    }
+   ],
+   "canais": [
+    "Apple TV"
+   ],
+   "trailer": null,
+   "provedores": null
+  },
+  {
+   "id": 320582,
+   "imdb": "tt42027157",
+   "titulo": "She's Fine",
+   "original": "She's Fine",
+   "lingua": "en",
+   "sinopse": "",
+   "poster": null,
+   "generos": [
+    "Comédia"
+   ],
+   "nota": 0,
+   "votos": 0,
+   "popularidade": 2.3795,
+   "primeira": "2027-01-26",
+   "ultimoEp": null,
+   "proximoEp": {
+    "data": "2027-01-26",
+    "temporada": 1,
+    "episodio": 1
+   },
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2027-01-26"
+    }
+   ],
+   "canais": [
+    "Apple TV"
+   ],
+   "trailer": null,
+   "provedores": null
+  },
+  {
+   "id": 289549,
+   "imdb": "tt36501178",
+   "titulo": "Prodigies",
+   "original": "Prodigies",
+   "lingua": "en",
+   "sinopse": "",
+   "poster": "/8hMh9CJ3HA2sMbITNKkEInknAS9.jpg",
+   "generos": [
+    "Comédia",
+    "Drama"
+   ],
+   "nota": 0,
+   "votos": 0,
+   "popularidade": 2.3214,
+   "primeira": "2027-02-10",
+   "ultimoEp": null,
+   "proximoEp": {
+    "data": "2027-02-10",
+    "temporada": 1,
+    "episodio": 1
+   },
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2027-02-10"
+    }
+   ],
+   "canais": [
+    "Apple TV"
+   ],
+   "trailer": null,
+   "provedores": null
+  },
+  {
+   "id": 291368,
+   "imdb": "tt23099476",
+   "titulo": "Wild Things",
+   "original": "Wild Things",
+   "lingua": "en",
+   "sinopse": "",
+   "poster": "/pQ2ZCQOhhssfmKb3MbZg0xJlJEW.jpg",
+   "generos": [
+    "Drama"
+   ],
+   "nota": 0,
+   "votos": 0,
+   "popularidade": 2.2818,
+   "primeira": "2027-04-15",
+   "ultimoEp": null,
+   "proximoEp": {
+    "data": "2027-04-15",
+    "temporada": 1,
+    "episodio": 1
+   },
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2027-04-15"
+    }
+   ],
+   "canais": [
+    "Apple TV"
+   ],
+   "trailer": null,
+   "provedores": null
+  },
+  {
+   "id": 321841,
+   "imdb": "tt43343891",
+   "titulo": "Circuits in Focus",
+   "original": "Circuits in Focus",
+   "lingua": "en",
+   "sinopse": "",
+   "poster": "/oZv6dtjBfu18spLsBLaOeqgBeJG.jpg",
+   "generos": [
+    "Documentário"
+   ],
+   "nota": 0,
+   "votos": 0,
+   "popularidade": 1.6167,
+   "primeira": "2026-04-30",
+   "ultimoEp": {
+    "data": "2026-11-18",
+    "temporada": 1,
+    "episodio": 17
+   },
+   "proximoEp": {
+    "data": "2026-11-26",
+    "temporada": 1,
+    "episodio": 18
+   },
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2026-04-30"
+    }
+   ],
+   "canais": [
+    "YouTube",
+    "Apple TV"
+   ],
+   "trailer": null,
+   "provedores": null
+  },
+  {
+   "id": 343253,
+   "imdb": "tt52101992",
+   "titulo": "Timberlake",
+   "original": "Timberlake",
+   "lingua": "en",
+   "sinopse": "Após 30 anos de sucesso extraordinário e exposição constante, Justin Timberlake reflete sobre sua vida atual e encara as polêmicas, as manchetes e o preço de nunca parar.",
+   "poster": "/AiiQODMn4rRUOCrIYEABnKyqbnD.jpg",
+   "generos": [
+    "Documentário"
+   ],
+   "nota": 0,
+   "votos": 0,
+   "popularidade": 0.5822,
+   "primeira": "2026-12-10",
+   "ultimoEp": null,
+   "proximoEp": {
+    "data": "2026-12-10",
+    "temporada": 1,
+    "episodio": 1
+   },
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2026-12-10"
+    }
+   ],
+   "canais": [
+    "Apple TV"
+   ],
+   "trailer": "sDMNuKvCXOc",
+   "provedores": null
+  },
+  {
+   "id": 1508,
+   "imdb": "tt0463398",
+   "titulo": "Dancing with the Stars",
+   "original": "Dancing with the Stars",
+   "lingua": "en",
+   "sinopse": "Dançarinos profissionais formam pares com celebridades para treinar e competir na dança de salão, recebendo orientações de especialistas ao longo do caminho.",
+   "poster": "/iisHVZ6we56PE4BcV1csB46SbiG.jpg",
+   "generos": [
+    "Reality",
+    "Família"
+   ],
+   "nota": 6.166,
+   "votos": 145,
+   "popularidade": 109.4875,
+   "primeira": "2005-06-01",
+   "ultimoEp": {
+    "data": "2026-11-24",
+    "temporada": 35,
+    "episodio": 12
+   },
+   "proximoEp": {
+    "data": "2026-12-01",
+    "temporada": 35,
+    "episodio": 13
+   },
+   "temporadas": [
+    {
+     "n": 0,
+     "data": "2008-05-07"
+    },
+    {
+     "n": 1,
+     "data": "2005-06-01"
+    },
+    {
+     "n": 2,
+     "data": "2006-01-05"
+    },
+    {
+     "n": 3,
+     "data": "2006-09-12"
+    },
+    {
+     "n": 4,
+     "data": "2007-05-19"
+    },
+    {
+     "n": 5,
+     "data": "2007-09-24"
+    },
+    {
+     "n": 6,
+     "data": "2008-03-17"
+    },
+    {
+     "n": 7,
+     "data": "2008-09-22"
+    },
+    {
+     "n": 8,
+     "data": "2009-03-09"
+    },
+    {
+     "n": 9,
+     "data": "2009-09-21"
+    },
+    {
+     "n": 10,
+     "data": "2010-03-22"
+    },
+    {
+     "n": 11,
+     "data": "2010-09-20"
+    },
+    {
+     "n": 12,
+     "data": "2011-03-21"
+    },
+    {
+     "n": 13,
+     "data": "2011-09-19"
+    },
+    {
+     "n": 14,
+     "data": "2012-03-19"
+    },
+    {
+     "n": 15,
+     "data": "2012-09-24"
+    },
+    {
+     "n": 16,
+     "data": "2013-03-18"
+    },
+    {
+     "n": 17,
+     "data": "2013-09-16"
+    },
+    {
+     "n": 18,
+     "data": "2014-03-17"
+    },
+    {
+     "n": 19,
+     "data": "2014-09-15"
+    },
+    {
+     "n": 20,
+     "data": "2015-03-16"
+    },
+    {
+     "n": 21,
+     "data": "2015-09-14"
+    },
+    {
+     "n": 22,
+     "data": "2016-03-21"
+    },
+    {
+     "n": 23,
+     "data": "2016-09-12"
+    },
+    {
+     "n": 24,
+     "data": "2017-03-20"
+    },
+    {
+     "n": 25,
+     "data": "2017-09-18"
+    },
+    {
+     "n": 26,
+     "data": "2018-04-30"
+    },
+    {
+     "n": 27,
+     "data": "2018-09-24"
+    },
+    {
+     "n": 28,
+     "data": "2019-09-16"
+    },
+    {
+     "n": 29,
+     "data": "2020-09-14"
+    },
+    {
+     "n": 30,
+     "data": "2021-09-20"
+    },
+    {
+     "n": 31,
+     "data": "2022-09-19"
+    },
+    {
+     "n": 32,
+     "data": "2023-09-26"
+    },
+    {
+     "n": 33,
+     "data": "2024-09-17"
+    },
+    {
+     "n": 34,
+     "data": "2025-09-16"
+    },
+    {
+     "n": 35,
+     "data": "2026-09-15"
+    }
+   ],
+   "canais": [
+    "ABC",
+    "Disney+"
+   ],
+   "trailer": null,
+   "provedores": null
+  },
+  {
+   "id": 136915,
+   "imdb": "tt15823370",
+   "titulo": "캐치! 티니핑",
+   "original": "캐치! 티니핑",
+   "lingua": "ko",
+   "sinopse": "",
+   "poster": "/rY8QGWz7xdsBx6Em1WnpqQZ2oIU.jpg",
+   "generos": [
+    "Animação",
+    "Kids"
+   ],
+   "nota": 7,
+   "votos": 4,
+   "popularidade": 19.4897,
+   "primeira": "2020-03-19",
+   "ultimoEp": {
+    "data": "2026-11-18",
+    "temporada": 7,
+    "episodio": 1
+   },
+   "proximoEp": null,
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2020-03-19"
+    },
+    {
+     "n": 2,
+     "data": "2021-09-22"
+    },
+    {
+     "n": 3,
+     "data": "2022-09-14"
+    },
+    {
+     "n": 4,
+     "data": "2023-09-27"
+    },
+    {
+     "n": 5,
+     "data": "2024-10-10"
+    },
+    {
+     "n": 6,
+     "data": "2025-10-30"
+    },
+    {
+     "n": 7,
+     "data": "2026-11-18"
+    }
+   ],
+   "canais": [
+    "YouTube",
+    "KBS2",
+    "iQiyi",
+    "Youku",
+    "Tencent Video",
+    "Disney+",
+    "JEI TV"
+   ],
+   "trailer": null,
+   "provedores": null
+  },
+  {
+   "id": 138503,
+   "imdb": "tt16027074",
+   "titulo": "Seu Amigão da Vizinhança: Homem-Aranha",
+   "original": "Your Friendly Neighborhood Spider-Man",
+   "lingua": "en",
+   "sinopse": "Uma série animada que segue Peter Parker em seu caminho para se tornar o Homem-Aranha no MCU, com uma jornada como nunca vimos e um estilo que celebra as raízes dos primeiros quadrinhos do personagem.",
+   "poster": "/fEhEJowHEcWgqWknxwbdsiHyGty.jpg",
+   "generos": [
+    "Animação",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+   ],
+   "nota": 7.757,
+   "votos": 313,
+   "popularidade": 17.4729,
+   "primeira": "2025-01-29",
+   "ultimoEp": {
+    "data": "2025-02-19",
+    "temporada": 1,
+    "episodio": 10
+   },
+   "proximoEp": {
+    "data": "2027-01-13",
+    "temporada": 2,
+    "episodio": 1
+   },
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2025-01-27"
+    },
+    {
+     "n": 2,
+     "data": "2027-01-13"
+    }
+   ],
+   "canais": [
+    "Disney+"
+   ],
+   "trailer": "uo_2L8p_67E",
+   "provedores": null
+  },
+  {
+   "id": 1944,
+   "imdb": null,
+   "titulo": "Dick Clark's New Year's Rockin' Eve with Ryan Seacrest",
+   "original": "Dick Clark's New Year's Rockin' Eve with Ryan Seacrest",
+   "lingua": "en",
+   "sinopse": "",
+   "poster": "/oJBXoZZLVOeAAO5ifwSVEJJTXsr.jpg",
+   "generos": [
+    "Reality"
+   ],
+   "nota": 6.5,
+   "votos": 4,
+   "popularidade": 13.8052,
+   "primeira": "1972-12-31",
+   "ultimoEp": {
+    "data": "2025-12-31",
+    "temporada": 53,
+    "episodio": 2
+   },
+   "proximoEp": {
+    "data": "2026-12-31",
+    "temporada": 54,
+    "episodio": 1
+   },
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "1972-12-31"
+    },
+    {
+     "n": 2,
+     "data": "1973-12-31"
+    },
+    {
+     "n": 3,
+     "data": "1974-12-31"
+    },
+    {
+     "n": 4,
+     "data": "1975-12-31"
+    },
+    {
+     "n": 5,
+     "data": "1976-12-31"
+    },
+    {
+     "n": 6,
+     "data": "1977-12-31"
+    },
+    {
+     "n": 7,
+     "data": "1978-12-31"
+    },
+    {
+     "n": 8,
+     "data": "1979-12-31"
+    },
+    {
+     "n": 9,
+     "data": "1980-12-31"
+    },
+    {
+     "n": 10,
+     "data": "1981-12-31"
+    },
+    {
+     "n": 11,
+     "data": "1982-12-31"
+    },
+    {
+     "n": 12,
+     "data": "1983-12-31"
+    },
+    {
+     "n": 13,
+     "data": "1984-12-31"
+    },
+    {
+     "n": 14,
+     "data": "1985-12-31"
+    },
+    {
+     "n": 15,
+     "data": "1986-12-31"
+    },
+    {
+     "n": 16,
+     "data": "1987-12-31"
+    },
+    {
+     "n": 17,
+     "data": "1988-12-31"
+    },
+    {
+     "n": 18,
+     "data": "1989-12-31"
+    },
+    {
+     "n": 19,
+     "data": "1990-12-31"
+    },
+    {
+     "n": 20,
+     "data": "1991-12-31"
+    },
+    {
+     "n": 21,
+     "data": "1992-12-31"
+    },
+    {
+     "n": 22,
+     "data": "1993-12-31"
+    },
+    {
+     "n": 23,
+     "data": "1994-12-31"
+    },
+    {
+     "n": 24,
+     "data": "1995-12-31"
+    },
+    {
+     "n": 25,
+     "data": "1996-12-31"
+    },
+    {
+     "n": 26,
+     "data": "1997-12-31"
+    },
+    {
+     "n": 27,
+     "data": "1998-12-31"
+    },
+    {
+     "n": 28,
+     "data": "2000-12-31"
+    },
+    {
+     "n": 29,
+     "data": "2001-12-31"
+    },
+    {
+     "n": 30,
+     "data": "2002-12-31"
+    },
+    {
+     "n": 31,
+     "data": "2003-12-31"
+    },
+    {
+     "n": 32,
+     "data": "2004-12-31"
+    },
+    {
+     "n": 33,
+     "data": "2005-12-31"
+    },
+    {
+     "n": 34,
+     "data": "2006-12-31"
+    },
+    {
+     "n": 35,
+     "data": "2007-12-31"
+    },
+    {
+     "n": 36,
+     "data": "2008-12-31"
+    },
+    {
+     "n": 37,
+     "data": "2009-12-31"
+    },
+    {
+     "n": 38,
+     "data": "2010-12-31"
+    },
+    {
+     "n": 39,
+     "data": "2011-12-31"
+    },
+    {
+     "n": 40,
+     "data": "2012-12-31"
+    },
+    {
+     "n": 41,
+     "data": "2013-12-31"
+    },
+    {
+     "n": 42,
+     "data": "2014-12-31"
+    },
+    {
+     "n": 43,
+     "data": "2015-12-31"
+    },
+    {
+     "n": 44,
+     "data": "2016-12-31"
+    },
+    {
+     "n": 45,
+     "data": "2017-12-31"
+    },
+    {
+     "n": 46,
+     "data": "2018-12-31"
+    },
+    {
+     "n": 47,
+     "data": "2019-12-31"
+    },
+    {
+     "n": 48,
+     "data": "2020-12-31"
+    },
+    {
+     "n": 49,
+     "data": "2021-12-31"
+    },
+    {
+     "n": 50,
+     "data": "2022-12-31"
+    },
+    {
+     "n": 51,
+     "data": "2023-12-31"
+    },
+    {
+     "n": 52,
+     "data": "2024-12-31"
+    },
+    {
+     "n": 53,
+     "data": "2025-12-31"
+    },
+    {
+     "n": 54,
+     "data": "2026-12-31"
+    }
+   ],
+   "canais": [
+    "ABC",
+    "Disney+"
+   ],
+   "trailer": null,
+   "provedores": null
+  },
+  {
+   "id": 316752,
+   "imdb": "tt43724785",
+   "titulo": "Somos así",
+   "original": "Somos así",
+   "lingua": "es",
+   "sinopse": "",
+   "poster": "/p9dfUH3jSgdpVzrwdGZtBG1TADS.jpg",
+   "generos": [
+    "Comédia"
+   ],
+   "nota": 9.5,
+   "votos": 6,
+   "popularidade": 11.2509,
+   "primeira": "2026-11-18",
+   "ultimoEp": {
+    "data": "2026-11-18",
+    "temporada": 1,
+    "episodio": 8
+   },
+   "proximoEp": null,
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2026-11-18"
+    }
+   ],
+   "canais": [
+    "Disney+"
+   ],
+   "trailer": null,
+   "provedores": null
+  },
+  {
+   "id": 69303,
+   "imdb": "tt6301684",
+   "titulo": "MasterChef Junior",
+   "original": "MasterChef Junior",
+   "lingua": "es",
+   "sinopse": "",
+   "poster": "/qW0l2WCnd9AgyxgqMSHa7T3VPf0.jpg",
+   "generos": [
+    "Reality"
+   ],
+   "nota": 6.6,
+   "votos": 8,
+   "popularidade": 5.2907,
+   "primeira": "2013-12-23",
+   "ultimoEp": {
+    "data": "2025-01-09",
+    "temporada": 11,
+    "episodio": 6
+   },
+   "proximoEp": {
+    "data": "2026-12-18",
+    "temporada": 12,
+    "episodio": 1
+   },
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2013-12-23"
+    },
+    {
+     "n": 2,
+     "data": "2014-12-30"
+    },
+    {
+     "n": 3,
+     "data": "2015-12-01"
+    },
+    {
+     "n": 4,
+     "data": "2016-12-20"
+    },
+    {
+     "n": 5,
+     "data": "2017-12-20"
+    },
+    {
+     "n": 6,
+     "data": "2018-12-30"
+    },
+    {
+     "n": 7,
+     "data": "2019-12-23"
+    },
+    {
+     "n": 8,
+     "data": "2020-12-15"
+    },
+    {
+     "n": 9,
+     "data": "2021-12-20"
+    },
+    {
+     "n": 10,
+     "data": "2023-12-11"
+    },
+    {
+     "n": 11,
+     "data": "2024-12-26"
+    },
+    {
+     "n": 12,
+     "data": "2026-12-18"
+    }
+   ],
+   "canais": [
+    "La 1",
+    "Disney+"
+   ],
+   "trailer": null,
+   "provedores": null
+  },
+  {
+   "id": 203296,
+   "imdb": "tt16389198",
+   "titulo": "The Game Awards",
+   "original": "The Game Awards",
+   "lingua": "en",
+   "sinopse": "",
+   "poster": "/yVnoliFxMyTIUjgIiOY1QJMEjVZ.jpg",
+   "generos": [
+    "Reality",
+    "Talk"
+   ],
+   "nota": 6.2,
+   "votos": 5,
+   "popularidade": 4.4031,
+   "primeira": "2014-12-05",
+   "ultimoEp": {
+    "data": "2025-12-11",
+    "temporada": 12,
+    "episodio": 1
+   },
+   "proximoEp": {
+    "data": "2026-12-10",
+    "temporada": 13,
+    "episodio": 1
+   },
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2014-12-05"
+    },
+    {
+     "n": 2,
+     "data": "2015-12-03"
+    },
+    {
+     "n": 3,
+     "data": "2016-12-01"
+    },
+    {
+     "n": 4,
+     "data": "2017-12-07"
+    },
+    {
+     "n": 5,
+     "data": "2018-12-06"
+    },
+    {
+     "n": 6,
+     "data": "2019-12-12"
+    },
+    {
+     "n": 7,
+     "data": "2020-12-10"
+    },
+    {
+     "n": 8,
+     "data": "2021-12-09"
+    },
+    {
+     "n": 9,
+     "data": "2022-12-08"
+    },
+    {
+     "n": 10,
+     "data": "2023-12-07"
+    },
+    {
+     "n": 11,
+     "data": "2024-12-12"
+    },
+    {
+     "n": 12,
+     "data": "2025-12-11"
+    },
+    {
+     "n": 13,
+     "data": "2026-12-10"
+    }
+   ],
+   "canais": [
+    "YouTube",
+    "Prime Video",
+    "Twitch",
+    "iQiyi",
+    "Youku",
+    "bilibili",
+    "Facebook Live",
+    "PPTV",
+    "Disney+",
+    "Weibo",
+    "Roku",
+    "TikTok",
+    "Douyin",
+    "Twitter",
+    "Xigua Video",
+    "DouYu",
+    "rednote",
+    "Instagram",
+    "X",
+    "Live TV on PS5",
+    "Roblox"
+   ],
+   "trailer": null,
+   "provedores": null
+  },
+  {
+   "id": 225852,
+   "imdb": "tt26685570",
+   "titulo": "Como Não Desenhar",
+   "original": "How Not to Draw",
+   "lingua": "en",
+   "sinopse": "Animadores dão vida aos amados personagens da Disney, e os personagens criam... o caos!",
+   "poster": "/lVGESlgr6TA8JetpNkz8VYay0ia.jpg",
+   "generos": [
+    "Reality",
+    "Kids"
+   ],
+   "nota": 8.7,
+   "votos": 3,
+   "popularidade": 4.1458,
+   "primeira": "2022-09-30",
+   "ultimoEp": {
+    "data": "2026-11-21",
+    "temporada": 6,
+    "episodio": 7
+   },
+   "proximoEp": null,
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2022-09-30"
+    },
+    {
+     "n": 2,
+     "data": "2023-09-04"
+    },
+    {
+     "n": 3,
+     "data": "2024-06-03"
+    },
+    {
+     "n": 4,
+     "data": "2025-03-08"
+    },
+    {
+     "n": 5,
+     "data": "2025-08-26"
+    },
+    {
+     "n": 6,
+     "data": "2026-03-01"
+    }
+   ],
+   "canais": [
+    "Disney Channel",
+    "YouTube",
+    "Disney+",
+    "DisneyNOW"
+   ],
+   "trailer": null,
+   "provedores": null
+  },
+  {
+   "id": 318458,
+   "imdb": "tt39387287",
+   "titulo": "Podcast Oficial de Percy Jackson e os Olimpianos",
+   "original": "Percy Jackson and the Olympians Official Podcast",
+   "lingua": "en",
+   "sinopse": "O podcast oficial \"Percy Jackson e os Olimpianos\" é um complemento não-roteirizado da segunda temporada no Disney+. Apresentado por Aryan Simhadri, com histórias dos bastidores, entrevistas com o elenco e a equipe (incluindo Rick Riordan) e informações divertidas que celebram o universo e os fãs de Percy Jackson.",
+   "poster": "/cmyZ47CgXc3le6iw2oHvigOk8yH.jpg",
+   "generos": [
+    "Talk"
+   ],
+   "nota": 0,
+   "votos": 0,
+   "popularidade": 3.0035,
+   "primeira": "2025-12-10",
+   "ultimoEp": {
+    "data": "2026-11-20",
+    "temporada": 2,
+    "episodio": 2
+   },
+   "proximoEp": {
+    "data": "2026-11-27",
+    "temporada": 2,
+    "episodio": 3
+   },
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2025-12-10"
+    },
+    {
+     "n": 2,
+     "data": "2026-11-20"
+    }
+   ],
+   "canais": [
+    "YouTube",
+    "Disney+"
+   ],
+   "trailer": null,
+   "provedores": null
+  },
+  {
+   "id": 310113,
+   "imdb": "tt37350717",
+   "titulo": "Oswald",
+   "original": "Oswald",
+   "lingua": "en",
+   "sinopse": "",
+   "poster": "/2dIJFgUeT0IAJ4naW6BJCAnOqXr.jpg",
+   "generos": [
+    "Família"
+   ],
+   "nota": 0,
+   "votos": 0,
+   "popularidade": 2.4252,
+   "primeira": "2027-02-17",
+   "ultimoEp": null,
+   "proximoEp": {
+    "data": "2027-02-17",
+    "temporada": 1,
+    "episodio": 1
+   },
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2027-02-17"
+    }
+   ],
+   "canais": [
+    "Disney+"
+   ],
+   "trailer": null,
+   "provedores": null
+  },
+  {
+   "id": 248334,
+   "imdb": "tt39028237",
+   "titulo": "Ilusão",
+   "original": "현혹",
+   "lingua": "ko",
+   "sinopse": "",
+   "poster": "/kuiyV1IKosXzkKUnvKDKQApoZ1Z.jpg",
+   "generos": [
+    "Mistério",
+    "Drama",
+    "Sci-Fi & Fantasy"
+   ],
+   "nota": 0,
+   "votos": 0,
+   "popularidade": 2.0979,
+   "primeira": "2027-01-06",
+   "ultimoEp": null,
+   "proximoEp": {
+    "data": "2027-01-06",
+    "temporada": 1,
+    "episodio": 1
+   },
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2027-01-06"
+    }
+   ],
+   "canais": [
+    "Disney+"
+   ],
+   "trailer": null,
+   "provedores": null
+  },
+  {
+   "id": 301090,
+   "imdb": null,
+   "titulo": "Konuşanlar - Disney+",
+   "original": "Konuşanlar - Disney+",
+   "lingua": "tr",
+   "sinopse": "",
+   "poster": "/uHnTjj3OYiJ50Kn9P1Cb3Wd2RqJ.jpg",
+   "generos": [
+    "Comédia"
+   ],
+   "nota": 4,
+   "votos": 3,
+   "popularidade": 1.5655,
+   "primeira": "2025-09-19",
+   "ultimoEp": {
+    "data": "2026-11-20",
+    "temporada": 2,
+    "episodio": 8
+   },
+   "proximoEp": null,
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2025-09-19"
+    },
+    {
+     "n": 2,
+     "data": "2026-10-02"
+    }
+   ],
+   "canais": [
+    "Disney+"
+   ],
+   "trailer": null,
+   "provedores": null
+  },
+  {
+   "id": 25298,
+   "imdb": null,
+   "titulo": "The Grammys",
+   "original": "The Grammys",
+   "lingua": "en",
+   "sinopse": "",
+   "poster": "/2itSpL4aBPoJXQ4QVtBFxQyz0j0.jpg",
+   "generos": [
+    "Reality",
+    "Talk"
+   ],
+   "nota": 8.6,
+   "votos": 47,
+   "popularidade": 1.5961,
+   "primeira": "1959-11-29",
+   "ultimoEp": {
+    "data": "2026-02-01",
+    "temporada": 64,
+    "episodio": 1
+   },
+   "proximoEp": {
+    "data": "2027-02-07",
+    "temporada": 65,
+    "episodio": 1
+   },
+   "temporadas": [
+    {
+     "n": 0,
+     "data": "2014-02-09"
+    },
+    {
+     "n": 1,
+     "data": "1959-11-29"
+    },
+    {
+     "n": 2,
+     "data": "1963-05-15"
+    },
+    {
+     "n": 3,
+     "data": "1965-04-13"
+    },
+    {
+     "n": 4,
+     "data": "1966-03-15"
+    },
+    {
+     "n": 5,
+     "data": "1967-03-02"
+    },
+    {
+     "n": 6,
+     "data": "1968-02-29"
+    },
+    {
+     "n": 7,
+     "data": "1969-03-12"
+    },
+    {
+     "n": 8,
+     "data": "1970-03-11"
+    },
+    {
+     "n": 9,
+     "data": "1971-03-16"
+    },
+    {
+     "n": 10,
+     "data": "1972-03-14"
+    },
+    {
+     "n": 11,
+     "data": "1973-03-03"
+    },
+    {
+     "n": 12,
+     "data": "1974-03-02"
+    },
+    {
+     "n": 13,
+     "data": "1975-03-01"
+    },
+    {
+     "n": 14,
+     "data": "1976-02-28"
+    },
+    {
+     "n": 15,
+     "data": "1977-02-19"
+    },
+    {
+     "n": 16,
+     "data": "1978-02-23"
+    },
+    {
+     "n": 17,
+     "data": "1979-02-15"
+    },
+    {
+     "n": 18,
+     "data": "1980-02-27"
+    },
+    {
+     "n": 19,
+     "data": "1981-02-25"
+    },
+    {
+     "n": 20,
+     "data": "1982-02-24"
+    },
+    {
+     "n": 21,
+     "data": "1983-02-23"
+    },
+    {
+     "n": 22,
+     "data": "1984-02-28"
+    },
+    {
+     "n": 23,
+     "data": "1985-02-26"
+    },
+    {
+     "n": 24,
+     "data": "1986-02-25"
+    },
+    {
+     "n": 25,
+     "data": "1987-02-24"
+    },
+    {
+     "n": 26,
+     "data": "1988-03-02"
+    },
+    {
+     "n": 27,
+     "data": "1989-02-22"
+    },
+    {
+     "n": 28,
+     "data": "1990-02-22"
+    },
+    {
+     "n": 29,
+     "data": "1991-02-20"
+    },
+    {
+     "n": 30,
+     "data": "1992-02-25"
+    },
+    {
+     "n": 31,
+     "data": "1993-02-24"
+    },
+    {
+     "n": 32,
+     "data": "1994-03-01"
+    },
+    {
+     "n": 33,
+     "data": "1995-03-01"
+    },
+    {
+     "n": 34,
+     "data": "1996-02-28"
+    },
+    {
+     "n": 35,
+     "data": "1997-02-26"
+    },
+    {
+     "n": 36,
+     "data": "1998-02-25"
+    },
+    {
+     "n": 37,
+     "data": "1999-02-24"
+    },
+    {
+     "n": 38,
+     "data": "2000-02-23"
+    },
+    {
+     "n": 39,
+     "data": "2001-02-21"
+    },
+    {
+     "n": 40,
+     "data": "2002-02-27"
+    },
+    {
+     "n": 41,
+     "data": "2003-02-23"
+    },
+    {
+     "n": 42,
+     "data": "2004-02-08"
+    },
+    {
+     "n": 43,
+     "data": "2005-02-13"
+    },
+    {
+     "n": 44,
+     "data": "2006-02-08"
+    },
+    {
+     "n": 45,
+     "data": "2007-02-11"
+    },
+    {
+     "n": 46,
+     "data": "2008-02-10"
+    },
+    {
+     "n": 47,
+     "data": "2009-02-08"
+    },
+    {
+     "n": 48,
+     "data": "2010-01-31"
+    },
+    {
+     "n": 49,
+     "data": "2011-02-13"
+    },
+    {
+     "n": 50,
+     "data": "2012-02-12"
+    },
+    {
+     "n": 51,
+     "data": "2013-02-10"
+    },
+    {
+     "n": 52,
+     "data": "2014-01-26"
+    },
+    {
+     "n": 53,
+     "data": "2015-02-08"
+    },
+    {
+     "n": 54,
+     "data": "2016-02-15"
+    },
+    {
+     "n": 55,
+     "data": "2017-02-12"
+    },
+    {
+     "n": 56,
+     "data": "2018-01-28"
+    },
+    {
+     "n": 57,
+     "data": "2019-02-10"
+    },
+    {
+     "n": 58,
+     "data": "2020-01-26"
+    },
+    {
+     "n": 59,
+     "data": "2021-03-14"
+    },
+    {
+     "n": 60,
+     "data": "2022-04-03"
+    },
+    {
+     "n": 61,
+     "data": "2023-02-05"
+    },
+    {
+     "n": 62,
+     "data": "2024-02-04"
+    },
+    {
+     "n": 63,
+     "data": "2025-02-02"
+    },
+    {
+     "n": 64,
+     "data": "2026-02-01"
+    },
+    {
+     "n": 65,
+     "data": "2027-02-07"
+    }
+   ],
+   "canais": [
+    "ABC",
+    "NBC",
+    "CBS",
+    "Hulu",
+    "Disney+"
+   ],
+   "trailer": null,
+   "provedores": null
+  },
+  {
+   "id": 342075,
+   "imdb": null,
+   "titulo": "Disney Twisted-Wonderland: A Série - O Episódio de Savanaclaw",
+   "original": "ディズニー ツイステッドワンダーランド ザ アニメーション ～エピソード オブ サバナクロー～",
+   "lingua": "ja",
+   "sinopse": "A empolgação toma conta do Colégio Night Raven com o próximo Torneio Intercasas de Disco-Mágico, e Leona Kingscholar, monitor da Casa Savanaclaw, está determinado a vencer a qualquer custo. Enquanto isso, uma série de acidentes misteriosos começa a atingir os estudantes. A pedido do grão-mago, Yu e Grim investigam o caso e acabam descobrindo uma verdade chocante.",
+   "poster": "/daxNuL1MW3rNYhq8OO10AjwEvT9.jpg",
+   "generos": [
+    "Animação",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+   ],
+   "nota": 0,
+   "votos": 0,
+   "popularidade": 1.1158,
+   "primeira": "2026-12-23",
+   "ultimoEp": null,
+   "proximoEp": {
+    "data": "2026-12-23",
+    "temporada": 1,
+    "episodio": 1
+   },
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2026-12-22"
+    }
+   ],
+   "canais": [
+    "Disney+"
+   ],
+   "trailer": null,
+   "provedores": null
+  },
+  {
+   "id": 322961,
+   "imdb": null,
+   "titulo": "Caldas: El último barco",
+   "original": "Caldas: El último barco",
+   "lingua": "es",
+   "sinopse": "",
+   "poster": "/vEwWCE6kuThzWLO4yQ8tduFGzMY.jpg",
+   "generos": [
+    "Crime"
+   ],
+   "nota": 0,
+   "votos": 0,
+   "popularidade": 1.2619,
+   "primeira": "2026-12-02",
+   "ultimoEp": null,
+   "proximoEp": {
+    "data": "2026-12-02",
+    "temporada": 1,
+    "episodio": 1
+   },
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2026-12-02"
+    }
+   ],
+   "canais": [
+    "Disney+"
+   ],
+   "trailer": null,
+   "provedores": null
+  },
+  {
+   "id": 275486,
+   "imdb": null,
+   "titulo": "Mejores Enemigas",
+   "original": "Mejores Enemigas",
+   "lingua": "es",
+   "sinopse": "En un universo marcado por rivalidades, dos adolescentes se encuentran en lados opuestos. Sin embargo, a medida que sus historias se desarrollan, descubren que tienen más en común de lo que jamás podrían haber imaginado. Esta cautivadora serie explora los complejos temas de amistad, rivalidad y autoconocimiento, revelando cómo lazos inesperados pueden surgir en medio de los conflictos. \"Mejores Enemigas\" es una producción de Pegsa para Disney, que se está grabando actualmente en Buenos Aires.",
+   "poster": "/pp7YY7096FAA7Kvmx9nu2RZi72F.jpg",
+   "generos": [
+    "Comédia"
+   ],
+   "nota": 0,
+   "votos": 0,
+   "popularidade": 0.4647,
+   "primeira": "2026-12-02",
+   "ultimoEp": null,
+   "proximoEp": {
+    "data": "2026-12-02",
+    "temporada": 1,
+    "episodio": 1
+   },
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2026-12-02"
+    }
+   ],
+   "canais": [
+    "Disney+"
+   ],
+   "trailer": null,
+   "provedores": null
+  },
+  {
+   "id": 342897,
+   "imdb": "tt43693711",
+   "titulo": "Ozzy Fox",
+   "original": "Ozzy Fox",
+   "lingua": "en",
+   "sinopse": "",
+   "poster": "/q7xP1R89fH00YcjhCSAXvJtdTHq.jpg",
+   "generos": [
+    "Animação",
+    "Kids",
+    "Família"
+   ],
+   "nota": 0,
+   "votos": 0,
+   "popularidade": 0.5632,
+   "primeira": "2026-12-05",
+   "ultimoEp": null,
+   "proximoEp": {
+    "data": "2026-12-05",
+    "temporada": 1,
+    "episodio": 1
+   },
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2026-12-05"
+    }
+   ],
+   "canais": [
+    "Disney+"
+   ],
+   "trailer": "aubeTxAJSok",
+   "provedores": null
+  },
+  {
+   "id": 339319,
+   "imdb": null,
+   "titulo": "Las reglas del boxeador",
+   "original": "Las reglas del boxeador",
+   "lingua": "es",
+   "sinopse": "",
+   "poster": null,
+   "generos": [
+    "Drama"
+   ],
+   "nota": 0,
+   "votos": 0,
+   "popularidade": 0.2879,
+   "primeira": "2027-01-01",
+   "ultimoEp": null,
+   "proximoEp": {
+    "data": "2027-01-01",
+    "temporada": 1,
+    "episodio": 1
+   },
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2027-01-01"
+    }
+   ],
+   "canais": [
+    "Disney+"
+   ],
+   "trailer": null,
+   "provedores": null
+  },
+  {
+   "id": 337189,
+   "imdb": null,
+   "titulo": "Via Miljuschka",
+   "original": "Via Miljuschka",
+   "lingua": "nl",
+   "sinopse": "",
+   "poster": "/1yBkz3c2RvHDqcpjMOQHuYiiJCV.jpg",
+   "generos": [
+    "Reality"
+   ],
+   "nota": 0,
+   "votos": 0,
+   "popularidade": 0.2127,
+   "primeira": "2026-10-17",
+   "ultimoEp": {
+    "data": "2026-11-21",
+    "temporada": 1,
+    "episodio": 6
+   },
+   "proximoEp": {
+    "data": "2026-11-28",
+    "temporada": 1,
+    "episodio": 7
+   },
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2026-10-17"
+    }
+   ],
+   "canais": [
+    "Disney+"
+   ],
+   "trailer": null,
+   "provedores": null
+  },
+  {
+   "id": 35338,
+   "imdb": "tt0922037",
+   "titulo": "La que se avecina",
+   "original": "La que se avecina",
+   "lingua": "es",
+   "sinopse": "",
+   "poster": "/jTIK9JdLffUbRirQ6O29J4aAdOI.jpg",
+   "generos": [
+    "Comédia"
+   ],
+   "nota": 8.1,
+   "votos": 309,
+   "popularidade": 37.4639,
+   "primeira": "2007-04-22",
+   "ultimoEp": {
+    "data": "2026-11-23",
+    "temporada": 17,
+    "episodio": 4
+   },
+   "proximoEp": {
+    "data": "2026-11-30",
+    "temporada": 17,
+    "episodio": 5
+   },
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2007-04-22"
+    },
+    {
+     "n": 2,
+     "data": "2008-04-03"
+    },
+    {
+     "n": 3,
+     "data": "2009-06-10"
+    },
+    {
+     "n": 4,
+     "data": "2009-12-31"
+    },
+    {
+     "n": 5,
+     "data": "2011-05-01"
+    },
+    {
+     "n": 6,
+     "data": "2012-10-01"
+    },
+    {
+     "n": 7,
+     "data": "2013-12-02"
+    },
+    {
+     "n": 8,
+     "data": "2014-10-13"
+    },
+    {
+     "n": 9,
+     "data": "2016-04-05"
+    },
+    {
+     "n": 10,
+     "data": "2017-10-04"
+    },
+    {
+     "n": 11,
+     "data": "2019-04-24"
+    },
+    {
+     "n": 12,
+     "data": "2020-05-29"
+    },
+    {
+     "n": 13,
+     "data": "2022-11-18"
+    },
+    {
+     "n": 14,
+     "data": "2023-11-08"
+    },
+    {
+     "n": 15,
+     "data": "2024-11-18"
+    },
+    {
+     "n": 16,
+     "data": "2025-11-18"
+    },
+    {
+     "n": 17,
+     "data": "2026-11-16"
+    }
+   ],
+   "canais": [
+    "Telecinco",
+    "Prime Video"
+   ],
+   "trailer": null,
+   "provedores": null
+  },
+  {
+   "id": 171802,
+   "imdb": "tt18224594",
+   "titulo": "Blade Runner 2099",
+   "original": "Blade Runner 2099",
+   "lingua": "en",
+   "sinopse": "Cinquenta anos após os acontecimentos de Blade Runner 2049, Los Angeles renasceu, mas não graças a humanidade. Cora, uma fugitiva determinada a abandonar de vez sua vida em fuga, assume uma última identidade: a de uma Blade Runner. Obrigada a trabalhar ao lado de Olwen, uma Replicante que tem apenas alguns dias de vida, ela parte à caça de um foragido que guarda um segredo capaz de destruir o frágil equilíbrio da cidade.",
+   "poster": "/8Huo5JEmtKV03VTzq50lYVDbD4N.jpg",
+   "generos": [
+    "Sci-Fi & Fantasy"
+   ],
+   "nota": 0,
+   "votos": 0,
+   "popularidade": 24.9317,
+   "primeira": "2026-11-24",
+   "ultimoEp": {
+    "data": "2026-11-24",
+    "temporada": 1,
+    "episodio": 8
+   },
+   "proximoEp": null,
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2026-11-24"
+    }
+   ],
+   "canais": [
+    "Prime Video"
+   ],
+   "trailer": "1d4x_eSdqNc",
+   "provedores": null
+  },
+  {
+   "id": 301376,
+   "imdb": "tt38076764",
+   "titulo": "Páginas da Vida",
+   "original": "Páginas da Vida",
+   "lingua": "pt",
+   "sinopse": "",
+   "poster": "/3oUZgvok5DDQEjY92ckvS9mJ52K.jpg",
+   "generos": [
+    "Drama"
+   ],
+   "nota": 0,
+   "votos": 0,
+   "popularidade": 12.1394,
+   "primeira": "2026-02-23",
+   "ultimoEp": {
+    "data": "2026-11-23",
+    "temporada": 3,
+    "episodio": 31
+   },
+   "proximoEp": {
+    "data": "2026-11-24",
+    "temporada": 3,
+    "episodio": 32
+   },
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2026-02-23"
+    },
+    {
+     "n": 2,
+     "data": "2026-06-29"
+    },
+    {
+     "n": 3,
+     "data": "2026-10-12"
+    }
+   ],
+   "canais": [
+    "SIC",
+    "Prime Video",
+    "OPTO"
+   ],
+   "trailer": null,
+   "provedores": null
+  },
+  {
+   "id": 290953,
+   "imdb": "tt33095092",
+   "titulo": "A Irmandade da Adaga Negra",
+   "original": "The Black Dagger Brotherhood",
+   "lingua": "en",
+   "sinopse": "Baseada na série #1 mais vendida do NYT de J.R. Ward, a liga de guerreiros vampiros conhecida como Black Dagger Brotherhood deve lutar contra a Lessening Society para proteger sua raça da extinção.",
+   "poster": "/6Ol47btYfg5NDy6a6GjglcrOwOi.jpg",
+   "generos": [
+    "Sci-Fi & Fantasy",
+    "Drama",
+    "Action & Adventure"
+   ],
+   "nota": 7.036,
+   "votos": 14,
+   "popularidade": 9.0166,
+   "primeira": "2025-06-05",
+   "ultimoEp": {
+    "data": "2026-11-19",
+    "temporada": 2,
+    "episodio": 4
+   },
+   "proximoEp": {
+    "data": "2026-11-26",
+    "temporada": 2,
+    "episodio": 5
+   },
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2025-06-05"
+    },
+    {
+     "n": 2,
+     "data": "2026-10-29"
+    }
+   ],
+   "canais": [
+    "Prime Video",
+    "PassionFlix"
+   ],
+   "trailer": "h032C9H6DQI",
+   "provedores": null
+  },
+  {
+   "id": 334105,
+   "imdb": "tt43095501",
+   "titulo": "Coração de Mãe",
+   "original": "Coração de Mãe",
+   "lingua": "pt",
+   "sinopse": "",
+   "poster": "/bRSOk9UL6BxrtR3aQtg7NdCUpgJ.jpg",
+   "generos": [
+    "Soap"
+   ],
+   "nota": 0,
+   "votos": 0,
+   "popularidade": 5.0296,
+   "primeira": "2026-09-07",
+   "ultimoEp": {
+    "data": "2026-11-23",
+    "temporada": 1,
+    "episodio": 57
+   },
+   "proximoEp": {
+    "data": "2026-11-24",
+    "temporada": 1,
+    "episodio": 58
+   },
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2026-09-07"
+    }
+   ],
+   "canais": [
+    "TVI",
+    "Prime Video"
+   ],
+   "trailer": null,
+   "provedores": null
+  },
+  {
+   "id": 304434,
+   "imdb": "tt35659504",
+   "titulo": "The Traitors Italia",
+   "original": "The Traitors Italia",
+   "lingua": "it",
+   "sinopse": "",
+   "poster": "/gkyrD1MGAtPOfAmkU3PRDDhC6gX.jpg",
+   "generos": [
+    "Reality"
+   ],
+   "nota": 8.722,
+   "votos": 18,
+   "popularidade": 3.4807,
+   "primeira": "2025-10-30",
+   "ultimoEp": {
+    "data": "2026-11-20",
+    "temporada": 2,
+    "episodio": 6
+   },
+   "proximoEp": null,
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2025-10-30"
+    },
+    {
+     "n": 2,
+     "data": "2026-11-06"
+    }
+   ],
+   "canais": [
+    "Prime Video"
+   ],
+   "trailer": null,
+   "provedores": null
+  },
+  {
+   "id": 243214,
+   "imdb": "tt27493572",
+   "titulo": "Criminal - Herança do Crime",
+   "original": "Criminal",
+   "lingua": "en",
+   "sinopse": "",
+   "poster": "/qsS3xGLmNAlElDNs2B89QABCgMx.jpg",
+   "generos": [
+    "Crime",
+    "Drama"
+   ],
+   "nota": 0,
+   "votos": 0,
+   "popularidade": 3.4727,
+   "primeira": "2027-01-13",
+   "ultimoEp": null,
+   "proximoEp": {
+    "data": "2027-01-13",
+    "temporada": 1,
+    "episodio": 1
+   },
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2027-01-13"
+    }
+   ],
+   "canais": [
+    "Prime Video"
+   ],
+   "trailer": null,
+   "provedores": null
+  },
+  {
+   "id": 285887,
+   "imdb": "tt36048621",
+   "titulo": "Bloodaxe",
+   "original": "Bloodaxe",
+   "lingua": "en",
+   "sinopse": "Veja a ascensão de um dos mais famosos saqueadores nórdicos da história, Erik Bloodaxe, e sua esposa Gunnhild, conhecida como a Mãe dos Reis. Enquanto lutam pelo trono da Noruega, o território é devastado por rivais ferozes, alianças instáveis e traições sangrentas. Com a guerra iminente e o caos consumindo o reino, atraindo impiedosos reis de outros países escandinavos e até mesmo um poderoso governante inglês, o cenário está pronto para uma nova saga nórdica grandiosa.",
+   "poster": "/tR222Xa2tkQ1BFkg6loDXIccAva.jpg",
+   "generos": [
+    "Drama"
+   ],
+   "nota": 0,
+   "votos": 0,
+   "popularidade": 3.1384,
+   "primeira": "2027-01-20",
+   "ultimoEp": null,
+   "proximoEp": {
+    "data": "2027-01-20",
+    "temporada": 1,
+    "episodio": 1
+   },
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2027-01-20"
+    }
+   ],
+   "canais": [
+    "Prime Video"
+   ],
+   "trailer": "nT8Mdw5nKd0",
+   "provedores": null
+  },
+  {
+   "id": 318274,
+   "imdb": "tt37800018",
+   "titulo": "Embassy",
+   "original": "Embassy",
+   "lingua": "en",
+   "sinopse": "",
+   "poster": null,
+   "generos": [
+    "Drama"
+   ],
+   "nota": 0,
+   "votos": 0,
+   "popularidade": 2.2056,
+   "primeira": "2027-02-07",
+   "ultimoEp": null,
+   "proximoEp": {
+    "data": "2027-02-07",
+    "temporada": 1,
+    "episodio": 1
+   },
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2027-02-07"
+    }
+   ],
+   "canais": [
+    "ZDF",
+    "Prime Video",
+    "MGM+"
+   ],
+   "trailer": null,
+   "provedores": null
+  },
+  {
+   "id": 289388,
+   "imdb": "tt36584901",
+   "titulo": "Carlitos & Henriqueta",
+   "original": "Carlitos & Henriqueta",
+   "lingua": "pt",
+   "sinopse": "",
+   "poster": "/p68vWaiavI9QUyp0Fx9UyFGk1IY.jpg",
+   "generos": [
+    "Comédia"
+   ],
+   "nota": 0,
+   "votos": 0,
+   "popularidade": 2.0618,
+   "primeira": "2025-04-18",
+   "ultimoEp": {
+    "data": "2026-11-21",
+    "temporada": 3,
+    "episodio": 3
+   },
+   "proximoEp": {
+    "data": "2026-11-28",
+    "temporada": 3,
+    "episodio": 4
+   },
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2025-04-18"
+    },
+    {
+     "n": 2,
+     "data": "2026-06-13"
+    },
+    {
+     "n": 3,
+     "data": "2026-11-07"
+    }
+   ],
+   "canais": [
+    "TVI",
+    "Prime Video"
+   ],
+   "trailer": null,
+   "provedores": null
+  },
+  {
+   "id": 311379,
+   "imdb": "tt39370480",
+   "titulo": "Fallout Shelter: The Experiment",
+   "original": "Fallout Shelter: The Experiment",
+   "lingua": "en",
+   "sinopse": "",
+   "poster": null,
+   "generos": [
+    "Reality"
+   ],
+   "nota": 0,
+   "votos": 0,
+   "popularidade": 2.0548,
+   "primeira": "2027-01-13",
+   "ultimoEp": null,
+   "proximoEp": {
+    "data": "2027-01-13",
+    "temporada": 1,
+    "episodio": 1
+   },
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2027-01-13"
+    }
+   ],
+   "canais": [
+    "Prime Video"
+   ],
+   "trailer": null,
+   "provedores": null
+  },
+  {
+   "id": 291377,
+   "imdb": "tt36939928",
+   "titulo": "Barbershop",
+   "original": "Barbershop",
+   "lingua": "en",
+   "sinopse": "",
+   "poster": "/4zhQFOzxQ2fmXQvd4WOotwOyq1V.jpg",
+   "generos": [
+    "Comédia"
+   ],
+   "nota": 0,
+   "votos": 0,
+   "popularidade": 1.9477,
+   "primeira": "2027-02-10",
+   "ultimoEp": null,
+   "proximoEp": {
+    "data": "2027-02-10",
+    "temporada": 1,
+    "episodio": 1
+   },
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2027-02-10"
+    }
+   ],
+   "canais": [
+    "Prime Video"
+   ],
+   "trailer": null,
+   "provedores": null
+  },
+  {
+   "id": 294060,
+   "imdb": "tt38986610",
+   "titulo": "Beauty and the Geek",
+   "original": "Beauty and the Geek",
+   "lingua": "nl",
+   "sinopse": "",
+   "poster": "/tFwaND8FjI1Sirep8jeYyxQkQXB.jpg",
+   "generos": [
+    "Reality"
+   ],
+   "nota": 9,
+   "votos": 3,
+   "popularidade": 1.6385,
+   "primeira": "2025-11-14",
+   "ultimoEp": {
+    "data": "2026-11-19",
+    "temporada": 2,
+    "episodio": 3
+   },
+   "proximoEp": {
+    "data": "2026-11-26",
+    "temporada": 2,
+    "episodio": 4
+   },
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2025-11-14"
+    },
+    {
+     "n": 2,
+     "data": "2026-11-19"
+    }
+   ],
+   "canais": [
+    "Prime Video"
+   ],
+   "trailer": null,
+   "provedores": null
+  },
+  {
+   "id": 337600,
+   "imdb": "tt48343927",
+   "titulo": "O Garoto Que Roubou Bilhões?",
+   "original": "The Boy Who Stole Billions?",
+   "lingua": "en",
+   "sinopse": "Aos 30 anos, Sam Bankman-Fried era dono de um império de US$ 32 bilhões até ser condenado por roubar US$ 8 bilhões de clientes, em uma das maiores fraudes dos EUA. Pela primeira vez, ele conta sua história de dentro da prisão. Foi fraude ou risco fora de controle? A série explora o mundo caótico de SBF, as pessoas próximas a ele e a relação tóxica com sua namorada e CEO, Caroline Ellison.",
+   "poster": "/1zA7tZbxMiwr3MRtF8fXA7dTucA.jpg",
+   "generos": [
+    "Documentário"
+   ],
+   "nota": 0,
+   "votos": 0,
+   "popularidade": 1.8242,
+   "primeira": "2026-11-30",
+   "ultimoEp": null,
+   "proximoEp": {
+    "data": "2026-11-30",
+    "temporada": 1,
+    "episodio": 1
+   },
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2026-11-30"
+    }
+   ],
+   "canais": [
+    "Prime Video"
+   ],
+   "trailer": "mrAqd_Yxq00",
+   "provedores": null
+  },
+  {
+   "id": 336787,
+   "imdb": "tt47596904",
+   "titulo": "神のクイズ",
+   "original": "神のクイズ",
+   "lingua": "ja",
+   "sinopse": "",
+   "poster": "/339hVyqOUnoN5xqbMNvj0gURYoM.jpg",
+   "generos": [
+    "Drama",
+    "Crime",
+    "Mistério"
+   ],
+   "nota": 0,
+   "votos": 0,
+   "popularidade": 1.5142,
+   "primeira": "2026-12-04",
+   "ultimoEp": null,
+   "proximoEp": {
+    "data": "2026-12-04",
+    "temporada": 1,
+    "episodio": 1
+   },
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2026-12-04"
+    }
+   ],
+   "canais": [
+    "Prime Video"
+   ],
+   "trailer": "QTPhT68_pC0",
+   "provedores": null
+  },
+  {
+   "id": 340846,
+   "imdb": "tt49651623",
+   "titulo": "The Stepback with Blake Griffin",
+   "original": "The Stepback with Blake Griffin",
+   "lingua": "en",
+   "sinopse": "",
+   "poster": "/nccz3m923ksXKzHdNauIwq56xRW.jpg",
+   "generos": [
+    "Talk",
+    "Comédia",
+    "News"
+   ],
+   "nota": 0,
+   "votos": 0,
+   "popularidade": 1.1017,
+   "primeira": "2026-10-20",
+   "ultimoEp": {
+    "data": "2026-11-24",
+    "temporada": 1,
+    "episodio": 6
+   },
+   "proximoEp": {
+    "data": "2026-12-01",
+    "temporada": 1,
+    "episodio": 7
+   },
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2026-10-20"
+    }
+   ],
+   "canais": [
+    "YouTube",
+    "Prime Video"
+   ],
+   "trailer": null,
+   "provedores": null
+  },
+  {
+   "id": 338547,
+   "imdb": null,
+   "titulo": "Friz i Wersow. W drodze",
+   "original": "Friz i Wersow. W drodze",
+   "lingua": "pl",
+   "sinopse": "",
+   "poster": "/a8kD3PbjgshEpcOjhXTkwahL9Dn.jpg",
+   "generos": [
+    "Documentário",
+    "Reality"
+   ],
+   "nota": 0,
+   "votos": 0,
+   "popularidade": 1.0557,
+   "primeira": "2026-11-18",
+   "ultimoEp": {
+    "data": "2026-11-18",
+    "temporada": 1,
+    "episodio": 6
+   },
+   "proximoEp": null,
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2026-11-18"
+    }
+   ],
+   "canais": [
+    "Prime Video"
+   ],
+   "trailer": null,
+   "provedores": null
+  },
+  {
+   "id": 341492,
+   "imdb": null,
+   "titulo": "Alan Carr's Great Big Bucket List",
+   "original": "Alan Carr's Great Big Bucket List",
+   "lingua": "en",
+   "sinopse": "",
+   "poster": "/nb2igvS4qWtWHqsiJeEBeHizIfc.jpg",
+   "generos": [
+    "Reality"
+   ],
+   "nota": 0,
+   "votos": 0,
+   "popularidade": 0.8928,
+   "primeira": "2026-11-27",
+   "ultimoEp": null,
+   "proximoEp": {
+    "data": "2026-11-27",
+    "temporada": 1,
+    "episodio": 1
+   },
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2026-11-27"
+    }
+   ],
+   "canais": [
+    "Prime Video"
+   ],
+   "trailer": null,
+   "provedores": null
+  },
+  {
+   "id": 343091,
+   "imdb": "tt43750368",
+   "titulo": "Galactic Defense Force",
+   "original": "Galactic Defense Force",
+   "lingua": "en",
+   "sinopse": "",
+   "poster": "/47h7rSk4znOtk0AH1R9jAzAk8XI.jpg",
+   "generos": [
+    "Animação",
+    "Sci-Fi & Fantasy",
+    "Action & Adventure",
+    "Comédia"
+   ],
+   "nota": 0,
+   "votos": 0,
+   "popularidade": 0.3082,
+   "primeira": "2026-11-19",
+   "ultimoEp": {
+    "data": "2026-11-19",
+    "temporada": 1,
+    "episodio": 1
+   },
+   "proximoEp": null,
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2026-11-19"
+    },
+    {
+     "n": 2,
+     "data": "2025-06-23"
+    }
+   ],
+   "canais": [
+    "Prime Video"
+   ],
+   "trailer": "uxQ7KUuicBk",
+   "provedores": null
+  },
+  {
+   "id": 341168,
+   "imdb": "tt49932124",
+   "titulo": "Kaleb Off the Farm",
+   "original": "Kaleb Off the Farm",
+   "lingua": "en",
+   "sinopse": "",
+   "poster": null,
+   "generos": [
+    "Documentário"
+   ],
+   "nota": 0,
+   "votos": 0,
+   "popularidade": 0.2394,
+   "primeira": "2027-01-08",
+   "ultimoEp": null,
+   "proximoEp": {
+    "data": "2027-01-08",
+    "temporada": 1,
+    "episodio": 1
+   },
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2027-01-08"
+    }
+   ],
+   "canais": [
+    "Prime Video"
+   ],
+   "trailer": null,
+   "provedores": null
+  },
+  {
+   "id": 340420,
+   "imdb": null,
+   "titulo": "Niels & Martijn Leren Vrouwen Begrijpen",
+   "original": "Niels & Martijn Leren Vrouwen Begrijpen",
+   "lingua": "nl",
+   "sinopse": "",
+   "poster": null,
+   "generos": [
+    "Reality"
+   ],
+   "nota": 0,
+   "votos": 0,
+   "popularidade": 0.0807,
+   "primeira": "2026-12-07",
+   "ultimoEp": null,
+   "proximoEp": {
+    "data": "2026-12-07",
+    "temporada": 1,
+    "episodio": 1
+   },
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2026-12-07"
+    }
+   ],
+   "canais": [
+    "Prime Video"
+   ],
+   "trailer": null,
+   "provedores": null
+  },
+  {
+   "id": 343243,
+   "imdb": null,
+   "titulo": "LOL: Kto się śmieje ostatni. Święta, święta!",
+   "original": "LOL: Kto się śmieje ostatni. Święta, święta!",
+   "lingua": "pl",
+   "sinopse": "",
+   "poster": null,
+   "generos": [
+    "Reality",
+    "Comédia"
+   ],
+   "nota": 0,
+   "votos": 0,
+   "popularidade": 0.0582,
+   "primeira": "2026-12-18",
+   "ultimoEp": null,
+   "proximoEp": {
+    "data": "2026-12-18",
+    "temporada": 1,
+    "episodio": 1
+   },
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2026-12-18"
+    }
+   ],
+   "canais": [
+    "Prime Video"
+   ],
+   "trailer": null,
+   "provedores": null
+  },
+  {
+   "id": 296244,
+   "imdb": "tt37196475",
+   "titulo": "Frisco King",
+   "original": "Frisco King",
+   "lingua": "en",
+   "sinopse": "O gângster de Nova Orleans, Russell Lee Washington Jr., chega a Frisco, no Texas, onde transforma pequenos golpes em um grande negócio, com a ajuda de um protegido ambicioso, um motorista leal e uma rede crescente de parceiros excêntricos.",
+   "poster": "/9wNdTWthGpTZZaOBKlO07pK77pU.jpg",
+   "generos": [
+    "Crime",
+    "Drama",
+    "Comédia"
+   ],
+   "nota": 0,
+   "votos": 0,
+   "popularidade": 6.2444,
+   "primeira": "2026-12-18",
+   "ultimoEp": null,
+   "proximoEp": {
+    "data": "2026-12-18",
+    "temporada": 1,
+    "episodio": 1
+   },
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2026-12-18"
+    }
+   ],
+   "canais": [
+    "Paramount+"
+   ],
+   "trailer": "wAFHBHXUzWE",
+   "provedores": null
+  },
+  {
+   "id": 221122,
+   "imdb": "tt21340132",
+   "titulo": "FBI: Casos Reais",
+   "original": "FBI TRUE",
+   "lingua": "en",
+   "sinopse": "A série segue o mundo dos agentes do FBI através de vídeos de vigilância, interrogatórios com sequestradores e terroristas e fotos dos antigos casos dos agentes.",
+   "poster": "/79MqEAlYc47yAkO2MBWQKBZaB6q.jpg",
+   "generos": [
+    "Documentário",
+    "Crime"
+   ],
+   "nota": 6.4,
+   "votos": 9,
+   "popularidade": 4.7044,
+   "primeira": "2023-02-28",
+   "ultimoEp": {
+    "data": "2026-03-31",
+    "temporada": 8,
+    "episodio": 10
+   },
+   "proximoEp": {
+    "data": "2026-12-01",
+    "temporada": 9,
+    "episodio": 1
+   },
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2023-02-27"
+    },
+    {
+     "n": 2,
+     "data": "2023-04-10"
+    },
+    {
+     "n": 3,
+     "data": "2023-06-19"
+    },
+    {
+     "n": 4,
+     "data": "2023-11-05"
+    },
+    {
+     "n": 5,
+     "data": "2024-10-14"
+    },
+    {
+     "n": 6,
+     "data": "2025-01-13"
+    },
+    {
+     "n": 7,
+     "data": "2025-05-19"
+    },
+    {
+     "n": 8,
+     "data": "2026-03-31"
+    },
+    {
+     "n": 9,
+     "data": "2026-12-01"
+    }
+   ],
+   "canais": [
+    "CBS",
+    "Paramount+"
+   ],
+   "trailer": null,
+   "provedores": null
+  },
+  {
+   "id": 283141,
+   "imdb": "tt7983898",
+   "titulo": "Lil Kev",
+   "original": "Lil Kev",
+   "lingua": "en",
+   "sinopse": "",
+   "poster": "/rnWr6Xr72Lsqf2JH52BdticR3Dc.jpg",
+   "generos": [
+    "Animação",
+    "Comédia"
+   ],
+   "nota": 7.7,
+   "votos": 7,
+   "popularidade": 4.0018,
+   "primeira": "2025-03-06",
+   "ultimoEp": {
+    "data": "2025-03-06",
+    "temporada": 1,
+    "episodio": 10
+   },
+   "proximoEp": {
+    "data": "2026-12-09",
+    "temporada": 2,
+    "episodio": 1
+   },
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2025-03-06"
+    },
+    {
+     "n": 2,
+     "data": "2026-12-09"
+    }
+   ],
+   "canais": [
+    "BET+",
+    "Paramount+"
+   ],
+   "trailer": "XjK8gozeTbg",
+   "provedores": null
+  },
+  {
+   "id": 255834,
+   "imdb": "tt12098644",
+   "titulo": "Garfield",
+   "original": "Garfield",
+   "lingua": "en",
+   "sinopse": "",
+   "poster": "/5bu2JTptdQDvw4mT3vzHTfV41D2.jpg",
+   "generos": [
+    "Animação",
+    "Comédia",
+    "Família"
+   ],
+   "nota": 0,
+   "votos": 0,
+   "popularidade": 2.883,
+   "primeira": "2026-12-11",
+   "ultimoEp": null,
+   "proximoEp": {
+    "data": "2026-12-11",
+    "temporada": 1,
+    "episodio": 1
+   },
+   "temporadas": [
+    {
+     "n": 0,
+     "data": "2026-11-23"
+    },
+    {
+     "n": 1,
+     "data": "2026-12-11"
+    }
+   ],
+   "canais": [
+    "Paramount+"
+   ],
+   "trailer": "QL-Z4fYqEYc",
+   "provedores": null
+  },
+  {
+   "id": 339407,
+   "imdb": "tt49691783",
+   "titulo": "He Said, She Said: Till Death Do Us Part",
+   "original": "He Said, She Said: Till Death Do Us Part",
+   "lingua": "en",
+   "sinopse": "",
+   "poster": "/steeGJML8VlognYJLS6KSnNvc9l.jpg",
+   "generos": [
+    "Documentário"
+   ],
+   "nota": 6,
+   "votos": 1,
+   "popularidade": 1.9105,
+   "primeira": "2026-11-17",
+   "ultimoEp": {
+    "data": "2026-11-17",
+    "temporada": 1,
+    "episodio": 3
+   },
+   "proximoEp": null,
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2026-11-17"
+    }
+   ],
+   "canais": [
+    "Paramount+"
+   ],
+   "trailer": "DfFq8MKQyE8",
+   "provedores": null
+  },
+  {
+   "id": 331480,
+   "imdb": "tt44082819",
+   "titulo": "Who the Hell Is Hamish?",
+   "original": "Who the Hell Is Hamish?",
+   "lingua": "en",
+   "sinopse": "",
+   "poster": "/eT2l6bIWCeovWd9DIOGr91m5hxN.jpg",
+   "generos": [
+    "Drama",
+    "Crime"
+   ],
+   "nota": 0,
+   "votos": 0,
+   "popularidade": 1.7047,
+   "primeira": "2026-12-10",
+   "ultimoEp": null,
+   "proximoEp": {
+    "data": "2026-12-10",
+    "temporada": 1,
+    "episodio": 1
+   },
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2026-12-10"
+    }
+   ],
+   "canais": [
+    "Paramount+",
+    "Paramount+"
+   ],
+   "trailer": "h-SvdK88-mQ",
+   "provedores": null
+  },
+  {
+   "id": 339650,
+   "imdb": "tt43630561",
+   "titulo": "The Day",
+   "original": "The Day",
+   "lingua": "en",
+   "sinopse": "",
+   "poster": "/hufdi1NnrWe64GZTx9CdKNuTjax.jpg",
+   "generos": [
+    "Drama",
+    "Crime"
+   ],
+   "nota": 0,
+   "votos": 0,
+   "popularidade": 1.4747,
+   "primeira": "2026-12-31",
+   "ultimoEp": null,
+   "proximoEp": {
+    "data": "2026-12-31",
+    "temporada": 1,
+    "episodio": 1
+   },
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2026-12-31"
+    }
+   ],
+   "canais": [
+    "Paramount+",
+    "Paramount+"
+   ],
+   "trailer": "HejGqY39nds",
+   "provedores": null
+  },
+  {
+   "id": 341792,
+   "imdb": null,
+   "titulo": "The Elite: Army Rangers",
+   "original": "The Elite: Army Rangers",
+   "lingua": "en",
+   "sinopse": "",
+   "poster": null,
+   "generos": [
+    "Documentário"
+   ],
+   "nota": 0,
+   "votos": 0,
+   "popularidade": 1.8334,
+   "primeira": "2026-12-08",
+   "ultimoEp": null,
+   "proximoEp": {
+    "data": "2026-12-08",
+    "temporada": 1,
+    "episodio": 1
+   },
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2026-12-08"
+    }
+   ],
+   "canais": [
+    "Paramount+"
+   ],
+   "trailer": "xP9SWwZRiu0",
+   "provedores": null
+  },
+  {
+   "id": 342655,
+   "imdb": "tt31381459",
+   "titulo": "Crunchyroll Presents: The Anime Effect",
+   "original": "Crunchyroll Presents: The Anime Effect",
+   "lingua": "en",
+   "sinopse": "",
+   "poster": "/pb8Xp33zy82oMcVNfnBQUkIfxTQ.jpg",
+   "generos": [
+    "Talk"
+   ],
+   "nota": 0,
+   "votos": 0,
+   "popularidade": 0.1026,
+   "primeira": "2024-02-16",
+   "ultimoEp": {
+    "data": "2026-11-20",
+    "temporada": 1,
+    "episodio": 139
+   },
+   "proximoEp": null,
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2024-02-16"
+    }
+   ],
+   "canais": [
+    "YouTube",
+    "Crunchyroll"
+   ],
+   "trailer": "hgJgE69p6e8",
+   "provedores": null
+  },
+  {
+   "id": 50524,
+   "imdb": null,
+   "titulo": "เป็นต่อ",
+   "original": "เป็นต่อ",
+   "lingua": "th",
+   "sinopse": "",
+   "poster": "/3pCGtGxRjxY9ZBfoCVh3gLhc5Fy.jpg",
+   "generos": [
+    "Comédia"
+   ],
+   "nota": 8.364,
+   "votos": 11,
+   "popularidade": 46.2882,
+   "primeira": "2004-10-07",
+   "ultimoEp": {
+    "data": "2026-11-19",
+    "temporada": 13,
+    "episodio": 45
+   },
+   "proximoEp": null,
+   "temporadas": [
+    {
+     "n": 0,
+     "data": "2005-12-29"
+    },
+    {
+     "n": 1,
+     "data": "2004-10-07"
+    },
+    {
+     "n": 2,
+     "data": "2012-12-20"
+    },
+    {
+     "n": 3,
+     "data": "2014-10-02"
+    },
+    {
+     "n": 4,
+     "data": "2017-01-05"
+    },
+    {
+     "n": 5,
+     "data": "2018-01-11"
+    },
+    {
+     "n": 6,
+     "data": "2019-01-17"
+    },
+    {
+     "n": 7,
+     "data": "2020-01-11"
+    },
+    {
+     "n": 8,
+     "data": "2021-01-09"
+    },
+    {
+     "n": 9,
+     "data": "2022-02-04"
+    },
+    {
+     "n": 10,
+     "data": "2023-01-06"
+    },
+    {
+     "n": 11,
+     "data": "2024-01-04"
+    },
+    {
+     "n": 12,
+     "data": "2025-01-09"
+    },
+    {
+     "n": 13,
+     "data": "2026-01-08"
+    }
+   ],
+   "canais": [
+    "ONE 31",
+    "iQiyi",
+    "Netflix",
+    "Channel 3"
+   ],
+   "trailer": "ceU4o_-YDzc",
+   "provedores": null
+  },
+  {
+   "id": 8426,
+   "imdb": "tt5017396",
+   "titulo": "MTV Roadies",
+   "original": "MTV Roadies",
+   "lingua": "hi",
+   "sinopse": "",
+   "poster": "/rxuX0kszEyVJLDVIZLiZHOcM65y.jpg",
+   "generos": [
+    "Reality",
+    "Action & Adventure"
+   ],
+   "nota": 6.7,
+   "votos": 3,
+   "popularidade": 19.1391,
+   "primeira": "2003-11-03",
+   "ultimoEp": {
+    "data": "2026-11-21",
+    "temporada": 21,
+    "episodio": 12
+   },
+   "proximoEp": {
+    "data": "2026-11-27",
+    "temporada": 21,
+    "episodio": 13
+   },
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2003-11-03"
+    },
+    {
+     "n": 2,
+     "data": "2004-08-30"
+    },
+    {
+     "n": 3,
+     "data": "2005-08-16"
+    },
+    {
+     "n": 4,
+     "data": "2006-11-11"
+    },
+    {
+     "n": 5,
+     "data": "2007-10-28"
+    },
+    {
+     "n": 6,
+     "data": "2008-11-29"
+    },
+    {
+     "n": 7,
+     "data": "2009-11-08"
+    },
+    {
+     "n": 8,
+     "data": "2011-01-19"
+    },
+    {
+     "n": 9,
+     "data": "2012-01-06"
+    },
+    {
+     "n": 10,
+     "data": "2013-01-18"
+    },
+    {
+     "n": 11,
+     "data": "2014-01-25"
+    },
+    {
+     "n": 12,
+     "data": "2015-01-26"
+    },
+    {
+     "n": 13,
+     "data": "2016-02-20"
+    },
+    {
+     "n": 14,
+     "data": "2017-02-25"
+    },
+    {
+     "n": 15,
+     "data": "2018-02-18"
+    },
+    {
+     "n": 16,
+     "data": "2019-02-10"
+    },
+    {
+     "n": 17,
+     "data": "2020-02-15"
+    },
+    {
+     "n": 18,
+     "data": "2020-02-15"
+    },
+    {
+     "n": 19,
+     "data": "2023-06-03"
+    },
+    {
+     "n": 20,
+     "data": "2025-01-11"
+    },
+    {
+     "n": 21,
+     "data": "2026-10-16"
+    }
+   ],
+   "canais": [
+    "Netflix",
+    "MTV India"
+   ],
+   "trailer": null,
+   "provedores": null
+  },
+  {
+   "id": 272608,
+   "imdb": "tt9662962",
+   "titulo": "Chicken Shop Date",
+   "original": "Chicken Shop Date",
+   "lingua": "en",
+   "sinopse": "",
+   "poster": "/yWzqMTpyS6j16uBS4I7Sds02bY1.jpg",
+   "generos": [
+    "Talk",
+    "Comédia"
+   ],
+   "nota": 8.3,
+   "votos": 3,
+   "popularidade": 18.4486,
+   "primeira": "2014-12-03",
+   "ultimoEp": {
+    "data": "2026-11-13",
+    "temporada": 1,
+    "episodio": 122
+   },
+   "proximoEp": {
+    "data": "2026-11-27",
+    "temporada": 1,
+    "episodio": 123
+   },
+   "temporadas": [
+    {
+     "n": 0,
+     "data": "2018-07-19"
+    },
+    {
+     "n": 1,
+     "data": "2014-12-03"
+    }
+   ],
+   "canais": [
+    "Netflix",
+    "YouTube"
+   ],
+   "trailer": null,
+   "provedores": null
+  },
+  {
+   "id": 92408,
+   "imdb": "tt6150576",
+   "titulo": "Jantar da Meia Noite: Histórias de Tokyo",
+   "original": "深夜食堂: Tokyo Stories",
+   "lingua": "ja",
+   "sinopse": "Os clientes de um restaurante japonês encontram conexões profundas entre si a partir do interesse compartilhado pelo mesmo prato.",
+   "poster": "/nQblRnk0lfCMXp9petYtGqnzI4W.jpg",
+   "generos": [
+    "Drama"
+   ],
+   "nota": 7.979,
+   "votos": 71,
+   "popularidade": 12.8432,
+   "primeira": "2016-10-21",
+   "ultimoEp": {
+    "data": "2026-11-17",
+    "temporada": 3,
+    "episodio": 5
+   },
+   "proximoEp": {
+    "data": "2026-11-24",
+    "temporada": 3,
+    "episodio": 6
+   },
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2016-10-21"
+    },
+    {
+     "n": 2,
+     "data": "2019-10-31"
+    },
+    {
+     "n": 3,
+     "data": "2026-10-20"
+    }
+   ],
+   "canais": [
+    "MBS",
+    "TBS",
+    "Netflix"
+   ],
+   "trailer": "OCGDVHjPX0c",
+   "provedores": null
+  },
+  {
+   "id": 27562,
+   "imdb": null,
+   "titulo": "The Actor Awards Presented by SAG-AFTRA",
+   "original": "The Actor Awards Presented by SAG-AFTRA",
+   "lingua": "en",
+   "sinopse": "",
+   "poster": "/tWcVlqq310tjlt1fMnssZkP9E7r.jpg",
+   "generos": [
+    "Talk"
+   ],
+   "nota": 6,
+   "votos": 8,
+   "popularidade": 9.7004,
+   "primeira": "1995-02-25",
+   "ultimoEp": {
+    "data": "2026-03-01",
+    "temporada": 32,
+    "episodio": 1
+   },
+   "proximoEp": {
+    "data": "2027-02-28",
+    "temporada": 33,
+    "episodio": 1
+   },
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "1995-02-25"
+    },
+    {
+     "n": 2,
+     "data": "1996-02-24"
+    },
+    {
+     "n": 3,
+     "data": "1997-02-22"
+    },
+    {
+     "n": 4,
+     "data": "1998-03-08"
+    },
+    {
+     "n": 5,
+     "data": "1999-03-07"
+    },
+    {
+     "n": 6,
+     "data": "2000-03-12"
+    },
+    {
+     "n": 7,
+     "data": "2001-03-11"
+    },
+    {
+     "n": 8,
+     "data": "2002-03-10"
+    },
+    {
+     "n": 9,
+     "data": "2003-03-09"
+    },
+    {
+     "n": 10,
+     "data": "2004-02-22"
+    },
+    {
+     "n": 11,
+     "data": "2005-02-05"
+    },
+    {
+     "n": 12,
+     "data": "2006-01-29"
+    },
+    {
+     "n": 13,
+     "data": "2007-01-28"
+    },
+    {
+     "n": 14,
+     "data": "2008-01-27"
+    },
+    {
+     "n": 15,
+     "data": "2009-01-25"
+    },
+    {
+     "n": 16,
+     "data": "2010-01-23"
+    },
+    {
+     "n": 17,
+     "data": "2011-01-30"
+    },
+    {
+     "n": 18,
+     "data": "2012-01-29"
+    },
+    {
+     "n": 19,
+     "data": "2013-01-27"
+    },
+    {
+     "n": 20,
+     "data": "2014-01-18"
+    },
+    {
+     "n": 21,
+     "data": "2015-01-25"
+    },
+    {
+     "n": 22,
+     "data": "2016-01-30"
+    },
+    {
+     "n": 23,
+     "data": "2017-01-29"
+    },
+    {
+     "n": 24,
+     "data": "2018-01-21"
+    },
+    {
+     "n": 25,
+     "data": "2019-01-27"
+    },
+    {
+     "n": 26,
+     "data": "2020-01-19"
+    },
+    {
+     "n": 27,
+     "data": "2021-04-04"
+    },
+    {
+     "n": 28,
+     "data": "2022-02-27"
+    },
+    {
+     "n": 29,
+     "data": "2023-02-26"
+    },
+    {
+     "n": 30,
+     "data": "2024-02-24"
+    },
+    {
+     "n": 31,
+     "data": "2025-02-23"
+    },
+    {
+     "n": 32,
+     "data": "2026-03-01"
+    },
+    {
+     "n": 33,
+     "data": "2027-02-28"
+    },
+    {
+     "n": 34,
+     "data": "2028-02-20"
+    }
+   ],
+   "canais": [
+    "NBC",
+    "TNT",
+    "TBS",
+    "Netflix",
+    "YouTube"
+   ],
+   "trailer": null,
+   "provedores": null
+  },
+  {
+   "id": 283647,
+   "imdb": "tt37362320",
+   "titulo": "도라이버",
+   "original": "도라이버",
+   "lingua": "ko",
+   "sinopse": "",
+   "poster": "/fDR7bSOSCz6N6ouytg9LHtkEQTM.jpg",
+   "generos": [
+    "Reality",
+    "Comédia"
+   ],
+   "nota": 7.7,
+   "votos": 17,
+   "popularidade": 8.5788,
+   "primeira": "2025-02-23",
+   "ultimoEp": {
+    "data": "2026-11-22",
+    "temporada": 6,
+    "episodio": 16
+   },
+   "proximoEp": null,
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2025-02-23"
+    },
+    {
+     "n": 2,
+     "data": "2025-06-15"
+    },
+    {
+     "n": 3,
+     "data": "2025-11-09"
+    },
+    {
+     "n": 4,
+     "data": "2026-02-22"
+    },
+    {
+     "n": 5,
+     "data": "2026-06-14"
+    },
+    {
+     "n": 6,
+     "data": "2026-08-09"
+    }
+   ],
+   "canais": [
+    "Netflix"
+   ],
+   "trailer": null,
+   "provedores": null
+  },
+  {
+   "id": 288672,
+   "imdb": "tt36475261",
+   "titulo": "Orgulho e Preconceito",
+   "original": "Pride and Prejudice",
+   "lingua": "en",
+   "sinopse": "As primeiras impressões dão lugar a algo mais profundo entre Elizabeth Bennet e Sr. Darcy nesta adaptação fiel e atual do romance clássico.",
+   "poster": "/nqm2DnxpdOevMWExZO3kiDSRMJq.jpg",
+   "generos": [
+    "Drama"
+   ],
+   "nota": 0,
+   "votos": 0,
+   "popularidade": 7.1365,
+   "primeira": "2026-12-03",
+   "ultimoEp": null,
+   "proximoEp": {
+    "data": "2026-12-03",
+    "temporada": 1,
+    "episodio": 1
+   },
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2026-12-02"
+    }
+   ],
+   "canais": [
+    "Netflix"
+   ],
+   "trailer": "KuRYRhP6kag",
+   "provedores": null
+  },
+  {
+   "id": 46504,
+   "imdb": "tt2169245",
+   "titulo": "MeatEater",
+   "original": "MeatEater",
+   "lingua": "en",
+   "sinopse": "O caçador, escritor, cozinheiro e conservacionista Steven Rinella explora as regiões mais belas e remotas do mundo para buscar sua própria carne e levá-la até a mesa.",
+   "poster": "/iIBlBmYupUT8n5jyiGyuh3EDmDq.jpg",
+   "generos": [
+    "Documentário"
+   ],
+   "nota": 8.1,
+   "votos": 15,
+   "popularidade": 6.915,
+   "primeira": "2012-01-01",
+   "ultimoEp": {
+    "data": "2026-11-16",
+    "temporada": 14,
+    "episodio": 3
+   },
+   "proximoEp": null,
+   "temporadas": [
+    {
+     "n": 0,
+     "data": "2012-02-02"
+    },
+    {
+     "n": 1,
+     "data": "2012-01-01"
+    },
+    {
+     "n": 2,
+     "data": "2012-07-01"
+    },
+    {
+     "n": 3,
+     "data": "2013-01-06"
+    },
+    {
+     "n": 4,
+     "data": "2014-01-09"
+    },
+    {
+     "n": 5,
+     "data": "2015-01-08"
+    },
+    {
+     "n": 6,
+     "data": "2016-01-14"
+    },
+    {
+     "n": 7,
+     "data": "2018-10-02"
+    },
+    {
+     "n": 8,
+     "data": "2019-10-18"
+    },
+    {
+     "n": 9,
+     "data": "2020-09-23"
+    },
+    {
+     "n": 10,
+     "data": "2021-09-29"
+    },
+    {
+     "n": 11,
+     "data": "2022-10-26"
+    },
+    {
+     "n": 12,
+     "data": "2023-10-12"
+    },
+    {
+     "n": 13,
+     "data": "2025-10-20"
+    },
+    {
+     "n": 14,
+     "data": "2026-11-02"
+    }
+   ],
+   "canais": [
+    "Netflix",
+    "Sportsman Channel",
+    "themeateater.com"
+   ],
+   "trailer": "EteiNpnAQGU",
+   "provedores": null
+  },
+  {
+   "id": 256726,
+   "imdb": "tt35685457",
+   "titulo": "O Espetáculo Vai Começar",
+   "original": "천천히 강렬하게",
+   "lingua": "ko",
+   "sinopse": "O mundo do entretenimento coreano manteve as luzes acesas e o sonho vivo mesmo diante de obstáculos. Aqui, todos querem alcançar a glória.",
+   "poster": "/733Vm8e0bzUbjbDuATgR4Ol7vqd.jpg",
+   "generos": [
+    "Drama",
+    "War & Politics"
+   ],
+   "nota": 0,
+   "votos": 0,
+   "popularidade": 6.1286,
+   "primeira": "2026-12-11",
+   "ultimoEp": null,
+   "proximoEp": {
+    "data": "2026-12-11",
+    "temporada": 1,
+    "episodio": 1
+   },
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2026-12-11"
+    }
+   ],
+   "canais": [
+    "Netflix"
+   ],
+   "trailer": null,
+   "provedores": null
+  },
+  {
+   "id": 34485,
+   "imdb": "tt0786800",
+   "titulo": "El intermedio",
+   "original": "El intermedio",
+   "lingua": "es",
+   "sinopse": "",
+   "poster": "/lFfFs8HejMRhH9pc6sF9LmGAA0D.jpg",
+   "generos": [
+    "Comédia",
+    "News"
+   ],
+   "nota": 6.9,
+   "votos": 8,
+   "popularidade": 5.7389,
+   "primeira": "2006-03-30",
+   "ultimoEp": {
+    "data": "2026-11-19",
+    "temporada": 21,
+    "episodio": 40
+   },
+   "proximoEp": {
+    "data": "2026-11-24",
+    "temporada": 21,
+    "episodio": 41
+   },
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2006-03-30"
+    },
+    {
+     "n": 11,
+     "data": "2016-09-05"
+    },
+    {
+     "n": 13,
+     "data": "2018-09-03"
+    },
+    {
+     "n": 15,
+     "data": "2020-09-07"
+    },
+    {
+     "n": 21,
+     "data": "2026-09-08"
+    }
+   ],
+   "canais": [
+    "Netflix",
+    "laSexta",
+    "Atresplayer"
+   ],
+   "trailer": null,
+   "provedores": null
+  },
+  {
+   "id": 326247,
+   "imdb": "tt43613803",
+   "titulo": "Fool Night",
+   "original": "フールナイト",
+   "lingua": "ja",
+   "sinopse": "Em um futuro sem sol no qual os humanos viram plantas para produzir oxigênio, um jovem desesperado passa pela transformação e descobre uma conspiração.",
+   "poster": "/vTTr4YG3qIUq6E5uahU0fWSWch7.jpg",
+   "generos": [
+    "Animação",
+    "Drama",
+    "Sci-Fi & Fantasy",
+    "Mistério"
+   ],
+   "nota": 0,
+   "votos": 0,
+   "popularidade": 5.5806,
+   "primeira": "2026-11-26",
+   "ultimoEp": null,
+   "proximoEp": {
+    "data": "2026-11-26",
+    "temporada": 1,
+    "episodio": 1
+   },
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2026-11-26"
+    }
+   ],
+   "canais": [
+    "Netflix"
+   ],
+   "trailer": "2Qg_AfPF2sM",
+   "provedores": null
+  },
+  {
+   "id": 338973,
+   "imdb": "tt39018552",
+   "titulo": "Alas Roban: The Series",
+   "original": "Alas Roban: The Series",
+   "lingua": "id",
+   "sinopse": "",
+   "poster": "/wi5ydBPkfjI7p0fFRqaRLwMG1Wo.jpg",
+   "generos": [
+    "Mistério",
+    "Drama"
+   ],
+   "nota": 10,
+   "votos": 1,
+   "popularidade": 5.1744,
+   "primeira": "2026-10-14",
+   "ultimoEp": {
+    "data": "2026-11-22",
+    "temporada": 1,
+    "episodio": 40
+   },
+   "proximoEp": null,
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2026-10-14"
+    }
+   ],
+   "canais": [
+    "Netflix",
+    "antv"
+   ],
+   "trailer": null,
+   "provedores": null
+  },
+  {
+   "id": 298546,
+   "imdb": "tt46657219",
+   "titulo": "新手上路",
+   "original": "新手上路",
+   "lingua": "zh",
+   "sinopse": "",
+   "poster": "/7x7WFz4sCyKDNGdGugKxv0CJqlO.jpg",
+   "generos": [
+    "Comédia",
+    "Sci-Fi & Fantasy"
+   ],
+   "nota": 7.667,
+   "votos": 6,
+   "popularidade": 4.9257,
+   "primeira": "2026-10-18",
+   "ultimoEp": {
+    "data": "2026-11-22",
+    "temporada": 1,
+    "episodio": 6
+   },
+   "proximoEp": null,
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2026-10-18"
+    }
+   ],
+   "canais": [
+    "Netflix"
+   ],
+   "trailer": null,
+   "provedores": null
+  },
+  {
+   "id": 294607,
+   "imdb": "tt37433759",
+   "titulo": "Trinity",
+   "original": "Trinity",
+   "lingua": "en",
+   "sinopse": "Uma oficial da marinha se envolve com o carismático secretário de defesa, mas descobre que ele pode fazer parte de uma conspiração perigosa.",
+   "poster": "/4V1DsqIwLmEKsgfzQayDF60eRYc.jpg",
+   "generos": [
+    "Drama",
+    "War & Politics",
+    "Crime"
+   ],
+   "nota": 0,
+   "votos": 0,
+   "popularidade": 4.5676,
+   "primeira": "2026-12-01",
+   "ultimoEp": null,
+   "proximoEp": {
+    "data": "2026-12-01",
+    "temporada": 1,
+    "episodio": 1
+   },
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2026-12-01"
+    }
+   ],
+   "canais": [
+    "Netflix"
+   ],
+   "trailer": "oMeVvhr7GZw",
+   "provedores": null
+  },
+  {
+   "id": 270596,
+   "imdb": "tt31614143",
+   "titulo": "O Assassinato de JonBenét Ramsey",
+   "original": "The Murder of JonBenét Ramsey",
+   "lingua": "en",
+   "sinopse": "",
+   "poster": "/jhYhx8vR2tFf83D8yb9rwpRlpCb.jpg",
+   "generos": [
+    "Drama",
+    "Crime"
+   ],
+   "nota": 0,
+   "votos": 0,
+   "popularidade": 5.4512,
+   "primeira": "2026-12-10",
+   "ultimoEp": null,
+   "proximoEp": {
+    "data": "2026-12-10",
+    "temporada": 1,
+    "episodio": 1
+   },
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2026-12-09"
+    }
+   ],
+   "canais": [
+    "Netflix"
+   ],
+   "trailer": null,
+   "provedores": null
+  },
+  {
+   "id": 327273,
+   "imdb": "tt43635088",
+   "titulo": "The Four of Us",
+   "original": "The Four of Us",
+   "lingua": "en",
+   "sinopse": "",
+   "poster": "/xW8iMCoNwj6EfwuSqWrWZzJTaCw.jpg",
+   "generos": [
+    "Soap",
+    "Drama",
+    "Família"
+   ],
+   "nota": 9.5,
+   "votos": 2,
+   "popularidade": 3.571,
+   "primeira": "2026-06-29",
+   "ultimoEp": {
+    "data": "2026-11-23",
+    "temporada": 1,
+    "episodio": 40
+   },
+   "proximoEp": {
+    "data": "2026-11-30",
+    "temporada": 1,
+    "episodio": 41
+   },
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2026-06-29"
+    }
+   ],
+   "canais": [
+    "Netflix",
+    "e.tv"
+   ],
+   "trailer": "lO1lMPzh4Zs",
+   "provedores": null
+  },
+  {
+   "id": 283220,
+   "imdb": "tt35609216",
+   "titulo": "Quiztopia",
+   "original": "国民クイズ",
+   "lingua": "ja",
+   "sinopse": "Em um Japão alternativo, um apresentador comanda um teste letal, em que os vencedores fazem pedidos e os perdedores pagam caro. Até que ele vira alvo de rebeldes.",
+   "poster": "/3L8El6VH4CL1pdz9JgnGsHXeGra.jpg",
+   "generos": [
+    "Sci-Fi & Fantasy",
+    "Action & Adventure",
+    "Drama"
+   ],
+   "nota": 0,
+   "votos": 0,
+   "popularidade": 3.3834,
+   "primeira": "2026-12-17",
+   "ultimoEp": null,
+   "proximoEp": {
+    "data": "2026-12-17",
+    "temporada": 1,
+    "episodio": 1
+   },
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2026-12-17"
+    }
+   ],
+   "canais": [
+    "Netflix"
+   ],
+   "trailer": null,
+   "provedores": null
+  },
+  {
+   "id": 233732,
+   "imdb": "tt28756872",
+   "titulo": "Todo o Amor dos Nossos Corações",
+   "original": "Jo Bachay Hain Sang Samait Lo",
+   "lingua": "ur",
+   "sinopse": "Ao longo de três gerações, casais buscam o amor, enfrentam casamentos complicados e lidam com expectativas familiares em meio a escolhas que afetam a própria felicidade.",
+   "poster": "/jKfdaZm6UmciTygqkZwRXSVURUj.jpg",
+   "generos": [
+    "Drama"
+   ],
+   "nota": 0,
+   "votos": 0,
+   "popularidade": 2.3885,
+   "primeira": "2026-12-04",
+   "ultimoEp": null,
+   "proximoEp": {
+    "data": "2026-12-04",
+    "temporada": 1,
+    "episodio": 1
+   },
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2026-12-04"
+    }
+   ],
+   "canais": [
+    "Netflix"
+   ],
+   "trailer": null,
+   "provedores": null
+  },
+  {
+   "id": 298802,
+   "imdb": "tt43577911",
+   "titulo": "結界師の一輪華",
+   "original": "結界師の一輪華",
+   "lingua": "ja",
+   "sinopse": "Há milhares de anos, o Japão é protegido por cinco clãs que dominam a magia de criar barreiras. Hana, uma jovem de dezoito anos nascida em uma família secundária de um desses clãs, sempre viveu à sombra de sua irmã gêmea, mais talentosa, bonita e popular. Quando um poder extraordinário desperta dentro dela, Hana decide escondê-lo para continuar levando uma vida tranquila, longe dos holofotes. No entanto, esse estilo de vida com que tanto sonha começa a ficar cada vez mais distante quando Saku Ichinomiya assume a liderança do clã Ichinomiya e parte em busca de uma noiva poderosa o suficiente para estar ao seu lado. Determinada a manter suas habilidades em segredo, Hana faz de tudo para evitar Saku... Mas será que ela resistirá à tentação de aceitar um contrato de casamento se isso significar garantir o futuro tranquilo e pacífico com que sempre sonhou?",
+   "poster": "/qdJgSuTE36OWeHKP36Y4MlHxhHI.jpg",
+   "generos": [
+    "Animação",
+    "Drama",
+    "Sci-Fi & Fantasy"
+   ],
+   "nota": 0,
+   "votos": 0,
+   "popularidade": 3.2876,
+   "primeira": "2027-01-06",
+   "ultimoEp": null,
+   "proximoEp": {
+    "data": "2027-01-06",
+    "temporada": 1,
+    "episodio": 1
+   },
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2027-01-06"
+    }
+   ],
+   "canais": [
+    "Netflix",
+    "TOKYO MX"
+   ],
+   "trailer": null,
+   "provedores": null
+  },
+  {
+   "id": 321404,
+   "imdb": "tt14871562",
+   "titulo": "Killer Stories with Harvey Guillén",
+   "original": "Killer Stories with Harvey Guillén",
+   "lingua": "en",
+   "sinopse": "O ator Harvey Guillén (conhecido por What We Do in the Shadows) guia os espectadores por uma antologia arrepiante de crimes reais. A série desvenda histórias fascinantes, focando não apenas nos perpetradores, mas também nas vítimas e comunidades destruídas. Com um toque de fascínio misterioso e empatia, Guillén explora os motivos psicológicos e reviravoltas inesperadas que definem investigações notórias, incluindo casos como o \"Billionaire Boys Club\", possessões demoníacas simuladas e sequestros bizarros",
+   "poster": "/gPdBUMxDMpkhVPIHvkQOILbwdEO.jpg",
+   "generos": [
+    "Talk"
+   ],
+   "nota": 0,
+   "votos": 0,
+   "popularidade": 3.243,
+   "primeira": "2026-01-19",
+   "ultimoEp": {
+    "data": "2026-11-23",
+    "temporada": 1,
+    "episodio": 45
+   },
+   "proximoEp": null,
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2026-01-19"
+    }
+   ],
+   "canais": [
+    "Netflix",
+    "Spotify"
+   ],
+   "trailer": null,
+   "provedores": null
+  },
+  {
+   "id": 302837,
+   "imdb": "tt38681811",
+   "titulo": "Toos: Um Sequestro Entre os Van der Valk",
+   "original": "Toos: De van der valk ontvoering",
+   "lingua": "nl",
+   "sinopse": "",
+   "poster": "/yTn41duVqEmiBimV3itSyOpUPnU.jpg",
+   "generos": [
+    "Drama",
+    "Crime"
+   ],
+   "nota": 0,
+   "votos": 0,
+   "popularidade": 2.7278,
+   "primeira": "2026-11-26",
+   "ultimoEp": null,
+   "proximoEp": {
+    "data": "2026-11-26",
+    "temporada": 1,
+    "episodio": 1
+   },
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2026-11-26"
+    }
+   ],
+   "canais": [
+    "Netflix"
+   ],
+   "trailer": null,
+   "provedores": null
+  },
+  {
+   "id": 55295,
+   "imdb": null,
+   "titulo": "Холостяк",
+   "original": "Холостяк",
+   "lingua": "uk",
+   "sinopse": "",
+   "poster": "/9S0tXwy9lgH9EmHyuqHuvVg7tFX.jpg",
+   "generos": [
+    "Reality"
+   ],
+   "nota": 5.5,
+   "votos": 2,
+   "popularidade": 2.4682,
+   "primeira": "2011-03-17",
+   "ultimoEp": {
+    "data": "2026-11-20",
+    "temporada": 15,
+    "episodio": 6
+   },
+   "proximoEp": {
+    "data": "2026-11-27",
+    "temporada": 15,
+    "episodio": 7
+   },
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2011-03-17"
+    },
+    {
+     "n": 2,
+     "data": "2012-03-08"
+    },
+    {
+     "n": 3,
+     "data": "2013-03-08"
+    },
+    {
+     "n": 4,
+     "data": "2014-03-07"
+    },
+    {
+     "n": 5,
+     "data": "2015-03-06"
+    },
+    {
+     "n": 6,
+     "data": "2016-03-04"
+    },
+    {
+     "n": 7,
+     "data": "2017-03-10"
+    },
+    {
+     "n": 8,
+     "data": "2018-03-09"
+    },
+    {
+     "n": 9,
+     "data": "2019-03-08"
+    },
+    {
+     "n": 10,
+     "data": "2020-03-06"
+    },
+    {
+     "n": 11,
+     "data": "2021-03-05"
+    },
+    {
+     "n": 12,
+     "data": "2022-10-28"
+    },
+    {
+     "n": 13,
+     "data": "2024-11-01"
+    },
+    {
+     "n": 14,
+     "data": "2025-10-17"
+    },
+    {
+     "n": 15,
+     "data": "2026-10-16"
+    }
+   ],
+   "canais": [
+    "Netflix",
+    "STB"
+   ],
+   "trailer": null,
+   "provedores": null
+  },
+  {
+   "id": 249037,
+   "imdb": "tt30495117",
+   "titulo": "O Gêmeo",
+   "original": "The Twin",
+   "lingua": "en",
+   "sinopse": "Nicola se sente sufocada em um casamento sem amor com Adam. Mas a vida dela passa por uma verdadeira reviravolta quando Lee, o irmão gêmeo de Adam, reaparece, e o passado romântico dos dois ameaça destruir o presente. Depois de um acidente terrível, Nicola toma uma decisão de última hora para proteger os filhos, e o esforço para manter uma rede de segredos e mentiras força Lee e Nicola a ficarem juntos. Agora, mesmo sem conseguir evitar o que sentem um pelo outro, eles sabem que essa relação tem os dias contados.",
+   "poster": null,
+   "generos": [
+    "Crime"
+   ],
+   "nota": 0,
+   "votos": 0,
+   "popularidade": 2.2284,
+   "primeira": "2027-01-01",
+   "ultimoEp": null,
+   "proximoEp": {
+    "data": "2027-01-01",
+    "temporada": 1,
+    "episodio": 1
+   },
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2027-01-01"
+    }
+   ],
+   "canais": [
+    "Netflix"
+   ],
+   "trailer": null,
+   "provedores": null
+  },
+  {
+   "id": 289729,
+   "imdb": "tt36634761",
+   "titulo": "Terra Descansada",
+   "original": "Unaccustomed Earth",
+   "lingua": "en",
+   "sinopse": "Uma doença obriga uma mãe dedicada e sua família a voltarem aos EUA, onde ela confronta desejos ocultos que abalam sua comunidade de origem indiana.",
+   "poster": "/woKoBzADQDl6roxcCERAnGLgYf9.jpg",
+   "generos": [
+    "Drama"
+   ],
+   "nota": 0,
+   "votos": 0,
+   "popularidade": 1.9133,
+   "primeira": "2026-12-17",
+   "ultimoEp": null,
+   "proximoEp": {
+    "data": "2026-12-17",
+    "temporada": 1,
+    "episodio": 1
+   },
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2026-12-17"
+    }
+   ],
+   "canais": [
+    "Netflix"
+   ],
+   "trailer": "2UUB54kGsKM",
+   "provedores": null
+  },
+  {
+   "id": 338930,
+   "imdb": "tt36951910",
+   "titulo": "Legevakta",
+   "original": "Legevakta",
+   "lingua": "no",
+   "sinopse": "",
+   "poster": "/oFoT6GRACWN9X6fFvtCys0ViDUl.jpg",
+   "generos": [
+    "Drama"
+   ],
+   "nota": 0,
+   "votos": 0,
+   "popularidade": 1.8227,
+   "primeira": "2026-11-26",
+   "ultimoEp": null,
+   "proximoEp": {
+    "data": "2026-11-26",
+    "temporada": 1,
+    "episodio": 1
+   },
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2026-11-26"
+    }
+   ],
+   "canais": [
+    "Netflix"
+   ],
+   "trailer": "fqZR2dreobc",
+   "provedores": null
+  },
+  {
+   "id": 289730,
+   "imdb": "tt36634723",
+   "titulo": "A Época da Inocência",
+   "original": "The Age of Innocence",
+   "lingua": "en",
+   "sinopse": "",
+   "poster": null,
+   "generos": [
+    "Drama"
+   ],
+   "nota": 0,
+   "votos": 0,
+   "popularidade": 1.8767,
+   "primeira": "2027-02-18",
+   "ultimoEp": null,
+   "proximoEp": {
+    "data": "2027-02-18",
+    "temporada": 1,
+    "episodio": 1
+   },
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2027-02-18"
+    }
+   ],
+   "canais": [
+    "Netflix"
+   ],
+   "trailer": null,
+   "provedores": null
+  },
+  {
+   "id": 334379,
+   "imdb": "tt39749939",
+   "titulo": "เพลิงพระนาง",
+   "original": "เพลิงพระนาง",
+   "lingua": "th",
+   "sinopse": "",
+   "poster": "/lGfdmmjT8HEVNhaXm1AvWLvdlii.jpg",
+   "generos": [
+    "Drama"
+   ],
+   "nota": 0,
+   "votos": 0,
+   "popularidade": 1.7609,
+   "primeira": "2026-12-03",
+   "ultimoEp": null,
+   "proximoEp": {
+    "data": "2026-12-03",
+    "temporada": 1,
+    "episodio": 1
+   },
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2026-12-03"
+    }
+   ],
+   "canais": [
+    "Netflix"
+   ],
+   "trailer": null,
+   "provedores": null
+  },
+  {
+   "id": 330808,
+   "imdb": "tt43659288",
+   "titulo": "Além da Sociedade",
+   "original": "Más allá de la sociedad",
+   "lingua": "es",
+   "sinopse": "O acidente aéreo nos Andes não terminou com o resgate. Quando os sobreviventes voltaram ao bairro onde as famílias daqueles que nunca voltaram continuavam esperando, começou outra história. Enquanto o mundo transformava essa tragédia em uma narrativa universal, eles tiveram que aprender a conviver com o peso de tudo o que fizeram. Esta série abrange meio século em uma comunidade marcada pela divisão entre vivos e mortos, e explora como contar uma história pode mudar a forma como a encaramos.",
+   "poster": "/mI0LygMjn0ke4tZi3kpgJiqaxGW.jpg",
+   "generos": [
+    "Documentário"
+   ],
+   "nota": 0,
+   "votos": 0,
+   "popularidade": 1.5449,
+   "primeira": "2026-12-18",
+   "ultimoEp": null,
+   "proximoEp": {
+    "data": "2026-12-18",
+    "temporada": 1,
+    "episodio": 1
+   },
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2026-12-18"
+    }
+   ],
+   "canais": [
+    "Netflix"
+   ],
+   "trailer": null,
+   "provedores": null
+  },
+  {
+   "id": 281722,
+   "imdb": "tt35933285",
+   "titulo": "ओ साथी रे",
+   "original": "ओ साथी रे",
+   "lingua": "hi",
+   "sinopse": "",
+   "poster": "/eX2DKTgy9BFD0YWqUShhJsDf14P.jpg",
+   "generos": [
+    "Drama"
+   ],
+   "nota": 0,
+   "votos": 0,
+   "popularidade": 1.4846,
+   "primeira": "2026-12-04",
+   "ultimoEp": null,
+   "proximoEp": {
+    "data": "2026-12-04",
+    "temporada": 1,
+    "episodio": 1
+   },
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2026-12-04"
+    }
+   ],
+   "canais": [
+    "Netflix"
+   ],
+   "trailer": null,
+   "provedores": null
+  },
+  {
+   "id": 296114,
+   "imdb": "tt37582710",
+   "titulo": "Os Segredos da Cortesã",
+   "original": "Los secretos de la cortesana",
+   "lingua": "es",
+   "sinopse": "",
+   "poster": "/ckWL5kX8Dpi9FXW8U4HIy4KFGDy.jpg",
+   "generos": [
+    "Drama"
+   ],
+   "nota": 0,
+   "votos": 0,
+   "popularidade": 1.4534,
+   "primeira": "2027-01-22",
+   "ultimoEp": null,
+   "proximoEp": {
+    "data": "2027-01-22",
+    "temporada": 1,
+    "episodio": 1
+   },
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2027-01-22"
+    }
+   ],
+   "canais": [
+    "Netflix"
+   ],
+   "trailer": null,
+   "provedores": null
+  },
+  {
+   "id": 305520,
+   "imdb": "tt38935871",
+   "titulo": "Living the Dream",
+   "original": "Living the Dream",
+   "lingua": "en",
+   "sinopse": "",
+   "poster": "/jbLrXQiw8HBZ7x3gzNWOZLPuY1v.jpg",
+   "generos": [
+    "Animação",
+    "Comédia"
+   ],
+   "nota": 0,
+   "votos": 0,
+   "popularidade": 1.3079,
+   "primeira": "2026-12-18",
+   "ultimoEp": null,
+   "proximoEp": {
+    "data": "2026-12-18",
+    "temporada": 1,
+    "episodio": 1
+   },
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2026-12-18"
+    }
+   ],
+   "canais": [
+    "Netflix"
+   ],
+   "trailer": null,
+   "provedores": null
+  },
+  {
+   "id": 331822,
+   "imdb": "tt44230388",
+   "titulo": "Sunshine Girls",
+   "original": "Sunshine Girls",
+   "lingua": "en",
+   "sinopse": "",
+   "poster": "/kH9nmA3spXyBqJ6UaWtFL23sB8Y.jpg",
+   "generos": [
+    "Drama"
+   ],
+   "nota": 0,
+   "votos": 0,
+   "popularidade": 1.3376,
+   "primeira": "2026-12-15",
+   "ultimoEp": null,
+   "proximoEp": {
+    "data": "2026-12-15",
+    "temporada": 1,
+    "episodio": 1
+   },
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2026-12-15"
+    }
+   ],
+   "canais": [
+    "Netflix"
+   ],
+   "trailer": null,
+   "provedores": null
+  },
+  {
+   "id": 338215,
+   "imdb": "tt38681839",
+   "titulo": "Bunt",
+   "original": "Bunt",
+   "lingua": "pl",
+   "sinopse": "",
+   "poster": "/dz8ilt25h9BOZ3tHw6JMNzd7Srt.jpg",
+   "generos": [
+    "Drama"
+   ],
+   "nota": 0,
+   "votos": 0,
+   "popularidade": 1.3165,
+   "primeira": "2026-12-09",
+   "ultimoEp": null,
+   "proximoEp": {
+    "data": "2026-12-09",
+    "temporada": 1,
+    "episodio": 1
+   },
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2026-12-09"
+    }
+   ],
+   "canais": [
+    "Netflix"
+   ],
+   "trailer": null,
+   "provedores": null
+  },
+  {
+   "id": 340516,
+   "imdb": "tt39444596",
+   "titulo": "Em dezembro, as brisas chegaram",
+   "original": "En diciembre llegaban las brisas",
+   "lingua": "es",
+   "sinopse": "A história, dividida em 8 capítulos, se passa em Barranquilla no final da década de 1950 (1958). Acompanha a vida de quatro amigas — Lina, Dora, Catalina e Beatriz — enquanto elas tentam trilhar seus próprios caminhos e desafiar as rígidas normas sociais, o machismo e o culto à aparência que limitam as mulheres em uma sociedade conservadora.",
+   "poster": "/tczZnjpluajsheBCBdRNkk4akk2.jpg",
+   "generos": [
+    "Drama"
+   ],
+   "nota": 0,
+   "votos": 0,
+   "popularidade": 1.2403,
+   "primeira": "2026-12-04",
+   "ultimoEp": null,
+   "proximoEp": {
+    "data": "2026-12-04",
+    "temporada": 1,
+    "episodio": 1
+   },
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2026-12-04"
+    }
+   ],
+   "canais": [
+    "Netflix"
+   ],
+   "trailer": null,
+   "provedores": null
+  },
+  {
+   "id": 341600,
+   "imdb": null,
+   "titulo": "Salish's 12 Games of Christmas",
+   "original": "Salish's 12 Games of Christmas",
+   "lingua": "en",
+   "sinopse": "",
+   "poster": "/qDasTvECXJIDtfTG45s7caEKYGG.jpg",
+   "generos": [
+    "Reality"
+   ],
+   "nota": 10,
+   "votos": 1,
+   "popularidade": 1.3486,
+   "primeira": "2026-11-28",
+   "ultimoEp": null,
+   "proximoEp": {
+    "data": "2026-11-28",
+    "temporada": 1,
+    "episodio": 1
+   },
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2026-11-28"
+    }
+   ],
+   "canais": [
+    "Netflix"
+   ],
+   "trailer": null,
+   "provedores": null
+  },
+  {
+   "id": 341091,
+   "imdb": null,
+   "titulo": "Il capo perfetto",
+   "original": "Il capo perfetto",
+   "lingua": "it",
+   "sinopse": "",
+   "poster": "/jFegOdn5pjSP9eh4XalLSiPwenn.jpg",
+   "generos": [
+    "Comédia",
+    "Drama"
+   ],
+   "nota": 0,
+   "votos": 0,
+   "popularidade": 1.1821,
+   "primeira": "2026-12-02",
+   "ultimoEp": null,
+   "proximoEp": {
+    "data": "2026-12-02",
+    "temporada": 1,
+    "episodio": 1
+   },
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2026-12-02"
+    }
+   ],
+   "canais": [
+    "Netflix"
+   ],
+   "trailer": null,
+   "provedores": null
+  },
+  {
+   "id": 340862,
+   "imdb": "tt43728785",
+   "titulo": "Collect & Praise",
+   "original": "Collect & Praise",
+   "lingua": "en",
+   "sinopse": "",
+   "poster": "/sv6XxYblK99shoVkPI3uMa3bA4.jpg",
+   "generos": [
+    "Comédia"
+   ],
+   "nota": 0,
+   "votos": 0,
+   "popularidade": 1.2257,
+   "primeira": "2026-12-01",
+   "ultimoEp": null,
+   "proximoEp": {
+    "data": "2026-12-01",
+    "temporada": 1,
+    "episodio": 1
+   },
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2026-12-01"
+    }
+   ],
+   "canais": [
+    "Netflix"
+   ],
+   "trailer": null,
+   "provedores": null
+  },
+  {
+   "id": 320759,
+   "imdb": null,
+   "titulo": "Sonra Gözler Görür",
+   "original": "Sonra Gözler Görür",
+   "lingua": "tr",
+   "sinopse": "",
+   "poster": null,
+   "generos": [
+    "Drama",
+    "Crime"
+   ],
+   "nota": 0,
+   "votos": 0,
+   "popularidade": 1.1279,
+   "primeira": "2026-12-17",
+   "ultimoEp": null,
+   "proximoEp": {
+    "data": "2026-12-17",
+    "temporada": 1,
+    "episodio": 1
+   },
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2026-12-17"
+    }
+   ],
+   "canais": [
+    "Netflix"
+   ],
+   "trailer": null,
+   "provedores": null
+  },
+  {
+   "id": 341297,
+   "imdb": null,
+   "titulo": "산독기 프로젝트",
+   "original": "산독기 프로젝트",
+   "lingua": "ko",
+   "sinopse": "",
+   "poster": "/vXfbJGSQVRcpOJmPUmv6zBv49GJ.jpg",
+   "generos": [
+    "Reality",
+    "Comédia"
+   ],
+   "nota": 0,
+   "votos": 0,
+   "popularidade": 1.1554,
+   "primeira": "2026-11-20",
+   "ultimoEp": {
+    "data": "2026-11-20",
+    "temporada": 1,
+    "episodio": 6
+   },
+   "proximoEp": null,
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2026-11-20"
+    }
+   ],
+   "canais": [
+    "Netflix",
+    "KBS2",
+    "KOCOWA"
+   ],
+   "trailer": null,
+   "provedores": null
+  },
+  {
+   "id": 336108,
+   "imdb": null,
+   "titulo": "Rauls",
+   "original": "Rauls",
+   "lingua": "pt",
+   "sinopse": "Acompanha a Tropa dos 7, um grupo de jovens que encontra nos golpes digitais um atalho para mudar de vida e precisa lidar com as consequências dessa escolha.",
+   "poster": "/qNFhh1JqBAtJti0w2ztLEvZKvKT.jpg",
+   "generos": [
+    "Drama"
+   ],
+   "nota": 0,
+   "votos": 0,
+   "popularidade": 1.0521,
+   "primeira": "2026-12-09",
+   "ultimoEp": null,
+   "proximoEp": {
+    "data": "2026-12-09",
+    "temporada": 1,
+    "episodio": 1
+   },
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2026-12-09"
+    }
+   ],
+   "canais": [
+    "Netflix"
+   ],
+   "trailer": null,
+   "provedores": null
+  },
+  {
+   "id": 338678,
+   "imdb": null,
+   "titulo": "거장항준",
+   "original": "거장항준",
+   "lingua": "ko",
+   "sinopse": "",
+   "poster": "/v3pow3iUzvW4WFk2du4qEbgdJNv.jpg",
+   "generos": [
+    "Talk"
+   ],
+   "nota": 10,
+   "votos": 1,
+   "popularidade": 0.8056,
+   "primeira": "2026-10-15",
+   "ultimoEp": {
+    "data": "2026-11-19",
+    "temporada": 1,
+    "episodio": 6
+   },
+   "proximoEp": null,
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2026-10-15"
+    }
+   ],
+   "canais": [
+    "SBS",
+    "Netflix"
+   ],
+   "trailer": null,
+   "provedores": null
+  },
+  {
+   "id": 342320,
+   "imdb": null,
+   "titulo": "Les caméras cachées de François Damiens",
+   "original": "Les caméras cachées de François Damiens",
+   "lingua": "fr",
+   "sinopse": "",
+   "poster": null,
+   "generos": [],
+   "nota": 0,
+   "votos": 0,
+   "popularidade": 0.9859,
+   "primeira": "2026-12-18",
+   "ultimoEp": null,
+   "proximoEp": {
+    "data": "2026-12-18",
+    "temporada": 1,
+    "episodio": 1
+   },
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2026-12-18"
+    }
+   ],
+   "canais": [
+    "Netflix"
+   ],
+   "trailer": null,
+   "provedores": null
+  },
+  {
+   "id": 336605,
+   "imdb": "tt43610460",
+   "titulo": "Gabby's Dollhouse: Makers and Bakers Holiday",
+   "original": "Gabby's Dollhouse: Makers and Bakers Holiday",
+   "lingua": "en",
+   "sinopse": "",
+   "poster": "/e7gtd9EmEl6yN8gadikLiLurOyv.jpg",
+   "generos": [
+    "Reality",
+    "Kids"
+   ],
+   "nota": 0,
+   "votos": 0,
+   "popularidade": 0.8855,
+   "primeira": "2026-12-09",
+   "ultimoEp": null,
+   "proximoEp": {
+    "data": "2026-12-09",
+    "temporada": 1,
+    "episodio": 1
+   },
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2026-12-09"
+    }
+   ],
+   "canais": [
+    "Netflix"
+   ],
+   "trailer": null,
+   "provedores": null
+  },
+  {
+   "id": 334629,
+   "imdb": null,
+   "titulo": "Love Is Blind: South Africa",
+   "original": "Love Is Blind: South Africa",
+   "lingua": "en",
+   "sinopse": "",
+   "poster": "/dP2wGaEjAD2VgraSGFzVo8HhtzF.jpg",
+   "generos": [
+    "Reality"
+   ],
+   "nota": 0,
+   "votos": 0,
+   "popularidade": 0.8002,
+   "primeira": "2026-12-04",
+   "ultimoEp": null,
+   "proximoEp": {
+    "data": "2026-12-04",
+    "temporada": 1,
+    "episodio": 1
+   },
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2026-12-04"
+    }
+   ],
+   "canais": [
+    "Netflix"
+   ],
+   "trailer": null,
+   "provedores": null
+  },
+  {
+   "id": 342322,
+   "imdb": null,
+   "titulo": "Literally! With Rob Lowe",
+   "original": "Literally! With Rob Lowe",
+   "lingua": "en",
+   "sinopse": "",
+   "poster": null,
+   "generos": [
+    "Talk"
+   ],
+   "nota": 0,
+   "votos": 0,
+   "popularidade": 1.1598,
+   "primeira": "2026-12-03",
+   "ultimoEp": null,
+   "proximoEp": {
+    "data": "2026-12-03",
+    "temporada": 1,
+    "episodio": 1
+   },
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2026-12-03"
+    }
+   ],
+   "canais": [
+    "Netflix"
+   ],
+   "trailer": null,
+   "provedores": null
+  },
+  {
+   "id": 342511,
+   "imdb": null,
+   "titulo": "Raising the Cannons",
+   "original": "Raising the Cannons",
+   "lingua": "en",
+   "sinopse": "",
+   "poster": null,
+   "generos": [
+    "Reality"
+   ],
+   "nota": 0,
+   "votos": 0,
+   "popularidade": 0.6349,
+   "primeira": "2026-12-18",
+   "ultimoEp": null,
+   "proximoEp": {
+    "data": "2026-12-18",
+    "temporada": 1,
+    "episodio": 1
+   },
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2026-12-18"
+    }
+   ],
+   "canais": [
+    "Netflix"
+   ],
+   "trailer": null,
+   "provedores": null
+  },
+  {
+   "id": 342613,
+   "imdb": "tt31806039",
+   "titulo": "Grown Ups",
+   "original": "Grown Ups",
+   "lingua": "en",
+   "sinopse": "",
+   "poster": "/eq6I97OItUk0m9sPZQFixvoqFax.jpg",
+   "generos": [
+    "Drama"
+   ],
+   "nota": 0,
+   "votos": 0,
+   "popularidade": 0.6336,
+   "primeira": "2027-01-14",
+   "ultimoEp": null,
+   "proximoEp": {
+    "data": "2027-01-14",
+    "temporada": 1,
+    "episodio": 1
+   },
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2027-01-14"
+    }
+   ],
+   "canais": [
+    "Netflix"
+   ],
+   "trailer": null,
+   "provedores": null
+  },
+  {
+   "id": 313701,
+   "imdb": "tt39751490",
+   "titulo": "Um Natal Filipino",
+   "original": "Paskong Pinoy",
+   "lingua": "tl",
+   "sinopse": "Descubra o verdadeiro significado do Natal nesta antologia comovente com histórias de rivais no trabalho, irmãs em conflito e amigos que se afastaram.",
+   "poster": "/zYUsYASG6gLiSnddKEj2fNRS4R3.jpg",
+   "generos": [
+    "Drama"
+   ],
+   "nota": 0,
+   "votos": 0,
+   "popularidade": 0.8605,
+   "primeira": "2026-11-26",
+   "ultimoEp": null,
+   "proximoEp": {
+    "data": "2026-11-26",
+    "temporada": 1,
+    "episodio": 1
+   },
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2026-11-26"
+    }
+   ],
+   "canais": [
+    "Netflix"
+   ],
+   "trailer": null,
+   "provedores": null
   }
  ],
  "provedores": [

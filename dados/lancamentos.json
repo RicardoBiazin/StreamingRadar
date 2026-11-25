@@ -1,6 +1,6 @@
 {
  "fonte": "tmdb",
- "coletadoEm": "2026-11-25T02:47:53.571Z",
+ "coletadoEm": "2026-11-25T03:10:15.297Z",
  "de": "2026-11-16",
  "ate": "2027-05-30",
  "itens": [
@@ -38,6 +38,41 @@
    "temporada": 4,
    "canais": [
     "Telemundo"
+   ]
+  },
+  {
+   "id": "serie-35338",
+   "tmdb": 35338,
+   "imdb": "tt0922037",
+   "tipo": "serie",
+   "titulo": "La que se avecina",
+   "original": null,
+   "data": "2026-11-16",
+   "semana": "2026-w47",
+   "segunda": "2026-11-16",
+   "generos": [
+    "Comédia"
+   ],
+   "nota": 8.1,
+   "votos": 309,
+   "sinopse": "",
+   "poster": "/jTIK9JdLffUbRirQ6O29J4aAdOI.jpg",
+   "trailer": null,
+   "popularidade": 37.4639,
+   "plataformas": [
+    {
+     "id": null,
+     "nome": "Amazon Prime Video",
+     "logo": null,
+     "tipo": "assinatura",
+     "inferido": true
+    }
+   ],
+   "justwatch": null,
+   "temporada": 17,
+   "canais": [
+    "Telecinco",
+    "Prime Video"
    ]
   },
   {
@@ -425,6 +460,40 @@
    ]
   },
   {
+   "id": "serie-339407",
+   "tmdb": 339407,
+   "imdb": "tt49691783",
+   "tipo": "serie",
+   "titulo": "He Said, She Said: Till Death Do Us Part",
+   "original": null,
+   "data": "2026-11-17",
+   "semana": "2026-w47",
+   "segunda": "2026-11-16",
+   "generos": [
+    "Documentário"
+   ],
+   "nota": 6,
+   "votos": 1,
+   "sinopse": "",
+   "poster": "/steeGJML8VlognYJLS6KSnNvc9l.jpg",
+   "trailer": "DfFq8MKQyE8",
+   "popularidade": 1.9105,
+   "plataformas": [
+    {
+     "id": null,
+     "nome": "Paramount Plus",
+     "logo": null,
+     "tipo": "assinatura",
+     "inferido": true
+    }
+   ],
+   "justwatch": null,
+   "temporada": 1,
+   "canais": [
+    "Paramount+"
+   ]
+  },
+  {
    "id": "cinema-1798642",
    "tmdb": 1798642,
    "imdb": null,
@@ -540,40 +609,6 @@
    "classificacao": "14"
   },
   {
-   "id": "serie-332839",
-   "tmdb": 332839,
-   "imdb": "tt44079238",
-   "tipo": "serie",
-   "titulo": "A Lei dos Monstros",
-   "original": "Prawo bestii",
-   "data": "2026-11-18",
-   "semana": "2026-w47",
-   "segunda": "2026-11-16",
-   "generos": [
-    "Crime",
-    "Drama"
-   ],
-   "nota": 6.6,
-   "votos": 21,
-   "sinopse": "Quando o caso de um assassino de meninos ressurge depois de 25 anos como um problema jurídico e social não solucionado, duas antigas amigas são forçadas a confrontar as escolhas que levaram ao fim da amizade e moldaram suas vidas.",
-   "poster": "/KnhUSXgKqiG96mf4GofisAhhS2.jpg",
-   "trailer": null,
-   "popularidade": 35.5053,
-   "plataformas": [
-    {
-     "id": 8,
-     "nome": "Netflix",
-     "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
-     "tipo": "assinatura"
-    }
-   ],
-   "justwatch": "https://www.themoviedb.org/tv/332839-prawo-bestii/watch?locale=BR",
-   "temporada": 1,
-   "canais": [
-    "Netflix"
-   ]
-  },
-  {
    "id": "serie-340280",
    "tmdb": 340280,
    "imdb": "tt41559886",
@@ -605,6 +640,81 @@
    "temporada": 1,
    "canais": [
     "Netflix"
+   ]
+  },
+  {
+   "id": "serie-332839",
+   "tmdb": 332839,
+   "imdb": "tt44079238",
+   "tipo": "serie",
+   "titulo": "A Lei dos Monstros",
+   "original": "Prawo bestii",
+   "data": "2026-11-18",
+   "semana": "2026-w47",
+   "segunda": "2026-11-16",
+   "generos": [
+    "Crime",
+    "Drama"
+   ],
+   "nota": 6.6,
+   "votos": 21,
+   "sinopse": "Quando o caso de um assassino de meninos ressurge depois de 25 anos como um problema jurídico e social não solucionado, duas antigas amigas são forçadas a confrontar as escolhas que levaram ao fim da amizade e moldaram suas vidas.",
+   "poster": "/KnhUSXgKqiG96mf4GofisAhhS2.jpg",
+   "trailer": null,
+   "popularidade": 33.2516,
+   "plataformas": [
+    {
+     "id": 8,
+     "nome": "Netflix",
+     "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "tipo": "assinatura"
+    }
+   ],
+   "justwatch": "https://www.themoviedb.org/tv/332839-prawo-bestii/watch?locale=BR",
+   "temporada": 1,
+   "canais": [
+    "Netflix"
+   ]
+  },
+  {
+   "id": "serie-136915",
+   "tmdb": 136915,
+   "imdb": "tt15823370",
+   "tipo": "serie",
+   "titulo": "캐치! 티니핑",
+   "original": null,
+   "data": "2026-11-18",
+   "semana": "2026-w47",
+   "segunda": "2026-11-16",
+   "generos": [
+    "Animação",
+    "Kids"
+   ],
+   "nota": 7,
+   "votos": 4,
+   "sinopse": "",
+   "poster": "/rY8QGWz7xdsBx6Em1WnpqQZ2oIU.jpg",
+   "trailer": null,
+   "popularidade": 19.4897,
+   "plataformas": [
+    {
+     "id": null,
+     "nome": "Disney Plus",
+     "logo": null,
+     "tipo": "assinatura",
+     "inferido": true
+    }
+   ],
+   "justwatch": null,
+   "temporada": 7,
+   "canais": [
+    "YouTube",
+    "KBS2",
+    "iQiyi",
+    "Youku",
+    "Tencent Video",
+    "Disney+",
+    "JEI TV"
    ]
   },
   {
@@ -675,6 +785,40 @@
    ]
   },
   {
+   "id": "serie-316752",
+   "tmdb": 316752,
+   "imdb": "tt43724785",
+   "tipo": "serie",
+   "titulo": "Somos así",
+   "original": null,
+   "data": "2026-11-18",
+   "semana": "2026-w47",
+   "segunda": "2026-11-16",
+   "generos": [
+    "Comédia"
+   ],
+   "nota": 9.5,
+   "votos": 6,
+   "sinopse": "",
+   "poster": "/p9dfUH3jSgdpVzrwdGZtBG1TADS.jpg",
+   "trailer": null,
+   "popularidade": 11.2509,
+   "plataformas": [
+    {
+     "id": null,
+     "nome": "Disney Plus",
+     "logo": null,
+     "tipo": "assinatura",
+     "inferido": true
+    }
+   ],
+   "justwatch": null,
+   "temporada": 1,
+   "canais": [
+    "Disney+"
+   ]
+  },
+  {
    "id": "serie-336592",
    "tmdb": 336592,
    "imdb": "tt38885478",
@@ -705,6 +849,41 @@
    "temporada": 1,
    "canais": [
     "Netflix"
+   ]
+  },
+  {
+   "id": "serie-338547",
+   "tmdb": 338547,
+   "imdb": null,
+   "tipo": "serie",
+   "titulo": "Friz i Wersow. W drodze",
+   "original": null,
+   "data": "2026-11-18",
+   "semana": "2026-w47",
+   "segunda": "2026-11-16",
+   "generos": [
+    "Documentário",
+    "Reality"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "",
+   "poster": "/a8kD3PbjgshEpcOjhXTkwahL9Dn.jpg",
+   "trailer": null,
+   "popularidade": 1.0557,
+   "plataformas": [
+    {
+     "id": null,
+     "nome": "Amazon Prime Video",
+     "logo": null,
+     "tipo": "assinatura",
+     "inferido": true
+    }
+   ],
+   "justwatch": null,
+   "temporada": 1,
+   "canais": [
+    "Prime Video"
    ]
   },
   {
@@ -1155,6 +1334,40 @@
    "classificacao": null
   },
   {
+   "id": "serie-294060",
+   "tmdb": 294060,
+   "imdb": "tt38986610",
+   "tipo": "serie",
+   "titulo": "Beauty and the Geek",
+   "original": null,
+   "data": "2026-11-19",
+   "semana": "2026-w47",
+   "segunda": "2026-11-16",
+   "generos": [
+    "Reality"
+   ],
+   "nota": 9,
+   "votos": 3,
+   "sinopse": "",
+   "poster": "/tFwaND8FjI1Sirep8jeYyxQkQXB.jpg",
+   "trailer": null,
+   "popularidade": 1.6385,
+   "plataformas": [
+    {
+     "id": null,
+     "nome": "Amazon Prime Video",
+     "logo": null,
+     "tipo": "assinatura",
+     "inferido": true
+    }
+   ],
+   "justwatch": null,
+   "temporada": 2,
+   "canais": [
+    "Prime Video"
+   ]
+  },
+  {
    "id": "cinema-1255582",
    "tmdb": 1255582,
    "imdb": "tt6305150",
@@ -1303,6 +1516,43 @@
    "justwatch": null,
    "duracao": 95,
    "classificacao": "14"
+  },
+  {
+   "id": "serie-343091",
+   "tmdb": 343091,
+   "imdb": "tt43750368",
+   "tipo": "serie",
+   "titulo": "Galactic Defense Force",
+   "original": null,
+   "data": "2026-11-19",
+   "semana": "2026-w47",
+   "segunda": "2026-11-16",
+   "generos": [
+    "Animação",
+    "Sci-Fi & Fantasy",
+    "Action & Adventure",
+    "Comédia"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "",
+   "poster": "/47h7rSk4znOtk0AH1R9jAzAk8XI.jpg",
+   "trailer": "uxQ7KUuicBk",
+   "popularidade": 0.3082,
+   "plataformas": [
+    {
+     "id": null,
+     "nome": "Amazon Prime Video",
+     "logo": null,
+     "tipo": "assinatura",
+     "inferido": true
+    }
+   ],
+   "justwatch": null,
+   "temporada": 1,
+   "canais": [
+    "Prime Video"
+   ]
   },
   {
    "id": "cinema-1499805",
@@ -1601,7 +1851,7 @@
    "sinopse": "Uma mulher que, aos 75 anos, tem de encarar a morte (e potencial suicídio) de seu filho motorista de ônibus e todos os passageiros, após o ônibus lotado cair de um viaduto. Vicentina decide embarcar em uma jornada para procurar as famílias das vítimas para pedir desculpas.",
    "poster": "/v6JBUlm6nIYx3ixF38I5ZVpQZgq.jpg",
    "trailer": null,
-   "popularidade": 22.7132,
+   "popularidade": 21.4323,
    "plataformas": [
     {
      "id": 8,
@@ -1833,6 +2083,41 @@
    ]
   },
   {
+   "id": "serie-318458",
+   "tmdb": 318458,
+   "imdb": "tt39387287",
+   "tipo": "serie",
+   "titulo": "Podcast Oficial de Percy Jackson e os Olimpianos",
+   "original": "Percy Jackson and the Olympians Official Podcast",
+   "data": "2026-11-20",
+   "semana": "2026-w47",
+   "segunda": "2026-11-16",
+   "generos": [
+    "Talk"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "O podcast oficial \"Percy Jackson e os Olimpianos\" é um complemento não-roteirizado da segunda temporada no Disney+. Apresentado por Aryan Simhadri, com histórias dos bastidores, entrevistas com o elenco e a equipe (incluindo Rick Riordan) e informações divertidas que celebram o universo e os fãs de Percy Jackson.",
+   "poster": "/cmyZ47CgXc3le6iw2oHvigOk8yH.jpg",
+   "trailer": null,
+   "popularidade": 3.0035,
+   "plataformas": [
+    {
+     "id": null,
+     "nome": "Disney Plus",
+     "logo": null,
+     "tipo": "assinatura",
+     "inferido": true
+    }
+   ],
+   "justwatch": null,
+   "temporada": 2,
+   "canais": [
+    "YouTube",
+    "Disney+"
+   ]
+  },
+  {
    "id": "serie-222598",
    "tmdb": 222598,
    "imdb": "tt26778255",
@@ -1930,6 +2215,43 @@
    "temporada": 1,
    "canais": [
     "Globoplay"
+   ]
+  },
+  {
+   "id": "serie-341297",
+   "tmdb": 341297,
+   "imdb": null,
+   "tipo": "serie",
+   "titulo": "산독기 프로젝트",
+   "original": null,
+   "data": "2026-11-20",
+   "semana": "2026-w47",
+   "segunda": "2026-11-16",
+   "generos": [
+    "Reality",
+    "Comédia"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "",
+   "poster": "/vXfbJGSQVRcpOJmPUmv6zBv49GJ.jpg",
+   "trailer": null,
+   "popularidade": 1.1554,
+   "plataformas": [
+    {
+     "id": null,
+     "nome": "Netflix",
+     "logo": null,
+     "tipo": "assinatura",
+     "inferido": true
+    }
+   ],
+   "justwatch": null,
+   "temporada": 1,
+   "canais": [
+    "Netflix",
+    "KBS2",
+    "KOCOWA"
    ]
   },
   {
@@ -2408,6 +2730,40 @@
    "justwatch": null,
    "duracao": 112,
    "classificacao": "14"
+  },
+  {
+   "id": "serie-171802",
+   "tmdb": 171802,
+   "imdb": "tt18224594",
+   "tipo": "serie",
+   "titulo": "Blade Runner 2099",
+   "original": null,
+   "data": "2026-11-24",
+   "semana": "2026-w48",
+   "segunda": "2026-11-23",
+   "generos": [
+    "Sci-Fi & Fantasy"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "Cinquenta anos após os acontecimentos de Blade Runner 2049, Los Angeles renasceu, mas não graças a humanidade. Cora, uma fugitiva determinada a abandonar de vez sua vida em fuga, assume uma última identidade: a de uma Blade Runner. Obrigada a trabalhar ao lado de Olwen, uma Replicante que tem apenas alguns dias de vida, ela parte à caça de um foragido que guarda um segredo capaz de destruir o frágil equilíbrio da cidade.",
+   "poster": "/8Huo5JEmtKV03VTzq50lYVDbD4N.jpg",
+   "trailer": "1d4x_eSdqNc",
+   "popularidade": 24.9317,
+   "plataformas": [
+    {
+     "id": null,
+     "nome": "Amazon Prime Video",
+     "logo": null,
+     "tipo": "assinatura",
+     "inferido": true
+    }
+   ],
+   "justwatch": null,
+   "temporada": 1,
+   "canais": [
+    "Prime Video"
+   ]
   },
   {
    "id": "filme-1280115",
@@ -3012,6 +3368,112 @@
    "classificacao": null
   },
   {
+   "id": "serie-326247",
+   "tmdb": 326247,
+   "imdb": "tt43613803",
+   "tipo": "serie",
+   "titulo": "Fool Night",
+   "original": "フールナイト",
+   "data": "2026-11-26",
+   "semana": "2026-w48",
+   "segunda": "2026-11-23",
+   "generos": [
+    "Animação",
+    "Drama",
+    "Sci-Fi & Fantasy",
+    "Mistério"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "Em um futuro sem sol no qual os humanos viram plantas para produzir oxigênio, um jovem desesperado passa pela transformação e descobre uma conspiração.",
+   "poster": "/vTTr4YG3qIUq6E5uahU0fWSWch7.jpg",
+   "trailer": "2Qg_AfPF2sM",
+   "popularidade": 5.5806,
+   "plataformas": [
+    {
+     "id": null,
+     "nome": "Netflix",
+     "logo": null,
+     "tipo": "assinatura",
+     "inferido": true
+    }
+   ],
+   "justwatch": null,
+   "temporada": 1,
+   "canais": [
+    "Netflix"
+   ]
+  },
+  {
+   "id": "serie-302837",
+   "tmdb": 302837,
+   "imdb": "tt38681811",
+   "tipo": "serie",
+   "titulo": "Toos: Um Sequestro Entre os Van der Valk",
+   "original": "Toos: De van der valk ontvoering",
+   "data": "2026-11-26",
+   "semana": "2026-w48",
+   "segunda": "2026-11-23",
+   "generos": [
+    "Drama",
+    "Crime"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "",
+   "poster": "/yTn41duVqEmiBimV3itSyOpUPnU.jpg",
+   "trailer": null,
+   "popularidade": 2.7278,
+   "plataformas": [
+    {
+     "id": null,
+     "nome": "Netflix",
+     "logo": null,
+     "tipo": "assinatura",
+     "inferido": true
+    }
+   ],
+   "justwatch": null,
+   "temporada": 1,
+   "canais": [
+    "Netflix"
+   ]
+  },
+  {
+   "id": "serie-338930",
+   "tmdb": 338930,
+   "imdb": "tt36951910",
+   "tipo": "serie",
+   "titulo": "Legevakta",
+   "original": null,
+   "data": "2026-11-26",
+   "semana": "2026-w48",
+   "segunda": "2026-11-23",
+   "generos": [
+    "Drama"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "",
+   "poster": "/oFoT6GRACWN9X6fFvtCys0ViDUl.jpg",
+   "trailer": "fqZR2dreobc",
+   "popularidade": 1.8227,
+   "plataformas": [
+    {
+     "id": null,
+     "nome": "Netflix",
+     "logo": null,
+     "tipo": "assinatura",
+     "inferido": true
+    }
+   ],
+   "justwatch": null,
+   "temporada": 1,
+   "canais": [
+    "Netflix"
+   ]
+  },
+  {
    "id": "cinema-1401334",
    "tmdb": 1401334,
    "imdb": "tt34384168",
@@ -3058,6 +3520,40 @@
    "justwatch": null,
    "duracao": 123,
    "classificacao": null
+  },
+  {
+   "id": "serie-313701",
+   "tmdb": 313701,
+   "imdb": "tt39751490",
+   "tipo": "serie",
+   "titulo": "Um Natal Filipino",
+   "original": "Paskong Pinoy",
+   "data": "2026-11-26",
+   "semana": "2026-w48",
+   "segunda": "2026-11-23",
+   "generos": [
+    "Drama"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "Descubra o verdadeiro significado do Natal nesta antologia comovente com histórias de rivais no trabalho, irmãs em conflito e amigos que se afastaram.",
+   "poster": "/zYUsYASG6gLiSnddKEj2fNRS4R3.jpg",
+   "trailer": null,
+   "popularidade": 0.8605,
+   "plataformas": [
+    {
+     "id": null,
+     "nome": "Netflix",
+     "logo": null,
+     "tipo": "assinatura",
+     "inferido": true
+    }
+   ],
+   "justwatch": null,
+   "temporada": 1,
+   "canais": [
+    "Netflix"
+   ]
   },
   {
    "id": "cinema-1172343",
@@ -3514,6 +4010,40 @@
    "classificacao": "16"
   },
   {
+   "id": "serie-341492",
+   "tmdb": 341492,
+   "imdb": null,
+   "tipo": "serie",
+   "titulo": "Alan Carr's Great Big Bucket List",
+   "original": null,
+   "data": "2026-11-27",
+   "semana": "2026-w48",
+   "segunda": "2026-11-23",
+   "generos": [
+    "Reality"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "",
+   "poster": "/nb2igvS4qWtWHqsiJeEBeHizIfc.jpg",
+   "trailer": null,
+   "popularidade": 0.8928,
+   "plataformas": [
+    {
+     "id": null,
+     "nome": "Amazon Prime Video",
+     "logo": null,
+     "tipo": "assinatura",
+     "inferido": true
+    }
+   ],
+   "justwatch": null,
+   "temporada": 1,
+   "canais": [
+    "Prime Video"
+   ]
+  },
+  {
    "id": "cinema-1694282",
    "tmdb": 1694282,
    "imdb": null,
@@ -3596,6 +4126,40 @@
     "Youku",
     "Mango TV",
     "Migu Video"
+   ]
+  },
+  {
+   "id": "serie-341600",
+   "tmdb": 341600,
+   "imdb": null,
+   "tipo": "serie",
+   "titulo": "Salish's 12 Games of Christmas",
+   "original": null,
+   "data": "2026-11-28",
+   "semana": "2026-w48",
+   "segunda": "2026-11-23",
+   "generos": [
+    "Reality"
+   ],
+   "nota": 10,
+   "votos": 1,
+   "sinopse": "",
+   "poster": "/qDasTvECXJIDtfTG45s7caEKYGG.jpg",
+   "trailer": null,
+   "popularidade": 1.3486,
+   "plataformas": [
+    {
+     "id": null,
+     "nome": "Netflix",
+     "logo": null,
+     "tipo": "assinatura",
+     "inferido": true
+    }
+   ],
+   "justwatch": null,
+   "temporada": 1,
+   "canais": [
+    "Netflix"
    ]
   },
   {
@@ -3724,6 +4288,40 @@
    "classificacao": "14"
   },
   {
+   "id": "serie-337600",
+   "tmdb": 337600,
+   "imdb": "tt48343927",
+   "tipo": "serie",
+   "titulo": "O Garoto Que Roubou Bilhões?",
+   "original": "The Boy Who Stole Billions?",
+   "data": "2026-11-30",
+   "semana": "2026-w49",
+   "segunda": "2026-11-30",
+   "generos": [
+    "Documentário"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "Aos 30 anos, Sam Bankman-Fried era dono de um império de US$ 32 bilhões até ser condenado por roubar US$ 8 bilhões de clientes, em uma das maiores fraudes dos EUA. Pela primeira vez, ele conta sua história de dentro da prisão. Foi fraude ou risco fora de controle? A série explora o mundo caótico de SBF, as pessoas próximas a ele e a relação tóxica com sua namorada e CEO, Caroline Ellison.",
+   "poster": "/1zA7tZbxMiwr3MRtF8fXA7dTucA.jpg",
+   "trailer": "mrAqd_Yxq00",
+   "popularidade": 1.8242,
+   "plataformas": [
+    {
+     "id": null,
+     "nome": "Amazon Prime Video",
+     "logo": null,
+     "tipo": "assinatura",
+     "inferido": true
+    }
+   ],
+   "justwatch": null,
+   "temporada": 1,
+   "canais": [
+    "Prime Video"
+   ]
+  },
+  {
    "id": "serie-296395",
    "tmdb": 296395,
    "imdb": "tt37517058",
@@ -3741,7 +4339,7 @@
    "sinopse": "O Prêmio Multishow de Humor voltou em formato de reality. Convivência, bastidores e os desafios de criar comédia, com apresentação de Dani Calabresa.",
    "poster": "/df1QCfuhuB9UyWMFwelXH4a3Pzp.jpg",
    "trailer": null,
-   "popularidade": 0.9414,
+   "popularidade": 0.9287,
    "plataformas": [
     {
      "id": 307,
@@ -3840,6 +4438,112 @@
    ]
   },
   {
+   "id": "serie-221122",
+   "tmdb": 221122,
+   "imdb": "tt21340132",
+   "tipo": "serie",
+   "titulo": "FBI: Casos Reais",
+   "original": "FBI TRUE",
+   "data": "2026-12-01",
+   "semana": "2026-w49",
+   "segunda": "2026-11-30",
+   "generos": [
+    "Documentário",
+    "Crime"
+   ],
+   "nota": 6.4,
+   "votos": 9,
+   "sinopse": "A série segue o mundo dos agentes do FBI através de vídeos de vigilância, interrogatórios com sequestradores e terroristas e fotos dos antigos casos dos agentes.",
+   "poster": "/79MqEAlYc47yAkO2MBWQKBZaB6q.jpg",
+   "trailer": null,
+   "popularidade": 4.7044,
+   "plataformas": [
+    {
+     "id": null,
+     "nome": "Paramount Plus",
+     "logo": null,
+     "tipo": "assinatura",
+     "inferido": true
+    }
+   ],
+   "justwatch": null,
+   "temporada": 9,
+   "canais": [
+    "CBS",
+    "Paramount+"
+   ]
+  },
+  {
+   "id": "serie-294607",
+   "tmdb": 294607,
+   "imdb": "tt37433759",
+   "tipo": "serie",
+   "titulo": "Trinity",
+   "original": null,
+   "data": "2026-12-01",
+   "semana": "2026-w49",
+   "segunda": "2026-11-30",
+   "generos": [
+    "Drama",
+    "War & Politics",
+    "Crime"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "Uma oficial da marinha se envolve com o carismático secretário de defesa, mas descobre que ele pode fazer parte de uma conspiração perigosa.",
+   "poster": "/4V1DsqIwLmEKsgfzQayDF60eRYc.jpg",
+   "trailer": "oMeVvhr7GZw",
+   "popularidade": 4.5676,
+   "plataformas": [
+    {
+     "id": null,
+     "nome": "Netflix",
+     "logo": null,
+     "tipo": "assinatura",
+     "inferido": true
+    }
+   ],
+   "justwatch": null,
+   "temporada": 1,
+   "canais": [
+    "Netflix"
+   ]
+  },
+  {
+   "id": "serie-340862",
+   "tmdb": 340862,
+   "imdb": "tt43728785",
+   "tipo": "serie",
+   "titulo": "Collect & Praise",
+   "original": null,
+   "data": "2026-12-01",
+   "semana": "2026-w49",
+   "segunda": "2026-11-30",
+   "generos": [
+    "Comédia"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "",
+   "poster": "/sv6XxYblK99shoVkPI3uMa3bA4.jpg",
+   "trailer": null,
+   "popularidade": 1.2257,
+   "plataformas": [
+    {
+     "id": null,
+     "nome": "Netflix",
+     "logo": null,
+     "tipo": "assinatura",
+     "inferido": true
+    }
+   ],
+   "justwatch": null,
+   "temporada": 1,
+   "canais": [
+    "Netflix"
+   ]
+  },
+  {
    "id": "filme-1137888",
    "tmdb": 1137888,
    "imdb": "tt16995302",
@@ -3865,6 +4569,143 @@
    "justwatch": null,
    "duracao": null,
    "classificacao": null
+  },
+  {
+   "id": "serie-288672",
+   "tmdb": 288672,
+   "imdb": "tt36475261",
+   "tipo": "serie",
+   "titulo": "Orgulho e Preconceito",
+   "original": "Pride and Prejudice",
+   "data": "2026-12-02",
+   "semana": "2026-w49",
+   "segunda": "2026-11-30",
+   "generos": [
+    "Drama"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "As primeiras impressões dão lugar a algo mais profundo entre Elizabeth Bennet e Sr. Darcy nesta adaptação fiel e atual do romance clássico.",
+   "poster": "/nqm2DnxpdOevMWExZO3kiDSRMJq.jpg",
+   "trailer": "KuRYRhP6kag",
+   "popularidade": 7.1365,
+   "plataformas": [
+    {
+     "id": null,
+     "nome": "Netflix",
+     "logo": null,
+     "tipo": "assinatura",
+     "inferido": true
+    }
+   ],
+   "justwatch": null,
+   "temporada": 1,
+   "canais": [
+    "Netflix"
+   ]
+  },
+  {
+   "id": "serie-322961",
+   "tmdb": 322961,
+   "imdb": null,
+   "tipo": "serie",
+   "titulo": "Caldas: El último barco",
+   "original": null,
+   "data": "2026-12-02",
+   "semana": "2026-w49",
+   "segunda": "2026-11-30",
+   "generos": [
+    "Crime"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "",
+   "poster": "/vEwWCE6kuThzWLO4yQ8tduFGzMY.jpg",
+   "trailer": null,
+   "popularidade": 1.2619,
+   "plataformas": [
+    {
+     "id": null,
+     "nome": "Disney Plus",
+     "logo": null,
+     "tipo": "assinatura",
+     "inferido": true
+    }
+   ],
+   "justwatch": null,
+   "temporada": 1,
+   "canais": [
+    "Disney+"
+   ]
+  },
+  {
+   "id": "serie-341091",
+   "tmdb": 341091,
+   "imdb": null,
+   "tipo": "serie",
+   "titulo": "Il capo perfetto",
+   "original": null,
+   "data": "2026-12-02",
+   "semana": "2026-w49",
+   "segunda": "2026-11-30",
+   "generos": [
+    "Comédia",
+    "Drama"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "",
+   "poster": "/jFegOdn5pjSP9eh4XalLSiPwenn.jpg",
+   "trailer": null,
+   "popularidade": 1.1821,
+   "plataformas": [
+    {
+     "id": null,
+     "nome": "Netflix",
+     "logo": null,
+     "tipo": "assinatura",
+     "inferido": true
+    }
+   ],
+   "justwatch": null,
+   "temporada": 1,
+   "canais": [
+    "Netflix"
+   ]
+  },
+  {
+   "id": "serie-275486",
+   "tmdb": 275486,
+   "imdb": null,
+   "tipo": "serie",
+   "titulo": "Mejores Enemigas",
+   "original": null,
+   "data": "2026-12-02",
+   "semana": "2026-w49",
+   "segunda": "2026-11-30",
+   "generos": [
+    "Comédia"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "En un universo marcado por rivalidades, dos adolescentes se encuentran en lados opuestos. Sin embargo, a medida que sus historias se desarrollan, descubren que tienen más en común de lo que jamás podrían haber imaginado. Esta cautivadora serie explora los complejos temas de amistad, rivalidad y autoconocimiento, revelando cómo lazos inesperados pueden surgir en medio de los conflictos. \"Mejores Enemigas\" es una producción de Pegsa para Disney, que se está grabando actualmente en Buenos Aires.",
+   "poster": "/pp7YY7096FAA7Kvmx9nu2RZi72F.jpg",
+   "trailer": null,
+   "popularidade": 0.4647,
+   "plataformas": [
+    {
+     "id": null,
+     "nome": "Disney Plus",
+     "logo": null,
+     "tipo": "assinatura",
+     "inferido": true
+    }
+   ],
+   "justwatch": null,
+   "temporada": 1,
+   "canais": [
+    "Disney+"
+   ]
   },
   {
    "id": "cinema-969681",
@@ -4189,6 +5030,40 @@
    ]
   },
   {
+   "id": "serie-334379",
+   "tmdb": 334379,
+   "imdb": "tt39749939",
+   "tipo": "serie",
+   "titulo": "เพลิงพระนาง",
+   "original": null,
+   "data": "2026-12-03",
+   "semana": "2026-w49",
+   "segunda": "2026-11-30",
+   "generos": [
+    "Drama"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "",
+   "poster": "/lGfdmmjT8HEVNhaXm1AvWLvdlii.jpg",
+   "trailer": null,
+   "popularidade": 1.7609,
+   "plataformas": [
+    {
+     "id": null,
+     "nome": "Netflix",
+     "logo": null,
+     "tipo": "assinatura",
+     "inferido": true
+    }
+   ],
+   "justwatch": null,
+   "temporada": 1,
+   "canais": [
+    "Netflix"
+   ]
+  },
+  {
    "id": "cinema-1154304",
    "tmdb": 1154304,
    "imdb": "tt26530493",
@@ -4267,6 +5142,40 @@
    "justwatch": null,
    "duracao": 6,
    "classificacao": null
+  },
+  {
+   "id": "serie-342322",
+   "tmdb": 342322,
+   "imdb": null,
+   "tipo": "serie",
+   "titulo": "Literally! With Rob Lowe",
+   "original": null,
+   "data": "2026-12-03",
+   "semana": "2026-w49",
+   "segunda": "2026-11-30",
+   "generos": [
+    "Talk"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "",
+   "poster": null,
+   "trailer": null,
+   "popularidade": 1.1598,
+   "plataformas": [
+    {
+     "id": null,
+     "nome": "Netflix",
+     "logo": null,
+     "tipo": "assinatura",
+     "inferido": true
+    }
+   ],
+   "justwatch": null,
+   "temporada": 1,
+   "canais": [
+    "Netflix"
+   ]
   },
   {
    "id": "filme-1801852",
@@ -4705,6 +5614,178 @@
    ]
   },
   {
+   "id": "serie-233732",
+   "tmdb": 233732,
+   "imdb": "tt28756872",
+   "tipo": "serie",
+   "titulo": "Todo o Amor dos Nossos Corações",
+   "original": "Jo Bachay Hain Sang Samait Lo",
+   "data": "2026-12-04",
+   "semana": "2026-w49",
+   "segunda": "2026-11-30",
+   "generos": [
+    "Drama"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "Ao longo de três gerações, casais buscam o amor, enfrentam casamentos complicados e lidam com expectativas familiares em meio a escolhas que afetam a própria felicidade.",
+   "poster": "/jKfdaZm6UmciTygqkZwRXSVURUj.jpg",
+   "trailer": null,
+   "popularidade": 2.3885,
+   "plataformas": [
+    {
+     "id": null,
+     "nome": "Netflix",
+     "logo": null,
+     "tipo": "assinatura",
+     "inferido": true
+    }
+   ],
+   "justwatch": null,
+   "temporada": 1,
+   "canais": [
+    "Netflix"
+   ]
+  },
+  {
+   "id": "serie-336787",
+   "tmdb": 336787,
+   "imdb": "tt47596904",
+   "tipo": "serie",
+   "titulo": "神のクイズ",
+   "original": null,
+   "data": "2026-12-04",
+   "semana": "2026-w49",
+   "segunda": "2026-11-30",
+   "generos": [
+    "Drama",
+    "Crime",
+    "Mistério"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "",
+   "poster": "/339hVyqOUnoN5xqbMNvj0gURYoM.jpg",
+   "trailer": "QTPhT68_pC0",
+   "popularidade": 1.5142,
+   "plataformas": [
+    {
+     "id": null,
+     "nome": "Amazon Prime Video",
+     "logo": null,
+     "tipo": "assinatura",
+     "inferido": true
+    }
+   ],
+   "justwatch": null,
+   "temporada": 1,
+   "canais": [
+    "Prime Video"
+   ]
+  },
+  {
+   "id": "serie-281722",
+   "tmdb": 281722,
+   "imdb": "tt35933285",
+   "tipo": "serie",
+   "titulo": "ओ साथी रे",
+   "original": null,
+   "data": "2026-12-04",
+   "semana": "2026-w49",
+   "segunda": "2026-11-30",
+   "generos": [
+    "Drama"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "",
+   "poster": "/eX2DKTgy9BFD0YWqUShhJsDf14P.jpg",
+   "trailer": null,
+   "popularidade": 1.4846,
+   "plataformas": [
+    {
+     "id": null,
+     "nome": "Netflix",
+     "logo": null,
+     "tipo": "assinatura",
+     "inferido": true
+    }
+   ],
+   "justwatch": null,
+   "temporada": 1,
+   "canais": [
+    "Netflix"
+   ]
+  },
+  {
+   "id": "serie-340516",
+   "tmdb": 340516,
+   "imdb": "tt39444596",
+   "tipo": "serie",
+   "titulo": "Em dezembro, as brisas chegaram",
+   "original": "En diciembre llegaban las brisas",
+   "data": "2026-12-04",
+   "semana": "2026-w49",
+   "segunda": "2026-11-30",
+   "generos": [
+    "Drama"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "A história, dividida em 8 capítulos, se passa em Barranquilla no final da década de 1950 (1958). Acompanha a vida de quatro amigas — Lina, Dora, Catalina e Beatriz — enquanto elas tentam trilhar seus próprios caminhos e desafiar as rígidas normas sociais, o machismo e o culto à aparência que limitam as mulheres em uma sociedade conservadora.",
+   "poster": "/tczZnjpluajsheBCBdRNkk4akk2.jpg",
+   "trailer": null,
+   "popularidade": 1.2403,
+   "plataformas": [
+    {
+     "id": null,
+     "nome": "Netflix",
+     "logo": null,
+     "tipo": "assinatura",
+     "inferido": true
+    }
+   ],
+   "justwatch": null,
+   "temporada": 1,
+   "canais": [
+    "Netflix"
+   ]
+  },
+  {
+   "id": "serie-334629",
+   "tmdb": 334629,
+   "imdb": null,
+   "tipo": "serie",
+   "titulo": "Love Is Blind: South Africa",
+   "original": null,
+   "data": "2026-12-04",
+   "semana": "2026-w49",
+   "segunda": "2026-11-30",
+   "generos": [
+    "Reality"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "",
+   "poster": "/dP2wGaEjAD2VgraSGFzVo8HhtzF.jpg",
+   "trailer": null,
+   "popularidade": 0.8002,
+   "plataformas": [
+    {
+     "id": null,
+     "nome": "Netflix",
+     "logo": null,
+     "tipo": "assinatura",
+     "inferido": true
+    }
+   ],
+   "justwatch": null,
+   "temporada": 1,
+   "canais": [
+    "Netflix"
+   ]
+  },
+  {
    "id": "filme-1833178",
    "tmdb": 1833178,
    "imdb": "tt51618959",
@@ -4754,6 +5835,42 @@
    "justwatch": null,
    "duracao": 30,
    "classificacao": "L"
+  },
+  {
+   "id": "serie-342897",
+   "tmdb": 342897,
+   "imdb": "tt43693711",
+   "tipo": "serie",
+   "titulo": "Ozzy Fox",
+   "original": null,
+   "data": "2026-12-05",
+   "semana": "2026-w49",
+   "segunda": "2026-11-30",
+   "generos": [
+    "Animação",
+    "Kids",
+    "Família"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "",
+   "poster": "/q7xP1R89fH00YcjhCSAXvJtdTHq.jpg",
+   "trailer": "aubeTxAJSok",
+   "popularidade": 0.5632,
+   "plataformas": [
+    {
+     "id": null,
+     "nome": "Disney Plus",
+     "logo": null,
+     "tipo": "assinatura",
+     "inferido": true
+    }
+   ],
+   "justwatch": null,
+   "temporada": 1,
+   "canais": [
+    "Disney+"
+   ]
   },
   {
    "id": "filme-1816983",
@@ -4904,6 +6021,40 @@
    ]
   },
   {
+   "id": "serie-340420",
+   "tmdb": 340420,
+   "imdb": null,
+   "tipo": "serie",
+   "titulo": "Niels & Martijn Leren Vrouwen Begrijpen",
+   "original": null,
+   "data": "2026-12-07",
+   "semana": "2026-w50",
+   "segunda": "2026-12-07",
+   "generos": [
+    "Reality"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "",
+   "poster": null,
+   "trailer": null,
+   "popularidade": 0.0807,
+   "plataformas": [
+    {
+     "id": null,
+     "nome": "Amazon Prime Video",
+     "logo": null,
+     "tipo": "assinatura",
+     "inferido": true
+    }
+   ],
+   "justwatch": null,
+   "temporada": 1,
+   "canais": [
+    "Prime Video"
+   ]
+  },
+  {
    "id": "filme-1400940",
    "tmdb": 1400940,
    "imdb": "tt34890576",
@@ -4963,6 +6114,40 @@
    ]
   },
   {
+   "id": "serie-341792",
+   "tmdb": 341792,
+   "imdb": null,
+   "tipo": "serie",
+   "titulo": "The Elite: Army Rangers",
+   "original": null,
+   "data": "2026-12-08",
+   "semana": "2026-w50",
+   "segunda": "2026-12-07",
+   "generos": [
+    "Documentário"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "",
+   "poster": null,
+   "trailer": "xP9SWwZRiu0",
+   "popularidade": 1.8334,
+   "plataformas": [
+    {
+     "id": null,
+     "nome": "Paramount Plus",
+     "logo": null,
+     "tipo": "assinatura",
+     "inferido": true
+    }
+   ],
+   "justwatch": null,
+   "temporada": 1,
+   "canais": [
+    "Paramount+"
+   ]
+  },
+  {
    "id": "serie-250670",
    "tmdb": 250670,
    "imdb": "tt27792190",
@@ -4993,6 +6178,180 @@
    "temporada": 3,
    "canais": [
     "Prime Video"
+   ]
+  },
+  {
+   "id": "serie-270596",
+   "tmdb": 270596,
+   "imdb": "tt31614143",
+   "tipo": "serie",
+   "titulo": "O Assassinato de JonBenét Ramsey",
+   "original": "The Murder of JonBenét Ramsey",
+   "data": "2026-12-09",
+   "semana": "2026-w50",
+   "segunda": "2026-12-07",
+   "generos": [
+    "Drama",
+    "Crime"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "",
+   "poster": "/jhYhx8vR2tFf83D8yb9rwpRlpCb.jpg",
+   "trailer": null,
+   "popularidade": 5.4512,
+   "plataformas": [
+    {
+     "id": null,
+     "nome": "Netflix",
+     "logo": null,
+     "tipo": "assinatura",
+     "inferido": true
+    }
+   ],
+   "justwatch": null,
+   "temporada": 1,
+   "canais": [
+    "Netflix"
+   ]
+  },
+  {
+   "id": "serie-283141",
+   "tmdb": 283141,
+   "imdb": "tt7983898",
+   "tipo": "serie",
+   "titulo": "Lil Kev",
+   "original": null,
+   "data": "2026-12-09",
+   "semana": "2026-w50",
+   "segunda": "2026-12-07",
+   "generos": [
+    "Animação",
+    "Comédia"
+   ],
+   "nota": 7.7,
+   "votos": 7,
+   "sinopse": "",
+   "poster": "/rnWr6Xr72Lsqf2JH52BdticR3Dc.jpg",
+   "trailer": "XjK8gozeTbg",
+   "popularidade": 4.0018,
+   "plataformas": [
+    {
+     "id": null,
+     "nome": "Paramount Plus",
+     "logo": null,
+     "tipo": "assinatura",
+     "inferido": true
+    }
+   ],
+   "justwatch": null,
+   "temporada": 2,
+   "canais": [
+    "BET+",
+    "Paramount+"
+   ]
+  },
+  {
+   "id": "serie-338215",
+   "tmdb": 338215,
+   "imdb": "tt38681839",
+   "tipo": "serie",
+   "titulo": "Bunt",
+   "original": null,
+   "data": "2026-12-09",
+   "semana": "2026-w50",
+   "segunda": "2026-12-07",
+   "generos": [
+    "Drama"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "",
+   "poster": "/dz8ilt25h9BOZ3tHw6JMNzd7Srt.jpg",
+   "trailer": null,
+   "popularidade": 1.3165,
+   "plataformas": [
+    {
+     "id": null,
+     "nome": "Netflix",
+     "logo": null,
+     "tipo": "assinatura",
+     "inferido": true
+    }
+   ],
+   "justwatch": null,
+   "temporada": 1,
+   "canais": [
+    "Netflix"
+   ]
+  },
+  {
+   "id": "serie-336108",
+   "tmdb": 336108,
+   "imdb": null,
+   "tipo": "serie",
+   "titulo": "Rauls",
+   "original": null,
+   "data": "2026-12-09",
+   "semana": "2026-w50",
+   "segunda": "2026-12-07",
+   "generos": [
+    "Drama"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "Acompanha a Tropa dos 7, um grupo de jovens que encontra nos golpes digitais um atalho para mudar de vida e precisa lidar com as consequências dessa escolha.",
+   "poster": "/qNFhh1JqBAtJti0w2ztLEvZKvKT.jpg",
+   "trailer": null,
+   "popularidade": 1.0521,
+   "plataformas": [
+    {
+     "id": null,
+     "nome": "Netflix",
+     "logo": null,
+     "tipo": "assinatura",
+     "inferido": true
+    }
+   ],
+   "justwatch": null,
+   "temporada": 1,
+   "canais": [
+    "Netflix"
+   ]
+  },
+  {
+   "id": "serie-336605",
+   "tmdb": 336605,
+   "imdb": "tt43610460",
+   "tipo": "serie",
+   "titulo": "Gabby's Dollhouse: Makers and Bakers Holiday",
+   "original": null,
+   "data": "2026-12-09",
+   "semana": "2026-w50",
+   "segunda": "2026-12-07",
+   "generos": [
+    "Reality",
+    "Kids"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "",
+   "poster": "/e7gtd9EmEl6yN8gadikLiLurOyv.jpg",
+   "trailer": null,
+   "popularidade": 0.8855,
+   "plataformas": [
+    {
+     "id": null,
+     "nome": "Netflix",
+     "logo": null,
+     "tipo": "assinatura",
+     "inferido": true
+    }
+   ],
+   "justwatch": null,
+   "temporada": 1,
+   "canais": [
+    "Netflix"
    ]
   },
   {
@@ -5173,6 +6532,68 @@
    "classificacao": "L"
   },
   {
+   "id": "serie-203296",
+   "tmdb": 203296,
+   "imdb": "tt16389198",
+   "tipo": "serie",
+   "titulo": "The Game Awards",
+   "original": null,
+   "data": "2026-12-10",
+   "semana": "2026-w50",
+   "segunda": "2026-12-07",
+   "generos": [
+    "Reality",
+    "Talk"
+   ],
+   "nota": 6.2,
+   "votos": 5,
+   "sinopse": "",
+   "poster": "/yVnoliFxMyTIUjgIiOY1QJMEjVZ.jpg",
+   "trailer": null,
+   "popularidade": 4.4031,
+   "plataformas": [
+    {
+     "id": null,
+     "nome": "Amazon Prime Video",
+     "logo": null,
+     "tipo": "assinatura",
+     "inferido": true
+    },
+    {
+     "id": null,
+     "nome": "Disney Plus",
+     "logo": null,
+     "tipo": "assinatura",
+     "inferido": true
+    }
+   ],
+   "justwatch": null,
+   "temporada": 13,
+   "canais": [
+    "YouTube",
+    "Prime Video",
+    "Twitch",
+    "iQiyi",
+    "Youku",
+    "bilibili",
+    "Facebook Live",
+    "PPTV",
+    "Disney+",
+    "Weibo",
+    "Roku",
+    "TikTok",
+    "Douyin",
+    "Twitter",
+    "Xigua Video",
+    "DouYu",
+    "rednote",
+    "Instagram",
+    "X",
+    "Live TV on PS5",
+    "Roblox"
+   ]
+  },
+  {
    "id": "cinema-23446",
    "tmdb": 23446,
    "imdb": "tt0832449",
@@ -5223,6 +6644,49 @@
    "justwatch": null,
    "duracao": 56,
    "classificacao": null
+  },
+  {
+   "id": "serie-331480",
+   "tmdb": 331480,
+   "imdb": "tt44082819",
+   "tipo": "serie",
+   "titulo": "Who the Hell Is Hamish?",
+   "original": null,
+   "data": "2026-12-10",
+   "semana": "2026-w50",
+   "segunda": "2026-12-07",
+   "generos": [
+    "Drama",
+    "Crime"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "",
+   "poster": "/eT2l6bIWCeovWd9DIOGr91m5hxN.jpg",
+   "trailer": "h-SvdK88-mQ",
+   "popularidade": 1.7047,
+   "plataformas": [
+    {
+     "id": null,
+     "nome": "Paramount Plus",
+     "logo": null,
+     "tipo": "assinatura",
+     "inferido": true
+    },
+    {
+     "id": null,
+     "nome": "Paramount Plus",
+     "logo": null,
+     "tipo": "assinatura",
+     "inferido": true
+    }
+   ],
+   "justwatch": null,
+   "temporada": 1,
+   "canais": [
+    "Paramount+",
+    "Paramount+"
+   ]
   },
   {
    "id": "serie-290388",
@@ -5325,11 +6789,45 @@
    "sinopse": "Cássia Rejane Eller. Cássia Eller. Cássia. Uma poderosa força inquieta no palco, a timidez em pessoa fora dele. Um dos grandes nomes da música brasileira, Cássia Eller marcou a década de 1990 e chocou o país com sua morte precoce, em 2001. Um filme sobre a cantora, a mãe, a mulher que expôs sua vida pessoal e rompeu barreiras, deixando um belo legado social e artístico.",
    "poster": "/fTdz32TNQB6CazvvsTEdOg05WDc.jpg",
    "trailer": "rpeKsgJ31bs",
-   "popularidade": 0.7708,
+   "popularidade": 0.7628,
    "plataformas": [],
    "justwatch": null,
    "duracao": 120,
    "classificacao": "12"
+  },
+  {
+   "id": "serie-343253",
+   "tmdb": 343253,
+   "imdb": "tt52101992",
+   "tipo": "serie",
+   "titulo": "Timberlake",
+   "original": null,
+   "data": "2026-12-10",
+   "semana": "2026-w50",
+   "segunda": "2026-12-07",
+   "generos": [
+    "Documentário"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "Após 30 anos de sucesso extraordinário e exposição constante, Justin Timberlake reflete sobre sua vida atual e encara as polêmicas, as manchetes e o preço de nunca parar.",
+   "poster": "/AiiQODMn4rRUOCrIYEABnKyqbnD.jpg",
+   "trailer": "sDMNuKvCXOc",
+   "popularidade": 0.5822,
+   "plataformas": [
+    {
+     "id": null,
+     "nome": "Apple TV",
+     "logo": null,
+     "tipo": "assinatura",
+     "inferido": true
+    }
+   ],
+   "justwatch": null,
+   "temporada": 1,
+   "canais": [
+    "Apple TV"
+   ]
   },
   {
    "id": "cinema-1542796",
@@ -5454,6 +6952,77 @@
    "classificacao": "16"
   },
   {
+   "id": "serie-256726",
+   "tmdb": 256726,
+   "imdb": "tt35685457",
+   "tipo": "serie",
+   "titulo": "O Espetáculo Vai Começar",
+   "original": "천천히 강렬하게",
+   "data": "2026-12-11",
+   "semana": "2026-w50",
+   "segunda": "2026-12-07",
+   "generos": [
+    "Drama",
+    "War & Politics"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "O mundo do entretenimento coreano manteve as luzes acesas e o sonho vivo mesmo diante de obstáculos. Aqui, todos querem alcançar a glória.",
+   "poster": "/733Vm8e0bzUbjbDuATgR4Ol7vqd.jpg",
+   "trailer": null,
+   "popularidade": 6.1286,
+   "plataformas": [
+    {
+     "id": null,
+     "nome": "Netflix",
+     "logo": null,
+     "tipo": "assinatura",
+     "inferido": true
+    }
+   ],
+   "justwatch": null,
+   "temporada": 1,
+   "canais": [
+    "Netflix"
+   ]
+  },
+  {
+   "id": "serie-255834",
+   "tmdb": 255834,
+   "imdb": "tt12098644",
+   "tipo": "serie",
+   "titulo": "Garfield",
+   "original": null,
+   "data": "2026-12-11",
+   "semana": "2026-w50",
+   "segunda": "2026-12-07",
+   "generos": [
+    "Animação",
+    "Comédia",
+    "Família"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "",
+   "poster": "/5bu2JTptdQDvw4mT3vzHTfV41D2.jpg",
+   "trailer": "QL-Z4fYqEYc",
+   "popularidade": 2.883,
+   "plataformas": [
+    {
+     "id": null,
+     "nome": "Paramount Plus",
+     "logo": null,
+     "tipo": "assinatura",
+     "inferido": true
+    }
+   ],
+   "justwatch": null,
+   "temporada": 1,
+   "canais": [
+    "Paramount+"
+   ]
+  },
+  {
    "id": "cinema-1506980",
    "tmdb": 1506980,
    "imdb": null,
@@ -5546,7 +7115,7 @@
    "sinopse": "Na qualidade de Imperador, Paul Atreides debate-se com as consequências da sua ascensão ao poder, enquanto conspirações políticas e uma guerra santa que se estende por toda a galáxia ameaçam o futuro que só ele consegue prever.",
    "poster": "/8WBjwT8TBCt5PCFHjmBeb1St8BS.jpg",
    "trailer": "uJqaGLmZpGo",
-   "popularidade": 45.6487,
+   "popularidade": 48.0643,
    "plataformas": [],
    "justwatch": null,
    "duracao": 150,
@@ -5582,6 +7151,40 @@
    ],
    "justwatch": "https://www.themoviedb.org/tv/76178-my-next-guest-needs-no-introduction-with-david-letterman/watch?locale=BR",
    "temporada": 7,
+   "canais": [
+    "Netflix"
+   ]
+  },
+  {
+   "id": "serie-331822",
+   "tmdb": 331822,
+   "imdb": "tt44230388",
+   "tipo": "serie",
+   "titulo": "Sunshine Girls",
+   "original": null,
+   "data": "2026-12-15",
+   "semana": "2026-w51",
+   "segunda": "2026-12-14",
+   "generos": [
+    "Drama"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "",
+   "poster": "/kH9nmA3spXyBqJ6UaWtFL23sB8Y.jpg",
+   "trailer": null,
+   "popularidade": 1.3376,
+   "plataformas": [
+    {
+     "id": null,
+     "nome": "Netflix",
+     "logo": null,
+     "tipo": "assinatura",
+     "inferido": true
+    }
+   ],
+   "justwatch": null,
+   "temporada": 1,
    "canais": [
     "Netflix"
    ]
@@ -5632,7 +7235,7 @@
    "sinopse": "Eric após mais uma amostra do seu egocentrismo, é humilhado por sua melhor amiga. Após esse conflito ele terá uma longa noite sem conseguir dormir.",
    "poster": "/oSLdUDgjMLKvFV96eIz7wncAp67.jpg",
    "trailer": null,
-   "popularidade": 0.1272,
+   "popularidade": 0.1188,
    "plataformas": [],
    "justwatch": null,
    "duracao": 10,
@@ -5783,6 +7386,42 @@
    "classificacao": "16"
   },
   {
+   "id": "serie-283220",
+   "tmdb": 283220,
+   "imdb": "tt35609216",
+   "tipo": "serie",
+   "titulo": "Quiztopia",
+   "original": "国民クイズ",
+   "data": "2026-12-17",
+   "semana": "2026-w51",
+   "segunda": "2026-12-14",
+   "generos": [
+    "Sci-Fi & Fantasy",
+    "Action & Adventure",
+    "Drama"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "Em um Japão alternativo, um apresentador comanda um teste letal, em que os vencedores fazem pedidos e os perdedores pagam caro. Até que ele vira alvo de rebeldes.",
+   "poster": "/3L8El6VH4CL1pdz9JgnGsHXeGra.jpg",
+   "trailer": null,
+   "popularidade": 3.3834,
+   "plataformas": [
+    {
+     "id": null,
+     "nome": "Netflix",
+     "logo": null,
+     "tipo": "assinatura",
+     "inferido": true
+    }
+   ],
+   "justwatch": null,
+   "temporada": 1,
+   "canais": [
+    "Netflix"
+   ]
+  },
+  {
    "id": "serie-238108",
    "tmdb": 238108,
    "imdb": "tt21908964",
@@ -5814,6 +7453,75 @@
    "temporada": 2,
    "canais": [
     "Prime Video"
+   ]
+  },
+  {
+   "id": "serie-289729",
+   "tmdb": 289729,
+   "imdb": "tt36634761",
+   "tipo": "serie",
+   "titulo": "Terra Descansada",
+   "original": "Unaccustomed Earth",
+   "data": "2026-12-17",
+   "semana": "2026-w51",
+   "segunda": "2026-12-14",
+   "generos": [
+    "Drama"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "Uma doença obriga uma mãe dedicada e sua família a voltarem aos EUA, onde ela confronta desejos ocultos que abalam sua comunidade de origem indiana.",
+   "poster": "/woKoBzADQDl6roxcCERAnGLgYf9.jpg",
+   "trailer": "2UUB54kGsKM",
+   "popularidade": 1.9133,
+   "plataformas": [
+    {
+     "id": null,
+     "nome": "Netflix",
+     "logo": null,
+     "tipo": "assinatura",
+     "inferido": true
+    }
+   ],
+   "justwatch": null,
+   "temporada": 1,
+   "canais": [
+    "Netflix"
+   ]
+  },
+  {
+   "id": "serie-320759",
+   "tmdb": 320759,
+   "imdb": null,
+   "tipo": "serie",
+   "titulo": "Sonra Gözler Görür",
+   "original": null,
+   "data": "2026-12-17",
+   "semana": "2026-w51",
+   "segunda": "2026-12-14",
+   "generos": [
+    "Drama",
+    "Crime"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "",
+   "poster": null,
+   "trailer": null,
+   "popularidade": 1.1279,
+   "plataformas": [
+    {
+     "id": null,
+     "nome": "Netflix",
+     "logo": null,
+     "tipo": "assinatura",
+     "inferido": true
+    }
+   ],
+   "justwatch": null,
+   "temporada": 1,
+   "canais": [
+    "Netflix"
    ]
   },
   {
@@ -5942,6 +7650,247 @@
    "classificacao": null
   },
   {
+   "id": "serie-296244",
+   "tmdb": 296244,
+   "imdb": "tt37196475",
+   "tipo": "serie",
+   "titulo": "Frisco King",
+   "original": null,
+   "data": "2026-12-18",
+   "semana": "2026-w51",
+   "segunda": "2026-12-14",
+   "generos": [
+    "Crime",
+    "Drama",
+    "Comédia"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "O gângster de Nova Orleans, Russell Lee Washington Jr., chega a Frisco, no Texas, onde transforma pequenos golpes em um grande negócio, com a ajuda de um protegido ambicioso, um motorista leal e uma rede crescente de parceiros excêntricos.",
+   "poster": "/9wNdTWthGpTZZaOBKlO07pK77pU.jpg",
+   "trailer": "wAFHBHXUzWE",
+   "popularidade": 6.2444,
+   "plataformas": [
+    {
+     "id": null,
+     "nome": "Paramount Plus",
+     "logo": null,
+     "tipo": "assinatura",
+     "inferido": true
+    }
+   ],
+   "justwatch": null,
+   "temporada": 1,
+   "canais": [
+    "Paramount+"
+   ]
+  },
+  {
+   "id": "serie-69303",
+   "tmdb": 69303,
+   "imdb": "tt6301684",
+   "tipo": "serie",
+   "titulo": "MasterChef Junior",
+   "original": null,
+   "data": "2026-12-18",
+   "semana": "2026-w51",
+   "segunda": "2026-12-14",
+   "generos": [
+    "Reality"
+   ],
+   "nota": 6.6,
+   "votos": 8,
+   "sinopse": "",
+   "poster": "/qW0l2WCnd9AgyxgqMSHa7T3VPf0.jpg",
+   "trailer": null,
+   "popularidade": 5.2907,
+   "plataformas": [
+    {
+     "id": null,
+     "nome": "Disney Plus",
+     "logo": null,
+     "tipo": "assinatura",
+     "inferido": true
+    }
+   ],
+   "justwatch": null,
+   "temporada": 12,
+   "canais": [
+    "La 1",
+    "Disney+"
+   ]
+  },
+  {
+   "id": "serie-330808",
+   "tmdb": 330808,
+   "imdb": "tt43659288",
+   "tipo": "serie",
+   "titulo": "Além da Sociedade",
+   "original": "Más allá de la sociedad",
+   "data": "2026-12-18",
+   "semana": "2026-w51",
+   "segunda": "2026-12-14",
+   "generos": [
+    "Documentário"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "O acidente aéreo nos Andes não terminou com o resgate. Quando os sobreviventes voltaram ao bairro onde as famílias daqueles que nunca voltaram continuavam esperando, começou outra história. Enquanto o mundo transformava essa tragédia em uma narrativa universal, eles tiveram que aprender a conviver com o peso de tudo o que fizeram. Esta série abrange meio século em uma comunidade marcada pela divisão entre vivos e mortos, e explora como contar uma história pode mudar a forma como a encaramos.",
+   "poster": "/mI0LygMjn0ke4tZi3kpgJiqaxGW.jpg",
+   "trailer": null,
+   "popularidade": 1.5449,
+   "plataformas": [
+    {
+     "id": null,
+     "nome": "Netflix",
+     "logo": null,
+     "tipo": "assinatura",
+     "inferido": true
+    }
+   ],
+   "justwatch": null,
+   "temporada": 1,
+   "canais": [
+    "Netflix"
+   ]
+  },
+  {
+   "id": "serie-305520",
+   "tmdb": 305520,
+   "imdb": "tt38935871",
+   "tipo": "serie",
+   "titulo": "Living the Dream",
+   "original": null,
+   "data": "2026-12-18",
+   "semana": "2026-w51",
+   "segunda": "2026-12-14",
+   "generos": [
+    "Animação",
+    "Comédia"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "",
+   "poster": "/jbLrXQiw8HBZ7x3gzNWOZLPuY1v.jpg",
+   "trailer": null,
+   "popularidade": 1.3079,
+   "plataformas": [
+    {
+     "id": null,
+     "nome": "Netflix",
+     "logo": null,
+     "tipo": "assinatura",
+     "inferido": true
+    }
+   ],
+   "justwatch": null,
+   "temporada": 1,
+   "canais": [
+    "Netflix"
+   ]
+  },
+  {
+   "id": "serie-342320",
+   "tmdb": 342320,
+   "imdb": null,
+   "tipo": "serie",
+   "titulo": "Les caméras cachées de François Damiens",
+   "original": null,
+   "data": "2026-12-18",
+   "semana": "2026-w51",
+   "segunda": "2026-12-14",
+   "generos": [],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "",
+   "poster": null,
+   "trailer": null,
+   "popularidade": 0.9859,
+   "plataformas": [
+    {
+     "id": null,
+     "nome": "Netflix",
+     "logo": null,
+     "tipo": "assinatura",
+     "inferido": true
+    }
+   ],
+   "justwatch": null,
+   "temporada": 1,
+   "canais": [
+    "Netflix"
+   ]
+  },
+  {
+   "id": "serie-342511",
+   "tmdb": 342511,
+   "imdb": null,
+   "tipo": "serie",
+   "titulo": "Raising the Cannons",
+   "original": null,
+   "data": "2026-12-18",
+   "semana": "2026-w51",
+   "segunda": "2026-12-14",
+   "generos": [
+    "Reality"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "",
+   "poster": null,
+   "trailer": null,
+   "popularidade": 0.6349,
+   "plataformas": [
+    {
+     "id": null,
+     "nome": "Netflix",
+     "logo": null,
+     "tipo": "assinatura",
+     "inferido": true
+    }
+   ],
+   "justwatch": null,
+   "temporada": 1,
+   "canais": [
+    "Netflix"
+   ]
+  },
+  {
+   "id": "serie-343243",
+   "tmdb": 343243,
+   "imdb": null,
+   "tipo": "serie",
+   "titulo": "LOL: Kto się śmieje ostatni. Święta, święta!",
+   "original": null,
+   "data": "2026-12-18",
+   "semana": "2026-w51",
+   "segunda": "2026-12-14",
+   "generos": [
+    "Reality",
+    "Comédia"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "",
+   "poster": null,
+   "trailer": null,
+   "popularidade": 0.0582,
+   "plataformas": [
+    {
+     "id": null,
+     "nome": "Amazon Prime Video",
+     "logo": null,
+     "tipo": "assinatura",
+     "inferido": true
+    }
+   ],
+   "justwatch": null,
+   "temporada": 1,
+   "canais": [
+    "Prime Video"
+   ]
+  },
+  {
    "id": "filme-1749065",
    "tmdb": 1749065,
    "imdb": null,
@@ -5987,6 +7936,42 @@
    "justwatch": null,
    "duracao": 15,
    "classificacao": "L"
+  },
+  {
+   "id": "serie-342075",
+   "tmdb": 342075,
+   "imdb": null,
+   "tipo": "serie",
+   "titulo": "Disney Twisted-Wonderland: A Série - O Episódio de Savanaclaw",
+   "original": "ディズニー ツイステッドワンダーランド ザ アニメーション ～エピソード オブ サバナクロー～",
+   "data": "2026-12-22",
+   "semana": "2026-w52",
+   "segunda": "2026-12-21",
+   "generos": [
+    "Animação",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "A empolgação toma conta do Colégio Night Raven com o próximo Torneio Intercasas de Disco-Mágico, e Leona Kingscholar, monitor da Casa Savanaclaw, está determinado a vencer a qualquer custo. Enquanto isso, uma série de acidentes misteriosos começa a atingir os estudantes. A pedido do grão-mago, Yu e Grim investigam o caso e acabam descobrindo uma verdade chocante.",
+   "poster": "/daxNuL1MW3rNYhq8OO10AjwEvT9.jpg",
+   "trailer": null,
+   "popularidade": 1.1158,
+   "plataformas": [
+    {
+     "id": null,
+     "nome": "Disney Plus",
+     "logo": null,
+     "tipo": "assinatura",
+     "inferido": true
+    }
+   ],
+   "justwatch": null,
+   "temporada": 1,
+   "canais": [
+    "Disney+"
+   ]
   },
   {
    "id": "filme-1457866",
@@ -6115,7 +8100,7 @@
    "sinopse": "Alvo de uma investigação interna, uma policial de Estocolmo decide descansar numa região conhecida pelo esqui. Até que o desaparecimento de uma garota acaba com essa paz.",
    "poster": "/1TUSNZdN1HWSGDMhjre0y33y1Me.jpg",
    "trailer": "BY7ChjDm0GY",
-   "popularidade": 3.8994,
+   "popularidade": 3.766,
    "plataformas": [
     {
      "id": 8,
@@ -6259,6 +8244,84 @@
    "classificacao": "L"
   },
   {
+   "id": "serie-1944",
+   "tmdb": 1944,
+   "imdb": null,
+   "tipo": "serie",
+   "titulo": "Dick Clark's New Year's Rockin' Eve with Ryan Seacrest",
+   "original": null,
+   "data": "2026-12-31",
+   "semana": "2026-w53",
+   "segunda": "2026-12-28",
+   "generos": [
+    "Reality"
+   ],
+   "nota": 6.5,
+   "votos": 4,
+   "sinopse": "",
+   "poster": "/oJBXoZZLVOeAAO5ifwSVEJJTXsr.jpg",
+   "trailer": null,
+   "popularidade": 13.8052,
+   "plataformas": [
+    {
+     "id": null,
+     "nome": "Disney Plus",
+     "logo": null,
+     "tipo": "assinatura",
+     "inferido": true
+    }
+   ],
+   "justwatch": null,
+   "temporada": 54,
+   "canais": [
+    "ABC",
+    "Disney+"
+   ]
+  },
+  {
+   "id": "serie-339650",
+   "tmdb": 339650,
+   "imdb": "tt43630561",
+   "tipo": "serie",
+   "titulo": "The Day",
+   "original": null,
+   "data": "2026-12-31",
+   "semana": "2026-w53",
+   "segunda": "2026-12-28",
+   "generos": [
+    "Drama",
+    "Crime"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "",
+   "poster": "/hufdi1NnrWe64GZTx9CdKNuTjax.jpg",
+   "trailer": "HejGqY39nds",
+   "popularidade": 1.4747,
+   "plataformas": [
+    {
+     "id": null,
+     "nome": "Paramount Plus",
+     "logo": null,
+     "tipo": "assinatura",
+     "inferido": true
+    },
+    {
+     "id": null,
+     "nome": "Paramount Plus",
+     "logo": null,
+     "tipo": "assinatura",
+     "inferido": true
+    }
+   ],
+   "justwatch": null,
+   "temporada": 1,
+   "canais": [
+    "Paramount+",
+    "Paramount+"
+   ]
+  },
+  {
    "id": "cinema-1443069",
    "tmdb": 1443069,
    "imdb": null,
@@ -6399,6 +8462,40 @@
    ]
   },
   {
+   "id": "serie-249037",
+   "tmdb": 249037,
+   "imdb": "tt30495117",
+   "tipo": "serie",
+   "titulo": "O Gêmeo",
+   "original": "The Twin",
+   "data": "2027-01-01",
+   "semana": "2026-w53",
+   "segunda": "2026-12-28",
+   "generos": [
+    "Crime"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "Nicola se sente sufocada em um casamento sem amor com Adam. Mas a vida dela passa por uma verdadeira reviravolta quando Lee, o irmão gêmeo de Adam, reaparece, e o passado romântico dos dois ameaça destruir o presente. Depois de um acidente terrível, Nicola toma uma decisão de última hora para proteger os filhos, e o esforço para manter uma rede de segredos e mentiras força Lee e Nicola a ficarem juntos. Agora, mesmo sem conseguir evitar o que sentem um pelo outro, eles sabem que essa relação tem os dias contados.",
+   "poster": null,
+   "trailer": null,
+   "popularidade": 2.2284,
+   "plataformas": [
+    {
+     "id": null,
+     "nome": "Netflix",
+     "logo": null,
+     "tipo": "assinatura",
+     "inferido": true
+    }
+   ],
+   "justwatch": null,
+   "temporada": 1,
+   "canais": [
+    "Netflix"
+   ]
+  },
+  {
    "id": "cinema-1280623",
    "tmdb": 1280623,
    "imdb": "tt32219564",
@@ -6472,6 +8569,40 @@
    "justwatch": null,
    "duracao": 70,
    "classificacao": "18"
+  },
+  {
+   "id": "serie-339319",
+   "tmdb": 339319,
+   "imdb": null,
+   "tipo": "serie",
+   "titulo": "Las reglas del boxeador",
+   "original": null,
+   "data": "2027-01-01",
+   "semana": "2026-w53",
+   "segunda": "2026-12-28",
+   "generos": [
+    "Drama"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "",
+   "poster": null,
+   "trailer": null,
+   "popularidade": 0.2879,
+   "plataformas": [
+    {
+     "id": null,
+     "nome": "Disney Plus",
+     "logo": null,
+     "tipo": "assinatura",
+     "inferido": true
+    }
+   ],
+   "justwatch": null,
+   "temporada": 1,
+   "canais": [
+    "Disney+"
+   ]
   },
   {
    "id": "serie-338239",
@@ -6757,6 +8888,114 @@
    ]
   },
   {
+   "id": "serie-298802",
+   "tmdb": 298802,
+   "imdb": "tt43577911",
+   "tipo": "serie",
+   "titulo": "結界師の一輪華",
+   "original": null,
+   "data": "2027-01-06",
+   "semana": "2027-w01",
+   "segunda": "2027-01-04",
+   "generos": [
+    "Animação",
+    "Drama",
+    "Sci-Fi & Fantasy"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "Há milhares de anos, o Japão é protegido por cinco clãs que dominam a magia de criar barreiras. Hana, uma jovem de dezoito anos nascida em uma família secundária de um desses clãs, sempre viveu à sombra de sua irmã gêmea, mais talentosa, bonita e popular. Quando um poder extraordinário desperta dentro dela, Hana decide escondê-lo para continuar levando uma vida tranquila, longe dos holofotes. No entanto, esse estilo de vida com que tanto sonha começa a ficar cada vez mais distante quando Saku Ichinomiya assume a liderança do clã Ichinomiya e parte em busca de uma noiva poderosa o suficiente para estar ao seu lado. Determinada a manter suas habilidades em segredo, Hana faz de tudo para evitar Saku... Mas será que ela resistirá à tentação de aceitar um contrato de casamento se isso significar garantir o futuro tranquilo e pacífico com que sempre sonhou?",
+   "poster": "/qdJgSuTE36OWeHKP36Y4MlHxhHI.jpg",
+   "trailer": null,
+   "popularidade": 3.2876,
+   "plataformas": [
+    {
+     "id": null,
+     "nome": "Netflix",
+     "logo": null,
+     "tipo": "assinatura",
+     "inferido": true
+    }
+   ],
+   "justwatch": null,
+   "temporada": 1,
+   "canais": [
+    "Netflix",
+    "TOKYO MX"
+   ]
+  },
+  {
+   "id": "serie-290825",
+   "tmdb": 290825,
+   "imdb": "tt36842987",
+   "tipo": "serie",
+   "titulo": "The Wanted Man",
+   "original": null,
+   "data": "2027-01-06",
+   "semana": "2027-w01",
+   "segunda": "2027-01-04",
+   "generos": [
+    "Crime",
+    "Drama"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "",
+   "poster": "/sVlwTGXBwm1UqM75CMMDf7MC7ZI.jpg",
+   "trailer": null,
+   "popularidade": 3.0245,
+   "plataformas": [
+    {
+     "id": null,
+     "nome": "Apple TV",
+     "logo": null,
+     "tipo": "assinatura",
+     "inferido": true
+    }
+   ],
+   "justwatch": null,
+   "temporada": 1,
+   "canais": [
+    "Apple TV"
+   ]
+  },
+  {
+   "id": "serie-248334",
+   "tmdb": 248334,
+   "imdb": "tt39028237",
+   "tipo": "serie",
+   "titulo": "Ilusão",
+   "original": "현혹",
+   "data": "2027-01-06",
+   "semana": "2027-w01",
+   "segunda": "2027-01-04",
+   "generos": [
+    "Mistério",
+    "Drama",
+    "Sci-Fi & Fantasy"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "",
+   "poster": "/kuiyV1IKosXzkKUnvKDKQApoZ1Z.jpg",
+   "trailer": null,
+   "popularidade": 2.0979,
+   "plataformas": [
+    {
+     "id": null,
+     "nome": "Disney Plus",
+     "logo": null,
+     "tipo": "assinatura",
+     "inferido": true
+    }
+   ],
+   "justwatch": null,
+   "temporada": 1,
+   "canais": [
+    "Disney+"
+   ]
+  },
+  {
    "id": "cinema-1381273",
    "tmdb": 1381273,
    "imdb": "tt34385689",
@@ -7000,6 +9239,40 @@
    ]
   },
   {
+   "id": "serie-341168",
+   "tmdb": 341168,
+   "imdb": "tt49932124",
+   "tipo": "serie",
+   "titulo": "Kaleb Off the Farm",
+   "original": null,
+   "data": "2027-01-08",
+   "semana": "2027-w01",
+   "segunda": "2027-01-04",
+   "generos": [
+    "Documentário"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "",
+   "poster": null,
+   "trailer": null,
+   "popularidade": 0.2394,
+   "plataformas": [
+    {
+     "id": null,
+     "nome": "Amazon Prime Video",
+     "logo": null,
+     "tipo": "assinatura",
+     "inferido": true
+    }
+   ],
+   "justwatch": null,
+   "temporada": 1,
+   "canais": [
+    "Prime Video"
+   ]
+  },
+  {
    "id": "serie-297438",
    "tmdb": 297438,
    "imdb": "tt38797595",
@@ -7157,6 +9430,111 @@
    "temporada": 2,
    "canais": [
     "Netflix"
+   ]
+  },
+  {
+   "id": "serie-138503",
+   "tmdb": 138503,
+   "imdb": "tt16027074",
+   "tipo": "serie",
+   "titulo": "Seu Amigão da Vizinhança: Homem-Aranha",
+   "original": "Your Friendly Neighborhood Spider-Man",
+   "data": "2027-01-13",
+   "semana": "2027-w02",
+   "segunda": "2027-01-11",
+   "generos": [
+    "Animação",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+   ],
+   "nota": 7.8,
+   "votos": 313,
+   "sinopse": "Uma série animada que segue Peter Parker em seu caminho para se tornar o Homem-Aranha no MCU, com uma jornada como nunca vimos e um estilo que celebra as raízes dos primeiros quadrinhos do personagem.",
+   "poster": "/fEhEJowHEcWgqWknxwbdsiHyGty.jpg",
+   "trailer": "uo_2L8p_67E",
+   "popularidade": 17.4729,
+   "plataformas": [
+    {
+     "id": null,
+     "nome": "Disney Plus",
+     "logo": null,
+     "tipo": "assinatura",
+     "inferido": true
+    }
+   ],
+   "justwatch": null,
+   "temporada": 2,
+   "canais": [
+    "Disney+"
+   ]
+  },
+  {
+   "id": "serie-243214",
+   "tmdb": 243214,
+   "imdb": "tt27493572",
+   "tipo": "serie",
+   "titulo": "Criminal - Herança do Crime",
+   "original": "Criminal",
+   "data": "2027-01-13",
+   "semana": "2027-w02",
+   "segunda": "2027-01-11",
+   "generos": [
+    "Crime",
+    "Drama"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "",
+   "poster": "/qsS3xGLmNAlElDNs2B89QABCgMx.jpg",
+   "trailer": null,
+   "popularidade": 3.4727,
+   "plataformas": [
+    {
+     "id": null,
+     "nome": "Amazon Prime Video",
+     "logo": null,
+     "tipo": "assinatura",
+     "inferido": true
+    }
+   ],
+   "justwatch": null,
+   "temporada": 1,
+   "canais": [
+    "Prime Video"
+   ]
+  },
+  {
+   "id": "serie-311379",
+   "tmdb": 311379,
+   "imdb": "tt39370480",
+   "tipo": "serie",
+   "titulo": "Fallout Shelter: The Experiment",
+   "original": null,
+   "data": "2027-01-13",
+   "semana": "2027-w02",
+   "segunda": "2027-01-11",
+   "generos": [
+    "Reality"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "",
+   "poster": null,
+   "trailer": null,
+   "popularidade": 2.0548,
+   "plataformas": [
+    {
+     "id": null,
+     "nome": "Amazon Prime Video",
+     "logo": null,
+     "tipo": "assinatura",
+     "inferido": true
+    }
+   ],
+   "justwatch": null,
+   "temporada": 1,
+   "canais": [
+    "Prime Video"
    ]
   },
   {
@@ -7404,6 +9782,40 @@
    "classificacao": null
   },
   {
+   "id": "serie-342613",
+   "tmdb": 342613,
+   "imdb": "tt31806039",
+   "tipo": "serie",
+   "titulo": "Grown Ups",
+   "original": null,
+   "data": "2027-01-14",
+   "semana": "2027-w02",
+   "segunda": "2027-01-11",
+   "generos": [
+    "Drama"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "",
+   "poster": "/eq6I97OItUk0m9sPZQFixvoqFax.jpg",
+   "trailer": null,
+   "popularidade": 0.6336,
+   "plataformas": [
+    {
+     "id": null,
+     "nome": "Netflix",
+     "logo": null,
+     "tipo": "assinatura",
+     "inferido": true
+    }
+   ],
+   "justwatch": null,
+   "temporada": 1,
+   "canais": [
+    "Netflix"
+   ]
+  },
+  {
    "id": "cinema-1469522",
    "tmdb": 1469522,
    "imdb": null,
@@ -7618,6 +10030,40 @@
    "justwatch": null,
    "duracao": null,
    "classificacao": "16"
+  },
+  {
+   "id": "serie-285887",
+   "tmdb": 285887,
+   "imdb": "tt36048621",
+   "tipo": "serie",
+   "titulo": "Bloodaxe",
+   "original": null,
+   "data": "2027-01-20",
+   "semana": "2027-w03",
+   "segunda": "2027-01-18",
+   "generos": [
+    "Drama"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "Veja a ascensão de um dos mais famosos saqueadores nórdicos da história, Erik Bloodaxe, e sua esposa Gunnhild, conhecida como a Mãe dos Reis. Enquanto lutam pelo trono da Noruega, o território é devastado por rivais ferozes, alianças instáveis e traições sangrentas. Com a guerra iminente e o caos consumindo o reino, atraindo impiedosos reis de outros países escandinavos e até mesmo um poderoso governante inglês, o cenário está pronto para uma nova saga nórdica grandiosa.",
+   "poster": "/tR222Xa2tkQ1BFkg6loDXIccAva.jpg",
+   "trailer": "nT8Mdw5nKd0",
+   "popularidade": 3.1384,
+   "plataformas": [
+    {
+     "id": null,
+     "nome": "Amazon Prime Video",
+     "logo": null,
+     "tipo": "assinatura",
+     "inferido": true
+    }
+   ],
+   "justwatch": null,
+   "temporada": 1,
+   "canais": [
+    "Prime Video"
+   ]
   },
   {
    "id": "cinema-1422041",
@@ -7838,6 +10284,41 @@
    "classificacao": "L"
   },
   {
+   "id": "serie-215528",
+   "tmdb": 215528,
+   "imdb": "tt31512174",
+   "tipo": "serie",
+   "titulo": "Neuromancer",
+   "original": null,
+   "data": "2027-01-21",
+   "semana": "2027-w03",
+   "segunda": "2027-01-18",
+   "generos": [
+    "Sci-Fi & Fantasy",
+    "Mistério"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "Um super-hacker arruinado e uma assassina letal são recrutados para uma missão arriscada: roubar uma poderosa dinastia corporativa que tem uma fortuna incalculável... e segredos que eles matariam para proteger.",
+   "poster": "/iqgZcf5g0KfyAXqyANNun9k2Asg.jpg",
+   "trailer": null,
+   "popularidade": 7.4424,
+   "plataformas": [
+    {
+     "id": null,
+     "nome": "Apple TV",
+     "logo": null,
+     "tipo": "assinatura",
+     "inferido": true
+    }
+   ],
+   "justwatch": null,
+   "temporada": 1,
+   "canais": [
+    "Apple TV"
+   ]
+  },
+  {
    "id": "cinema-1084728",
    "tmdb": 1084728,
    "imdb": "tt32243339",
@@ -7964,6 +10445,40 @@
    "classificacao": "14"
   },
   {
+   "id": "serie-296114",
+   "tmdb": 296114,
+   "imdb": "tt37582710",
+   "tipo": "serie",
+   "titulo": "Os Segredos da Cortesã",
+   "original": "Los secretos de la cortesana",
+   "data": "2027-01-22",
+   "semana": "2027-w03",
+   "segunda": "2027-01-18",
+   "generos": [
+    "Drama"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "",
+   "poster": "/ckWL5kX8Dpi9FXW8U4HIy4KFGDy.jpg",
+   "trailer": null,
+   "popularidade": 1.4534,
+   "plataformas": [
+    {
+     "id": null,
+     "nome": "Netflix",
+     "logo": null,
+     "tipo": "assinatura",
+     "inferido": true
+    }
+   ],
+   "justwatch": null,
+   "temporada": 1,
+   "canais": [
+    "Netflix"
+   ]
+  },
+  {
    "id": "filme-1749772",
    "tmdb": 1749772,
    "imdb": null,
@@ -8022,6 +10537,40 @@
    "temporada": 2,
    "canais": [
     "Adult Swim"
+   ]
+  },
+  {
+   "id": "serie-320582",
+   "tmdb": 320582,
+   "imdb": "tt42027157",
+   "tipo": "serie",
+   "titulo": "She's Fine",
+   "original": null,
+   "data": "2027-01-26",
+   "semana": "2027-w04",
+   "segunda": "2027-01-25",
+   "generos": [
+    "Comédia"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "",
+   "poster": null,
+   "trailer": null,
+   "popularidade": 2.3795,
+   "plataformas": [
+    {
+     "id": null,
+     "nome": "Apple TV",
+     "logo": null,
+     "tipo": "assinatura",
+     "inferido": true
+    }
+   ],
+   "justwatch": null,
+   "temporada": 1,
+   "canais": [
+    "Apple TV"
    ]
   },
   {
@@ -8492,6 +11041,150 @@
    ]
   },
   {
+   "id": "serie-318274",
+   "tmdb": 318274,
+   "imdb": "tt37800018",
+   "tipo": "serie",
+   "titulo": "Embassy",
+   "original": null,
+   "data": "2027-02-07",
+   "semana": "2027-w05",
+   "segunda": "2027-02-01",
+   "generos": [
+    "Drama"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "",
+   "poster": null,
+   "trailer": null,
+   "popularidade": 2.2056,
+   "plataformas": [
+    {
+     "id": null,
+     "nome": "Amazon Prime Video",
+     "logo": null,
+     "tipo": "assinatura",
+     "inferido": true
+    }
+   ],
+   "justwatch": null,
+   "temporada": 1,
+   "canais": [
+    "ZDF",
+    "Prime Video",
+    "MGM+"
+   ]
+  },
+  {
+   "id": "serie-25298",
+   "tmdb": 25298,
+   "imdb": null,
+   "tipo": "serie",
+   "titulo": "The Grammys",
+   "original": null,
+   "data": "2027-02-07",
+   "semana": "2027-w05",
+   "segunda": "2027-02-01",
+   "generos": [
+    "Reality",
+    "Talk"
+   ],
+   "nota": 8.6,
+   "votos": 47,
+   "sinopse": "",
+   "poster": "/2itSpL4aBPoJXQ4QVtBFxQyz0j0.jpg",
+   "trailer": null,
+   "popularidade": 1.5961,
+   "plataformas": [
+    {
+     "id": null,
+     "nome": "Disney Plus",
+     "logo": null,
+     "tipo": "assinatura",
+     "inferido": true
+    }
+   ],
+   "justwatch": null,
+   "temporada": 65,
+   "canais": [
+    "ABC",
+    "NBC",
+    "CBS",
+    "Hulu",
+    "Disney+"
+   ]
+  },
+  {
+   "id": "serie-289549",
+   "tmdb": 289549,
+   "imdb": "tt36501178",
+   "tipo": "serie",
+   "titulo": "Prodigies",
+   "original": null,
+   "data": "2027-02-10",
+   "semana": "2027-w06",
+   "segunda": "2027-02-08",
+   "generos": [
+    "Comédia",
+    "Drama"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "",
+   "poster": "/8hMh9CJ3HA2sMbITNKkEInknAS9.jpg",
+   "trailer": null,
+   "popularidade": 2.3214,
+   "plataformas": [
+    {
+     "id": null,
+     "nome": "Apple TV",
+     "logo": null,
+     "tipo": "assinatura",
+     "inferido": true
+    }
+   ],
+   "justwatch": null,
+   "temporada": 1,
+   "canais": [
+    "Apple TV"
+   ]
+  },
+  {
+   "id": "serie-291377",
+   "tmdb": 291377,
+   "imdb": "tt36939928",
+   "tipo": "serie",
+   "titulo": "Barbershop",
+   "original": null,
+   "data": "2027-02-10",
+   "semana": "2027-w06",
+   "segunda": "2027-02-08",
+   "generos": [
+    "Comédia"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "",
+   "poster": "/4zhQFOzxQ2fmXQvd4WOotwOyq1V.jpg",
+   "trailer": null,
+   "popularidade": 1.9477,
+   "plataformas": [
+    {
+     "id": null,
+     "nome": "Amazon Prime Video",
+     "logo": null,
+     "tipo": "assinatura",
+     "inferido": true
+    }
+   ],
+   "justwatch": null,
+   "temporada": 1,
+   "canais": [
+    "Prime Video"
+   ]
+  },
+  {
    "id": "cinema-1689644",
    "tmdb": 1689644,
    "imdb": null,
@@ -8665,6 +11358,40 @@
    ]
   },
   {
+   "id": "serie-310113",
+   "tmdb": 310113,
+   "imdb": "tt37350717",
+   "tipo": "serie",
+   "titulo": "Oswald",
+   "original": null,
+   "data": "2027-02-17",
+   "semana": "2027-w07",
+   "segunda": "2027-02-15",
+   "generos": [
+    "Família"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "",
+   "poster": "/2dIJFgUeT0IAJ4naW6BJCAnOqXr.jpg",
+   "trailer": null,
+   "popularidade": 2.4252,
+   "plataformas": [
+    {
+     "id": null,
+     "nome": "Disney Plus",
+     "logo": null,
+     "tipo": "assinatura",
+     "inferido": true
+    }
+   ],
+   "justwatch": null,
+   "temporada": 1,
+   "canais": [
+    "Disney+"
+   ]
+  },
+  {
    "id": "cinema-11",
    "tmdb": 11,
    "imdb": "tt0076759",
@@ -8776,6 +11503,65 @@
    "classificacao": null
   },
   {
+   "id": "cinema-1523553",
+   "tmdb": 1523553,
+   "imdb": "tt16390372",
+   "tipo": "cinema",
+   "titulo": "Dark Horse",
+   "original": null,
+   "data": "2027-02-18",
+   "semana": "2027-w07",
+   "segunda": "2027-02-15",
+   "generos": [
+    "Drama",
+    "Crime"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "Acompanhe a ascensão política de Jair Bolsonaro durante a campanha de 2018, centrada no atentado sofrido em Juiz de Fora. Entre momentos de recuperação hospitalar e debates decisivos, a história utiliza flashbacks de sua carreira militar nos anos 1980 para construir o perfil de um vencedor improvável.",
+   "poster": "/8NFB1DI8fPVleIg4UutgKWC0N0i.jpg",
+   "trailer": null,
+   "popularidade": 1.9441,
+   "plataformas": [],
+   "justwatch": null,
+   "duracao": 100,
+   "classificacao": null
+  },
+  {
+   "id": "serie-289730",
+   "tmdb": 289730,
+   "imdb": "tt36634723",
+   "tipo": "serie",
+   "titulo": "A Época da Inocência",
+   "original": "The Age of Innocence",
+   "data": "2027-02-18",
+   "semana": "2027-w07",
+   "segunda": "2027-02-15",
+   "generos": [
+    "Drama"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "",
+   "poster": null,
+   "trailer": null,
+   "popularidade": 1.8767,
+   "plataformas": [
+    {
+     "id": null,
+     "nome": "Netflix",
+     "logo": null,
+     "tipo": "assinatura",
+     "inferido": true
+    }
+   ],
+   "justwatch": null,
+   "temporada": 1,
+   "canais": [
+    "Netflix"
+   ]
+  },
+  {
    "id": "cinema-1125822",
    "tmdb": 1125822,
    "imdb": "tt27725750",
@@ -8798,31 +11584,6 @@
    "plataformas": [],
    "justwatch": null,
    "duracao": 115,
-   "classificacao": null
-  },
-  {
-   "id": "cinema-1523553",
-   "tmdb": 1523553,
-   "imdb": "tt16390372",
-   "tipo": "cinema",
-   "titulo": "Dark Horse",
-   "original": null,
-   "data": "2027-02-18",
-   "semana": "2027-w07",
-   "segunda": "2027-02-15",
-   "generos": [
-    "Drama",
-    "Crime"
-   ],
-   "nota": null,
-   "votos": 0,
-   "sinopse": "Acompanhe a ascensão política de Jair Bolsonaro durante a campanha de 2018, centrada no atentado sofrido em Juiz de Fora. Entre momentos de recuperação hospitalar e debates decisivos, a história utiliza flashbacks de sua carreira militar nos anos 1980 para construir o perfil de um vencedor improvável.",
-   "poster": "/8NFB1DI8fPVleIg4UutgKWC0N0i.jpg",
-   "trailer": null,
-   "popularidade": 1.8398,
-   "plataformas": [],
-   "justwatch": null,
-   "duracao": 100,
    "classificacao": null
   },
   {
@@ -9212,6 +11973,44 @@
    "classificacao": null
   },
   {
+   "id": "serie-27562",
+   "tmdb": 27562,
+   "imdb": null,
+   "tipo": "serie",
+   "titulo": "The Actor Awards Presented by SAG-AFTRA",
+   "original": null,
+   "data": "2027-02-28",
+   "semana": "2027-w08",
+   "segunda": "2027-02-22",
+   "generos": [
+    "Talk"
+   ],
+   "nota": 6,
+   "votos": 8,
+   "sinopse": "",
+   "poster": "/tWcVlqq310tjlt1fMnssZkP9E7r.jpg",
+   "trailer": null,
+   "popularidade": 9.7004,
+   "plataformas": [
+    {
+     "id": null,
+     "nome": "Netflix",
+     "logo": null,
+     "tipo": "assinatura",
+     "inferido": true
+    }
+   ],
+   "justwatch": null,
+   "temporada": 33,
+   "canais": [
+    "NBC",
+    "TNT",
+    "TBS",
+    "Netflix",
+    "YouTube"
+   ]
+  },
+  {
    "id": "cinema-1497464",
    "tmdb": 1497464,
    "imdb": "tt26443610",
@@ -9527,7 +12326,7 @@
    "sinopse": "Um grupo de excluídos, criminosos e desajustados acaba salvando o continente quando uma relíquia arcana capaz de remodelar a realidade cai nas mãos erradas.",
    "poster": "/qJTZanXDiJKABLNGRM9LmSg8YT7.jpg",
    "trailer": "Ri2wNyvSpiY",
-   "popularidade": 14.8027,
+   "popularidade": 15.0616,
    "plataformas": [
     {
      "id": 119,
@@ -9900,6 +12699,40 @@
    "justwatch": null,
    "duracao": null,
    "classificacao": null
+  },
+  {
+   "id": "serie-291368",
+   "tmdb": 291368,
+   "imdb": "tt23099476",
+   "tipo": "serie",
+   "titulo": "Wild Things",
+   "original": null,
+   "data": "2027-04-15",
+   "semana": "2027-w15",
+   "segunda": "2027-04-12",
+   "generos": [
+    "Drama"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "",
+   "poster": "/pQ2ZCQOhhssfmKb3MbZg0xJlJEW.jpg",
+   "trailer": null,
+   "popularidade": 2.2818,
+   "plataformas": [
+    {
+     "id": null,
+     "nome": "Apple TV",
+     "logo": null,
+     "tipo": "assinatura",
+     "inferido": true
+    }
+   ],
+   "justwatch": null,
+   "temporada": 1,
+   "canais": [
+    "Apple TV"
+   ]
   },
   {
    "id": "cinema-1381087",
