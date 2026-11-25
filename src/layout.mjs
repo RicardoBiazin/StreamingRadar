@@ -52,8 +52,7 @@ ${corpo}
   Código aberto: <a href="https://github.com/RicardoBiazin/StreamingRadar" rel="noopener">GitHub</a>. v${VERSAO}.</p>
 </footer>
 <script src="/assets/app.js" defer></script>
-${scripts.map((s) => `<script src="${s}" defer></script>`).join('
-')}
+${scripts.map((s) => `<script src="${s}" defer></script>`).join('\n')}
 </body>
 </html>
 `, caminho);

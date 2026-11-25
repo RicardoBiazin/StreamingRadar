@@ -158,7 +158,7 @@ export async function coletarTudo(chave, { de, ate, paginas = {} }) {
 // Provedores do Brasil (filmes e séries), sem as variantes (canais da Amazon/Apple, com anúncios)
 // e sem as lojas de aluguel/compra, que não têm catálogo por assinatura.
 const VARIANTE = /with ads|\bchannel\b|\bpremium\b|\bstore\b|amazon video|justwatch/i;
-async function provedoresBR(chave) {
+export async function provedoresBR(chave) {
   const [m, t] = await Promise.all([
     tmdb(chave, '/watch/providers/movie', { watch_region: 'BR', language: 'pt-BR' }),
     tmdb(chave, '/watch/providers/tv', { watch_region: 'BR', language: 'pt-BR' }),
@@ -168,4 +168,56 @@ async function provedoresBR(chave) {
     if (!VARIANTE.test(p.provider_name)) mapa.set(p.provider_id, { id: p.provider_id, nome: p.provider_name, prio: p.display_priorities?.BR ?? 99 });
   }
   return [...mapa.values()].sort((a, b) => a.prio - b.prio).slice(0, 80);
+}
+
+// Catálogo completo: tudo que está disponível por assinatura, grátis ou com anúncios no Brasil,
+// por plataforma (discover limita a 500 páginas por consulta; a maior plataforma tem ~5 mil filmes).
+// Cada item vira uma linha compacta: [tipo(0 filme|1 série), id, título, ano, nota, votos, poster, gêneros].
+export async function coletarCatalogo(chave, provs, log = () => {}) {
+  const generos = {};
+  for (const t of ['movie', 'tv']) {
+    const g = await tmdb(chave, `/genre/${t}/list`, { language: 'pt-BR' });
+    for (const x of g?.genres || []) generos[x.id] = x.name;
+  }
+  const consultas = provs.flatMap((p) => ['movie', 'tv'].map((t) => ({ p, t, paginas: new Map() })));
+  const params = (c, page) => ({
+    language: 'pt-BR', include_adult: 'false', sort_by: 'popularity.desc', watch_region: 'BR',
+    with_watch_providers: c.p.id, with_watch_monetization_types: 'flatrate|free|ads', page,
+  });
+  const primeiras = await emLote(consultas, 8, (c) => tmdb(chave, `/discover/${c.t}`, params(c, 1)));
+  const tarefas = [];
+  consultas.forEach((c, i) => {
+    c.paginas.set(1, primeiras[i]?.results || []);
+    for (let pg = 2; pg <= Math.min(primeiras[i]?.total_pages || 1, 500); pg++) tarefas.push({ c, pg });
+  });
+  log(`${consultas.length} consultas, ${tarefas.length} páginas extras`);
+  let falhas = 0;
+  await emLote(tarefas, 8, async ({ c, pg }) => {
+    try { c.paginas.set(pg, (await tmdb(chave, `/discover/${c.t}`, params(c, pg)))?.results || []); }
+    catch { falhas++; }
+  });
+  if (falhas > tarefas.length * 0.02) throw new Error(`${falhas} páginas do catálogo falharam`);
+
+  const linha = (c, r) => {
+    const data = c.t === 'movie' ? r.release_date : r.first_air_date;
+    return [
+      c.t === 'movie' ? 0 : 1, r.id, c.t === 'movie' ? r.title : r.name, data ? Number(data.slice(0, 4)) : null,
+      r.vote_count > 0 ? Math.round(r.vote_average * 10) / 10 : null, r.vote_count || 0,
+      (r.poster_path || '/').slice(1), r.genre_ids || [],
+    ];
+  };
+  const plataformas = provs.map((p) => {
+    const vistos = new Set(), itens = [];
+    for (const c of consultas.filter((x) => x.p === p)) {
+      for (const pg of [...c.paginas.keys()].sort((a, b) => a - b)) {
+        for (const r of c.paginas.get(pg)) {
+          const k = c.t + r.id;
+          if (!vistos.has(k)) { vistos.add(k); itens.push(linha(c, r)); }
+        }
+      }
+    }
+    // filmes e séries intercalados por popularidade seria perder a ordem; mantém a de cada consulta
+    return { id: p.id, nome: p.nome, itens };
+  }).filter((p) => p.itens.length);
+  return { generos, plataformas };
 }

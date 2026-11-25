@@ -9,6 +9,7 @@ import {
 import { pagina } from '../src/layout.mjs';
 import { REDES, linkRede } from '../src/redes.mjs';
 import { sitePlataforma } from '../src/plataformas.mjs';
+import { gerarCatalogo } from '../src/catalogo.mjs';
 
 const dados = lerJSON('dados/lancamentos.json');
 if (!dados) {
@@ -154,12 +155,14 @@ gravarTexto('public/404.html', pagina({
   corpo: '<div class="semana-tit"><h1>Página não encontrada</h1><p><a href="/">Ver os lançamentos desta semana</a></p></div>',
 }));
 
+const cat = gerarCatalogo();
 gravarTexto('public/robots.txt', `User-agent: *\nAllow: /\nSitemap: ${SITE}/sitemap.xml\n`);
 const data = (dados.coletadoEm || '').slice(0, 10) || hoje;
 gravarTexto('public/sitemap.xml', `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url><loc>${SITE}/</loc><lastmod>${data}</lastmod></url>
 ${semanas.map((w) => `<url><loc>${SITE}${url(w)}</loc><lastmod>${data}</lastmod></url>`).join('\n')}
+${cat.paginas.map((u) => `<url><loc>${SITE}${u}</loc><lastmod>${data}</lastmod></url>`).join('\n')}
 </urlset>
 `);
 

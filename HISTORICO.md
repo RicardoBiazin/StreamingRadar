@@ -1,9 +1,16 @@
 # Histórico
 
+## 0.2.0 — 24/11/2026
+
+- Catálogo completo: tudo que está disponível por assinatura, grátis ou com anúncios no Brasil, por plataforma (53 plataformas, ~59 mil títulos únicos; a coleta faz ~3.700 consultas ao TMDB em ~2,5 min). Página `/catalogo/` com busca entre plataformas ("onde assistir?") e uma página por plataforma (`/catalogo/<plataforma>.html`) com busca, filtro por tipo e gênero, ordem (popularidade, nota, ano, A a Z) e "Mostrar mais". Os 48 mais populares já vêm no HTML.
+- Menu Semana / Catálogo no cabeçalho; a CSP ganhou `connect-src 'self'` (o catálogo carrega JSON do próprio site).
+- O catálogo não vai para o git (`dados/catalogo/`, muda todo dia); o workflow guarda o último em cache.
+- Limites: o TMDB corta cada consulta em 10 mil resultados (Plex Filmes bate nesse teto); a nota do catálogo é a do TMDB (IMDb, Rotten Tomatoes e Metacritic só nos cartões de lançamento, pelo limite de 1.000 consultas por dia da OMDb).
+
 ## 0.1.5 — 24/11/2026
 
-- Corrigido: abrir public/index.html direto do disco (duplo clique) deixava a página sem estilo e os botões \Todos juntos\ / \Por dia\ sem efeito, porque os links do site eram absolutos (\/assets/app.js\ apontava para a raiz da unidade). Agora links, CSS, JS e ícone saem relativos (\../assets/...\ nas páginas de semana); a 404 continua absoluta, porque o servidor a entrega em qualquer profundidade.
-- \	estar\ confere que links relativos e arquivos do site existem e recusa caminho absoluto de CSS/JS/SVG.
+- Corrigido: abrir `public/index.html` direto do disco (duplo clique) deixava a página sem estilo e os botões "Todos juntos" / "Por dia" sem efeito, porque os links do site eram absolutos (`/assets/app.js` apontava para a raiz da unidade). Agora links, CSS, JS e ícone saem relativos (`../assets/...` nas páginas de semana); a 404 continua absoluta, porque o servidor a entrega em qualquer profundidade.
+- `testar` confere que links relativos e arquivos do site existem e recusa caminho absoluto de CSS/JS/SVG.
 
 ## 0.1.4 — 24/11/2026
 

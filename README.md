@@ -5,6 +5,7 @@ Site estático e automático com os lançamentos da semana no Brasil, semana a s
 - **No cinema**: estreias, com botões para a programação de cada rede (Cinemark, Cinépolis, UCI, Kinoplex, Moviecom, Playarte, Ingresso.com).
 - **Filmes no streaming**: lançamentos digitais com a plataforma (Netflix, Prime Video, Disney+, Max, Globoplay...) e link.
 - **Séries**: estreias de série e de temporada, com plataforma e canal/rede de origem.
+- **Catálogo** (`/catalogo/`): todos os filmes e séries disponíveis por assinatura, grátis ou com anúncios em cada plataforma do Brasil (~59 mil títulos), com busca "onde assistir?", filtro por gênero e ordem por popularidade, nota ou ano. O catálogo não vai para o git (`dados/catalogo/`): `npm run catalogo` coleta (~2,5 min).
 
 Cada cartão traz pôster, nota, sinopse, trailer e links (TMDB, JustWatch, plataforma). A janela é a semana passada e as 26 seguintes (~6 meses de lançamentos futuros); `index.html` mostra a semana atual.
 

@@ -6,3 +6,5 @@ public/
 *.tmp
 # Modo exemplo (dados fictícios): nunca versionar.
 .exemplo/
+# Catálogo completo: muda todo dia e pesa ~10 MB; é coletado de novo a cada execução.
+dados/catalogo/

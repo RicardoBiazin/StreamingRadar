@@ -94,6 +94,33 @@ for (const [nome, html] of todas) {
   ok(!/\bundefined\b|\bNaN\b|\[object Object\]/.test(html), `${nome}: texto quebrado (undefined/NaN/[object Object])`);
 }
 
+// ---------- catálogo ----------
+const bruto = lerJSON('dados/catalogo/bruto.json');
+if (bruto) {
+  ok(bruto.plataformas.length >= 10, `catálogo com poucas plataformas (${bruto.plataformas.length})`);
+  const cidx = lerPag('catalogo/index.html');
+  ok(cidx && cidx.includes('id="b-busca"'), 'catalogo/index.html sem a busca');
+  ok(existsSync(pub + '/catalogo/busca.json'), 'catalogo/busca.json não existe');
+  ok(existsSync(pub + '/assets/catalogo.js'), 'assets/catalogo.js não existe');
+  for (const p of bruto.plataformas) ok(p.itens.length > 0, `catálogo: ${p.nome} sem itens`);
+  const links = [...(cidx || '').matchAll(/href="(?:\.\.)?\/?(catalogo\/[^"]+\.html)"/g)].map((m) => '/' + m[1]);
+  ok(links.length >= bruto.plataformas.length, `índice do catálogo lista ${links.length} plataformas, esperado ${bruto.plataformas.length}`);
+  for (const l of links) {
+    const h = lerPag(l.slice(1));
+    ok(h, `catálogo: página ${l} não existe`);
+    if (!h) continue;
+    ok(h.includes(`>v${VERSAO}</span>`) && /TMDB/.test(h), `${l}: versão ou créditos ausentes`);
+    ok(/<script src="(\.\.\/)?assets\/catalogo\.js"/.test(h) && !/<script(?![^>]*(src=|application\/ld\+json))/.test(h), `${l}: scripts inválidos`);
+    const js = l.replace('.html', '.json').slice(1);
+    ok(existsSync(pub + '/' + js), `catálogo: ${js} não existe`);
+    if (existsSync(pub + '/' + js)) {
+      const j = JSON.parse(readFileSync(pub + '/' + js, 'utf8'));
+      ok(Array.isArray(j.i) && j.i.length > 0 && j.i.every((i) => i.length === 8 && (i[0] === 0 || i[0] === 1) && i[2]), `${js}: linhas inválidas`);
+    }
+    ok(!/\bundefined\b|\bNaN\b|\[object Object\]/.test(h), `${l}: texto quebrado`);
+  }
+}
+
 for (const rel of ['assets/estilo.css', 'assets/app.js', 'favicon.svg', 'robots.txt', '404.html']) {
   ok(existsSync(`${pub}/${rel}`), `public/${rel} não existe`);
 }

@@ -31,6 +31,15 @@ jobs:
         with:
           node-version: 22
 
+      # O catálogo completo (~6 MB) não vai para o git; o cache guarda o último
+      # para quando a coleta do dia falhar.
+      - uses: actions/cache@v4
+        if: env.TMDB_API_KEY != ''
+        with:
+          path: dados/catalogo
+          key: catalogo-${{ github.run_id }}
+          restore-keys: catalogo-
+
       - name: Coletar, normalizar, gerar e testar
         if: env.TMDB_API_KEY != ''
         run: npm run atualizar

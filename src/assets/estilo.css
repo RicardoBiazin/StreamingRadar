@@ -101,3 +101,52 @@ a.chip:hover { text-decoration: underline; }
   .filtro { margin-left: 0; width: 100%; }
   .vista { margin-left: 0; }
 }
+
+/* ---------- menu e catálogo ---------- */
+.menu { display: flex; gap: 6px; margin-left: 22px; margin-right: auto; }
+.menu a { padding: 5px 12px; border-radius: 999px; text-decoration: none; color: var(--texto); font-size: .92rem; border: 1px solid transparent; }
+.menu a:hover { border-color: var(--linha); background: var(--painel); }
+.migalha { margin: 4px 0 8px; font-size: .85rem; color: var(--suave); }
+.semana-tit.esq { text-align: left; }
+.cat-controles { display: flex; flex-wrap: wrap; gap: 10px; align-items: end; margin: 14px 0 6px; }
+.cat-controles label { display: flex; flex-direction: column; gap: 3px; font-size: .8rem; color: var(--suave); }
+.cat-controles input, .cat-controles select { font: inherit; font-size: .95rem; padding: 7px 10px; border-radius: 8px; border: 1px solid var(--linha); background: var(--painel); color: var(--texto); min-width: 160px; }
+.cat-controles.unica label { flex: 1 1 100%; }
+.cat-controles.unica input { width: 100%; font-size: 1.05rem; padding: 10px 12px; }
+.cat-status { color: var(--suave); font-size: .85rem; margin: 6px 0 10px; }
+.grade-cat { display: grid; grid-template-columns: repeat(auto-fill, minmax(170px, 1fr)); gap: 14px; }
+.mini { display: flex; flex-direction: column; background: var(--painel); border: 1px solid var(--linha); border-radius: 10px; overflow: hidden; }
+.mini .poster { width: 100%; height: auto; aspect-ratio: 2 / 3; border-radius: 0; }
+.mini-info { padding: 8px 10px 10px; }
+.mini-info h3 { margin: 0; font-size: .92rem; line-height: 1.25; }
+.mini-info h3 a { color: var(--texto); text-decoration: none; }
+.mini-info .meta { margin: 2px 0 0; font-size: .75rem; }
+.nota-mini { margin: 4px 0 0; font-size: .8rem; font-weight: 600; color: var(--nota); }
+.nota-mini span { font-weight: 400; color: var(--suave); font-size: .7rem; }
+.mini .links { margin: 5px 0 0; font-size: .75rem; }
+.mais { text-align: center; margin: 20px 0; }
+.mais button { font: inherit; padding: 9px 22px; border-radius: 999px; border: 1px solid var(--linha); background: var(--painel); color: var(--texto); cursor: pointer; }
+.mais button:hover { border-color: var(--destaque); }
+.plat-tit { font-size: 1.2rem; margin: 26px 0 10px; }
+.plat-lista { list-style: none; padding: 0; margin: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 10px; }
+.plat-lista a { display: flex; flex-direction: column; padding: 10px 14px; border: 1px solid var(--linha); border-radius: 10px; background: var(--painel); text-decoration: none; color: var(--texto); }
+.plat-lista a:hover { border-color: var(--destaque); }
+.plat-lista span { font-size: .8rem; color: var(--suave); }
+.resultados { list-style: none; padding: 0; margin: 8px 0; display: flex; flex-direction: column; gap: 8px; }
+.resultado { padding: 8px 12px; border: 1px solid var(--linha); border-radius: 10px; background: var(--painel); }
+.res-tit a { color: var(--texto); font-weight: 600; text-decoration: none; }
+.res-tit .meta { color: var(--suave); font-size: .82rem; }
+.resultado .onde { margin-top: 6px; }
+
+@media (max-width: 480px) {
+  .menu { margin-left: 10px; }
+  .cat-controles label { flex: 1 1 45%; }
+  .cat-controles input, .cat-controles select { min-width: 0; width: 100%; }
+  .grade-cat { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 10px; }
+}
+
+@media (max-width: 480px) {
+  .marca { white-space: nowrap; font-size: 1rem; }
+  .versao { display: none; }
+  .topo { gap: 4px; }
+}

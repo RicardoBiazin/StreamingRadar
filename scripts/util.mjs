@@ -18,8 +18,8 @@ export function lerJSON(rel, padrao = null) {
   return existsSync(arq) ? JSON.parse(readFileSync(arq, 'utf8')) : padrao;
 }
 
-export function gravarJSON(rel, dados) {
-  gravarTexto(rel, JSON.stringify(dados, null, 1) + '\n');
+export function gravarJSON(rel, dados, compacto = false) {
+  gravarTexto(rel, JSON.stringify(dados, null, compacto ? 0 : 1) + '\n');
 }
 
 export function gravarTexto(rel, texto) {
