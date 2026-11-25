@@ -1,5 +1,16 @@
 # Histórico
 
+## 0.1.1 — 24/11/2026
+
+Primeira coleta com a chave real do TMDB (219 itens em 9 semanas) e ajustes a partir dela.
+
+- Séries: estreia de temporada também por episódio 1 (último/próximo episódio) e descoberta de séries novas por `first_air_date`; antes só 20 de 120 séries passavam.
+- Plataformas: variantes do mesmo serviço (com anúncios, canais da Amazon/Apple, Premium) saem da lista.
+- Filmes com data digital, mas sem plataforma informada (comum nas semanas futuras), aparecem como "Plataforma ainda não informada" (máx. 10 por semana, os mais populares).
+- Dados coletados passam a ser versionados em `dados/`.
+
+Limite do TMDB: as semanas futuras têm poucos filmes/séries de streaming com data e plataforma; o cinema é bem coberto.
+
 ## 0.1.0 — 24/11/2026
 
 Primeira versão.
@@ -11,7 +22,7 @@ Primeira versão.
 - GitHub Actions diário e `netlify.toml` com CSP.
 
 Pendências:
-- Rodar com a chave real do TMDB e conferir estreias reais (datas e plataformas) contra Adorocinema/Ingresso.com.
+- Conferir estreias reais (datas e plataformas) contra Adorocinema/Ingresso.com.
 - Criar o site no Netlify, gravar os secrets e apontar `streamingradar.biazin.com.br` (CNAME na Cloudflare).
 - Logo do TMDB no rodapé (hoje só o texto de crédito).
 - Confirmar os links das redes (Cinépolis bloqueia robôs; só testado no navegador).

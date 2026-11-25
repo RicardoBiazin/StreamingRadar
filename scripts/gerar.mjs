@@ -61,7 +61,8 @@ function cartao(i) {
       `<a class="chip rede" href="${esc(linkRede(r, i.data, hoje))}" rel="noopener">${esc(r.nome)}</a>`).join('')}</div>`;
   } else {
     const lista = (plat.length ? plat : i.plataformas);
-    onde = `<div class="onde"><span class="rot">${plat.length ? 'Onde assistir' : 'Aluguel ou compra'}</span>${lista.map((p) => chipPlataforma(p, i)).join('')}</div>`;
+    if (!lista.length) onde = '<div class="onde"><span class="rot">Plataforma ainda não informada</span></div>';
+    else onde = `<div class="onde"><span class="rot">${plat.length ? 'Onde assistir' : 'Aluguel ou compra'}</span>${lista.map((p) => chipPlataforma(p, i)).join('')}</div>`;
     if (i.tipo === 'serie' && i.canais?.length) onde += `<p class="canal">Canal/rede de origem: ${esc(i.canais.join(', '))}</p>`;
   }
 

@@ -63,6 +63,8 @@ const trailer = (videos) => {
   return (v.find((x) => x.official) || v[0])?.key || null;
 };
 
+const ep = (e) => (e?.air_date ? { data: e.air_date, temporada: e.season_number, episodio: e.episode_number } : null);
+
 const provedores = (wp) => {
   const br = wp?.results?.BR;
   const lista = (a) => (a || []).map((p) => ({ id: p.provider_id, nome: p.provider_name, logo: p.logo_path }));
@@ -95,6 +97,7 @@ async function detalheSerie(chave, id) {
     sinopse: d.overview, poster: d.poster_path, generos: (d.genres || []).map((g) => g.name),
     nota: d.vote_average, votos: d.vote_count, popularidade: d.popularity,
     primeira: d.first_air_date || null,
+    ultimoEp: ep(d.last_episode_to_air), proximoEp: ep(d.next_episode_to_air),
     temporadas: (d.seasons || []).filter((s) => s.air_date).map((s) => ({ n: s.season_number, data: s.air_date })),
     canais: (d.networks || []).map((n) => n.name),
     trailer: trailer(d.videos), provedores: provedores(d['watch/providers']),
@@ -115,12 +118,17 @@ export async function coletarTudo(chave, { de, ate, paginas = {} }) {
     watch_region: 'BR', with_watch_monetization_types: 'flatrate', timezone: 'America/Sao_Paulo',
     'air_date.gte': de, 'air_date.lte': ate,
   }, pg.series);
+  // Séries novas (1ª temporada) entram pelo first_air_date, que o air_date nem sempre cobre.
+  const idsSeriesNovas = await descobrir(chave, 'tv', {
+    watch_region: 'BR', with_watch_monetization_types: 'flatrate', timezone: 'America/Sao_Paulo',
+    'first_air_date.gte': de, 'first_air_date.lte': ate,
+  }, 3);
 
   // Um filme pode estar nas duas listas: o detalhe é buscado uma vez só.
   const todosFilmes = [...new Set([...idsCinema, ...idsFilmes])];
   const mapa = new Map();
   await emLote(todosFilmes, lote, async (id) => { mapa.set(id, await detalheFilme(chave, id)); });
-  const series = (await emLote(idsSeries, lote, (id) => detalheSerie(chave, id))).filter(Boolean);
+  const series = (await emLote([...new Set([...idsSeries, ...idsSeriesNovas])], lote, (id) => detalheSerie(chave, id))).filter(Boolean);
 
   return {
     cinema: idsCinema.map((id) => mapa.get(id)).filter(Boolean),

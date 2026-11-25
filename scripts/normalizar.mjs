@@ -12,6 +12,10 @@ const { de, ate } = bruto;
 const dentro = (d) => d >= de && d <= ate;
 const menor = (a) => a.sort()[0];
 
+// Variantes do mesmo serviço (com anúncios, canal da Amazon/Apple, premium) viram ruído:
+// ficam só se não sobrar mais nada.
+const VARIANTE = /with ads|\bchannel\b|\bpremium\b|\bplus\b.*\bamazon\b/i;
+
 function plataformas(p) {
   if (!p) return [];
   const vistos = new Set();
@@ -23,7 +27,8 @@ function plataformas(p) {
       saida.push({ id: x.id, nome: x.nome, logo: x.logo, tipo });
     }
   }
-  return saida;
+  const limpo = saida.filter((x) => !VARIANTE.test(x.nome));
+  return limpo.length ? limpo : saida;
 }
 
 function base(r, tipo, data) {
@@ -46,14 +51,24 @@ for (const r of bruto.cinema) {
 
 for (const r of bruto.filmes) {
   const datas = (r.datas || []).filter((x) => (x.tipo === 4 || x.tipo === 5) && dentro(x.data)).map((x) => x.data);
-  const pl = plataformas(r.provedores);
-  if (!datas.length || !pl.length) continue; // sem plataforma informada não dá link útil
+  if (!datas.length) continue;
   itens.push({ ...base(r, 'filme', menor(datas)), duracao: r.duracao, classificacao: r.classificacao });
 }
+// Filme com data digital mas sem plataforma informada ainda (comum nas semanas futuras):
+// entra como "plataforma a confirmar", no máximo 10 por semana, os mais populares.
+const semPlat = new Map();
+for (const i of itens.filter((x) => x.tipo === 'filme' && !x.plataformas.length).sort((a, b) => b.popularidade - a.popularidade)) {
+  const n = (semPlat.get(i.semana) || 0) + 1;
+  semPlat.set(i.semana, n);
+  if (n > 10) i.descartar = true;
+}
+for (let k = itens.length - 1; k >= 0; k--) if (itens[k].descartar) itens.splice(k, 1);
 
 for (const r of bruto.series) {
   const pl = plataformas(r.provedores);
+  // Estreia de temporada: data da temporada, ou episódio 1 (último/próximo) dentro da janela.
   const temps = (r.temporadas || []).filter((t) => t.n > 0 && dentro(t.data));
+  for (const e of [r.ultimoEp, r.proximoEp]) if (e && e.episodio === 1 && e.temporada > 0 && dentro(e.data)) temps.push({ n: e.temporada, data: e.data });
   if (!pl.length || !temps.length) continue;
   const t = temps.sort((a, b) => a.data.localeCompare(b.data))[0];
   itens.push({ ...base(r, 'serie', t.data), temporada: t.n, canais: r.canais || [] });

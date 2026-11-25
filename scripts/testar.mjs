@@ -20,7 +20,7 @@ if (dados) {
     ok(i.data >= dados.de && i.data <= dados.ate, `${i.id}: data ${i.data} fora da janela`);
     ok(i.semana === slugSemana(i.data) && i.segunda === segunda(i.data), `${i.id}: semana inconsistente`);
     ok(i.titulo && i.titulo.trim(), `${i.id}: sem título`);
-    if (i.tipo !== 'cinema') ok(i.plataformas.length > 0, `${i.id}: sem plataforma`);
+    if (i.tipo === 'serie') ok(i.plataformas.length > 0, `${i.id}: sem plataforma`);
   }
 }
 
