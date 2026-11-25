@@ -1,0 +1,43 @@
+# Streaming Radar
+
+Site estático e automático com os lançamentos da semana no Brasil, semana a semana:
+
+- **No cinema**: estreias, com botões para a programação de cada rede (Cinemark, Cinépolis, UCI, Kinoplex, Moviecom, Playarte, Ingresso.com).
+- **Filmes no streaming**: lançamentos digitais com a plataforma (Netflix, Prime Video, Disney+, Max, Globoplay...) e link.
+- **Séries**: estreias de série e de temporada, com plataforma e canal/rede de origem.
+
+Cada cartão traz pôster, nota, sinopse, trailer e links (TMDB, JustWatch, plataforma). A janela é a semana passada e as 7 seguintes; `index.html` mostra a semana atual.
+
+Os dados vêm da API do [TMDB](https://www.themoviedb.org/) (datas de estreia no Brasil, provedores por região do [JustWatch](https://www.justwatch.com/br)). **Limite conhecido:** as redes de cinema não têm API pública, então o site aponta para a página de programação de cada rede e não confirma que a rede exibe o filme.
+
+## Uso
+
+Requer Node 20+. Sem dependências.
+
+```
+copy .env.example .env      # preencha TMDB_API_KEY (grátis em themoviedb.org → Configurações → API)
+npm run atualizar           # coletar → normalizar → gerar → testar
+npm run preview             # http://127.0.0.1:4207, com a CSP do netlify.toml
+npm run exemplo             # dados FICTÍCIOS em .exemplo/, para ver o site sem chave
+```
+
+`npm run exemplo` + `SR_EXEMPLO=1 npm run preview` mostra o site com dados de mentira; esse modo nunca grava em `dados/` nem em `public/`, e o `testar` recusa publicar dado que não seja do TMDB.
+
+## Como funciona
+
+| Etapa | Arquivo | Saída |
+|---|---|---|
+| coletar | `scripts/coletar.mjs`, `scripts/fontes/tmdb.mjs` | `dados/brutos/tmdb.json` |
+| normalizar | `scripts/normalizar.mjs` | `dados/lancamentos.json` |
+| gerar | `scripts/gerar.mjs`, `src/` | `public/` (uma página por semana) |
+| testar | `scripts/testar.mjs` | confere dados, links, versão, créditos, CSP |
+
+Regras: cinema = estreia teatral (tipos 2 e 3 do TMDB) no Brasil; filme no streaming = lançamento digital/físico (tipos 4 e 5) **com plataforma informada**; série = estreia de série ou de temporada com plataforma de assinatura. Itens sem plataforma são descartados porque não teriam link útil.
+
+## Publicação
+
+`.github/workflows/atualizar.yml` roda todo dia às 05:00 (Brasília): coleta, gera, testa, commita `dados/` e publica no Netlify. Secrets do repositório: `TMDB_API_KEY`, `NETLIFY_AUTH_TOKEN`, `NETLIFY_SITE_ID`. Manual: `npm run publicar`.
+
+## Licença e créditos
+
+MIT. Dados: TMDB e JustWatch. Este produto usa a API do TMDB, mas não é endossado nem certificado pelo TMDB.

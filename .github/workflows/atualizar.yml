@@ -1,0 +1,49 @@
+# Coleta diária: busca os lançamentos no TMDB, gera e testa o site,
+# commita os dados do dia e publica no Netlify.
+name: Atualizar lançamentos
+
+on:
+  schedule:
+    - cron: '0 8 * * *' # 05:00 em Brasília
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: atualizar
+  cancel-in-progress: false
+
+jobs:
+  atualizar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    env:
+      TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+      NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
+      NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
+    steps:
+      - uses: actions/checkout@v5
+      # Sem o secret TMDB_API_KEY o fluxo não faz nada (evita falha diária antes da configuração).
+      - uses: actions/setup-node@v5
+        if: env.TMDB_API_KEY != ''
+        with:
+          node-version: 22
+
+      - name: Coletar, normalizar, gerar e testar
+        if: env.TMDB_API_KEY != ''
+        run: npm run atualizar
+
+      - name: Commitar os dados do dia
+        if: env.TMDB_API_KEY != ''
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add dados
+          if git diff --cached --quiet; then echo "sem mudança nos dados"; exit 0; fi
+          git commit -m "dados: coleta de $(date -u +%Y-%m-%d)"
+          git push
+
+      - name: Publicar no Netlify
+        if: env.TMDB_API_KEY != '' && env.NETLIFY_AUTH_TOKEN != '' && env.NETLIFY_SITE_ID != ''
+        run: npx --yes netlify-cli@27.13.0 deploy --prod --dir public --site "$NETLIFY_SITE_ID" --message "coleta $(date -u +%Y-%m-%d)"

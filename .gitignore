@@ -1,0 +1,8 @@
+node_modules/
+public/
+.netlify/
+.env
+*.log
+*.tmp
+# Modo exemplo (dados fictícios): nunca versionar.
+.exemplo/

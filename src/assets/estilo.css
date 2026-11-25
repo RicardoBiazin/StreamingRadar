@@ -1,0 +1,85 @@
+:root {
+  --fundo: #f6f5f1; --painel: #ffffff; --texto: #1c1b1a; --suave: #66625b; --linha: #e3e0d8;
+  --destaque: #0a7d6e; --destaque-fundo: #e1f3ef; --nota: #a35f00; --rede: #6a3fb5; --rede-fundo: #efe9fb;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --fundo: #121413; --painel: #1b1e1d; --texto: #ecebe6; --suave: #a09d95; --linha: #2c302e;
+    --destaque: #4fd1bd; --destaque-fundo: #12332e; --nota: #f0b45c; --rede: #b99cf2; --rede-fundo: #2a2140;
+  }
+}
+* { box-sizing: border-box; }
+[hidden] { display: none !important; }
+html { -webkit-text-size-adjust: 100%; }
+body { margin: 0; background: var(--fundo); color: var(--texto); font: 16px/1.5 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
+a { color: var(--destaque); text-underline-offset: 2px; }
+main, .topo, .rodape { max-width: 1180px; margin: 0 auto; padding-left: 16px; padding-right: 16px; }
+
+.topo { display: flex; align-items: center; justify-content: space-between; padding-top: 14px; padding-bottom: 14px; }
+.marca { display: inline-flex; align-items: center; gap: 10px; font-weight: 700; font-size: 1.15rem; color: var(--texto); text-decoration: none; }
+.radar { width: 22px; height: 22px; border-radius: 50%; border: 2px solid var(--destaque); position: relative; }
+.radar::after { content: ""; position: absolute; left: 50%; top: 50%; width: 8px; height: 8px; margin: -4px 0 0 -4px; border-radius: 50%; background: var(--destaque); }
+.versao { color: var(--suave); font-size: .85rem; }
+
+.semana-nav { display: grid; grid-template-columns: 1fr auto 1fr; align-items: center; gap: 12px; margin: 8px 0 14px; }
+.semana-nav .seta { padding: 8px 12px; border: 1px solid var(--linha); border-radius: 10px; background: var(--painel); text-decoration: none; font-size: .9rem; white-space: nowrap; }
+.semana-nav .seta:first-child { justify-self: start; }
+.semana-nav .seta:last-child { justify-self: end; }
+.semana-nav .off { visibility: hidden; }
+.semana-tit { text-align: center; }
+.semana-tit h1 { margin: 0; font-size: 1.5rem; line-height: 1.2; }
+.semana-tit p { margin: 2px 0 0; color: var(--suave); font-size: .9rem; }
+
+.abas { position: sticky; top: 0; z-index: 5; display: flex; flex-wrap: wrap; gap: 8px; align-items: center; padding: 10px 0; background: var(--fundo); border-bottom: 1px solid var(--linha); }
+.abas a { padding: 6px 12px; border-radius: 999px; background: var(--painel); border: 1px solid var(--linha); text-decoration: none; color: var(--texto); font-size: .92rem; }
+.qtd { display: inline-block; min-width: 1.4em; padding: 0 6px; border-radius: 999px; background: var(--destaque-fundo); color: var(--destaque); font-size: .8em; text-align: center; font-weight: 600; }
+.filtro { margin-left: auto; color: var(--suave); font-size: .9rem; display: inline-flex; gap: 6px; align-items: center; }
+.filtro select { font: inherit; padding: 5px 8px; border-radius: 8px; border: 1px solid var(--linha); background: var(--painel); color: var(--texto); }
+
+.bloco { margin: 26px 0; scroll-margin-top: 70px; }
+.bloco > h2 { font-size: 1.3rem; margin: 0 0 10px; }
+.dias { display: grid; grid-template-columns: repeat(auto-fill, minmax(340px, 1fr)); gap: 8px 16px; align-items: start; }
+.dia-tit { font-size: .95rem; color: var(--suave); margin: 12px 0 8px; font-weight: 600; }
+.dia-tit::first-letter { text-transform: uppercase; }
+.vazio, .vazio-filtro { color: var(--suave); }
+.grade { display: flex; flex-direction: column; gap: 12px; }
+
+.card { display: grid; grid-template-columns: 104px 1fr; gap: 12px; padding: 10px; background: var(--painel); border: 1px solid var(--linha); border-radius: 12px; }
+.capa { display: block; }
+.poster { display: block; width: 104px; height: 156px; object-fit: cover; border-radius: 8px; background: var(--linha); }
+.poster.sem { display: grid; place-items: center; font-size: 2rem; color: var(--suave); }
+.info { min-width: 0; }
+.info h3 { margin: 0; font-size: 1.05rem; line-height: 1.25; }
+.info h3 a { color: var(--texto); text-decoration: none; }
+.info h3 a:hover { text-decoration: underline; }
+.nota { margin-left: 8px; font-size: .8rem; font-weight: 600; color: var(--nota); white-space: nowrap; }
+.orig { margin: 0; color: var(--suave); font-size: .82rem; font-style: italic; }
+.meta { margin: 3px 0 0; color: var(--suave); font-size: .82rem; }
+.sinopse { margin: 6px 0 0; font-size: .9rem; }
+.onde { margin-top: 8px; display: flex; flex-wrap: wrap; gap: 6px; align-items: center; }
+.rot { font-size: .75rem; text-transform: uppercase; letter-spacing: .04em; color: var(--suave); margin-right: 2px; }
+.chip { display: inline-flex; align-items: center; gap: 6px; padding: 3px 9px; border-radius: 999px; border: 1px solid var(--linha); background: var(--destaque-fundo); color: var(--destaque); font-size: .82rem; font-weight: 600; text-decoration: none; }
+.chip img { border-radius: 5px; }
+.chip em { font-style: normal; font-weight: 400; color: var(--suave); font-size: .75rem; }
+.chip.rede { background: var(--rede-fundo); color: var(--rede); }
+a.chip:hover { text-decoration: underline; }
+.canal { margin: 6px 0 0; font-size: .8rem; color: var(--suave); }
+.links { margin: 8px 0 0; font-size: .82rem; color: var(--suave); }
+
+.todas { margin: 34px 0 10px; display: flex; flex-wrap: wrap; gap: 8px; }
+.todas h2 { flex-basis: 100%; font-size: 1.05rem; margin: 0; }
+.todas a { padding: 5px 11px; border: 1px solid var(--linha); border-radius: 999px; background: var(--painel); text-decoration: none; font-size: .85rem; }
+.todas a[aria-current] { background: var(--destaque); border-color: var(--destaque); color: var(--fundo); font-weight: 600; }
+
+.rodape { margin-top: 30px; padding-top: 18px; padding-bottom: 30px; border-top: 1px solid var(--linha); color: var(--suave); font-size: .82rem; }
+.rodape p { margin: 4px 0; }
+
+@media (max-width: 480px) {
+  .dias { grid-template-columns: minmax(0, 1fr); }
+  .semana-nav { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .semana-nav .seta { white-space: normal; text-align: center; }
+  .semana-nav .seta:first-child, .semana-nav .seta:last-child { justify-self: stretch; }
+  .semana-tit { grid-column: 1 / -1; grid-row: 1; }
+  .semana-nav .seta { font-size: .8rem; padding: 7px 9px; }
+  .filtro { margin-left: 0; width: 100%; }
+}
