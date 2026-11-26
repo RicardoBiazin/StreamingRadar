@@ -5,6 +5,7 @@ export const TEMAS = [
   { id: 'padrao', nome: 'Padrão' },
   { id: 'instagram', nome: 'Instagram' },
   { id: 'lens', nome: 'Lens' },
+  { id: 'apple', nome: 'Apple' },
 ];
 
 /** Endereço do tema; com `slug`, a mesma semana naquele tema. */

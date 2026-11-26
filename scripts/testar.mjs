@@ -185,7 +185,7 @@ const semanasDados = [...new Set(dados.itens.map((i) => i.segunda))];
 for (const [nome, html] of todas) {
   if (!html) continue;
   const menu = html.match(/<nav class="temas"[\s\S]*?<\/nav>/)?.[0] || '';
-  ok(menu && /data-tema="padrao"/.test(menu) && /data-tema="instagram"/.test(menu) && /data-tema="lens"/.test(menu), `${nome}: menu de temas incompleto`);
+  ok(menu && /data-tema="padrao"/.test(menu) && TEMAS.every((t) => menu.includes(`data-tema="${t.id}"`)), `${nome}: menu de temas incompleto`);
   ok(/tema\.js\?v=/.test(html), `${nome}: sem tema.js`);
   ok(/<body data-semana="\d{4}-w\d{2}"/.test(html), `${nome}: body sem data-semana (o tema salvo não redireciona)`);
 }

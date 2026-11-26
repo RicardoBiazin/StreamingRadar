@@ -109,12 +109,13 @@ export function render(d) {
   const titulo = `Os lançamentos desta semana · ${s.faixa} · Streaming Radar`;
   return `<!doctype html>
 <html lang="pt-BR">
-${head(ID, d, { titulo, extra: `<script src="/${ID}/filtro.js" defer></script>\n` })}
+${head(ID, d, { titulo, extra: `<script src="/${ID}/filtro.js" defer></script>\n<script src="/assets/tema.js?v=${d.versao}" defer></script>\n` })}
 <body>
 <a class="pular" href="#conteudo">Pular para o conteúdo</a>
 <header class="nav">
   <div class="nav-in">
     <a class="marca" href="#topo"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M12 12L18 6"/><circle cx="12" cy="12" r="1.6"/></svg><strong>Streaming Radar</strong><span>v${esc(d.versao)}</span></a>
+    ${d.seletorTemas}
     <nav aria-label="Principal">
       <a href="#cinema">Cinema</a>
       <a href="#filmes">Filmes</a>

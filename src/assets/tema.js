@@ -16,7 +16,7 @@
   if (atual !== 'padrao' || !document.body.hasAttribute('data-semana')) return;
   var salvo = null;
   try { salvo = localStorage.getItem(CHAVE); } catch (e) {}
-  if (salvo !== 'instagram' && salvo !== 'lens') return;
+  if (!salvo || salvo === 'padrao' || !/^[a-z]+$/.test(salvo)) return;
   var alvo = menu.querySelector('a[data-tema="' + salvo + '"]');
   if (alvo) location.replace(alvo.getAttribute('href'));
 })();
