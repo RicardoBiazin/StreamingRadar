@@ -182,3 +182,11 @@ dialog.detalhe::backdrop { background: rgba(0, 0, 0, .6); }
 .chips-gen button span { margin-left: 4px; font-size: .75rem; color: var(--suave); }
 .chips-gen button[aria-pressed="true"] { background: var(--destaque); border-color: var(--destaque); color: var(--fundo); font-weight: 600; }
 .chips-gen button[aria-pressed="true"] span { color: var(--fundo); opacity: .8; }
+
+/* ---------- rodapé com fontes ---------- */
+.rodape-colunas { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 18px 32px; margin-bottom: 14px; }
+.rodape h2 { margin: 0 0 6px; font-size: .78rem; text-transform: uppercase; letter-spacing: .05em; color: var(--texto); }
+.rodape ul { margin: 0 0 12px; padding-left: 18px; }
+.rodape li { margin: 3px 0; }
+.rodape ul.rodape-links { list-style: none; padding: 0; display: flex; flex-wrap: wrap; gap: 4px 14px; }
+.rodape ul.rodape-links li { margin: 0; }

@@ -1,5 +1,11 @@
 # Histórico
 
+## 0.3.1 — 26/11/2026
+
+- Corrigido: "quando clica nada acontece" e faixas de gênero sem estilo. O navegador guardava por 1 hora o CSS e o JS antigos (`Cache-Control: max-age=3600` em `/assets/*`) junto com o HTML novo. Agora os arquivos saem com `?v=<versão>` (muda a cada versão) e `/assets/*` passou a `max-age=0, must-revalidate`. O `testar` confere o `?v=` nos CSS/JS.
+- Rodapé com as fontes: TMDB (títulos, datas, elenco, pôsteres), JustWatch (onde assistir), OMDb API (notas de IMDb, Rotten Tomatoes e Metacritic), AdoroCinema (mais críticas em português), links das redes de cinema e das principais plataformas, aviso do TMDB e de marcas.
+- Pendente: logo do TMDB no rodapé (hoje só o texto de crédito).
+
 ## 0.3.0 — 26/11/2026
 
 - Modal de detalhe: clicar no título ou no pôster de um filme/série (semana e catálogo) abre elenco (12 nomes com foto e personagem), direção/criação, sinopse completa, gêneros, duração, temporadas, nota do TMDB, onde assistir no Brasil (assinatura/grátis, aluguel, compra) e links (TMDB, IMDb, trailer, JustWatch). Cartões de lançamento carregam um arquivo estático (`public/detalhe/<tipo>-<id>.json`, gerado na coleta); o catálogo usa a Netlify Function `/api/detalhe` (`netlify/functions/detalhe.mjs`), que consulta o TMDB com a chave guardada na variável `TMDB_API_KEY` do Netlify (nunca no navegador) e fica em cache de 1 dia no CDN. Sem JS, o clique segue o link do TMDB.

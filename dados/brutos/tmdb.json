@@ -1,6 +1,6 @@
 {
  "fonte": "tmdb",
- "coletadoEm": "2026-11-26T04:09:02.486Z",
+ "coletadoEm": "2026-11-26T04:13:58.166Z",
  "hoje": "2026-11-26",
  "de": "2026-11-16",
  "ate": "2027-05-30",
@@ -3853,7 +3853,7 @@
    ],
    "nota": 0,
    "votos": 0,
-   "popularidade": 1.3737,
+   "popularidade": 1.1612,
    "duracao": 134,
    "empresas": [
     "Nordisk Film Denmark",
@@ -5563,7 +5563,7 @@
    ],
    "nota": 0,
    "votos": 0,
-   "popularidade": 0.4181,
+   "popularidade": 0.4471,
    "duracao": null,
    "empresas": [
     "Artis Vitae"
@@ -17427,17 +17427,17 @@
    ],
    "nota": 8.599,
    "votos": 152,
-   "popularidade": 53.8932,
+   "popularidade": 55.2649,
    "primeira": "2023-01-12",
    "ultimoEp": {
-    "data": "2026-11-24",
-    "temporada": 5,
-    "episodio": 213
-   },
-   "proximoEp": {
     "data": "2026-11-25",
     "temporada": 5,
     "episodio": 214
+   },
+   "proximoEp": {
+    "data": "2026-11-26",
+    "temporada": 5,
+    "episodio": 215
    },
    "temporadas": [
     {
@@ -23960,7 +23960,7 @@
    ],
    "nota": 7.7,
    "votos": 54,
-   "popularidade": 17.2451,
+   "popularidade": 17.6511,
    "primeira": "2024-04-07",
    "ultimoEp": {
     "data": "2024-09-29",
@@ -25712,7 +25712,7 @@
    ],
    "nota": 6.4,
    "votos": 82,
-   "popularidade": 13.8828,
+   "popularidade": 14.5665,
    "primeira": "2025-01-08",
    "ultimoEp": {
     "data": "2026-02-04",
@@ -28550,6 +28550,1796 @@
    }
   },
   {
+   "id": 87826,
+   "imdb": "tt9817298",
+   "titulo": "Sunset - Milha de Ouro",
+   "original": "Selling Sunset",
+   "lingua": "en",
+   "sinopse": "Os agentes de elite do Oppenheim Group vendem uma vida de luxo aos endinheirados de Los Angeles. Os relacionamentos são cruciais, e por isso geram fortes conflitos.",
+   "poster": "/u7oG5RKpXQC0c10jUvLfKYggKOY.jpg",
+   "generos": [
+    "Reality"
+   ],
+   "nota": 6.6,
+   "votos": 68,
+   "popularidade": 14.5309,
+   "primeira": "2019-03-22",
+   "ultimoEp": {
+    "data": "2025-11-05",
+    "temporada": 9,
+    "episodio": 11
+   },
+   "proximoEp": {
+    "data": "2026-12-04",
+    "temporada": 10,
+    "episodio": 1
+   },
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2019-03-22"
+    },
+    {
+     "n": 2,
+     "data": "2020-05-22"
+    },
+    {
+     "n": 3,
+     "data": "2020-08-07"
+    },
+    {
+     "n": 4,
+     "data": "2021-11-24"
+    },
+    {
+     "n": 5,
+     "data": "2022-04-22"
+    },
+    {
+     "n": 6,
+     "data": "2023-05-19"
+    },
+    {
+     "n": 7,
+     "data": "2023-11-03"
+    },
+    {
+     "n": 8,
+     "data": "2024-09-06"
+    },
+    {
+     "n": 9,
+     "data": "2025-10-29"
+    },
+    {
+     "n": 10,
+     "data": "2026-12-04"
+    }
+   ],
+   "canais": [
+    "Netflix"
+   ],
+   "trailer": "Xpa35HwBdwM",
+   "provedores": {
+    "link": "https://www.themoviedb.org/tv/87826-selling-sunset/watch?locale=BR",
+    "flatrate": [
+     {
+      "id": 8,
+      "nome": "Netflix",
+      "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+     },
+     {
+      "id": 1796,
+      "nome": "Netflix Standard with Ads",
+      "logo": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+     }
+    ],
+    "rent": [],
+    "buy": []
+   }
+  },
+  {
+   "id": 230915,
+   "imdb": "tt33258229",
+   "titulo": "Khemjira",
+   "original": "เขมจิราต้องรอด",
+   "lingua": "th",
+   "sinopse": "Nascido em uma família amaldiçoada, a mãe de Khem lhe deu um nome de menina, Khemjira, para protegê-lo de morrer antes dos 20 anos. Ele acreditou nisso até o seu 19º aniversário, quando a verdade veio à tona.",
+   "poster": "/7P0fzNaATifUU3IQ5r7ixpfRYGs.jpg",
+   "generos": [
+    "Drama",
+    "Mistério",
+    "Sci-Fi & Fantasy"
+   ],
+   "nota": 8.957,
+   "votos": 47,
+   "popularidade": 11.5567,
+   "primeira": "2025-08-09",
+   "ultimoEp": {
+    "data": "2026-11-21",
+    "temporada": 2,
+    "episodio": 4
+   },
+   "proximoEp": null,
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2025-08-09"
+    },
+    {
+     "n": 2,
+     "data": "2026-10-31"
+    }
+   ],
+   "canais": [
+    "ONE 31"
+   ],
+   "trailer": null,
+   "provedores": {
+    "link": "https://www.themoviedb.org/tv/230915-ekhmchiratongrod/watch?locale=BR",
+    "flatrate": [
+     {
+      "id": 8,
+      "nome": "Netflix",
+      "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+     },
+     {
+      "id": 1796,
+      "nome": "Netflix Standard with Ads",
+      "logo": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+     },
+     {
+      "id": 623,
+      "nome": "Tencent Video",
+      "logo": "/oxcvMEkpFb1x4I2xQuRH1yxuJoA.png"
+     }
+    ],
+    "rent": [],
+    "buy": []
+   }
+  },
+  {
+   "id": 321421,
+   "imdb": "tt16124372",
+   "titulo": "Behind the Bastards",
+   "original": "Behind the Bastards",
+   "lingua": "en",
+   "sinopse": "",
+   "poster": "/k9bbO4oIl1xMFatWAbIDIcCGh6J.jpg",
+   "generos": [
+    "Talk",
+    "Comédia",
+    "Documentário",
+    "News"
+   ],
+   "nota": 0,
+   "votos": 0,
+   "popularidade": 15.9886,
+   "primeira": "2018-05-01",
+   "ultimoEp": {
+    "data": "2026-11-24",
+    "temporada": 1,
+    "episodio": 885
+   },
+   "proximoEp": {
+    "data": "2026-11-26",
+    "temporada": 1,
+    "episodio": 886
+   },
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2018-05-01"
+    }
+   ],
+   "canais": [
+    "Netflix",
+    "YouTube"
+   ],
+   "trailer": null,
+   "provedores": {
+    "link": "https://www.themoviedb.org/tv/321421-behind-the-bastards/watch?locale=BR",
+    "flatrate": [
+     {
+      "id": 8,
+      "nome": "Netflix",
+      "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+     },
+     {
+      "id": 1796,
+      "nome": "Netflix Standard with Ads",
+      "logo": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+     }
+    ],
+    "rent": [],
+    "buy": []
+   }
+  },
+  {
+   "id": 332649,
+   "imdb": "tt49276663",
+   "titulo": "Os Dez Bravos de Sanada",
+   "original": "真田十勇士 SHADOWS OF THE TEN NINJA",
+   "lingua": "ja",
+   "sinopse": "Ieyasu Tokugawa declara guerra aos Toyotomi, e os Dez Bravos de Sanada se unem para enfrentar o governante do Japão em uma batalha decisiva.",
+   "poster": "/qGyypl0Kkk7GkZPVUSrEOLEOo1B.jpg",
+   "generos": [
+    "Action & Adventure",
+    "War & Politics"
+   ],
+   "nota": 4,
+   "votos": 1,
+   "popularidade": 11.8254,
+   "primeira": "2026-10-23",
+   "ultimoEp": {
+    "data": "2026-11-20",
+    "temporada": 1,
+    "episodio": 5
+   },
+   "proximoEp": {
+    "data": "2026-11-27",
+    "temporada": 1,
+    "episodio": 6
+   },
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2026-10-23"
+    }
+   ],
+   "canais": [
+    "tv asahi"
+   ],
+   "trailer": null,
+   "provedores": {
+    "link": "https://www.themoviedb.org/tv/332649-shadows-of-the-ten-ninja/watch?locale=BR",
+    "flatrate": [
+     {
+      "id": 8,
+      "nome": "Netflix",
+      "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+     },
+     {
+      "id": 1796,
+      "nome": "Netflix Standard with Ads",
+      "logo": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+     }
+    ],
+    "rent": [],
+    "buy": []
+   }
+  },
+  {
+   "id": 303272,
+   "imdb": "tt32813343",
+   "titulo": "Magic Knight Rayearth",
+   "original": "魔法騎士レイアース",
+   "lingua": "ja",
+   "sinopse": "Hikaru, Umi e Fuu estão de volta para uma nova versão da clássica série Magic Knight Rayearth!",
+   "poster": "/5bw8QSid3tOutYxNjXespau07MS.jpg",
+   "generos": [
+    "Animação",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+   ],
+   "nota": 8,
+   "votos": 2,
+   "popularidade": 13.0995,
+   "primeira": "2026-10-07",
+   "ultimoEp": {
+    "data": "2026-11-25",
+    "temporada": 1,
+    "episodio": 8
+   },
+   "proximoEp": {
+    "data": "2026-12-02",
+    "temporada": 1,
+    "episodio": 9
+   },
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2026-10-07"
+    }
+   ],
+   "canais": [
+    "HTB",
+    "tv asahi",
+    "Nagoya TV",
+    "KBC",
+    "ABC TV",
+    "NCC",
+    "OAB",
+    "ABA",
+    "Niigata Television Network 21",
+    "khb",
+    "KFB",
+    "HOME",
+    "KSB",
+    "Kagoshima Broadcasting",
+    "Iwate Asahi TV",
+    "Akita Asahi Broadcasting",
+    "Yamagata Television System",
+    "Shizuoka Asahi TV",
+    "Asahi Broadcasting Nagano",
+    "Hokuriku Asahi Broadcasting",
+    "Ehime Asahi TV",
+    "Yamaguchi Asahi Broadcasting",
+    "Kumamoto Asahi Broadcasting",
+    "Ryu-Q Asahi Broadcasting"
+   ],
+   "trailer": "HmK-W6VEAdg",
+   "provedores": {
+    "link": "https://www.themoviedb.org/tv/303272-mo-fa-qi-shi-reiasu/watch?locale=BR",
+    "flatrate": [
+     {
+      "id": 8,
+      "nome": "Netflix",
+      "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+     },
+     {
+      "id": 283,
+      "nome": "Crunchyroll",
+      "logo": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png"
+     },
+     {
+      "id": 1796,
+      "nome": "Netflix Standard with Ads",
+      "logo": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+     },
+     {
+      "id": 1968,
+      "nome": "Crunchyroll Amazon Channel",
+      "logo": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png"
+     }
+    ],
+    "rent": [],
+    "buy": []
+   }
+  },
+  {
+   "id": 76178,
+   "imdb": "tt7829834",
+   "titulo": "O Próximo Convidado Dispensa Apresentação com David Letterman",
+   "original": "My Next Guest Needs No Introduction with David Letterman",
+   "lingua": "en",
+   "sinopse": "Neste programa mensal, a lenda da TV David Letterman entrevista personalidades globais interessantes e visita lugares que têm uma história para contar.",
+   "poster": "/nV0ARN5gU82wcFztvQOA2z2ILUO.jpg",
+   "generos": [
+    "Talk",
+    "Comédia"
+   ],
+   "nota": 7.044,
+   "votos": 80,
+   "popularidade": 8.7038,
+   "primeira": "2018-01-12",
+   "ultimoEp": {
+    "data": "2025-12-16",
+    "temporada": 6,
+    "episodio": 3
+   },
+   "proximoEp": {
+    "data": "2026-12-15",
+    "temporada": 7,
+    "episodio": 1
+   },
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2018-01-12"
+    },
+    {
+     "n": 2,
+     "data": "2019-05-31"
+    },
+    {
+     "n": 3,
+     "data": "2020-10-21"
+    },
+    {
+     "n": 4,
+     "data": "2022-05-20"
+    },
+    {
+     "n": 5,
+     "data": "2024-06-10"
+    },
+    {
+     "n": 6,
+     "data": "2025-12-16"
+    },
+    {
+     "n": 7,
+     "data": "2026-12-15"
+    }
+   ],
+   "canais": [
+    "Netflix"
+   ],
+   "trailer": "ctBVhyZxXYY",
+   "provedores": {
+    "link": "https://www.themoviedb.org/tv/76178-my-next-guest-needs-no-introduction-with-david-letterman/watch?locale=BR",
+    "flatrate": [
+     {
+      "id": 8,
+      "nome": "Netflix",
+      "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+     },
+     {
+      "id": 1796,
+      "nome": "Netflix Standard with Ads",
+      "logo": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+     }
+    ],
+    "rent": [],
+    "buy": []
+   }
+  },
+  {
+   "id": 332713,
+   "imdb": "tt44840674",
+   "titulo": "Minami: Uma Advogada Extraordinária",
+   "original": "南田南弁護士は天才肌",
+   "lingua": "ja",
+   "sinopse": "Com sua memória extraordinária e uma perspectiva única, a advogada no espectro autista Minami Minamida enfrenta desafios dentro e fora dos tribunais.",
+   "poster": "/ax4KpZOjZ59hp6IjYNOfJMAYge0.jpg",
+   "generos": [
+    "Drama"
+   ],
+   "nota": 7.2,
+   "votos": 12,
+   "popularidade": 7.8985,
+   "primeira": "2026-10-19",
+   "ultimoEp": {
+    "data": "2026-11-23",
+    "temporada": 1,
+    "episodio": 6
+   },
+   "proximoEp": {
+    "data": "2026-11-30",
+    "temporada": 1,
+    "episodio": 7
+   },
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2026-10-19"
+    }
+   ],
+   "canais": [
+    "Fuji TV",
+    "Kansai TV"
+   ],
+   "trailer": null,
+   "provedores": {
+    "link": "https://www.themoviedb.org/tv/332713-nan-tian-nan-bian-hu-shi-ha-tian-cai-ji/watch?locale=BR",
+    "flatrate": [
+     {
+      "id": 8,
+      "nome": "Netflix",
+      "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+     },
+     {
+      "id": 1796,
+      "nome": "Netflix Standard with Ads",
+      "logo": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+     }
+    ],
+    "rent": [],
+    "buy": []
+   }
+  },
+  {
+   "id": 230003,
+   "imdb": "tt28288478",
+   "titulo": "O Ringue",
+   "original": "La Cage",
+   "lingua": "fr",
+   "sinopse": "Sonhando em se profissionalizar, um jovem lutador tenta ser notado até que um combate inesperado dá a ele a chance de sua vida, além de um rival violento no ringue.",
+   "poster": "/udy3hudTgKADO6oo0cAiEYYoQCC.jpg",
+   "generos": [
+    "Action & Adventure",
+    "Drama"
+   ],
+   "nota": 6.7,
+   "votos": 110,
+   "popularidade": 7.0381,
+   "primeira": "2024-11-08",
+   "ultimoEp": {
+    "data": "2024-11-08",
+    "temporada": 1,
+    "episodio": 5
+   },
+   "proximoEp": {
+    "data": "2026-12-16",
+    "temporada": 2,
+    "episodio": 1
+   },
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2024-11-08"
+    },
+    {
+     "n": 2,
+     "data": "2026-12-16"
+    }
+   ],
+   "canais": [
+    "Netflix"
+   ],
+   "trailer": null,
+   "provedores": {
+    "link": "https://www.themoviedb.org/tv/230003-la-cage/watch?locale=BR",
+    "flatrate": [
+     {
+      "id": 8,
+      "nome": "Netflix",
+      "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+     },
+     {
+      "id": 1796,
+      "nome": "Netflix Standard with Ads",
+      "logo": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+     }
+    ],
+    "rent": [],
+    "buy": []
+   }
+  },
+  {
+   "id": 312585,
+   "imdb": "tt39443739",
+   "titulo": "The Crow Club",
+   "original": "อีกาสมาคม",
+   "lingua": "th",
+   "sinopse": "Quatro casais fazem parte do misterioso Crow Club, onde casos sobrenaturais e missões perigosas levam a relações românticas inesperadas.",
+   "poster": "/rpHklRp61rh4pextyflANtYy35r.jpg",
+   "generos": [
+    "Drama",
+    "Comédia",
+    "Sci-Fi & Fantasy"
+   ],
+   "nota": 8.8,
+   "votos": 5,
+   "popularidade": 6.7311,
+   "primeira": "2026-09-18",
+   "ultimoEp": {
+    "data": "2026-11-20",
+    "temporada": 1,
+    "episodio": 10
+   },
+   "proximoEp": {
+    "data": "2026-11-27",
+    "temporada": 1,
+    "episodio": 11
+   },
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2026-09-18"
+    }
+   ],
+   "canais": [
+    "ONE 31"
+   ],
+   "trailer": null,
+   "provedores": {
+    "link": "https://www.themoviedb.org/tv/312585-oikasmakhm/watch?locale=BR",
+    "flatrate": [
+     {
+      "id": 8,
+      "nome": "Netflix",
+      "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+     },
+     {
+      "id": 1796,
+      "nome": "Netflix Standard with Ads",
+      "logo": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+     }
+    ],
+    "rent": [],
+    "buy": []
+   }
+  },
+  {
+   "id": 332261,
+   "imdb": "tt49795345",
+   "titulo": "Lupin da Politica",
+   "original": "ポリティカルパン",
+   "lingua": "ja",
+   "sinopse": "Um mestre dos disfarces/ladrão mestre infiltra-se na política para, de forma astuta, realizar o maior roubo de fundos políticos corruptos",
+   "poster": "/hZtrOm4lgEcGtzidBThjhVxoaTx.jpg",
+   "generos": [
+    "Drama",
+    "Crime"
+   ],
+   "nota": 8.2,
+   "votos": 4,
+   "popularidade": 6.4943,
+   "primeira": "2026-10-07",
+   "ultimoEp": {
+    "data": "2026-11-25",
+    "temporada": 1,
+    "episodio": 8
+   },
+   "proximoEp": {
+    "data": "2026-12-02",
+    "temporada": 1,
+    "episodio": 9
+   },
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2026-10-07"
+    }
+   ],
+   "canais": [
+    "Fuji TV"
+   ],
+   "trailer": null,
+   "provedores": {
+    "link": "https://www.themoviedb.org/tv/332261-poriteikarupan/watch?locale=BR",
+    "flatrate": [
+     {
+      "id": 8,
+      "nome": "Netflix",
+      "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+     },
+     {
+      "id": 1796,
+      "nome": "Netflix Standard with Ads",
+      "logo": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+     }
+    ],
+    "rent": [],
+    "buy": []
+   }
+  },
+  {
+   "id": 100833,
+   "imdb": "tt11942052",
+   "titulo": "J-Style Trip",
+   "original": "周遊記",
+   "lingua": "zh",
+   "sinopse": "O megastar Jay Chou se junta a seus amigos de primeira linha neste show de variedades mundial repleto de música e truques de mágica.",
+   "poster": "/daiKaJpck4ShIdHoidqxcX59j3v.jpg",
+   "generos": [
+    "Reality"
+   ],
+   "nota": 8.1,
+   "votos": 9,
+   "popularidade": 5.609,
+   "primeira": "2020-03-21",
+   "ultimoEp": {
+    "data": "2025-06-15",
+    "temporada": 3,
+    "episodio": 12
+   },
+   "proximoEp": {
+    "data": "2026-11-28",
+    "temporada": 4,
+    "episodio": 1
+   },
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2020-03-21"
+    },
+    {
+     "n": 2,
+     "data": "2023-11-25"
+    },
+    {
+     "n": 3,
+     "data": "2025-03-29"
+    },
+    {
+     "n": 4,
+     "data": "2026-11-28"
+    }
+   ],
+   "canais": [
+    "Netflix",
+    "Zhejiang Television",
+    "Youku",
+    "Mango TV",
+    "Migu Video"
+   ],
+   "trailer": null,
+   "provedores": {
+    "link": "https://www.themoviedb.org/tv/100833-zhou-you-ji/watch?locale=BR",
+    "flatrate": [
+     {
+      "id": 8,
+      "nome": "Netflix",
+      "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+     },
+     {
+      "id": 1796,
+      "nome": "Netflix Standard with Ads",
+      "logo": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+     }
+    ],
+    "rent": [],
+    "buy": []
+   }
+  },
+  {
+   "id": 323660,
+   "imdb": "tt43491766",
+   "titulo": "The Rest Is Football",
+   "original": "The Rest Is Football",
+   "lingua": "en",
+   "sinopse": "As lendas do futebol Gary Lineker, Alan Shearer e Micah Richards trazem análises, opiniões e muita resenha todos os dias direto de Nova York durante a Copa do Mundo 2026.",
+   "poster": "/tA1idPInPr4unBx03xu5gjubzPi.jpg",
+   "generos": [
+    "Talk"
+   ],
+   "nota": 0,
+   "votos": 0,
+   "popularidade": 5.011,
+   "primeira": "2026-06-10",
+   "ultimoEp": {
+    "data": "2026-11-23",
+    "temporada": 2,
+    "episodio": 40
+   },
+   "proximoEp": null,
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2026-06-09"
+    },
+    {
+     "n": 2,
+     "data": "2026-08-23"
+    }
+   ],
+   "canais": [
+    "Netflix"
+   ],
+   "trailer": "0OaGiiL3G8I",
+   "provedores": {
+    "link": "https://www.themoviedb.org/tv/323660-the-rest-is-football/watch?locale=BR",
+    "flatrate": [
+     {
+      "id": 8,
+      "nome": "Netflix",
+      "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+     },
+     {
+      "id": 1796,
+      "nome": "Netflix Standard with Ads",
+      "logo": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+     }
+    ],
+    "rent": [],
+    "buy": []
+   }
+  },
+  {
+   "id": 243200,
+   "imdb": "tt30817086",
+   "titulo": "Animal",
+   "original": "Animal",
+   "lingua": "es",
+   "sinopse": "O veterinário pobretão Antón arruma emprego em uma pet shop chique e deixa de tratar animais de fazenda para dar petiscos premium a bichinhos mimados.",
+   "poster": "/5MGDcHyLLtrnv1v3vMaoJ8sMj7p.jpg",
+   "generos": [
+    "Comédia"
+   ],
+   "nota": 6.7,
+   "votos": 65,
+   "popularidade": 4.7185,
+   "primeira": "2025-10-03",
+   "ultimoEp": {
+    "data": "2025-10-03",
+    "temporada": 1,
+    "episodio": 9
+   },
+   "proximoEp": {
+    "data": "2027-01-01",
+    "temporada": 2,
+    "episodio": 1
+   },
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2025-10-03"
+    },
+    {
+     "n": 2,
+     "data": "2027-01-01"
+    }
+   ],
+   "canais": [
+    "Netflix"
+   ],
+   "trailer": "UQI8Ac7OJEA",
+   "provedores": {
+    "link": "https://www.themoviedb.org/tv/243200-animal/watch?locale=BR",
+    "flatrate": [
+     {
+      "id": 8,
+      "nome": "Netflix",
+      "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+     },
+     {
+      "id": 1796,
+      "nome": "Netflix Standard with Ads",
+      "logo": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+     }
+    ],
+    "rent": [],
+    "buy": []
+   }
+  },
+  {
+   "id": 286277,
+   "imdb": null,
+   "titulo": "Rubble & Crew",
+   "original": "Rubble & Crew",
+   "lingua": "en",
+   "sinopse": "",
+   "poster": "/AbL8GIkcrAW0Q9fkmlvjuqWfVmp.jpg",
+   "generos": [
+    "Animação",
+    "Kids",
+    "Família"
+   ],
+   "nota": 0,
+   "votos": 0,
+   "popularidade": 4.5381,
+   "primeira": "2023-02-03",
+   "ultimoEp": {
+    "data": "2026-11-20",
+    "temporada": 3,
+    "episodio": 22
+   },
+   "proximoEp": {
+    "data": "2026-11-27",
+    "temporada": 3,
+    "episodio": 23
+   },
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2023-02-03"
+    },
+    {
+     "n": 2,
+     "data": "2024-03-06"
+    },
+    {
+     "n": 3,
+     "data": "2026-06-26"
+    }
+   ],
+   "canais": [],
+   "trailer": null,
+   "provedores": {
+    "link": "https://www.themoviedb.org/tv/286277-rubble-crew/watch?locale=BR",
+    "flatrate": [
+     {
+      "id": 8,
+      "nome": "Netflix",
+      "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+     },
+     {
+      "id": 531,
+      "nome": "Paramount Plus",
+      "logo": "/pkx3klJlwW5JdtaulvDx6hDNtch.png"
+     },
+     {
+      "id": 582,
+      "nome": "Paramount+ Amazon Channel",
+      "logo": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png"
+     },
+     {
+      "id": 1796,
+      "nome": "Netflix Standard with Ads",
+      "logo": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+     },
+     {
+      "id": 1853,
+      "nome": "Paramount Plus Apple TV channel",
+      "logo": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png"
+     },
+     {
+      "id": 2303,
+      "nome": "Paramount Plus Premium",
+      "logo": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png"
+     }
+    ],
+    "rent": [],
+    "buy": []
+   }
+  },
+  {
+   "id": 311955,
+   "imdb": "tt48376831",
+   "titulo": "Nosso Hakone Ekiden",
+   "original": "俺たちの箱根駅伝",
+   "lingua": "ja",
+   "sinopse": "Uma equipe universitária busca a volta à corrida Hakone Ekiden. Nos bastidores da TV, um produtor enfrenta a pressão e os desafios de transmitir a prova tradicional.",
+   "poster": "/1cA5ysVK1C4W5KRtxxNkW2zTBqF.jpg",
+   "generos": [
+    "Drama"
+   ],
+   "nota": 8.7,
+   "votos": 3,
+   "popularidade": 5.2167,
+   "primeira": "2026-10-10",
+   "ultimoEp": {
+    "data": "2026-11-21",
+    "temporada": 1,
+    "episodio": 7
+   },
+   "proximoEp": {
+    "data": "2026-11-28",
+    "temporada": 1,
+    "episodio": 8
+   },
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2026-10-10"
+    }
+   ],
+   "canais": [
+    "Nippon TV"
+   ],
+   "trailer": null,
+   "provedores": {
+    "link": "https://www.themoviedb.org/tv/311955-an-tachino-xiang-gen-yi-yun/watch?locale=BR",
+    "flatrate": [
+     {
+      "id": 8,
+      "nome": "Netflix",
+      "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+     },
+     {
+      "id": 1796,
+      "nome": "Netflix Standard with Ads",
+      "logo": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+     }
+    ],
+    "rent": [],
+    "buy": []
+   }
+  },
+  {
+   "id": 329490,
+   "imdb": "tt49276654",
+   "titulo": "O Mistério dos 10",
+   "original": "LOST10",
+   "lingua": "ja",
+   "sinopse": "Quando o detetive **Ogoma** (interpretado por Ryusei Yokohama) é encarregado de investigar o caso no hospital, ele cruza caminhos com uma investigadora de seguros. O que inicialmente parecia ser um lamentável desastre natural em uma excursão guiada rapidamente se transforma em uma teia complexa de depoimentos contraditórios, traições, conspirações e segredos ocultados por forças poderosas dispostas a tudo para enterrar a verdade.",
+   "poster": "/xNYh0RLebPsb9noMdctjKTeqe0v.jpg",
+   "generos": [
+    "Mistério"
+   ],
+   "nota": 8.8,
+   "votos": 6,
+   "popularidade": 4.0362,
+   "primeira": "2026-10-16",
+   "ultimoEp": {
+    "data": "2026-11-20",
+    "temporada": 1,
+    "episodio": 6
+   },
+   "proximoEp": {
+    "data": "2026-11-27",
+    "temporada": 1,
+    "episodio": 7
+   },
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2026-10-16"
+    }
+   ],
+   "canais": [
+    "TBS"
+   ],
+   "trailer": null,
+   "provedores": {
+    "link": "https://www.themoviedb.org/tv/329490-lost10/watch?locale=BR",
+    "flatrate": [
+     {
+      "id": 8,
+      "nome": "Netflix",
+      "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+     },
+     {
+      "id": 1796,
+      "nome": "Netflix Standard with Ads",
+      "logo": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+     }
+    ],
+    "rent": [],
+    "buy": []
+   }
+  },
+  {
+   "id": 224021,
+   "imdb": "tt23664162",
+   "titulo": "Os Assassinatos de Åre",
+   "original": "Åremorden",
+   "lingua": "sv",
+   "sinopse": "Alvo de uma investigação interna, uma policial de Estocolmo decide descansar numa região conhecida pelo esqui. Até que o desaparecimento de uma garota acaba com essa paz.",
+   "poster": "/1TUSNZdN1HWSGDMhjre0y33y1Me.jpg",
+   "generos": [
+    "Drama",
+    "Crime",
+    "Mistério"
+   ],
+   "nota": 6.6,
+   "votos": 150,
+   "popularidade": 4.0235,
+   "primeira": "2025-02-06",
+   "ultimoEp": {
+    "data": "2025-02-06",
+    "temporada": 1,
+    "episodio": 5
+   },
+   "proximoEp": {
+    "data": "2026-12-27",
+    "temporada": 2,
+    "episodio": 1
+   },
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2025-02-06"
+    },
+    {
+     "n": 2,
+     "data": "2026-12-27"
+    }
+   ],
+   "canais": [
+    "Netflix"
+   ],
+   "trailer": "BY7ChjDm0GY",
+   "provedores": {
+    "link": "https://www.themoviedb.org/tv/224021-aremorden/watch?locale=BR",
+    "flatrate": [
+     {
+      "id": 8,
+      "nome": "Netflix",
+      "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+     },
+     {
+      "id": 1796,
+      "nome": "Netflix Standard with Ads",
+      "logo": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+     }
+    ],
+    "rent": [],
+    "buy": []
+   }
+  },
+  {
+   "id": 320935,
+   "imdb": "tt42814597",
+   "titulo": "Allegedly with Ellison Barber",
+   "original": "Allegedly with Ellison Barber",
+   "lingua": "en",
+   "sinopse": "",
+   "poster": "/ucdE4gjRIaUM8WGik7jHmxN2RDr.jpg",
+   "generos": [
+    "Crime",
+    "Talk"
+   ],
+   "nota": 0,
+   "votos": 0,
+   "popularidade": 3.5625,
+   "primeira": "2026-04-29",
+   "ultimoEp": {
+    "data": "2026-11-18",
+    "temporada": 1,
+    "episodio": 30
+   },
+   "proximoEp": {
+    "data": "2026-11-25",
+    "temporada": 1,
+    "episodio": 31
+   },
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2026-04-29"
+    }
+   ],
+   "canais": [
+    "Netflix"
+   ],
+   "trailer": null,
+   "provedores": {
+    "link": "https://www.themoviedb.org/tv/320935-allegedly-with-ellison-barber/watch?locale=BR",
+    "flatrate": [
+     {
+      "id": 8,
+      "nome": "Netflix",
+      "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+     },
+     {
+      "id": 1796,
+      "nome": "Netflix Standard with Ads",
+      "logo": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+     }
+    ],
+    "rent": [],
+    "buy": []
+   }
+  },
+  {
+   "id": 219053,
+   "imdb": "tt21092364",
+   "titulo": "Brincando com Fogo: Alemanha",
+   "original": "Too Hot to Handle: Germany",
+   "lingua": "de",
+   "sinopse": "Dez solteiros atraentes curtem um retiro em um paraíso tropical. Mas para ganhar uma bolada em dinheiro, eles vão precisar resistir às tentações carnais.",
+   "poster": "/5R1TUuMrf8AConXBbWac9SuYghO.jpg",
+   "generos": [
+    "Reality"
+   ],
+   "nota": 6.4,
+   "votos": 29,
+   "popularidade": 3.5392,
+   "primeira": "2023-02-28",
+   "ultimoEp": {
+    "data": "2025-02-18",
+    "temporada": 2,
+    "episodio": 8
+   },
+   "proximoEp": {
+    "data": "2026-12-30",
+    "temporada": 3,
+    "episodio": 1
+   },
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2023-02-28"
+    },
+    {
+     "n": 2,
+     "data": "2025-02-17"
+    },
+    {
+     "n": 3,
+     "data": "2026-12-30"
+    }
+   ],
+   "canais": [
+    "Netflix"
+   ],
+   "trailer": "mXUcnZkw_kM",
+   "provedores": {
+    "link": "https://www.themoviedb.org/tv/219053-too-hot-to-handle-germany/watch?locale=BR",
+    "flatrate": [
+     {
+      "id": 8,
+      "nome": "Netflix",
+      "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+     },
+     {
+      "id": 1796,
+      "nome": "Netflix Standard with Ads",
+      "logo": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+     }
+    ],
+    "rent": [],
+    "buy": []
+   }
+  },
+  {
+   "id": 325762,
+   "imdb": "tt43476731",
+   "titulo": "The Adam Ray Show",
+   "original": "The Adam Ray Show",
+   "lingua": "en",
+   "sinopse": "O mesmo apresentador, vários personagens e muito caos. Toda semana, Adam Ray encarna um alter ego diferente para entrevistar celebridades. E ninguém vai escapar.",
+   "poster": "/ioNPVPzdgXrUUi11mD0Ha6dtc7b.jpg",
+   "generos": [
+    "Talk",
+    "Comédia"
+   ],
+   "nota": 0,
+   "votos": 0,
+   "popularidade": 3.9267,
+   "primeira": "2026-06-19",
+   "ultimoEp": {
+    "data": "2026-11-20",
+    "temporada": 1,
+    "episodio": 26
+   },
+   "proximoEp": {
+    "data": "2026-11-27",
+    "temporada": 1,
+    "episodio": 27
+   },
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2026-06-19"
+    }
+   ],
+   "canais": [
+    "Netflix"
+   ],
+   "trailer": null,
+   "provedores": {
+    "link": "https://www.themoviedb.org/tv/325762-the-adam-ray-show/watch?locale=BR",
+    "flatrate": [
+     {
+      "id": 8,
+      "nome": "Netflix",
+      "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+     },
+     {
+      "id": 1796,
+      "nome": "Netflix Standard with Ads",
+      "logo": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+     }
+    ],
+    "rent": [],
+    "buy": []
+   }
+  },
+  {
+   "id": 306936,
+   "imdb": "tt39044730",
+   "titulo": "Oxytoxin (Ocitocina)",
+   "original": "จุนใจไอดาว",
+   "lingua": "th",
+   "sinopse": "Um grupo de garotas populares conhecido como Toxxxxin domina a escola. Mas uma conexão inesperada com uma bolsista pode expor seus segredos mais ocultos.",
+   "poster": "/uYkp6LvjRLbwTGEiUiOFTk9g5UQ.jpg",
+   "generos": [
+    "Drama"
+   ],
+   "nota": 10,
+   "votos": 1,
+   "popularidade": 3.4317,
+   "primeira": "2026-11-07",
+   "ultimoEp": {
+    "data": "2026-11-21",
+    "temporada": 1,
+    "episodio": 3
+   },
+   "proximoEp": {
+    "data": "2026-11-28",
+    "temporada": 1,
+    "episodio": 4
+   },
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2026-11-07"
+    }
+   ],
+   "canais": [
+    "GMM 25"
+   ],
+   "trailer": "whry_7Bh1a8",
+   "provedores": {
+    "link": "https://www.themoviedb.org/tv/306936-chunaichaiodaw/watch?locale=BR",
+    "flatrate": [
+     {
+      "id": 8,
+      "nome": "Netflix",
+      "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+     },
+     {
+      "id": 1796,
+      "nome": "Netflix Standard with Ads",
+      "logo": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+     }
+    ],
+    "rent": [],
+    "buy": []
+   }
+  },
+  {
+   "id": 283579,
+   "imdb": "tt35704111",
+   "titulo": "Flores e Esperança",
+   "original": "Tuiskoms",
+   "lingua": "af",
+   "sinopse": "Após uma série de infortúnios, Fleur decide pegar a filha e voltar para a cidade onde nasceu em busca de um novo propósito na vida.",
+   "poster": "/7wQJtLkG1T208bH0zUAKwrzs3LS.jpg",
+   "generos": [
+    "Drama"
+   ],
+   "nota": 6,
+   "votos": 14,
+   "popularidade": 3.4551,
+   "primeira": "2025-02-28",
+   "ultimoEp": {
+    "data": "2025-02-28",
+    "temporada": 1,
+    "episodio": 7
+   },
+   "proximoEp": {
+    "data": "2026-12-08",
+    "temporada": 2,
+    "episodio": 1
+   },
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2025-02-28"
+    },
+    {
+     "n": 2,
+     "data": "2026-12-08"
+    }
+   ],
+   "canais": [
+    "Netflix"
+   ],
+   "trailer": "c0YyNLCxGWw",
+   "provedores": {
+    "link": "https://www.themoviedb.org/tv/283579-tuiskoms/watch?locale=BR",
+    "flatrate": [
+     {
+      "id": 8,
+      "nome": "Netflix",
+      "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+     },
+     {
+      "id": 1796,
+      "nome": "Netflix Standard with Ads",
+      "logo": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+     }
+    ],
+    "rent": [],
+    "buy": []
+   }
+  },
+  {
+   "id": 341603,
+   "imdb": "tt45857574",
+   "titulo": "Estrelas no Altar: Anele & Buzza",
+   "original": "Stars and Vows: Anele & Buzza",
+   "lingua": "en",
+   "sinopse": "Acompanhe a querida da mídia Anele Mdoda e seu noivo real Buzza James, desde as celebrações pré-casamento e momentos tensos em família até o tão esperado \"sim\".",
+   "poster": "/83Xdvzn668f62pjWgh3VU8sWQwO.jpg",
+   "generos": [
+    "Reality"
+   ],
+   "nota": 0,
+   "votos": 0,
+   "popularidade": 2.0708,
+   "primeira": "2026-11-13",
+   "ultimoEp": {
+    "data": "2026-11-20",
+    "temporada": 1,
+    "episodio": 2
+   },
+   "proximoEp": {
+    "data": "2026-11-27",
+    "temporada": 1,
+    "episodio": 3
+   },
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2026-11-13"
+    }
+   ],
+   "canais": [
+    "Netflix"
+   ],
+   "trailer": "AniFpDonG7c",
+   "provedores": {
+    "link": "https://www.themoviedb.org/tv/341603-stars-and-vows-anele-buzza/watch?locale=BR",
+    "flatrate": [
+     {
+      "id": 8,
+      "nome": "Netflix",
+      "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+     },
+     {
+      "id": 1796,
+      "nome": "Netflix Standard with Ads",
+      "logo": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+     }
+    ],
+    "rent": [],
+    "buy": []
+   }
+  },
+  {
+   "id": 224330,
+   "imdb": "tt27494436",
+   "titulo": "Ilhados com a Sogra",
+   "original": "Ilhados com a Sogra",
+   "lingua": "pt",
+   "sinopse": "Em busca de um prêmio que pode mudar suas vidas, vários casais embarcam em uma jornada para um lugar paradisíaco e enfrentam desafios com a ajuda da sogra.",
+   "poster": "/4Xr8Oib95kvkJTwttKHK7jEgJqt.jpg",
+   "generos": [
+    "Reality"
+   ],
+   "nota": 7.4,
+   "votos": 10,
+   "popularidade": 4.4349,
+   "primeira": "2023-10-09",
+   "ultimoEp": {
+    "data": "2026-11-25",
+    "temporada": 4,
+    "episodio": 4
+   },
+   "proximoEp": {
+    "data": "2026-12-02",
+    "temporada": 4,
+    "episodio": 5
+   },
+   "temporadas": [
+    {
+     "n": 0,
+     "data": "2025-12-17"
+    },
+    {
+     "n": 1,
+     "data": "2023-10-08"
+    },
+    {
+     "n": 2,
+     "data": "2025-01-01"
+    },
+    {
+     "n": 3,
+     "data": "2025-12-02"
+    },
+    {
+     "n": 4,
+     "data": "2026-11-25"
+    }
+   ],
+   "canais": [
+    "Netflix"
+   ],
+   "trailer": "ENsatoHyVZI",
+   "provedores": {
+    "link": "https://www.themoviedb.org/tv/224330-ilhados-com-a-sogra/watch?locale=BR",
+    "flatrate": [
+     {
+      "id": 8,
+      "nome": "Netflix",
+      "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+     },
+     {
+      "id": 1796,
+      "nome": "Netflix Standard with Ads",
+      "logo": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+     }
+    ],
+    "rent": [],
+    "buy": []
+   }
+  },
+  {
+   "id": 326194,
+   "imdb": "tt43611663",
+   "titulo": "Hot Ones: Pimenta Extra",
+   "original": "Hot Ones: Extra Heat",
+   "lingua": "en",
+   "sinopse": "Nesta exclusiva série de especiais, Hot Ones: Pimenta Extra coloca celebridades na berlinda com perguntas de queimar a língua e asinhas ainda mais picantes.",
+   "poster": "/555dy45fvkxez6I8D981RYdM9yX.jpg",
+   "generos": [
+    "Talk"
+   ],
+   "nota": 5.5,
+   "votos": 2,
+   "popularidade": 2.0737,
+   "primeira": "2026-07-13",
+   "ultimoEp": {
+    "data": "2026-09-14",
+    "temporada": 1,
+    "episodio": 2
+   },
+   "proximoEp": {
+    "data": "2026-12-02",
+    "temporada": 1,
+    "episodio": 3
+   },
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2026-07-13"
+    }
+   ],
+   "canais": [
+    "Netflix"
+   ],
+   "trailer": null,
+   "provedores": {
+    "link": "https://www.themoviedb.org/tv/326194-hot-ones-extra-heat/watch?locale=BR",
+    "flatrate": [
+     {
+      "id": 8,
+      "nome": "Netflix",
+      "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+     },
+     {
+      "id": 1796,
+      "nome": "Netflix Standard with Ads",
+      "logo": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+     }
+    ],
+    "rent": [],
+    "buy": []
+   }
+  },
+  {
+   "id": 290388,
+   "imdb": "tt33989829",
+   "titulo": "Yolanthe",
+   "original": "YOLANTHE",
+   "lingua": "nl",
+   "sinopse": "Este reality acompanha Yolanthe Cabau em sua nova vida cheia de glamour em Los Angeles, enfrentando desafios inesperados e fantasmas do passado.",
+   "poster": "/yI2Z70b4vHfQWUFUY3rdZcTxqes.jpg",
+   "generos": [
+    "Reality"
+   ],
+   "nota": 6,
+   "votos": 1,
+   "popularidade": 1.7731,
+   "primeira": "2025-06-18",
+   "ultimoEp": {
+    "data": "2025-06-18",
+    "temporada": 1,
+    "episodio": 7
+   },
+   "proximoEp": {
+    "data": "2026-12-10",
+    "temporada": 2,
+    "episodio": 1
+   },
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2025-06-18"
+    },
+    {
+     "n": 2,
+     "data": "2026-12-10"
+    }
+   ],
+   "canais": [
+    "Netflix"
+   ],
+   "trailer": "TCyEj441wDo",
+   "provedores": {
+    "link": "https://www.themoviedb.org/tv/290388-yolanthe/watch?locale=BR",
+    "flatrate": [
+     {
+      "id": 8,
+      "nome": "Netflix",
+      "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+     },
+     {
+      "id": 1796,
+      "nome": "Netflix Standard with Ads",
+      "logo": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+     }
+    ],
+    "rent": [],
+    "buy": []
+   }
+  },
+  {
+   "id": 320936,
+   "imdb": null,
+   "titulo": "The Rotten Files with Stephanie Soo",
+   "original": "The Rotten Files with Stephanie Soo",
+   "lingua": "en",
+   "sinopse": "Neste podcast sobre crimes reais, Stephanie Soo disseca casos chocantes e conta a história de assassinos e predadores que acharam que nunca seriam descobertos.",
+   "poster": "/as9XgYO5GG8gON5tGckKeYdpfDQ.jpg",
+   "generos": [
+    "Crime",
+    "Talk"
+   ],
+   "nota": 7,
+   "votos": 1,
+   "popularidade": 1.0367,
+   "primeira": "2026-08-14",
+   "ultimoEp": {
+    "data": "2026-11-20",
+    "temporada": 1,
+    "episodio": 12
+   },
+   "proximoEp": null,
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2026-08-14"
+    }
+   ],
+   "canais": [
+    "Netflix"
+   ],
+   "trailer": null,
+   "provedores": {
+    "link": "https://www.themoviedb.org/tv/320936-the-rotten-files-with-stephanie-soo/watch?locale=BR",
+    "flatrate": [
+     {
+      "id": 8,
+      "nome": "Netflix",
+      "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+     },
+     {
+      "id": 1796,
+      "nome": "Netflix Standard with Ads",
+      "logo": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+     }
+    ],
+    "rent": [],
+    "buy": []
+   }
+  },
+  {
+   "id": 335643,
+   "imdb": null,
+   "titulo": "Barbie: Aventuras na Casa dos Sonhos",
+   "original": "Barbie: Dreamhouse Adventures",
+   "lingua": "en",
+   "sinopse": "Neste verão, a turma da Casa dos Sonhos parte rumo para uma viagem repleta de risadas, surpresas e aventuras únicas em um deslumbrante.",
+   "poster": "/qfGSMyRq0rSe4lVFO0VblBWNVY2.jpg",
+   "generos": [
+    "Animação",
+    "Comédia"
+   ],
+   "nota": 0,
+   "votos": 0,
+   "popularidade": 0.6808,
+   "primeira": "2026-06-12",
+   "ultimoEp": {
+    "data": "2026-11-20",
+    "temporada": 2,
+    "episodio": 7
+   },
+   "proximoEp": null,
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2026-06-12"
+    },
+    {
+     "n": 2,
+     "data": "2026-10-09"
+    }
+   ],
+   "canais": [
+    "YouTube"
+   ],
+   "trailer": null,
+   "provedores": {
+    "link": "https://www.themoviedb.org/tv/335643-barbie-dreamhouse-adventures/watch?locale=BR",
+    "flatrate": [
+     {
+      "id": 8,
+      "nome": "Netflix",
+      "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+     },
+     {
+      "id": 1796,
+      "nome": "Netflix Standard with Ads",
+      "logo": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+     }
+    ],
+    "rent": [],
+    "buy": []
+   }
+  },
+  {
+   "id": 334706,
+   "imdb": "tt27746908",
+   "titulo": "OUTLORE with Eleanor Neale",
+   "original": "OUTLORE with Eleanor Neale",
+   "lingua": "en",
+   "sinopse": "",
+   "poster": "/8tlYfhkJ3A3bxGeoC7nS9GF9i7v.jpg",
+   "generos": [
+    "Talk",
+    "Crime"
+   ],
+   "nota": 7,
+   "votos": 1,
+   "popularidade": 0.6948,
+   "primeira": "2026-09-27",
+   "ultimoEp": {
+    "data": "2026-11-22",
+    "temporada": 1,
+    "episodio": 9
+   },
+   "proximoEp": null,
+   "temporadas": [
+    {
+     "n": 0,
+     "data": "2026-09-27"
+    },
+    {
+     "n": 1,
+     "data": "2026-09-27"
+    }
+   ],
+   "canais": [
+    "Netflix"
+   ],
+   "trailer": null,
+   "provedores": {
+    "link": "https://www.themoviedb.org/tv/334706-outlore-with-eleanor-neale/watch?locale=BR",
+    "flatrate": [
+     {
+      "id": 8,
+      "nome": "Netflix",
+      "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+     },
+     {
+      "id": 1796,
+      "nome": "Netflix Standard with Ads",
+      "logo": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+     }
+    ],
+    "rent": [],
+    "buy": []
+   }
+  },
+  {
+   "id": 334702,
+   "imdb": null,
+   "titulo": "Last Trace with Kaelyn Moore",
+   "original": "Last Trace with Kaelyn Moore",
+   "lingua": "en",
+   "sinopse": "",
+   "poster": "/a8hgF7UAoshScIhzc6aoaAQpxkc.jpg",
+   "generos": [
+    "Talk"
+   ],
+   "nota": 0,
+   "votos": 0,
+   "popularidade": 0.4143,
+   "primeira": "2026-09-28",
+   "ultimoEp": {
+    "data": "2026-11-23",
+    "temporada": 1,
+    "episodio": 9
+   },
+   "proximoEp": null,
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2026-09-28"
+    }
+   ],
+   "canais": [
+    "Netflix"
+   ],
+   "trailer": null,
+   "provedores": {
+    "link": "https://www.themoviedb.org/tv/334702-last-trace-with-kaelyn-moore/watch?locale=BR",
+    "flatrate": [
+     {
+      "id": 8,
+      "nome": "Netflix",
+      "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+     },
+     {
+      "id": 1796,
+      "nome": "Netflix Standard with Ads",
+      "logo": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+     }
+    ],
+    "rent": [],
+    "buy": []
+   }
+  },
+  {
    "id": 137948,
    "imdb": "tt13236336",
    "titulo": "Sacrifício",
@@ -28682,87 +30472,6 @@
       "id": 582,
       "nome": "Paramount+ Amazon Channel",
       "logo": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png"
-     },
-     {
-      "id": 1853,
-      "nome": "Paramount Plus Apple TV channel",
-      "logo": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png"
-     },
-     {
-      "id": 2303,
-      "nome": "Paramount Plus Premium",
-      "logo": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png"
-     }
-    ],
-    "rent": [],
-    "buy": []
-   }
-  },
-  {
-   "id": 286277,
-   "imdb": null,
-   "titulo": "Rubble & Crew",
-   "original": "Rubble & Crew",
-   "lingua": "en",
-   "sinopse": "",
-   "poster": "/AbL8GIkcrAW0Q9fkmlvjuqWfVmp.jpg",
-   "generos": [
-    "Animação",
-    "Kids",
-    "Família"
-   ],
-   "nota": 0,
-   "votos": 0,
-   "popularidade": 4.5381,
-   "primeira": "2023-02-03",
-   "ultimoEp": {
-    "data": "2026-11-20",
-    "temporada": 3,
-    "episodio": 22
-   },
-   "proximoEp": {
-    "data": "2026-11-27",
-    "temporada": 3,
-    "episodio": 23
-   },
-   "temporadas": [
-    {
-     "n": 1,
-     "data": "2023-02-03"
-    },
-    {
-     "n": 2,
-     "data": "2024-03-06"
-    },
-    {
-     "n": 3,
-     "data": "2026-06-26"
-    }
-   ],
-   "canais": [],
-   "trailer": null,
-   "provedores": {
-    "link": "https://www.themoviedb.org/tv/286277-rubble-crew/watch?locale=BR",
-    "flatrate": [
-     {
-      "id": 8,
-      "nome": "Netflix",
-      "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
-     },
-     {
-      "id": 531,
-      "nome": "Paramount Plus",
-      "logo": "/pkx3klJlwW5JdtaulvDx6hDNtch.png"
-     },
-     {
-      "id": 582,
-      "nome": "Paramount+ Amazon Channel",
-      "logo": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png"
-     },
-     {
-      "id": 1796,
-      "nome": "Netflix Standard with Ads",
-      "logo": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
      },
      {
       "id": 1853,
@@ -28996,6 +30705,864 @@
       "id": 2303,
       "nome": "Paramount Plus Premium",
       "logo": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png"
+     }
+    ],
+    "rent": [],
+    "buy": []
+   }
+  },
+  {
+   "id": 235904,
+   "imdb": "tt21627122",
+   "titulo": "Spinners – Vivendo no Limite",
+   "original": "Spinners",
+   "lingua": "en",
+   "sinopse": "Ethan é um motorista de 17 anos que trabalha para uma gangue local. Desgostoso com a vida de gangues, Ethan descobre uma possível saída através de spinning, um esporte a motor extremo. Mas a iminente guerra de gangues põe em risco essa esperança.",
+   "poster": "/5XPrBrKyOuqQh3sMOZivn4339MX.jpg",
+   "generos": [
+    "Crime",
+    "Drama"
+   ],
+   "nota": 7.8,
+   "votos": 6,
+   "popularidade": 7.2118,
+   "primeira": "2023-11-08",
+   "ultimoEp": {
+    "data": "2026-11-22",
+    "temporada": 2,
+    "episodio": 5
+   },
+   "proximoEp": {
+    "data": "2026-11-29",
+    "temporada": 2,
+    "episodio": 6
+   },
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2023-11-08"
+    },
+    {
+     "n": 2,
+     "data": "2026-10-25"
+    }
+   ],
+   "canais": [
+    "Canal+",
+    "Showmax",
+    "Mzanzi Magic"
+   ],
+   "trailer": "wJfvUrDssh8",
+   "provedores": {
+    "link": "https://www.themoviedb.org/tv/235904-spinners/watch?locale=BR",
+    "flatrate": [
+     {
+      "id": 307,
+      "nome": "Globoplay",
+      "logo": "/9A6Oxd3F7iXm7mds7CxYOBicojs.png"
+     }
+    ],
+    "rent": [],
+    "buy": []
+   }
+  },
+  {
+   "id": 221998,
+   "imdb": "tt10928084",
+   "titulo": "Papo de Segunda",
+   "original": "Papo de Segunda",
+   "lingua": "pt",
+   "sinopse": "No programa são debatidos diversos assuntos da atualidade. São quatro pontos de vista, por vezes conflitantes, ora solidários, mas sempre divertidos.",
+   "poster": "/4dYawy4T0AEhsHyPPTr5LGxJ4T0.jpg",
+   "generos": [
+    "Talk"
+   ],
+   "nota": 10,
+   "votos": 1,
+   "popularidade": 5.4769,
+   "primeira": "2015-06-08",
+   "ultimoEp": {
+    "data": "2026-11-16",
+    "temporada": 18,
+    "episodio": 30
+   },
+   "proximoEp": null,
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2015-06-08"
+    },
+    {
+     "n": 14,
+     "data": "2023-01-02"
+    },
+    {
+     "n": 15,
+     "data": "2023-03-13"
+    },
+    {
+     "n": 16,
+     "data": "2024-04-22"
+    },
+    {
+     "n": 17,
+     "data": "2025-05-05"
+    },
+    {
+     "n": 18,
+     "data": "2026-04-27"
+    }
+   ],
+   "canais": [
+    "GNT"
+   ],
+   "trailer": null,
+   "provedores": {
+    "link": "https://www.themoviedb.org/tv/221998-papo-de-segunda/watch?locale=BR",
+    "flatrate": [
+     {
+      "id": 307,
+      "nome": "Globoplay",
+      "logo": "/9A6Oxd3F7iXm7mds7CxYOBicojs.png"
+     }
+    ],
+    "rent": [],
+    "buy": []
+   }
+  },
+  {
+   "id": 328440,
+   "imdb": "tt48805877",
+   "titulo": "Lá na Minha Terra",
+   "original": "Lá na Minha Terra",
+   "lingua": "pt",
+   "sinopse": "Rosenda, mulher sertaneja e mãe de quatro filhos, parte para São Paulo após descobrir que o marido desaparecido pode estar vivo; ao chegar, encontra um homem transformado: rico, casado, e disposto a apagá-la do passado. Rosenda decide ficar na \"terra da garoa\", na companhia dos filhos, e reconstruir sua vida após a decepção com o homem que amou.",
+   "poster": "/w4Sj5uMPXOp4M9DnCm4vEepxtcb.jpg",
+   "generos": [
+    "Soap",
+    "Drama",
+    "Comédia"
+   ],
+   "nota": 0,
+   "votos": 0,
+   "popularidade": 2.9071,
+   "primeira": "2026-11-09",
+   "ultimoEp": {
+    "data": "2026-11-24",
+    "temporada": 1,
+    "episodio": 14
+   },
+   "proximoEp": {
+    "data": "2026-11-25",
+    "temporada": 1,
+    "episodio": 15
+   },
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2026-11-09"
+    }
+   ],
+   "canais": [
+    "TV Globo"
+   ],
+   "trailer": null,
+   "provedores": {
+    "link": "https://www.themoviedb.org/tv/328440-la-na-minha-terra/watch?locale=BR",
+    "flatrate": [
+     {
+      "id": 307,
+      "nome": "Globoplay",
+      "logo": "/9A6Oxd3F7iXm7mds7CxYOBicojs.png"
+     }
+    ],
+    "rent": [],
+    "buy": []
+   }
+  },
+  {
+   "id": 226254,
+   "imdb": "tt36325058",
+   "titulo": "Pablo & Luisão",
+   "original": "Pablo & Luisão",
+   "lingua": "pt",
+   "sinopse": "A série acompanha as divertidas e caóticas aventuras de Luisão (Aílton Graça), pai do humorista Paulo Vieira, e de seu inseparável amigo Pablo (Otávio Muller). Juntos, eles vivem inventando planos mirabolantes que acabam gerando consequências inusitadas – especialmente para as crianças Paulo (Yves Miguel), seu irmão Neto (João Pedro Martins) e a mãe dos meninos, Conceição (Dira Paes). Inspirada em acontecimentos reais da infância de Paulo Vieira, a trama mistura humor e afeto familiar.",
+   "poster": "/5dzl9zehL0zZ6gWQisU05eSQpOv.jpg",
+   "generos": [
+    "Comédia",
+    "Família"
+   ],
+   "nota": 8.4,
+   "votos": 4,
+   "popularidade": 3.1162,
+   "primeira": "2025-05-22",
+   "ultimoEp": {
+    "data": "2025-05-22",
+    "temporada": 1,
+    "episodio": 16
+   },
+   "proximoEp": {
+    "data": "2026-12-03",
+    "temporada": 2,
+    "episodio": 1
+   },
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2025-05-21"
+    },
+    {
+     "n": 2,
+     "data": "2026-12-03"
+    }
+   ],
+   "canais": [
+    "Globoplay"
+   ],
+   "trailer": null,
+   "provedores": {
+    "link": "https://www.themoviedb.org/tv/226254-pablo-luisao/watch?locale=BR",
+    "flatrate": [
+     {
+      "id": 307,
+      "nome": "Globoplay",
+      "logo": "/9A6Oxd3F7iXm7mds7CxYOBicojs.png"
+     }
+    ],
+    "rent": [],
+    "buy": []
+   }
+  },
+  {
+   "id": 287934,
+   "imdb": "tt35400429",
+   "titulo": "Chef de Alto Nível",
+   "original": "Chef de Alto Nível",
+   "lingua": "pt",
+   "sinopse": "Durante toda a competição, 24 participantes se dividem em três categorias, os três níveis de cozinha. Cada um terá a oportunidade de mostrar suas habilidades, enfrentando grandes desafios, além de desenvolver seu talento, com direito à mentoria e avaliação de chefs renomados.",
+   "poster": "/8s16MorTyLQ2jYkbEawf2PpN5dX.jpg",
+   "generos": [
+    "Reality"
+   ],
+   "nota": 0,
+   "votos": 0,
+   "popularidade": 2.7905,
+   "primeira": "2025-07-15",
+   "ultimoEp": {
+    "data": "2026-11-24",
+    "temporada": 2,
+    "episodio": 11
+   },
+   "proximoEp": null,
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2025-07-15"
+    },
+    {
+     "n": 2,
+     "data": "2026-10-13"
+    }
+   ],
+   "canais": [
+    "TV Globo"
+   ],
+   "trailer": null,
+   "provedores": {
+    "link": "https://www.themoviedb.org/tv/287934-chef-de-alto-nivel/watch?locale=BR",
+    "flatrate": [
+     {
+      "id": 307,
+      "nome": "Globoplay",
+      "logo": "/9A6Oxd3F7iXm7mds7CxYOBicojs.png"
+     }
+    ],
+    "rent": [],
+    "buy": []
+   }
+  },
+  {
+   "id": 208716,
+   "imdb": "tt18285084",
+   "titulo": "Domingão com Huck",
+   "original": "Domingão com Huck",
+   "lingua": "pt",
+   "sinopse": "Apresentado por Luciano Huck, o programa leva aos brasileiros entretenimento, diversão e emoção em quadros amados pelo público, além de contar boas histórias em matérias especiais pelo país.",
+   "poster": "/569LRJdSiSwAuisahIjhF5EGTid.jpg",
+   "generos": [
+    "Talk"
+   ],
+   "nota": 7,
+   "votos": 1,
+   "popularidade": 2.5782,
+   "primeira": "2021-09-05",
+   "ultimoEp": {
+    "data": "2026-11-22",
+    "temporada": 6,
+    "episodio": 47
+   },
+   "proximoEp": {
+    "data": "2026-11-29",
+    "temporada": 6,
+    "episodio": 48
+   },
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2021-09-05"
+    },
+    {
+     "n": 2,
+     "data": "2022-01-02"
+    },
+    {
+     "n": 3,
+     "data": "2023-01-01"
+    },
+    {
+     "n": 4,
+     "data": "2024-01-07"
+    },
+    {
+     "n": 5,
+     "data": "2025-01-05"
+    },
+    {
+     "n": 6,
+     "data": "2026-01-04"
+    }
+   ],
+   "canais": [
+    "TV Globo"
+   ],
+   "trailer": null,
+   "provedores": {
+    "link": "https://www.themoviedb.org/tv/208716-domingao-com-huck/watch?locale=BR",
+    "flatrate": [
+     {
+      "id": 307,
+      "nome": "Globoplay",
+      "logo": "/9A6Oxd3F7iXm7mds7CxYOBicojs.png"
+     }
+    ],
+    "rent": [],
+    "buy": []
+   }
+  },
+  {
+   "id": 201177,
+   "imdb": "tt21940522",
+   "titulo": "Avisa Lá Que Eu Vou",
+   "original": "Avisa Lá Que Eu Vou",
+   "lingua": "pt",
+   "sinopse": "A partir de um anúncio nas suas redes sociais, Paulo Vieira sai em viagem pelo interior do Brasil em busca do que esse país tem de melhor: brasileiros e suas histórias.",
+   "poster": "/n7fOa8q4Wckc4o0iwk9qSldkk6q.jpg",
+   "generos": [
+    "Talk"
+   ],
+   "nota": 10,
+   "votos": 1,
+   "popularidade": 2.379,
+   "primeira": "2022-05-03",
+   "ultimoEp": {
+    "data": "2026-11-23",
+    "temporada": 5,
+    "episodio": 7
+   },
+   "proximoEp": null,
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2022-05-03"
+    },
+    {
+     "n": 2,
+     "data": "2023-05-02"
+    },
+    {
+     "n": 3,
+     "data": "2024-05-08"
+    },
+    {
+     "n": 4,
+     "data": "2025-06-17"
+    },
+    {
+     "n": 5,
+     "data": "2026-10-12"
+    }
+   ],
+   "canais": [
+    "GNT"
+   ],
+   "trailer": null,
+   "provedores": {
+    "link": "https://www.themoviedb.org/tv/201177-avisa-la-que-eu-vou/watch?locale=BR",
+    "flatrate": [
+     {
+      "id": 307,
+      "nome": "Globoplay",
+      "logo": "/9A6Oxd3F7iXm7mds7CxYOBicojs.png"
+     }
+    ],
+    "rent": [],
+    "buy": []
+   }
+  },
+  {
+   "id": 336716,
+   "imdb": "tt37672352",
+   "titulo": "Delegado",
+   "original": "Delegado",
+   "lingua": "pt",
+   "sinopse": "Um jovem bem-intencionado e ingênuo movido por um senso idealizado de justiça ingressa na Polícia Civil e enfrenta uma realidade dura marcada por corrupção, precariedade e contradições sociais.",
+   "poster": "/hYYnerMVNdiQBk6QfxzYVGuzavG.jpg",
+   "generos": [
+    "Drama",
+    "Comédia"
+   ],
+   "nota": 10,
+   "votos": 1,
+   "popularidade": 1.8215,
+   "primeira": "2026-10-30",
+   "ultimoEp": {
+    "data": "2026-11-20",
+    "temporada": 1,
+    "episodio": 4
+   },
+   "proximoEp": {
+    "data": "2026-11-27",
+    "temporada": 1,
+    "episodio": 5
+   },
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2026-10-30"
+    }
+   ],
+   "canais": [
+    "Canal Brasil"
+   ],
+   "trailer": null,
+   "provedores": {
+    "link": "https://www.themoviedb.org/tv/336716-delegado/watch?locale=BR",
+    "flatrate": [
+     {
+      "id": 307,
+      "nome": "Globoplay",
+      "logo": "/9A6Oxd3F7iXm7mds7CxYOBicojs.png"
+     },
+     {
+      "id": 484,
+      "nome": "Claro tv+",
+      "logo": "/olzQMHt2SX7iNy8WDMR299hVFcL.png"
+     }
+    ],
+    "rent": [],
+    "buy": []
+   }
+  },
+  {
+   "id": 341531,
+   "imdb": null,
+   "titulo": "A Clínica",
+   "original": "A Clínica",
+   "lingua": "pt",
+   "sinopse": "O documentário ‘A Clínica’ revisita a trajetória da Clínica Maxwell a partir de relatos de pessoas ligadas à instituição e revela os impactos de uma história que atravessou gerações.",
+   "poster": "/1zQAFeQgAJoemIMtN9AbQYKEOIS.jpg",
+   "generos": [
+    "Documentário"
+   ],
+   "nota": 0,
+   "votos": 0,
+   "popularidade": 1.22,
+   "primeira": "2026-11-09",
+   "ultimoEp": {
+    "data": "2026-11-25",
+    "temporada": 1,
+    "episodio": 6
+   },
+   "proximoEp": null,
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2026-11-09"
+    }
+   ],
+   "canais": [
+    "Globoplay"
+   ],
+   "trailer": null,
+   "provedores": {
+    "link": "https://www.themoviedb.org/tv/341531-a-clinica/watch?locale=BR",
+    "flatrate": [
+     {
+      "id": 307,
+      "nome": "Globoplay",
+      "logo": "/9A6Oxd3F7iXm7mds7CxYOBicojs.png"
+     }
+    ],
+    "rent": [],
+    "buy": []
+   }
+  },
+  {
+   "id": 296395,
+   "imdb": "tt37517058",
+   "titulo": "Prêmio Multishow de Humor: O Reality",
+   "original": "Prêmio Multishow de Humor: O Reality",
+   "lingua": "pt",
+   "sinopse": "O Prêmio Multishow de Humor voltou em formato de reality. Convivência, bastidores e os desafios de criar comédia, com apresentação de Dani Calabresa.",
+   "poster": "/df1QCfuhuB9UyWMFwelXH4a3Pzp.jpg",
+   "generos": [
+    "Reality"
+   ],
+   "nota": 0,
+   "votos": 0,
+   "popularidade": 1.3169,
+   "primeira": "2025-07-01",
+   "ultimoEp": {
+    "data": "2025-08-26",
+    "temporada": 1,
+    "episodio": 15
+   },
+   "proximoEp": {
+    "data": "2026-11-30",
+    "temporada": 2,
+    "episodio": 1
+   },
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2025-06-30"
+    },
+    {
+     "n": 2,
+     "data": "2026-11-30"
+    }
+   ],
+   "canais": [
+    "Multishow"
+   ],
+   "trailer": null,
+   "provedores": {
+    "link": "https://www.themoviedb.org/tv/296395-premio-multishow-de-humor-o-reality/watch?locale=BR",
+    "flatrate": [
+     {
+      "id": 307,
+      "nome": "Globoplay",
+      "logo": "/9A6Oxd3F7iXm7mds7CxYOBicojs.png"
+     }
+    ],
+    "rent": [],
+    "buy": []
+   }
+  },
+  {
+   "id": 336077,
+   "imdb": null,
+   "titulo": "Blogueirinha Entrevista",
+   "original": "Blogueirinha Entrevista",
+   "lingua": "pt",
+   "sinopse": "O programa apresenta o humor ácido da Blogueirinha em sabatinas com celebridades brasileiras, contando agora com a presença inédita de auditório.",
+   "poster": "/duPN1Uk6OHc84jTpBN2c4zbqgtg.jpg",
+   "generos": [
+    "Talk",
+    "Comédia"
+   ],
+   "nota": 0,
+   "votos": 0,
+   "popularidade": 0.5282,
+   "primeira": "2026-09-28",
+   "ultimoEp": {
+    "data": "2026-11-16",
+    "temporada": 1,
+    "episodio": 8
+   },
+   "proximoEp": null,
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2026-09-28"
+    }
+   ],
+   "canais": [
+    "Multishow"
+   ],
+   "trailer": null,
+   "provedores": {
+    "link": "https://www.themoviedb.org/tv/336077-blogueirinha-entrevista/watch?locale=BR",
+    "flatrate": [
+     {
+      "id": 307,
+      "nome": "Globoplay",
+      "logo": "/9A6Oxd3F7iXm7mds7CxYOBicojs.png"
+     },
+     {
+      "id": 2774,
+      "nome": "Multishow Amazon Channel",
+      "logo": "/zg4JTdoXkZBw5YriGHAeRNizSZf.png"
+     }
+    ],
+    "rent": [],
+    "buy": []
+   }
+  },
+  {
+   "id": 19653,
+   "imdb": "tt0315288",
+   "titulo": "Big Brother Brasil",
+   "original": "Big Brother Brasil",
+   "lingua": "pt",
+   "sinopse": "Confinados em uma casa, participantes precisam conviver — e enfrentar diferentes personalidades —, dividir tarefas, participar de competições e enfrentar o temido \"paredão\" até quem um deles se consagre campeão do reality show mais assistido do Brasil desde 2002. E tudo isso permeado por festas, romances e muitas confusões.",
+   "poster": "/7n7uoEiIcpZkEFNZ83PFPrQzoaR.jpg",
+   "generos": [
+    "Reality"
+   ],
+   "nota": 4.7,
+   "votos": 50,
+   "popularidade": 0.4799,
+   "primeira": "2002-01-29",
+   "ultimoEp": {
+    "data": "2026-04-21",
+    "temporada": 26,
+    "episodio": 100
+   },
+   "proximoEp": {
+    "data": "2027-01-11",
+    "temporada": 27,
+    "episodio": 1
+   },
+   "temporadas": [
+    {
+     "n": 0,
+     "data": "2002-04-07"
+    },
+    {
+     "n": 1,
+     "data": "2002-01-25"
+    },
+    {
+     "n": 2,
+     "data": "2002-05-10"
+    },
+    {
+     "n": 3,
+     "data": "2003-01-11"
+    },
+    {
+     "n": 4,
+     "data": "2004-01-10"
+    },
+    {
+     "n": 5,
+     "data": "2005-01-07"
+    },
+    {
+     "n": 6,
+     "data": "2006-01-07"
+    },
+    {
+     "n": 7,
+     "data": "2007-01-06"
+    },
+    {
+     "n": 8,
+     "data": "2008-01-05"
+    },
+    {
+     "n": 9,
+     "data": "2009-01-10"
+    },
+    {
+     "n": 10,
+     "data": "2010-01-09"
+    },
+    {
+     "n": 11,
+     "data": "2011-01-08"
+    },
+    {
+     "n": 12,
+     "data": "2012-01-07"
+    },
+    {
+     "n": 13,
+     "data": "2013-01-05"
+    },
+    {
+     "n": 14,
+     "data": "2014-01-11"
+    },
+    {
+     "n": 15,
+     "data": "2015-01-17"
+    },
+    {
+     "n": 16,
+     "data": "2016-01-16"
+    },
+    {
+     "n": 17,
+     "data": "2017-01-20"
+    },
+    {
+     "n": 18,
+     "data": "2018-01-20"
+    },
+    {
+     "n": 19,
+     "data": "2019-01-13"
+    },
+    {
+     "n": 20,
+     "data": "2020-01-19"
+    },
+    {
+     "n": 21,
+     "data": "2021-01-23"
+    },
+    {
+     "n": 22,
+     "data": "2022-01-15"
+    },
+    {
+     "n": 23,
+     "data": "2023-01-13"
+    },
+    {
+     "n": 24,
+     "data": "2024-01-05"
+    },
+    {
+     "n": 25,
+     "data": "2025-01-12"
+    },
+    {
+     "n": 26,
+     "data": "2026-01-08"
+    },
+    {
+     "n": 27,
+     "data": "2027-01-11"
+    }
+   ],
+   "canais": [
+    "TV Globo"
+   ],
+   "trailer": null,
+   "provedores": {
+    "link": "https://www.themoviedb.org/tv/19653-big-brother-brasil/watch?locale=BR",
+    "flatrate": [
+     {
+      "id": 307,
+      "nome": "Globoplay",
+      "logo": "/9A6Oxd3F7iXm7mds7CxYOBicojs.png"
+     }
+    ],
+    "rent": [],
+    "buy": []
+   }
+  },
+  {
+   "id": 337034,
+   "imdb": null,
+   "titulo": "Arquivos do Céu",
+   "original": "Arquivos do Céu",
+   "lingua": "pt",
+   "sinopse": "Em cinco episódios, a série documental mergulha nos casos ufológicos mais intrigantes do Brasil, seguindo pistas que atravessam décadas e ultrapassam nossas fronteiras.",
+   "poster": "/gLWOQbcz56I61IlW26JTBHLWtGC.jpg",
+   "generos": [
+    "Documentário"
+   ],
+   "nota": 0,
+   "votos": 0,
+   "popularidade": 0.4286,
+   "primeira": "2026-10-29",
+   "ultimoEp": {
+    "data": "2026-10-29",
+    "temporada": 1,
+    "episodio": 1
+   },
+   "proximoEp": {
+    "data": "2026-11-29",
+    "temporada": 1,
+    "episodio": 2
+   },
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2026-10-29"
+    }
+   ],
+   "canais": [
+    "Globoplay"
+   ],
+   "trailer": null,
+   "provedores": {
+    "link": "https://www.themoviedb.org/tv/337034-arquivos-do-ceu/watch?locale=BR",
+    "flatrate": [
+     {
+      "id": 307,
+      "nome": "Globoplay",
+      "logo": "/9A6Oxd3F7iXm7mds7CxYOBicojs.png"
+     }
+    ],
+    "rent": [],
+    "buy": []
+   }
+  },
+  {
+   "id": 341346,
+   "imdb": null,
+   "titulo": "Voz da Consciência",
+   "original": "Voz da Consciência",
+   "lingua": "pt",
+   "sinopse": "Programa mergulha na história do samba a partir da trajetória de nove grandes artistas que consagraram o ritmo no Brasil e no mundo. As conversas exaltam a contribuição da comunidade negra na construção e na perpetuação do samba.",
+   "poster": "/aOclfk9UroZdrjrCeVgQ4MdwcXv.jpg",
+   "generos": [
+    "Talk",
+    "Documentário"
+   ],
+   "nota": 0,
+   "votos": 0,
+   "popularidade": 0.2977,
+   "primeira": "2024-11-18",
+   "ultimoEp": {
+    "data": "2026-11-19",
+    "temporada": 3,
+    "episodio": 3
+   },
+   "proximoEp": null,
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2024-11-18"
+    },
+    {
+     "n": 2,
+     "data": "2025-11-01"
+    },
+    {
+     "n": 3,
+     "data": "2026-11-05"
+    }
+   ],
+   "canais": [],
+   "trailer": null,
+   "provedores": {
+    "link": "https://www.themoviedb.org/tv/341346-voz-da-consciencia/watch?locale=BR",
+    "flatrate": [
+     {
+      "id": 307,
+      "nome": "Globoplay",
+      "logo": "/9A6Oxd3F7iXm7mds7CxYOBicojs.png"
+     },
+     {
+      "id": 2774,
+      "nome": "Multishow Amazon Channel",
+      "logo": "/zg4JTdoXkZBw5YriGHAeRNizSZf.png"
      }
     ],
     "rent": [],
@@ -31725,94 +34292,6 @@
    }
   },
   {
-   "id": 303272,
-   "imdb": "tt32813343",
-   "titulo": "Magic Knight Rayearth",
-   "original": "魔法騎士レイアース",
-   "lingua": "ja",
-   "sinopse": "Hikaru, Umi e Fuu estão de volta para uma nova versão da clássica série Magic Knight Rayearth!",
-   "poster": "/5bw8QSid3tOutYxNjXespau07MS.jpg",
-   "generos": [
-    "Animação",
-    "Action & Adventure",
-    "Sci-Fi & Fantasy"
-   ],
-   "nota": 8,
-   "votos": 2,
-   "popularidade": 13.0995,
-   "primeira": "2026-10-07",
-   "ultimoEp": {
-    "data": "2026-11-25",
-    "temporada": 1,
-    "episodio": 8
-   },
-   "proximoEp": {
-    "data": "2026-12-02",
-    "temporada": 1,
-    "episodio": 9
-   },
-   "temporadas": [
-    {
-     "n": 1,
-     "data": "2026-10-07"
-    }
-   ],
-   "canais": [
-    "HTB",
-    "tv asahi",
-    "Nagoya TV",
-    "KBC",
-    "ABC TV",
-    "NCC",
-    "OAB",
-    "ABA",
-    "Niigata Television Network 21",
-    "khb",
-    "KFB",
-    "HOME",
-    "KSB",
-    "Kagoshima Broadcasting",
-    "Iwate Asahi TV",
-    "Akita Asahi Broadcasting",
-    "Yamagata Television System",
-    "Shizuoka Asahi TV",
-    "Asahi Broadcasting Nagano",
-    "Hokuriku Asahi Broadcasting",
-    "Ehime Asahi TV",
-    "Yamaguchi Asahi Broadcasting",
-    "Kumamoto Asahi Broadcasting",
-    "Ryu-Q Asahi Broadcasting"
-   ],
-   "trailer": "HmK-W6VEAdg",
-   "provedores": {
-    "link": "https://www.themoviedb.org/tv/303272-mo-fa-qi-shi-reiasu/watch?locale=BR",
-    "flatrate": [
-     {
-      "id": 8,
-      "nome": "Netflix",
-      "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
-     },
-     {
-      "id": 283,
-      "nome": "Crunchyroll",
-      "logo": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png"
-     },
-     {
-      "id": 1796,
-      "nome": "Netflix Standard with Ads",
-      "logo": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
-     },
-     {
-      "id": 1968,
-      "nome": "Crunchyroll Amazon Channel",
-      "logo": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png"
-     }
-    ],
-    "rent": [],
-    "buy": []
-   }
-  },
-  {
    "id": 316694,
    "imdb": "tt43691383",
    "titulo": "So What's Wrong with Getting Reborn as a Goblin?",
@@ -32175,7 +34654,7 @@
    ],
    "nota": 8.7,
    "votos": 3,
-   "popularidade": 9.8492,
+   "popularidade": 8.9896,
    "primeira": "2026-10-09",
    "ultimoEp": {
     "data": "2026-11-20",
@@ -32564,7 +35043,7 @@
    ],
    "nota": 8,
    "votos": 1,
-   "popularidade": 7.2615,
+   "popularidade": 7.357,
    "primeira": "2026-10-03",
    "ultimoEp": {
     "data": "2026-11-21",
@@ -33036,2478 +35515,65 @@
    }
   },
   {
-   "id": 87826,
-   "imdb": "tt9817298",
-   "titulo": "Sunset - Milha de Ouro",
-   "original": "Selling Sunset",
+   "id": 139203,
+   "imdb": "tt15245094",
+   "titulo": "Drag Race Philippines",
+   "original": "Drag Race Philippines",
    "lingua": "en",
-   "sinopse": "Os agentes de elite do Oppenheim Group vendem uma vida de luxo aos endinheirados de Los Angeles. Os relacionamentos são cruciais, e por isso geram fortes conflitos.",
-   "poster": "/u7oG5RKpXQC0c10jUvLfKYggKOY.jpg",
+   "sinopse": "O fenômeno mundial das competições drag chega às Filipinas! Doze queens icônicas disputam o título de primeira Drag Superstar do país. Chegou a hora de os filipinos brilharem, querida... e isso é só o começo!",
+   "poster": "/h8bFpa3dweemBBup9GYcq9ppK0v.jpg",
    "generos": [
     "Reality"
    ],
-   "nota": 6.6,
-   "votos": 68,
-   "popularidade": 14.5309,
-   "primeira": "2019-03-22",
-   "ultimoEp": {
-    "data": "2025-11-05",
-    "temporada": 9,
-    "episodio": 11
-   },
-   "proximoEp": {
-    "data": "2026-12-04",
-    "temporada": 10,
-    "episodio": 1
-   },
-   "temporadas": [
-    {
-     "n": 1,
-     "data": "2019-03-22"
-    },
-    {
-     "n": 2,
-     "data": "2020-05-22"
-    },
-    {
-     "n": 3,
-     "data": "2020-08-07"
-    },
-    {
-     "n": 4,
-     "data": "2021-11-24"
-    },
-    {
-     "n": 5,
-     "data": "2022-04-22"
-    },
-    {
-     "n": 6,
-     "data": "2023-05-19"
-    },
-    {
-     "n": 7,
-     "data": "2023-11-03"
-    },
-    {
-     "n": 8,
-     "data": "2024-09-06"
-    },
-    {
-     "n": 9,
-     "data": "2025-10-29"
-    },
-    {
-     "n": 10,
-     "data": "2026-12-04"
-    }
-   ],
-   "canais": [
-    "Netflix"
-   ],
-   "trailer": "Xpa35HwBdwM",
-   "provedores": {
-    "link": "https://www.themoviedb.org/tv/87826-selling-sunset/watch?locale=BR",
-    "flatrate": [
-     {
-      "id": 8,
-      "nome": "Netflix",
-      "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
-     },
-     {
-      "id": 1796,
-      "nome": "Netflix Standard with Ads",
-      "logo": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
-     }
-    ],
-    "rent": [],
-    "buy": []
-   }
-  },
-  {
-   "id": 230915,
-   "imdb": "tt33258229",
-   "titulo": "Khemjira",
-   "original": "เขมจิราต้องรอด",
-   "lingua": "th",
-   "sinopse": "Nascido em uma família amaldiçoada, a mãe de Khem lhe deu um nome de menina, Khemjira, para protegê-lo de morrer antes dos 20 anos. Ele acreditou nisso até o seu 19º aniversário, quando a verdade veio à tona.",
-   "poster": "/7P0fzNaATifUU3IQ5r7ixpfRYGs.jpg",
-   "generos": [
-    "Drama",
-    "Mistério",
-    "Sci-Fi & Fantasy"
-   ],
-   "nota": 8.957,
-   "votos": 47,
-   "popularidade": 11.5567,
-   "primeira": "2025-08-09",
-   "ultimoEp": {
-    "data": "2026-11-21",
-    "temporada": 2,
-    "episodio": 4
-   },
-   "proximoEp": null,
-   "temporadas": [
-    {
-     "n": 1,
-     "data": "2025-08-09"
-    },
-    {
-     "n": 2,
-     "data": "2026-10-31"
-    }
-   ],
-   "canais": [
-    "ONE 31"
-   ],
-   "trailer": null,
-   "provedores": {
-    "link": "https://www.themoviedb.org/tv/230915-ekhmchiratongrod/watch?locale=BR",
-    "flatrate": [
-     {
-      "id": 8,
-      "nome": "Netflix",
-      "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
-     },
-     {
-      "id": 1796,
-      "nome": "Netflix Standard with Ads",
-      "logo": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
-     },
-     {
-      "id": 623,
-      "nome": "Tencent Video",
-      "logo": "/oxcvMEkpFb1x4I2xQuRH1yxuJoA.png"
-     }
-    ],
-    "rent": [],
-    "buy": []
-   }
-  },
-  {
-   "id": 321421,
-   "imdb": "tt16124372",
-   "titulo": "Behind the Bastards",
-   "original": "Behind the Bastards",
-   "lingua": "en",
-   "sinopse": "",
-   "poster": "/k9bbO4oIl1xMFatWAbIDIcCGh6J.jpg",
-   "generos": [
-    "Talk",
-    "Comédia",
-    "Documentário",
-    "News"
-   ],
-   "nota": 0,
-   "votos": 0,
-   "popularidade": 15.9886,
-   "primeira": "2018-05-01",
-   "ultimoEp": {
-    "data": "2026-11-24",
-    "temporada": 1,
-    "episodio": 885
-   },
-   "proximoEp": {
-    "data": "2026-11-26",
-    "temporada": 1,
-    "episodio": 886
-   },
-   "temporadas": [
-    {
-     "n": 1,
-     "data": "2018-05-01"
-    }
-   ],
-   "canais": [
-    "Netflix",
-    "YouTube"
-   ],
-   "trailer": null,
-   "provedores": {
-    "link": "https://www.themoviedb.org/tv/321421-behind-the-bastards/watch?locale=BR",
-    "flatrate": [
-     {
-      "id": 8,
-      "nome": "Netflix",
-      "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
-     },
-     {
-      "id": 1796,
-      "nome": "Netflix Standard with Ads",
-      "logo": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
-     }
-    ],
-    "rent": [],
-    "buy": []
-   }
-  },
-  {
-   "id": 332649,
-   "imdb": "tt49276663",
-   "titulo": "Os Dez Bravos de Sanada",
-   "original": "真田十勇士 SHADOWS OF THE TEN NINJA",
-   "lingua": "ja",
-   "sinopse": "Ieyasu Tokugawa declara guerra aos Toyotomi, e os Dez Bravos de Sanada se unem para enfrentar o governante do Japão em uma batalha decisiva.",
-   "poster": "/qGyypl0Kkk7GkZPVUSrEOLEOo1B.jpg",
-   "generos": [
-    "Action & Adventure",
-    "War & Politics"
-   ],
-   "nota": 4,
-   "votos": 1,
-   "popularidade": 11.8254,
-   "primeira": "2026-10-23",
+   "nota": 7.7,
+   "votos": 6,
+   "popularidade": 7.5094,
+   "primeira": "2022-08-17",
    "ultimoEp": {
     "data": "2026-11-20",
-    "temporada": 1,
-    "episodio": 5
+    "temporada": 4,
+    "episodio": 9
    },
    "proximoEp": {
     "data": "2026-11-27",
-    "temporada": 1,
-    "episodio": 6
-   },
-   "temporadas": [
-    {
-     "n": 1,
-     "data": "2026-10-23"
-    }
-   ],
-   "canais": [
-    "tv asahi"
-   ],
-   "trailer": null,
-   "provedores": {
-    "link": "https://www.themoviedb.org/tv/332649-shadows-of-the-ten-ninja/watch?locale=BR",
-    "flatrate": [
-     {
-      "id": 8,
-      "nome": "Netflix",
-      "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
-     },
-     {
-      "id": 1796,
-      "nome": "Netflix Standard with Ads",
-      "logo": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
-     }
-    ],
-    "rent": [],
-    "buy": []
-   }
-  },
-  {
-   "id": 76178,
-   "imdb": "tt7829834",
-   "titulo": "O Próximo Convidado Dispensa Apresentação com David Letterman",
-   "original": "My Next Guest Needs No Introduction with David Letterman",
-   "lingua": "en",
-   "sinopse": "Neste programa mensal, a lenda da TV David Letterman entrevista personalidades globais interessantes e visita lugares que têm uma história para contar.",
-   "poster": "/nV0ARN5gU82wcFztvQOA2z2ILUO.jpg",
-   "generos": [
-    "Talk",
-    "Comédia"
-   ],
-   "nota": 7.044,
-   "votos": 80,
-   "popularidade": 8.7038,
-   "primeira": "2018-01-12",
-   "ultimoEp": {
-    "data": "2025-12-16",
-    "temporada": 6,
-    "episodio": 3
-   },
-   "proximoEp": {
-    "data": "2026-12-15",
-    "temporada": 7,
-    "episodio": 1
-   },
-   "temporadas": [
-    {
-     "n": 1,
-     "data": "2018-01-12"
-    },
-    {
-     "n": 2,
-     "data": "2019-05-31"
-    },
-    {
-     "n": 3,
-     "data": "2020-10-21"
-    },
-    {
-     "n": 4,
-     "data": "2022-05-20"
-    },
-    {
-     "n": 5,
-     "data": "2024-06-10"
-    },
-    {
-     "n": 6,
-     "data": "2025-12-16"
-    },
-    {
-     "n": 7,
-     "data": "2026-12-15"
-    }
-   ],
-   "canais": [
-    "Netflix"
-   ],
-   "trailer": "ctBVhyZxXYY",
-   "provedores": {
-    "link": "https://www.themoviedb.org/tv/76178-my-next-guest-needs-no-introduction-with-david-letterman/watch?locale=BR",
-    "flatrate": [
-     {
-      "id": 8,
-      "nome": "Netflix",
-      "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
-     },
-     {
-      "id": 1796,
-      "nome": "Netflix Standard with Ads",
-      "logo": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
-     }
-    ],
-    "rent": [],
-    "buy": []
-   }
-  },
-  {
-   "id": 332713,
-   "imdb": "tt44840674",
-   "titulo": "Minami: Uma Advogada Extraordinária",
-   "original": "南田南弁護士は天才肌",
-   "lingua": "ja",
-   "sinopse": "Com sua memória extraordinária e uma perspectiva única, a advogada no espectro autista Minami Minamida enfrenta desafios dentro e fora dos tribunais.",
-   "poster": "/ax4KpZOjZ59hp6IjYNOfJMAYge0.jpg",
-   "generos": [
-    "Drama"
-   ],
-   "nota": 7.2,
-   "votos": 12,
-   "popularidade": 7.8985,
-   "primeira": "2026-10-19",
-   "ultimoEp": {
-    "data": "2026-11-23",
-    "temporada": 1,
-    "episodio": 6
-   },
-   "proximoEp": {
-    "data": "2026-11-30",
-    "temporada": 1,
-    "episodio": 7
-   },
-   "temporadas": [
-    {
-     "n": 1,
-     "data": "2026-10-19"
-    }
-   ],
-   "canais": [
-    "Fuji TV",
-    "Kansai TV"
-   ],
-   "trailer": null,
-   "provedores": {
-    "link": "https://www.themoviedb.org/tv/332713-nan-tian-nan-bian-hu-shi-ha-tian-cai-ji/watch?locale=BR",
-    "flatrate": [
-     {
-      "id": 8,
-      "nome": "Netflix",
-      "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
-     },
-     {
-      "id": 1796,
-      "nome": "Netflix Standard with Ads",
-      "logo": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
-     }
-    ],
-    "rent": [],
-    "buy": []
-   }
-  },
-  {
-   "id": 230003,
-   "imdb": "tt28288478",
-   "titulo": "O Ringue",
-   "original": "La Cage",
-   "lingua": "fr",
-   "sinopse": "Sonhando em se profissionalizar, um jovem lutador tenta ser notado até que um combate inesperado dá a ele a chance de sua vida, além de um rival violento no ringue.",
-   "poster": "/udy3hudTgKADO6oo0cAiEYYoQCC.jpg",
-   "generos": [
-    "Action & Adventure",
-    "Drama"
-   ],
-   "nota": 6.7,
-   "votos": 110,
-   "popularidade": 7.0381,
-   "primeira": "2024-11-08",
-   "ultimoEp": {
-    "data": "2024-11-08",
-    "temporada": 1,
-    "episodio": 5
-   },
-   "proximoEp": {
-    "data": "2026-12-16",
-    "temporada": 2,
-    "episodio": 1
-   },
-   "temporadas": [
-    {
-     "n": 1,
-     "data": "2024-11-08"
-    },
-    {
-     "n": 2,
-     "data": "2026-12-16"
-    }
-   ],
-   "canais": [
-    "Netflix"
-   ],
-   "trailer": null,
-   "provedores": {
-    "link": "https://www.themoviedb.org/tv/230003-la-cage/watch?locale=BR",
-    "flatrate": [
-     {
-      "id": 8,
-      "nome": "Netflix",
-      "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
-     },
-     {
-      "id": 1796,
-      "nome": "Netflix Standard with Ads",
-      "logo": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
-     }
-    ],
-    "rent": [],
-    "buy": []
-   }
-  },
-  {
-   "id": 312585,
-   "imdb": "tt39443739",
-   "titulo": "The Crow Club",
-   "original": "อีกาสมาคม",
-   "lingua": "th",
-   "sinopse": "Quatro casais fazem parte do misterioso Crow Club, onde casos sobrenaturais e missões perigosas levam a relações românticas inesperadas.",
-   "poster": "/rpHklRp61rh4pextyflANtYy35r.jpg",
-   "generos": [
-    "Drama",
-    "Comédia",
-    "Sci-Fi & Fantasy"
-   ],
-   "nota": 8.8,
-   "votos": 5,
-   "popularidade": 6.7311,
-   "primeira": "2026-09-18",
-   "ultimoEp": {
-    "data": "2026-11-20",
-    "temporada": 1,
+    "temporada": 4,
     "episodio": 10
    },
-   "proximoEp": {
-    "data": "2026-11-27",
-    "temporada": 1,
-    "episodio": 11
-   },
-   "temporadas": [
-    {
-     "n": 1,
-     "data": "2026-09-18"
-    }
-   ],
-   "canais": [
-    "ONE 31"
-   ],
-   "trailer": null,
-   "provedores": {
-    "link": "https://www.themoviedb.org/tv/312585-oikasmakhm/watch?locale=BR",
-    "flatrate": [
-     {
-      "id": 8,
-      "nome": "Netflix",
-      "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
-     },
-     {
-      "id": 1796,
-      "nome": "Netflix Standard with Ads",
-      "logo": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
-     }
-    ],
-    "rent": [],
-    "buy": []
-   }
-  },
-  {
-   "id": 332261,
-   "imdb": "tt49795345",
-   "titulo": "Lupin da Politica",
-   "original": "ポリティカルパン",
-   "lingua": "ja",
-   "sinopse": "Um mestre dos disfarces/ladrão mestre infiltra-se na política para, de forma astuta, realizar o maior roubo de fundos políticos corruptos",
-   "poster": "/hZtrOm4lgEcGtzidBThjhVxoaTx.jpg",
-   "generos": [
-    "Drama",
-    "Crime"
-   ],
-   "nota": 8.2,
-   "votos": 4,
-   "popularidade": 6.4943,
-   "primeira": "2026-10-07",
-   "ultimoEp": {
-    "data": "2026-11-25",
-    "temporada": 1,
-    "episodio": 8
-   },
-   "proximoEp": {
-    "data": "2026-12-02",
-    "temporada": 1,
-    "episodio": 9
-   },
-   "temporadas": [
-    {
-     "n": 1,
-     "data": "2026-10-07"
-    }
-   ],
-   "canais": [
-    "Fuji TV"
-   ],
-   "trailer": null,
-   "provedores": {
-    "link": "https://www.themoviedb.org/tv/332261-poriteikarupan/watch?locale=BR",
-    "flatrate": [
-     {
-      "id": 8,
-      "nome": "Netflix",
-      "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
-     },
-     {
-      "id": 1796,
-      "nome": "Netflix Standard with Ads",
-      "logo": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
-     }
-    ],
-    "rent": [],
-    "buy": []
-   }
-  },
-  {
-   "id": 100833,
-   "imdb": "tt11942052",
-   "titulo": "J-Style Trip",
-   "original": "周遊記",
-   "lingua": "zh",
-   "sinopse": "O megastar Jay Chou se junta a seus amigos de primeira linha neste show de variedades mundial repleto de música e truques de mágica.",
-   "poster": "/daiKaJpck4ShIdHoidqxcX59j3v.jpg",
-   "generos": [
-    "Reality"
-   ],
-   "nota": 8.1,
-   "votos": 9,
-   "popularidade": 5.609,
-   "primeira": "2020-03-21",
-   "ultimoEp": {
-    "data": "2025-06-15",
-    "temporada": 3,
-    "episodio": 12
-   },
-   "proximoEp": {
-    "data": "2026-11-28",
-    "temporada": 4,
-    "episodio": 1
-   },
-   "temporadas": [
-    {
-     "n": 1,
-     "data": "2020-03-21"
-    },
-    {
-     "n": 2,
-     "data": "2023-11-25"
-    },
-    {
-     "n": 3,
-     "data": "2025-03-29"
-    },
-    {
-     "n": 4,
-     "data": "2026-11-28"
-    }
-   ],
-   "canais": [
-    "Netflix",
-    "Zhejiang Television",
-    "Youku",
-    "Mango TV",
-    "Migu Video"
-   ],
-   "trailer": null,
-   "provedores": {
-    "link": "https://www.themoviedb.org/tv/100833-zhou-you-ji/watch?locale=BR",
-    "flatrate": [
-     {
-      "id": 8,
-      "nome": "Netflix",
-      "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
-     },
-     {
-      "id": 1796,
-      "nome": "Netflix Standard with Ads",
-      "logo": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
-     }
-    ],
-    "rent": [],
-    "buy": []
-   }
-  },
-  {
-   "id": 323660,
-   "imdb": "tt43491766",
-   "titulo": "The Rest Is Football",
-   "original": "The Rest Is Football",
-   "lingua": "en",
-   "sinopse": "As lendas do futebol Gary Lineker, Alan Shearer e Micah Richards trazem análises, opiniões e muita resenha todos os dias direto de Nova York durante a Copa do Mundo 2026.",
-   "poster": "/tA1idPInPr4unBx03xu5gjubzPi.jpg",
-   "generos": [
-    "Talk"
-   ],
-   "nota": 0,
-   "votos": 0,
-   "popularidade": 5.011,
-   "primeira": "2026-06-10",
-   "ultimoEp": {
-    "data": "2026-11-23",
-    "temporada": 2,
-    "episodio": 40
-   },
-   "proximoEp": null,
-   "temporadas": [
-    {
-     "n": 1,
-     "data": "2026-06-09"
-    },
-    {
-     "n": 2,
-     "data": "2026-08-23"
-    }
-   ],
-   "canais": [
-    "Netflix"
-   ],
-   "trailer": "0OaGiiL3G8I",
-   "provedores": {
-    "link": "https://www.themoviedb.org/tv/323660-the-rest-is-football/watch?locale=BR",
-    "flatrate": [
-     {
-      "id": 8,
-      "nome": "Netflix",
-      "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
-     },
-     {
-      "id": 1796,
-      "nome": "Netflix Standard with Ads",
-      "logo": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
-     }
-    ],
-    "rent": [],
-    "buy": []
-   }
-  },
-  {
-   "id": 243200,
-   "imdb": "tt30817086",
-   "titulo": "Animal",
-   "original": "Animal",
-   "lingua": "es",
-   "sinopse": "O veterinário pobretão Antón arruma emprego em uma pet shop chique e deixa de tratar animais de fazenda para dar petiscos premium a bichinhos mimados.",
-   "poster": "/5MGDcHyLLtrnv1v3vMaoJ8sMj7p.jpg",
-   "generos": [
-    "Comédia"
-   ],
-   "nota": 6.7,
-   "votos": 65,
-   "popularidade": 4.7185,
-   "primeira": "2025-10-03",
-   "ultimoEp": {
-    "data": "2025-10-03",
-    "temporada": 1,
-    "episodio": 9
-   },
-   "proximoEp": {
-    "data": "2027-01-01",
-    "temporada": 2,
-    "episodio": 1
-   },
-   "temporadas": [
-    {
-     "n": 1,
-     "data": "2025-10-03"
-    },
-    {
-     "n": 2,
-     "data": "2027-01-01"
-    }
-   ],
-   "canais": [
-    "Netflix"
-   ],
-   "trailer": "UQI8Ac7OJEA",
-   "provedores": {
-    "link": "https://www.themoviedb.org/tv/243200-animal/watch?locale=BR",
-    "flatrate": [
-     {
-      "id": 8,
-      "nome": "Netflix",
-      "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
-     },
-     {
-      "id": 1796,
-      "nome": "Netflix Standard with Ads",
-      "logo": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
-     }
-    ],
-    "rent": [],
-    "buy": []
-   }
-  },
-  {
-   "id": 311955,
-   "imdb": "tt48376831",
-   "titulo": "Nosso Hakone Ekiden",
-   "original": "俺たちの箱根駅伝",
-   "lingua": "ja",
-   "sinopse": "Uma equipe universitária busca a volta à corrida Hakone Ekiden. Nos bastidores da TV, um produtor enfrenta a pressão e os desafios de transmitir a prova tradicional.",
-   "poster": "/1cA5ysVK1C4W5KRtxxNkW2zTBqF.jpg",
-   "generos": [
-    "Drama"
-   ],
-   "nota": 8.7,
-   "votos": 3,
-   "popularidade": 5.2167,
-   "primeira": "2026-10-10",
-   "ultimoEp": {
-    "data": "2026-11-21",
-    "temporada": 1,
-    "episodio": 7
-   },
-   "proximoEp": {
-    "data": "2026-11-28",
-    "temporada": 1,
-    "episodio": 8
-   },
-   "temporadas": [
-    {
-     "n": 1,
-     "data": "2026-10-10"
-    }
-   ],
-   "canais": [
-    "Nippon TV"
-   ],
-   "trailer": null,
-   "provedores": {
-    "link": "https://www.themoviedb.org/tv/311955-an-tachino-xiang-gen-yi-yun/watch?locale=BR",
-    "flatrate": [
-     {
-      "id": 8,
-      "nome": "Netflix",
-      "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
-     },
-     {
-      "id": 1796,
-      "nome": "Netflix Standard with Ads",
-      "logo": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
-     }
-    ],
-    "rent": [],
-    "buy": []
-   }
-  },
-  {
-   "id": 329490,
-   "imdb": "tt49276654",
-   "titulo": "O Mistério dos 10",
-   "original": "LOST10",
-   "lingua": "ja",
-   "sinopse": "Quando o detetive **Ogoma** (interpretado por Ryusei Yokohama) é encarregado de investigar o caso no hospital, ele cruza caminhos com uma investigadora de seguros. O que inicialmente parecia ser um lamentável desastre natural em uma excursão guiada rapidamente se transforma em uma teia complexa de depoimentos contraditórios, traições, conspirações e segredos ocultados por forças poderosas dispostas a tudo para enterrar a verdade.",
-   "poster": "/xNYh0RLebPsb9noMdctjKTeqe0v.jpg",
-   "generos": [
-    "Mistério"
-   ],
-   "nota": 8.8,
-   "votos": 6,
-   "popularidade": 4.0362,
-   "primeira": "2026-10-16",
-   "ultimoEp": {
-    "data": "2026-11-20",
-    "temporada": 1,
-    "episodio": 6
-   },
-   "proximoEp": {
-    "data": "2026-11-27",
-    "temporada": 1,
-    "episodio": 7
-   },
-   "temporadas": [
-    {
-     "n": 1,
-     "data": "2026-10-16"
-    }
-   ],
-   "canais": [
-    "TBS"
-   ],
-   "trailer": null,
-   "provedores": {
-    "link": "https://www.themoviedb.org/tv/329490-lost10/watch?locale=BR",
-    "flatrate": [
-     {
-      "id": 8,
-      "nome": "Netflix",
-      "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
-     },
-     {
-      "id": 1796,
-      "nome": "Netflix Standard with Ads",
-      "logo": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
-     }
-    ],
-    "rent": [],
-    "buy": []
-   }
-  },
-  {
-   "id": 224021,
-   "imdb": "tt23664162",
-   "titulo": "Os Assassinatos de Åre",
-   "original": "Åremorden",
-   "lingua": "sv",
-   "sinopse": "Alvo de uma investigação interna, uma policial de Estocolmo decide descansar numa região conhecida pelo esqui. Até que o desaparecimento de uma garota acaba com essa paz.",
-   "poster": "/1TUSNZdN1HWSGDMhjre0y33y1Me.jpg",
-   "generos": [
-    "Drama",
-    "Crime",
-    "Mistério"
-   ],
-   "nota": 6.6,
-   "votos": 150,
-   "popularidade": 4.0235,
-   "primeira": "2025-02-06",
-   "ultimoEp": {
-    "data": "2025-02-06",
-    "temporada": 1,
-    "episodio": 5
-   },
-   "proximoEp": {
-    "data": "2026-12-27",
-    "temporada": 2,
-    "episodio": 1
-   },
-   "temporadas": [
-    {
-     "n": 1,
-     "data": "2025-02-06"
-    },
-    {
-     "n": 2,
-     "data": "2026-12-27"
-    }
-   ],
-   "canais": [
-    "Netflix"
-   ],
-   "trailer": "BY7ChjDm0GY",
-   "provedores": {
-    "link": "https://www.themoviedb.org/tv/224021-aremorden/watch?locale=BR",
-    "flatrate": [
-     {
-      "id": 8,
-      "nome": "Netflix",
-      "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
-     },
-     {
-      "id": 1796,
-      "nome": "Netflix Standard with Ads",
-      "logo": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
-     }
-    ],
-    "rent": [],
-    "buy": []
-   }
-  },
-  {
-   "id": 320935,
-   "imdb": "tt42814597",
-   "titulo": "Allegedly with Ellison Barber",
-   "original": "Allegedly with Ellison Barber",
-   "lingua": "en",
-   "sinopse": "",
-   "poster": "/ucdE4gjRIaUM8WGik7jHmxN2RDr.jpg",
-   "generos": [
-    "Crime",
-    "Talk"
-   ],
-   "nota": 0,
-   "votos": 0,
-   "popularidade": 3.5625,
-   "primeira": "2026-04-29",
-   "ultimoEp": {
-    "data": "2026-11-18",
-    "temporada": 1,
-    "episodio": 30
-   },
-   "proximoEp": {
-    "data": "2026-11-25",
-    "temporada": 1,
-    "episodio": 31
-   },
-   "temporadas": [
-    {
-     "n": 1,
-     "data": "2026-04-29"
-    }
-   ],
-   "canais": [
-    "Netflix"
-   ],
-   "trailer": null,
-   "provedores": {
-    "link": "https://www.themoviedb.org/tv/320935-allegedly-with-ellison-barber/watch?locale=BR",
-    "flatrate": [
-     {
-      "id": 8,
-      "nome": "Netflix",
-      "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
-     },
-     {
-      "id": 1796,
-      "nome": "Netflix Standard with Ads",
-      "logo": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
-     }
-    ],
-    "rent": [],
-    "buy": []
-   }
-  },
-  {
-   "id": 219053,
-   "imdb": "tt21092364",
-   "titulo": "Brincando com Fogo: Alemanha",
-   "original": "Too Hot to Handle: Germany",
-   "lingua": "de",
-   "sinopse": "Dez solteiros atraentes curtem um retiro em um paraíso tropical. Mas para ganhar uma bolada em dinheiro, eles vão precisar resistir às tentações carnais.",
-   "poster": "/5R1TUuMrf8AConXBbWac9SuYghO.jpg",
-   "generos": [
-    "Reality"
-   ],
-   "nota": 6.4,
-   "votos": 29,
-   "popularidade": 3.5392,
-   "primeira": "2023-02-28",
-   "ultimoEp": {
-    "data": "2025-02-18",
-    "temporada": 2,
-    "episodio": 8
-   },
-   "proximoEp": {
-    "data": "2026-12-30",
-    "temporada": 3,
-    "episodio": 1
-   },
-   "temporadas": [
-    {
-     "n": 1,
-     "data": "2023-02-28"
-    },
-    {
-     "n": 2,
-     "data": "2025-02-17"
-    },
-    {
-     "n": 3,
-     "data": "2026-12-30"
-    }
-   ],
-   "canais": [
-    "Netflix"
-   ],
-   "trailer": "mXUcnZkw_kM",
-   "provedores": {
-    "link": "https://www.themoviedb.org/tv/219053-too-hot-to-handle-germany/watch?locale=BR",
-    "flatrate": [
-     {
-      "id": 8,
-      "nome": "Netflix",
-      "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
-     },
-     {
-      "id": 1796,
-      "nome": "Netflix Standard with Ads",
-      "logo": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
-     }
-    ],
-    "rent": [],
-    "buy": []
-   }
-  },
-  {
-   "id": 325762,
-   "imdb": "tt43476731",
-   "titulo": "The Adam Ray Show",
-   "original": "The Adam Ray Show",
-   "lingua": "en",
-   "sinopse": "O mesmo apresentador, vários personagens e muito caos. Toda semana, Adam Ray encarna um alter ego diferente para entrevistar celebridades. E ninguém vai escapar.",
-   "poster": "/ioNPVPzdgXrUUi11mD0Ha6dtc7b.jpg",
-   "generos": [
-    "Talk",
-    "Comédia"
-   ],
-   "nota": 0,
-   "votos": 0,
-   "popularidade": 3.9267,
-   "primeira": "2026-06-19",
-   "ultimoEp": {
-    "data": "2026-11-20",
-    "temporada": 1,
-    "episodio": 26
-   },
-   "proximoEp": {
-    "data": "2026-11-27",
-    "temporada": 1,
-    "episodio": 27
-   },
-   "temporadas": [
-    {
-     "n": 1,
-     "data": "2026-06-19"
-    }
-   ],
-   "canais": [
-    "Netflix"
-   ],
-   "trailer": null,
-   "provedores": {
-    "link": "https://www.themoviedb.org/tv/325762-the-adam-ray-show/watch?locale=BR",
-    "flatrate": [
-     {
-      "id": 8,
-      "nome": "Netflix",
-      "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
-     },
-     {
-      "id": 1796,
-      "nome": "Netflix Standard with Ads",
-      "logo": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
-     }
-    ],
-    "rent": [],
-    "buy": []
-   }
-  },
-  {
-   "id": 306936,
-   "imdb": "tt39044730",
-   "titulo": "Oxytoxin (Ocitocina)",
-   "original": "จุนใจไอดาว",
-   "lingua": "th",
-   "sinopse": "Um grupo de garotas populares conhecido como Toxxxxin domina a escola. Mas uma conexão inesperada com uma bolsista pode expor seus segredos mais ocultos.",
-   "poster": "/uYkp6LvjRLbwTGEiUiOFTk9g5UQ.jpg",
-   "generos": [
-    "Drama"
-   ],
-   "nota": 10,
-   "votos": 1,
-   "popularidade": 3.4317,
-   "primeira": "2026-11-07",
-   "ultimoEp": {
-    "data": "2026-11-21",
-    "temporada": 1,
-    "episodio": 3
-   },
-   "proximoEp": {
-    "data": "2026-11-28",
-    "temporada": 1,
-    "episodio": 4
-   },
-   "temporadas": [
-    {
-     "n": 1,
-     "data": "2026-11-07"
-    }
-   ],
-   "canais": [
-    "GMM 25"
-   ],
-   "trailer": "whry_7Bh1a8",
-   "provedores": {
-    "link": "https://www.themoviedb.org/tv/306936-chunaichaiodaw/watch?locale=BR",
-    "flatrate": [
-     {
-      "id": 8,
-      "nome": "Netflix",
-      "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
-     },
-     {
-      "id": 1796,
-      "nome": "Netflix Standard with Ads",
-      "logo": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
-     }
-    ],
-    "rent": [],
-    "buy": []
-   }
-  },
-  {
-   "id": 283579,
-   "imdb": "tt35704111",
-   "titulo": "Flores e Esperança",
-   "original": "Tuiskoms",
-   "lingua": "af",
-   "sinopse": "Após uma série de infortúnios, Fleur decide pegar a filha e voltar para a cidade onde nasceu em busca de um novo propósito na vida.",
-   "poster": "/7wQJtLkG1T208bH0zUAKwrzs3LS.jpg",
-   "generos": [
-    "Drama"
-   ],
-   "nota": 6,
-   "votos": 14,
-   "popularidade": 3.4551,
-   "primeira": "2025-02-28",
-   "ultimoEp": {
-    "data": "2025-02-28",
-    "temporada": 1,
-    "episodio": 7
-   },
-   "proximoEp": {
-    "data": "2026-12-08",
-    "temporada": 2,
-    "episodio": 1
-   },
-   "temporadas": [
-    {
-     "n": 1,
-     "data": "2025-02-28"
-    },
-    {
-     "n": 2,
-     "data": "2026-12-08"
-    }
-   ],
-   "canais": [
-    "Netflix"
-   ],
-   "trailer": "c0YyNLCxGWw",
-   "provedores": {
-    "link": "https://www.themoviedb.org/tv/283579-tuiskoms/watch?locale=BR",
-    "flatrate": [
-     {
-      "id": 8,
-      "nome": "Netflix",
-      "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
-     },
-     {
-      "id": 1796,
-      "nome": "Netflix Standard with Ads",
-      "logo": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
-     }
-    ],
-    "rent": [],
-    "buy": []
-   }
-  },
-  {
-   "id": 341603,
-   "imdb": "tt45857574",
-   "titulo": "Estrelas no Altar: Anele & Buzza",
-   "original": "Stars and Vows: Anele & Buzza",
-   "lingua": "en",
-   "sinopse": "Acompanhe a querida da mídia Anele Mdoda e seu noivo real Buzza James, desde as celebrações pré-casamento e momentos tensos em família até o tão esperado \"sim\".",
-   "poster": "/83Xdvzn668f62pjWgh3VU8sWQwO.jpg",
-   "generos": [
-    "Reality"
-   ],
-   "nota": 0,
-   "votos": 0,
-   "popularidade": 2.0708,
-   "primeira": "2026-11-13",
-   "ultimoEp": {
-    "data": "2026-11-20",
-    "temporada": 1,
-    "episodio": 2
-   },
-   "proximoEp": {
-    "data": "2026-11-27",
-    "temporada": 1,
-    "episodio": 3
-   },
-   "temporadas": [
-    {
-     "n": 1,
-     "data": "2026-11-13"
-    }
-   ],
-   "canais": [
-    "Netflix"
-   ],
-   "trailer": "AniFpDonG7c",
-   "provedores": {
-    "link": "https://www.themoviedb.org/tv/341603-stars-and-vows-anele-buzza/watch?locale=BR",
-    "flatrate": [
-     {
-      "id": 8,
-      "nome": "Netflix",
-      "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
-     },
-     {
-      "id": 1796,
-      "nome": "Netflix Standard with Ads",
-      "logo": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
-     }
-    ],
-    "rent": [],
-    "buy": []
-   }
-  },
-  {
-   "id": 224330,
-   "imdb": "tt27494436",
-   "titulo": "Ilhados com a Sogra",
-   "original": "Ilhados com a Sogra",
-   "lingua": "pt",
-   "sinopse": "Em busca de um prêmio que pode mudar suas vidas, vários casais embarcam em uma jornada para um lugar paradisíaco e enfrentam desafios com a ajuda da sogra.",
-   "poster": "/4Xr8Oib95kvkJTwttKHK7jEgJqt.jpg",
-   "generos": [
-    "Reality"
-   ],
-   "nota": 7.4,
-   "votos": 10,
-   "popularidade": 4.4349,
-   "primeira": "2023-10-09",
-   "ultimoEp": {
-    "data": "2026-11-25",
-    "temporada": 4,
-    "episodio": 4
-   },
-   "proximoEp": {
-    "data": "2026-12-02",
-    "temporada": 4,
-    "episodio": 5
-   },
    "temporadas": [
     {
      "n": 0,
-     "data": "2025-12-17"
+     "data": "2022-07-31"
     },
     {
      "n": 1,
-     "data": "2023-10-08"
+     "data": "2022-08-17"
     },
     {
      "n": 2,
-     "data": "2025-01-01"
+     "data": "2023-08-02"
     },
     {
      "n": 3,
-     "data": "2025-12-02"
+     "data": "2024-08-07"
     },
     {
      "n": 4,
-     "data": "2026-11-25"
+     "data": "2026-09-25"
     }
    ],
    "canais": [
-    "Netflix"
+    "WOW Presents Plus",
+    "Discovery+",
+    "HBO Go"
    ],
-   "trailer": "ENsatoHyVZI",
+   "trailer": "y0-a3dkGRys",
    "provedores": {
-    "link": "https://www.themoviedb.org/tv/224330-ilhados-com-a-sogra/watch?locale=BR",
+    "link": "https://www.themoviedb.org/tv/139203-drag-race-philippines/watch?locale=BR",
     "flatrate": [
      {
-      "id": 8,
-      "nome": "Netflix",
-      "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
-     },
-     {
-      "id": 1796,
-      "nome": "Netflix Standard with Ads",
-      "logo": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
-     }
-    ],
-    "rent": [],
-    "buy": []
-   }
-  },
-  {
-   "id": 326194,
-   "imdb": "tt43611663",
-   "titulo": "Hot Ones: Pimenta Extra",
-   "original": "Hot Ones: Extra Heat",
-   "lingua": "en",
-   "sinopse": "Nesta exclusiva série de especiais, Hot Ones: Pimenta Extra coloca celebridades na berlinda com perguntas de queimar a língua e asinhas ainda mais picantes.",
-   "poster": "/555dy45fvkxez6I8D981RYdM9yX.jpg",
-   "generos": [
-    "Talk"
-   ],
-   "nota": 5.5,
-   "votos": 2,
-   "popularidade": 2.0737,
-   "primeira": "2026-07-13",
-   "ultimoEp": {
-    "data": "2026-09-14",
-    "temporada": 1,
-    "episodio": 2
-   },
-   "proximoEp": {
-    "data": "2026-12-02",
-    "temporada": 1,
-    "episodio": 3
-   },
-   "temporadas": [
-    {
-     "n": 1,
-     "data": "2026-07-13"
-    }
-   ],
-   "canais": [
-    "Netflix"
-   ],
-   "trailer": null,
-   "provedores": {
-    "link": "https://www.themoviedb.org/tv/326194-hot-ones-extra-heat/watch?locale=BR",
-    "flatrate": [
-     {
-      "id": 8,
-      "nome": "Netflix",
-      "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
-     },
-     {
-      "id": 1796,
-      "nome": "Netflix Standard with Ads",
-      "logo": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
-     }
-    ],
-    "rent": [],
-    "buy": []
-   }
-  },
-  {
-   "id": 290388,
-   "imdb": "tt33989829",
-   "titulo": "Yolanthe",
-   "original": "YOLANTHE",
-   "lingua": "nl",
-   "sinopse": "Este reality acompanha Yolanthe Cabau em sua nova vida cheia de glamour em Los Angeles, enfrentando desafios inesperados e fantasmas do passado.",
-   "poster": "/yI2Z70b4vHfQWUFUY3rdZcTxqes.jpg",
-   "generos": [
-    "Reality"
-   ],
-   "nota": 6,
-   "votos": 1,
-   "popularidade": 1.7731,
-   "primeira": "2025-06-18",
-   "ultimoEp": {
-    "data": "2025-06-18",
-    "temporada": 1,
-    "episodio": 7
-   },
-   "proximoEp": {
-    "data": "2026-12-10",
-    "temporada": 2,
-    "episodio": 1
-   },
-   "temporadas": [
-    {
-     "n": 1,
-     "data": "2025-06-18"
-    },
-    {
-     "n": 2,
-     "data": "2026-12-10"
-    }
-   ],
-   "canais": [
-    "Netflix"
-   ],
-   "trailer": "TCyEj441wDo",
-   "provedores": {
-    "link": "https://www.themoviedb.org/tv/290388-yolanthe/watch?locale=BR",
-    "flatrate": [
-     {
-      "id": 8,
-      "nome": "Netflix",
-      "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
-     },
-     {
-      "id": 1796,
-      "nome": "Netflix Standard with Ads",
-      "logo": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
-     }
-    ],
-    "rent": [],
-    "buy": []
-   }
-  },
-  {
-   "id": 320936,
-   "imdb": null,
-   "titulo": "The Rotten Files with Stephanie Soo",
-   "original": "The Rotten Files with Stephanie Soo",
-   "lingua": "en",
-   "sinopse": "Neste podcast sobre crimes reais, Stephanie Soo disseca casos chocantes e conta a história de assassinos e predadores que acharam que nunca seriam descobertos.",
-   "poster": "/as9XgYO5GG8gON5tGckKeYdpfDQ.jpg",
-   "generos": [
-    "Crime",
-    "Talk"
-   ],
-   "nota": 7,
-   "votos": 1,
-   "popularidade": 1.0367,
-   "primeira": "2026-08-14",
-   "ultimoEp": {
-    "data": "2026-11-20",
-    "temporada": 1,
-    "episodio": 12
-   },
-   "proximoEp": null,
-   "temporadas": [
-    {
-     "n": 1,
-     "data": "2026-08-14"
-    }
-   ],
-   "canais": [
-    "Netflix"
-   ],
-   "trailer": null,
-   "provedores": {
-    "link": "https://www.themoviedb.org/tv/320936-the-rotten-files-with-stephanie-soo/watch?locale=BR",
-    "flatrate": [
-     {
-      "id": 8,
-      "nome": "Netflix",
-      "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
-     },
-     {
-      "id": 1796,
-      "nome": "Netflix Standard with Ads",
-      "logo": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
-     }
-    ],
-    "rent": [],
-    "buy": []
-   }
-  },
-  {
-   "id": 335643,
-   "imdb": null,
-   "titulo": "Barbie: Aventuras na Casa dos Sonhos",
-   "original": "Barbie: Dreamhouse Adventures",
-   "lingua": "en",
-   "sinopse": "Neste verão, a turma da Casa dos Sonhos parte rumo para uma viagem repleta de risadas, surpresas e aventuras únicas em um deslumbrante.",
-   "poster": "/qfGSMyRq0rSe4lVFO0VblBWNVY2.jpg",
-   "generos": [
-    "Animação",
-    "Comédia"
-   ],
-   "nota": 0,
-   "votos": 0,
-   "popularidade": 0.6808,
-   "primeira": "2026-06-12",
-   "ultimoEp": {
-    "data": "2026-11-20",
-    "temporada": 2,
-    "episodio": 7
-   },
-   "proximoEp": null,
-   "temporadas": [
-    {
-     "n": 1,
-     "data": "2026-06-12"
-    },
-    {
-     "n": 2,
-     "data": "2026-10-09"
-    }
-   ],
-   "canais": [
-    "YouTube"
-   ],
-   "trailer": null,
-   "provedores": {
-    "link": "https://www.themoviedb.org/tv/335643-barbie-dreamhouse-adventures/watch?locale=BR",
-    "flatrate": [
-     {
-      "id": 8,
-      "nome": "Netflix",
-      "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
-     },
-     {
-      "id": 1796,
-      "nome": "Netflix Standard with Ads",
-      "logo": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
-     }
-    ],
-    "rent": [],
-    "buy": []
-   }
-  },
-  {
-   "id": 334706,
-   "imdb": "tt27746908",
-   "titulo": "OUTLORE with Eleanor Neale",
-   "original": "OUTLORE with Eleanor Neale",
-   "lingua": "en",
-   "sinopse": "",
-   "poster": "/8tlYfhkJ3A3bxGeoC7nS9GF9i7v.jpg",
-   "generos": [
-    "Talk",
-    "Crime"
-   ],
-   "nota": 7,
-   "votos": 1,
-   "popularidade": 0.6948,
-   "primeira": "2026-09-27",
-   "ultimoEp": {
-    "data": "2026-11-22",
-    "temporada": 1,
-    "episodio": 9
-   },
-   "proximoEp": null,
-   "temporadas": [
-    {
-     "n": 0,
-     "data": "2026-09-27"
-    },
-    {
-     "n": 1,
-     "data": "2026-09-27"
-    }
-   ],
-   "canais": [
-    "Netflix"
-   ],
-   "trailer": null,
-   "provedores": {
-    "link": "https://www.themoviedb.org/tv/334706-outlore-with-eleanor-neale/watch?locale=BR",
-    "flatrate": [
-     {
-      "id": 8,
-      "nome": "Netflix",
-      "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
-     },
-     {
-      "id": 1796,
-      "nome": "Netflix Standard with Ads",
-      "logo": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
-     }
-    ],
-    "rent": [],
-    "buy": []
-   }
-  },
-  {
-   "id": 334702,
-   "imdb": null,
-   "titulo": "Last Trace with Kaelyn Moore",
-   "original": "Last Trace with Kaelyn Moore",
-   "lingua": "en",
-   "sinopse": "",
-   "poster": "/a8hgF7UAoshScIhzc6aoaAQpxkc.jpg",
-   "generos": [
-    "Talk"
-   ],
-   "nota": 0,
-   "votos": 0,
-   "popularidade": 0.4143,
-   "primeira": "2026-09-28",
-   "ultimoEp": {
-    "data": "2026-11-23",
-    "temporada": 1,
-    "episodio": 9
-   },
-   "proximoEp": null,
-   "temporadas": [
-    {
-     "n": 1,
-     "data": "2026-09-28"
-    }
-   ],
-   "canais": [
-    "Netflix"
-   ],
-   "trailer": null,
-   "provedores": {
-    "link": "https://www.themoviedb.org/tv/334702-last-trace-with-kaelyn-moore/watch?locale=BR",
-    "flatrate": [
-     {
-      "id": 8,
-      "nome": "Netflix",
-      "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
-     },
-     {
-      "id": 1796,
-      "nome": "Netflix Standard with Ads",
-      "logo": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
-     }
-    ],
-    "rent": [],
-    "buy": []
-   }
-  },
-  {
-   "id": 235904,
-   "imdb": "tt21627122",
-   "titulo": "Spinners – Vivendo no Limite",
-   "original": "Spinners",
-   "lingua": "en",
-   "sinopse": "Ethan é um motorista de 17 anos que trabalha para uma gangue local. Desgostoso com a vida de gangues, Ethan descobre uma possível saída através de spinning, um esporte a motor extremo. Mas a iminente guerra de gangues põe em risco essa esperança.",
-   "poster": "/5XPrBrKyOuqQh3sMOZivn4339MX.jpg",
-   "generos": [
-    "Crime",
-    "Drama"
-   ],
-   "nota": 7.8,
-   "votos": 6,
-   "popularidade": 7.2118,
-   "primeira": "2023-11-08",
-   "ultimoEp": {
-    "data": "2026-11-22",
-    "temporada": 2,
-    "episodio": 5
-   },
-   "proximoEp": {
-    "data": "2026-11-29",
-    "temporada": 2,
-    "episodio": 6
-   },
-   "temporadas": [
-    {
-     "n": 1,
-     "data": "2023-11-08"
-    },
-    {
-     "n": 2,
-     "data": "2026-10-25"
-    }
-   ],
-   "canais": [
-    "Canal+",
-    "Showmax",
-    "Mzanzi Magic"
-   ],
-   "trailer": "wJfvUrDssh8",
-   "provedores": {
-    "link": "https://www.themoviedb.org/tv/235904-spinners/watch?locale=BR",
-    "flatrate": [
-     {
-      "id": 307,
-      "nome": "Globoplay",
-      "logo": "/9A6Oxd3F7iXm7mds7CxYOBicojs.png"
-     }
-    ],
-    "rent": [],
-    "buy": []
-   }
-  },
-  {
-   "id": 221998,
-   "imdb": "tt10928084",
-   "titulo": "Papo de Segunda",
-   "original": "Papo de Segunda",
-   "lingua": "pt",
-   "sinopse": "No programa são debatidos diversos assuntos da atualidade. São quatro pontos de vista, por vezes conflitantes, ora solidários, mas sempre divertidos.",
-   "poster": "/4dYawy4T0AEhsHyPPTr5LGxJ4T0.jpg",
-   "generos": [
-    "Talk"
-   ],
-   "nota": 10,
-   "votos": 1,
-   "popularidade": 5.4769,
-   "primeira": "2015-06-08",
-   "ultimoEp": {
-    "data": "2026-11-16",
-    "temporada": 18,
-    "episodio": 30
-   },
-   "proximoEp": null,
-   "temporadas": [
-    {
-     "n": 1,
-     "data": "2015-06-08"
-    },
-    {
-     "n": 14,
-     "data": "2023-01-02"
-    },
-    {
-     "n": 15,
-     "data": "2023-03-13"
-    },
-    {
-     "n": 16,
-     "data": "2024-04-22"
-    },
-    {
-     "n": 17,
-     "data": "2025-05-05"
-    },
-    {
-     "n": 18,
-     "data": "2026-04-27"
-    }
-   ],
-   "canais": [
-    "GNT"
-   ],
-   "trailer": null,
-   "provedores": {
-    "link": "https://www.themoviedb.org/tv/221998-papo-de-segunda/watch?locale=BR",
-    "flatrate": [
-     {
-      "id": 307,
-      "nome": "Globoplay",
-      "logo": "/9A6Oxd3F7iXm7mds7CxYOBicojs.png"
-     }
-    ],
-    "rent": [],
-    "buy": []
-   }
-  },
-  {
-   "id": 328440,
-   "imdb": "tt48805877",
-   "titulo": "Lá na Minha Terra",
-   "original": "Lá na Minha Terra",
-   "lingua": "pt",
-   "sinopse": "Rosenda, mulher sertaneja e mãe de quatro filhos, parte para São Paulo após descobrir que o marido desaparecido pode estar vivo; ao chegar, encontra um homem transformado: rico, casado, e disposto a apagá-la do passado. Rosenda decide ficar na \"terra da garoa\", na companhia dos filhos, e reconstruir sua vida após a decepção com o homem que amou.",
-   "poster": "/w4Sj5uMPXOp4M9DnCm4vEepxtcb.jpg",
-   "generos": [
-    "Soap",
-    "Drama",
-    "Comédia"
-   ],
-   "nota": 0,
-   "votos": 0,
-   "popularidade": 2.9071,
-   "primeira": "2026-11-09",
-   "ultimoEp": {
-    "data": "2026-11-24",
-    "temporada": 1,
-    "episodio": 14
-   },
-   "proximoEp": {
-    "data": "2026-11-25",
-    "temporada": 1,
-    "episodio": 15
-   },
-   "temporadas": [
-    {
-     "n": 1,
-     "data": "2026-11-09"
-    }
-   ],
-   "canais": [
-    "TV Globo"
-   ],
-   "trailer": null,
-   "provedores": {
-    "link": "https://www.themoviedb.org/tv/328440-la-na-minha-terra/watch?locale=BR",
-    "flatrate": [
-     {
-      "id": 307,
-      "nome": "Globoplay",
-      "logo": "/9A6Oxd3F7iXm7mds7CxYOBicojs.png"
-     }
-    ],
-    "rent": [],
-    "buy": []
-   }
-  },
-  {
-   "id": 226254,
-   "imdb": "tt36325058",
-   "titulo": "Pablo & Luisão",
-   "original": "Pablo & Luisão",
-   "lingua": "pt",
-   "sinopse": "A série acompanha as divertidas e caóticas aventuras de Luisão (Aílton Graça), pai do humorista Paulo Vieira, e de seu inseparável amigo Pablo (Otávio Muller). Juntos, eles vivem inventando planos mirabolantes que acabam gerando consequências inusitadas – especialmente para as crianças Paulo (Yves Miguel), seu irmão Neto (João Pedro Martins) e a mãe dos meninos, Conceição (Dira Paes). Inspirada em acontecimentos reais da infância de Paulo Vieira, a trama mistura humor e afeto familiar.",
-   "poster": "/5dzl9zehL0zZ6gWQisU05eSQpOv.jpg",
-   "generos": [
-    "Comédia",
-    "Família"
-   ],
-   "nota": 8.4,
-   "votos": 4,
-   "popularidade": 3.1162,
-   "primeira": "2025-05-22",
-   "ultimoEp": {
-    "data": "2025-05-22",
-    "temporada": 1,
-    "episodio": 16
-   },
-   "proximoEp": {
-    "data": "2026-12-03",
-    "temporada": 2,
-    "episodio": 1
-   },
-   "temporadas": [
-    {
-     "n": 1,
-     "data": "2025-05-21"
-    },
-    {
-     "n": 2,
-     "data": "2026-12-03"
-    }
-   ],
-   "canais": [
-    "Globoplay"
-   ],
-   "trailer": null,
-   "provedores": {
-    "link": "https://www.themoviedb.org/tv/226254-pablo-luisao/watch?locale=BR",
-    "flatrate": [
-     {
-      "id": 307,
-      "nome": "Globoplay",
-      "logo": "/9A6Oxd3F7iXm7mds7CxYOBicojs.png"
-     }
-    ],
-    "rent": [],
-    "buy": []
-   }
-  },
-  {
-   "id": 287934,
-   "imdb": "tt35400429",
-   "titulo": "Chef de Alto Nível",
-   "original": "Chef de Alto Nível",
-   "lingua": "pt",
-   "sinopse": "Durante toda a competição, 24 participantes se dividem em três categorias, os três níveis de cozinha. Cada um terá a oportunidade de mostrar suas habilidades, enfrentando grandes desafios, além de desenvolver seu talento, com direito à mentoria e avaliação de chefs renomados.",
-   "poster": "/8s16MorTyLQ2jYkbEawf2PpN5dX.jpg",
-   "generos": [
-    "Reality"
-   ],
-   "nota": 0,
-   "votos": 0,
-   "popularidade": 2.7905,
-   "primeira": "2025-07-15",
-   "ultimoEp": {
-    "data": "2026-11-24",
-    "temporada": 2,
-    "episodio": 11
-   },
-   "proximoEp": null,
-   "temporadas": [
-    {
-     "n": 1,
-     "data": "2025-07-15"
-    },
-    {
-     "n": 2,
-     "data": "2026-10-13"
-    }
-   ],
-   "canais": [
-    "TV Globo"
-   ],
-   "trailer": null,
-   "provedores": {
-    "link": "https://www.themoviedb.org/tv/287934-chef-de-alto-nivel/watch?locale=BR",
-    "flatrate": [
-     {
-      "id": 307,
-      "nome": "Globoplay",
-      "logo": "/9A6Oxd3F7iXm7mds7CxYOBicojs.png"
-     }
-    ],
-    "rent": [],
-    "buy": []
-   }
-  },
-  {
-   "id": 208716,
-   "imdb": "tt18285084",
-   "titulo": "Domingão com Huck",
-   "original": "Domingão com Huck",
-   "lingua": "pt",
-   "sinopse": "Apresentado por Luciano Huck, o programa leva aos brasileiros entretenimento, diversão e emoção em quadros amados pelo público, além de contar boas histórias em matérias especiais pelo país.",
-   "poster": "/569LRJdSiSwAuisahIjhF5EGTid.jpg",
-   "generos": [
-    "Talk"
-   ],
-   "nota": 7,
-   "votos": 1,
-   "popularidade": 2.5782,
-   "primeira": "2021-09-05",
-   "ultimoEp": {
-    "data": "2026-11-22",
-    "temporada": 6,
-    "episodio": 47
-   },
-   "proximoEp": {
-    "data": "2026-11-29",
-    "temporada": 6,
-    "episodio": 48
-   },
-   "temporadas": [
-    {
-     "n": 1,
-     "data": "2021-09-05"
-    },
-    {
-     "n": 2,
-     "data": "2022-01-02"
-    },
-    {
-     "n": 3,
-     "data": "2023-01-01"
-    },
-    {
-     "n": 4,
-     "data": "2024-01-07"
-    },
-    {
-     "n": 5,
-     "data": "2025-01-05"
-    },
-    {
-     "n": 6,
-     "data": "2026-01-04"
-    }
-   ],
-   "canais": [
-    "TV Globo"
-   ],
-   "trailer": null,
-   "provedores": {
-    "link": "https://www.themoviedb.org/tv/208716-domingao-com-huck/watch?locale=BR",
-    "flatrate": [
-     {
-      "id": 307,
-      "nome": "Globoplay",
-      "logo": "/9A6Oxd3F7iXm7mds7CxYOBicojs.png"
-     }
-    ],
-    "rent": [],
-    "buy": []
-   }
-  },
-  {
-   "id": 201177,
-   "imdb": "tt21940522",
-   "titulo": "Avisa Lá Que Eu Vou",
-   "original": "Avisa Lá Que Eu Vou",
-   "lingua": "pt",
-   "sinopse": "A partir de um anúncio nas suas redes sociais, Paulo Vieira sai em viagem pelo interior do Brasil em busca do que esse país tem de melhor: brasileiros e suas histórias.",
-   "poster": "/n7fOa8q4Wckc4o0iwk9qSldkk6q.jpg",
-   "generos": [
-    "Talk"
-   ],
-   "nota": 10,
-   "votos": 1,
-   "popularidade": 2.379,
-   "primeira": "2022-05-03",
-   "ultimoEp": {
-    "data": "2026-11-23",
-    "temporada": 5,
-    "episodio": 7
-   },
-   "proximoEp": null,
-   "temporadas": [
-    {
-     "n": 1,
-     "data": "2022-05-03"
-    },
-    {
-     "n": 2,
-     "data": "2023-05-02"
-    },
-    {
-     "n": 3,
-     "data": "2024-05-08"
-    },
-    {
-     "n": 4,
-     "data": "2025-06-17"
-    },
-    {
-     "n": 5,
-     "data": "2026-10-12"
-    }
-   ],
-   "canais": [
-    "GNT"
-   ],
-   "trailer": null,
-   "provedores": {
-    "link": "https://www.themoviedb.org/tv/201177-avisa-la-que-eu-vou/watch?locale=BR",
-    "flatrate": [
-     {
-      "id": 307,
-      "nome": "Globoplay",
-      "logo": "/9A6Oxd3F7iXm7mds7CxYOBicojs.png"
-     }
-    ],
-    "rent": [],
-    "buy": []
-   }
-  },
-  {
-   "id": 336716,
-   "imdb": "tt37672352",
-   "titulo": "Delegado",
-   "original": "Delegado",
-   "lingua": "pt",
-   "sinopse": "Um jovem bem-intencionado e ingênuo movido por um senso idealizado de justiça ingressa na Polícia Civil e enfrenta uma realidade dura marcada por corrupção, precariedade e contradições sociais.",
-   "poster": "/hYYnerMVNdiQBk6QfxzYVGuzavG.jpg",
-   "generos": [
-    "Drama",
-    "Comédia"
-   ],
-   "nota": 10,
-   "votos": 1,
-   "popularidade": 1.8215,
-   "primeira": "2026-10-30",
-   "ultimoEp": {
-    "data": "2026-11-20",
-    "temporada": 1,
-    "episodio": 4
-   },
-   "proximoEp": {
-    "data": "2026-11-27",
-    "temporada": 1,
-    "episodio": 5
-   },
-   "temporadas": [
-    {
-     "n": 1,
-     "data": "2026-10-30"
-    }
-   ],
-   "canais": [
-    "Canal Brasil"
-   ],
-   "trailer": null,
-   "provedores": {
-    "link": "https://www.themoviedb.org/tv/336716-delegado/watch?locale=BR",
-    "flatrate": [
-     {
-      "id": 307,
-      "nome": "Globoplay",
-      "logo": "/9A6Oxd3F7iXm7mds7CxYOBicojs.png"
-     },
-     {
-      "id": 484,
-      "nome": "Claro tv+",
-      "logo": "/olzQMHt2SX7iNy8WDMR299hVFcL.png"
-     }
-    ],
-    "rent": [],
-    "buy": []
-   }
-  },
-  {
-   "id": 341531,
-   "imdb": null,
-   "titulo": "A Clínica",
-   "original": "A Clínica",
-   "lingua": "pt",
-   "sinopse": "O documentário ‘A Clínica’ revisita a trajetória da Clínica Maxwell a partir de relatos de pessoas ligadas à instituição e revela os impactos de uma história que atravessou gerações.",
-   "poster": "/1zQAFeQgAJoemIMtN9AbQYKEOIS.jpg",
-   "generos": [
-    "Documentário"
-   ],
-   "nota": 0,
-   "votos": 0,
-   "popularidade": 1.22,
-   "primeira": "2026-11-09",
-   "ultimoEp": {
-    "data": "2026-11-25",
-    "temporada": 1,
-    "episodio": 6
-   },
-   "proximoEp": null,
-   "temporadas": [
-    {
-     "n": 1,
-     "data": "2026-11-09"
-    }
-   ],
-   "canais": [
-    "Globoplay"
-   ],
-   "trailer": null,
-   "provedores": {
-    "link": "https://www.themoviedb.org/tv/341531-a-clinica/watch?locale=BR",
-    "flatrate": [
-     {
-      "id": 307,
-      "nome": "Globoplay",
-      "logo": "/9A6Oxd3F7iXm7mds7CxYOBicojs.png"
-     }
-    ],
-    "rent": [],
-    "buy": []
-   }
-  },
-  {
-   "id": 296395,
-   "imdb": "tt37517058",
-   "titulo": "Prêmio Multishow de Humor: O Reality",
-   "original": "Prêmio Multishow de Humor: O Reality",
-   "lingua": "pt",
-   "sinopse": "O Prêmio Multishow de Humor voltou em formato de reality. Convivência, bastidores e os desafios de criar comédia, com apresentação de Dani Calabresa.",
-   "poster": "/df1QCfuhuB9UyWMFwelXH4a3Pzp.jpg",
-   "generos": [
-    "Reality"
-   ],
-   "nota": 0,
-   "votos": 0,
-   "popularidade": 1.3169,
-   "primeira": "2025-07-01",
-   "ultimoEp": {
-    "data": "2025-08-26",
-    "temporada": 1,
-    "episodio": 15
-   },
-   "proximoEp": {
-    "data": "2026-11-30",
-    "temporada": 2,
-    "episodio": 1
-   },
-   "temporadas": [
-    {
-     "n": 1,
-     "data": "2025-06-30"
-    },
-    {
-     "n": 2,
-     "data": "2026-11-30"
-    }
-   ],
-   "canais": [
-    "Multishow"
-   ],
-   "trailer": null,
-   "provedores": {
-    "link": "https://www.themoviedb.org/tv/296395-premio-multishow-de-humor-o-reality/watch?locale=BR",
-    "flatrate": [
-     {
-      "id": 307,
-      "nome": "Globoplay",
-      "logo": "/9A6Oxd3F7iXm7mds7CxYOBicojs.png"
-     }
-    ],
-    "rent": [],
-    "buy": []
-   }
-  },
-  {
-   "id": 336077,
-   "imdb": null,
-   "titulo": "Blogueirinha Entrevista",
-   "original": "Blogueirinha Entrevista",
-   "lingua": "pt",
-   "sinopse": "O programa apresenta o humor ácido da Blogueirinha em sabatinas com celebridades brasileiras, contando agora com a presença inédita de auditório.",
-   "poster": "/duPN1Uk6OHc84jTpBN2c4zbqgtg.jpg",
-   "generos": [
-    "Talk",
-    "Comédia"
-   ],
-   "nota": 0,
-   "votos": 0,
-   "popularidade": 0.5282,
-   "primeira": "2026-09-28",
-   "ultimoEp": {
-    "data": "2026-11-16",
-    "temporada": 1,
-    "episodio": 8
-   },
-   "proximoEp": null,
-   "temporadas": [
-    {
-     "n": 1,
-     "data": "2026-09-28"
-    }
-   ],
-   "canais": [
-    "Multishow"
-   ],
-   "trailer": null,
-   "provedores": {
-    "link": "https://www.themoviedb.org/tv/336077-blogueirinha-entrevista/watch?locale=BR",
-    "flatrate": [
-     {
-      "id": 307,
-      "nome": "Globoplay",
-      "logo": "/9A6Oxd3F7iXm7mds7CxYOBicojs.png"
-     },
-     {
-      "id": 2774,
-      "nome": "Multishow Amazon Channel",
-      "logo": "/zg4JTdoXkZBw5YriGHAeRNizSZf.png"
-     }
-    ],
-    "rent": [],
-    "buy": []
-   }
-  },
-  {
-   "id": 19653,
-   "imdb": "tt0315288",
-   "titulo": "Big Brother Brasil",
-   "original": "Big Brother Brasil",
-   "lingua": "pt",
-   "sinopse": "Confinados em uma casa, participantes precisam conviver — e enfrentar diferentes personalidades —, dividir tarefas, participar de competições e enfrentar o temido \"paredão\" até quem um deles se consagre campeão do reality show mais assistido do Brasil desde 2002. E tudo isso permeado por festas, romances e muitas confusões.",
-   "poster": "/7n7uoEiIcpZkEFNZ83PFPrQzoaR.jpg",
-   "generos": [
-    "Reality"
-   ],
-   "nota": 4.7,
-   "votos": 50,
-   "popularidade": 0.4799,
-   "primeira": "2002-01-29",
-   "ultimoEp": {
-    "data": "2026-04-21",
-    "temporada": 26,
-    "episodio": 100
-   },
-   "proximoEp": {
-    "data": "2027-01-11",
-    "temporada": 27,
-    "episodio": 1
-   },
-   "temporadas": [
-    {
-     "n": 0,
-     "data": "2002-04-07"
-    },
-    {
-     "n": 1,
-     "data": "2002-01-25"
-    },
-    {
-     "n": 2,
-     "data": "2002-05-10"
-    },
-    {
-     "n": 3,
-     "data": "2003-01-11"
-    },
-    {
-     "n": 4,
-     "data": "2004-01-10"
-    },
-    {
-     "n": 5,
-     "data": "2005-01-07"
-    },
-    {
-     "n": 6,
-     "data": "2006-01-07"
-    },
-    {
-     "n": 7,
-     "data": "2007-01-06"
-    },
-    {
-     "n": 8,
-     "data": "2008-01-05"
-    },
-    {
-     "n": 9,
-     "data": "2009-01-10"
-    },
-    {
-     "n": 10,
-     "data": "2010-01-09"
-    },
-    {
-     "n": 11,
-     "data": "2011-01-08"
-    },
-    {
-     "n": 12,
-     "data": "2012-01-07"
-    },
-    {
-     "n": 13,
-     "data": "2013-01-05"
-    },
-    {
-     "n": 14,
-     "data": "2014-01-11"
-    },
-    {
-     "n": 15,
-     "data": "2015-01-17"
-    },
-    {
-     "n": 16,
-     "data": "2016-01-16"
-    },
-    {
-     "n": 17,
-     "data": "2017-01-20"
-    },
-    {
-     "n": 18,
-     "data": "2018-01-20"
-    },
-    {
-     "n": 19,
-     "data": "2019-01-13"
-    },
-    {
-     "n": 20,
-     "data": "2020-01-19"
-    },
-    {
-     "n": 21,
-     "data": "2021-01-23"
-    },
-    {
-     "n": 22,
-     "data": "2022-01-15"
-    },
-    {
-     "n": 23,
-     "data": "2023-01-13"
-    },
-    {
-     "n": 24,
-     "data": "2024-01-05"
-    },
-    {
-     "n": 25,
-     "data": "2025-01-12"
-    },
-    {
-     "n": 26,
-     "data": "2026-01-08"
-    },
-    {
-     "n": 27,
-     "data": "2027-01-11"
-    }
-   ],
-   "canais": [
-    "TV Globo"
-   ],
-   "trailer": null,
-   "provedores": {
-    "link": "https://www.themoviedb.org/tv/19653-big-brother-brasil/watch?locale=BR",
-    "flatrate": [
-     {
-      "id": 307,
-      "nome": "Globoplay",
-      "logo": "/9A6Oxd3F7iXm7mds7CxYOBicojs.png"
-     }
-    ],
-    "rent": [],
-    "buy": []
-   }
-  },
-  {
-   "id": 337034,
-   "imdb": null,
-   "titulo": "Arquivos do Céu",
-   "original": "Arquivos do Céu",
-   "lingua": "pt",
-   "sinopse": "Em cinco episódios, a série documental mergulha nos casos ufológicos mais intrigantes do Brasil, seguindo pistas que atravessam décadas e ultrapassam nossas fronteiras.",
-   "poster": "/gLWOQbcz56I61IlW26JTBHLWtGC.jpg",
-   "generos": [
-    "Documentário"
-   ],
-   "nota": 0,
-   "votos": 0,
-   "popularidade": 0.4286,
-   "primeira": "2026-10-29",
-   "ultimoEp": {
-    "data": "2026-10-29",
-    "temporada": 1,
-    "episodio": 1
-   },
-   "proximoEp": {
-    "data": "2026-11-29",
-    "temporada": 1,
-    "episodio": 2
-   },
-   "temporadas": [
-    {
-     "n": 1,
-     "data": "2026-10-29"
-    }
-   ],
-   "canais": [
-    "Globoplay"
-   ],
-   "trailer": null,
-   "provedores": {
-    "link": "https://www.themoviedb.org/tv/337034-arquivos-do-ceu/watch?locale=BR",
-    "flatrate": [
-     {
-      "id": 307,
-      "nome": "Globoplay",
-      "logo": "/9A6Oxd3F7iXm7mds7CxYOBicojs.png"
-     }
-    ],
-    "rent": [],
-    "buy": []
-   }
-  },
-  {
-   "id": 341346,
-   "imdb": null,
-   "titulo": "Voz da Consciência",
-   "original": "Voz da Consciência",
-   "lingua": "pt",
-   "sinopse": "Programa mergulha na história do samba a partir da trajetória de nove grandes artistas que consagraram o ritmo no Brasil e no mundo. As conversas exaltam a contribuição da comunidade negra na construção e na perpetuação do samba.",
-   "poster": "/aOclfk9UroZdrjrCeVgQ4MdwcXv.jpg",
-   "generos": [
-    "Talk",
-    "Documentário"
-   ],
-   "nota": 0,
-   "votos": 0,
-   "popularidade": 0.2977,
-   "primeira": "2024-11-18",
-   "ultimoEp": {
-    "data": "2026-11-19",
-    "temporada": 3,
-    "episodio": 3
-   },
-   "proximoEp": null,
-   "temporadas": [
-    {
-     "n": 1,
-     "data": "2024-11-18"
-    },
-    {
-     "n": 2,
-     "data": "2025-11-01"
-    },
-    {
-     "n": 3,
-     "data": "2026-11-05"
-    }
-   ],
-   "canais": [],
-   "trailer": null,
-   "provedores": {
-    "link": "https://www.themoviedb.org/tv/341346-voz-da-consciencia/watch?locale=BR",
-    "flatrate": [
-     {
-      "id": 307,
-      "nome": "Globoplay",
-      "logo": "/9A6Oxd3F7iXm7mds7CxYOBicojs.png"
-     },
-     {
-      "id": 2774,
-      "nome": "Multishow Amazon Channel",
-      "logo": "/zg4JTdoXkZBw5YriGHAeRNizSZf.png"
+      "id": 546,
+      "nome": "WOW Presents Plus",
+      "logo": "/8pME6TzkiDzMnKZioeoqqvfaNya.png"
      }
     ],
     "rent": [],
@@ -35753,72 +35819,6 @@
       "id": 484,
       "nome": "Claro tv+",
       "logo": "/olzQMHt2SX7iNy8WDMR299hVFcL.png"
-     }
-    ],
-    "rent": [],
-    "buy": []
-   }
-  },
-  {
-   "id": 139203,
-   "imdb": "tt15245094",
-   "titulo": "Drag Race Philippines",
-   "original": "Drag Race Philippines",
-   "lingua": "en",
-   "sinopse": "O fenômeno mundial das competições drag chega às Filipinas! Doze queens icônicas disputam o título de primeira Drag Superstar do país. Chegou a hora de os filipinos brilharem, querida... e isso é só o começo!",
-   "poster": "/h8bFpa3dweemBBup9GYcq9ppK0v.jpg",
-   "generos": [
-    "Reality"
-   ],
-   "nota": 7.7,
-   "votos": 6,
-   "popularidade": 7.5094,
-   "primeira": "2022-08-17",
-   "ultimoEp": {
-    "data": "2026-11-20",
-    "temporada": 4,
-    "episodio": 9
-   },
-   "proximoEp": {
-    "data": "2026-11-27",
-    "temporada": 4,
-    "episodio": 10
-   },
-   "temporadas": [
-    {
-     "n": 0,
-     "data": "2022-07-31"
-    },
-    {
-     "n": 1,
-     "data": "2022-08-17"
-    },
-    {
-     "n": 2,
-     "data": "2023-08-02"
-    },
-    {
-     "n": 3,
-     "data": "2024-08-07"
-    },
-    {
-     "n": 4,
-     "data": "2026-09-25"
-    }
-   ],
-   "canais": [
-    "WOW Presents Plus",
-    "Discovery+",
-    "HBO Go"
-   ],
-   "trailer": "y0-a3dkGRys",
-   "provedores": {
-    "link": "https://www.themoviedb.org/tv/139203-drag-race-philippines/watch?locale=BR",
-    "flatrate": [
-     {
-      "id": 546,
-      "nome": "WOW Presents Plus",
-      "logo": "/8pME6TzkiDzMnKZioeoqqvfaNya.png"
      }
     ],
     "rent": [],
@@ -39015,7 +39015,7 @@
    ],
    "nota": 6.4,
    "votos": 9,
-   "popularidade": 4.9402,
+   "popularidade": 5.1362,
    "primeira": "2023-02-28",
    "ultimoEp": {
     "data": "2026-03-31",

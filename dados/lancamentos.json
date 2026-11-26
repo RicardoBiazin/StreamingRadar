@@ -1,6 +1,6 @@
 {
  "fonte": "tmdb",
- "coletadoEm": "2026-11-26T04:09:02.486Z",
+ "coletadoEm": "2026-11-26T04:13:58.166Z",
  "de": "2026-11-16",
  "ate": "2027-05-30",
  "itens": [
@@ -3026,7 +3026,7 @@
    "sinopse": "Após passar por uma tragédia pessoal, o jovem Heitor Peregrino encara o maior desafio de sua vida: deixar a faculdade de física para gerir a cia teatral que pertenceu aos seus pais.",
    "poster": "/mjh101OgqDiGpeLvBwlyRpqQi5h.jpg",
    "trailer": null,
-   "popularidade": 0.4181,
+   "popularidade": 0.4471,
    "plataformas": [],
    "justwatch": null,
    "duracao": null,
@@ -4656,6 +4656,42 @@
    ]
   },
   {
+   "id": "serie-221122",
+   "tmdb": 221122,
+   "imdb": "tt21340132",
+   "tipo": "serie",
+   "titulo": "FBI: Casos Reais",
+   "original": "FBI TRUE",
+   "data": "2026-12-01",
+   "semana": "2026-w49",
+   "segunda": "2026-11-30",
+   "generos": [
+    "Documentário",
+    "Crime"
+   ],
+   "nota": 6.4,
+   "votos": 9,
+   "sinopse": "A série segue o mundo dos agentes do FBI através de vídeos de vigilância, interrogatórios com sequestradores e terroristas e fotos dos antigos casos dos agentes.",
+   "poster": "/79MqEAlYc47yAkO2MBWQKBZaB6q.jpg",
+   "trailer": null,
+   "popularidade": 5.1362,
+   "plataformas": [
+    {
+     "id": null,
+     "nome": "Paramount Plus",
+     "logo": null,
+     "tipo": "assinatura",
+     "inferido": true
+    }
+   ],
+   "justwatch": null,
+   "temporada": 9,
+   "canais": [
+    "CBS",
+    "Paramount+"
+   ]
+  },
+  {
    "id": "serie-294607",
    "tmdb": 294607,
    "imdb": "tt37433759",
@@ -4689,42 +4725,6 @@
    "temporada": 1,
    "canais": [
     "Netflix"
-   ]
-  },
-  {
-   "id": "serie-221122",
-   "tmdb": 221122,
-   "imdb": "tt21340132",
-   "tipo": "serie",
-   "titulo": "FBI: Casos Reais",
-   "original": "FBI TRUE",
-   "data": "2026-12-01",
-   "semana": "2026-w49",
-   "segunda": "2026-11-30",
-   "generos": [
-    "Documentário",
-    "Crime"
-   ],
-   "nota": 6.4,
-   "votos": 9,
-   "sinopse": "A série segue o mundo dos agentes do FBI através de vídeos de vigilância, interrogatórios com sequestradores e terroristas e fotos dos antigos casos dos agentes.",
-   "poster": "/79MqEAlYc47yAkO2MBWQKBZaB6q.jpg",
-   "trailer": null,
-   "popularidade": 4.9402,
-   "plataformas": [
-    {
-     "id": null,
-     "nome": "Paramount Plus",
-     "logo": null,
-     "tipo": "assinatura",
-     "inferido": true
-    }
-   ],
-   "justwatch": null,
-   "temporada": 9,
-   "canais": [
-    "CBS",
-    "Paramount+"
    ]
   },
   {
@@ -9165,7 +9165,7 @@
    "sinopse": "Matt, um viúvo obstinado, é o proprietário de uma oficina de carros clássicos. Quando sua filha separada e seus filhos adolescentes chegam à sua casa, a verdadeira restauração começa.",
    "poster": "/7CGvzN6cjzOkmtoWqQdgEZRhQfy.jpg",
    "trailer": "bl6Ib5T_mBE",
-   "popularidade": 13.8828,
+   "popularidade": 14.5665,
    "plataformas": [
     {
      "id": 337,
@@ -9676,7 +9676,7 @@
    "sinopse": "Fable é um assassino invencível, capaz de eliminar qualquer alvo em menos de seis segundos. Um dia, a chefia da organização ordena que ele não mate ninguém por um ano e tenha uma vida comum. Assim começa a pausa de um ano, cómica e ligeiramente excêntrica, da matança, de Fable.",
    "poster": "/svJlYlNgkHNi8bvYxZPFXHYI4EM.jpg",
    "trailer": null,
-   "popularidade": 17.2451,
+   "popularidade": 17.6511,
    "plataformas": [
     {
      "id": 337,
@@ -11932,7 +11932,7 @@
    "sinopse": "Marie, uma jovem babá e empregada doméstica, está prestes a se casar com seu patrão, Christian, um viúvo rico e mais velho. No entanto, ela esconde um segredo: durante a Segunda Guerra Mundial, teve um relacionamento com um soldado alemão. Agora, com o passado ameaçando vir à tona, ela se vê forçada a fazer de tudo para preservar seu novo status de senhora da casa em meio ao caos do pós-guerra.",
    "poster": "/moWsebxgJjFB19CcZMvDjHEEbGp.jpg",
    "trailer": null,
-   "popularidade": 1.3737,
+   "popularidade": 1.1612,
    "plataformas": [],
    "justwatch": null,
    "duracao": 134,

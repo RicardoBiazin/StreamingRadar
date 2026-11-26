@@ -76,7 +76,7 @@ for (const [nome, html] of todas) {
       ok(existsSync(pub + '/' + arq), `${nome}: link interno quebrado ${alvo}`);
     } else {
       // o site é relativo para abrir também direto do disco: confere o arquivo a partir da pasta da página
-      const destino = resolve(pub, pasta, alvo.split('#')[0] || 'index.html');
+      const destino = resolve(pub, pasta, alvo.split('#')[0].split('?')[0] || 'index.html');
       // sem catálogo coletado (modo exemplo), o link do menu para /catalogo/ não tem destino
       const semCatalogo = !existsSync(caminho('dados/catalogo/bruto.json')) && /catalogo\/?$/.test(alvo);
       ok(semCatalogo || existsSync(destino) || (existsSync(destino) === false && existsSync(resolve(destino, 'index.html'))), `${nome}: link relativo quebrado ${alvo}`);
@@ -124,7 +124,7 @@ for (const [nome, html] of todas) {
       }
     }
   }
-  ok(/<script src="(\.\.\/)?assets\/detalhe\.js"/.test(idx0), 'index.html sem assets/detalhe.js');
+  ok(new RegExp(`<script src="(\\.\\./)?assets/detalhe\\.js\\?v=${VERSAO.replace(/\./g, '\\.')}"`).test(idx0), 'index.html sem assets/detalhe.js?v=<versão> (cache dos navegadores)');
   ok(existsSync(`${pub}/assets/detalhe.js`), 'assets/detalhe.js não existe');
   ok(/\[functions\][\s\S]*netlify\/functions/.test(readFileSync(caminho('netlify.toml'), 'utf8')), 'netlify.toml sem o diretório de funções');
 }
@@ -155,7 +155,7 @@ if (bruto) {
     ok(h, `catálogo: página ${l} não existe`);
     if (!h) continue;
     ok(h.includes(`>v${VERSAO}</span>`) && /TMDB/.test(h), `${l}: versão ou créditos ausentes`);
-    ok(/<script src="(\.\.\/)?assets\/catalogo\.js"/.test(h) && !/<script(?![^>]*(src=|application\/ld\+json))/.test(h), `${l}: scripts inválidos`);
+    ok(/<script src="(\.\.\/)?assets\/catalogo\.js\?v=[0-9.]+"/.test(h) && !/<script(?![^>]*(src=|application\/ld\+json))/.test(h), `${l}: scripts inválidos`);
     const js = l.replace('.html', '.json').slice(1);
     ok(existsSync(pub + '/' + js), `catálogo: ${js} não existe`);
     if (existsSync(pub + '/' + js)) {
