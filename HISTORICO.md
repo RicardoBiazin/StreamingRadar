@@ -1,5 +1,12 @@
 # Histórico
 
+## 0.5.0 — 26/11/2026
+
+- Temas do site: o menu superior ganhou **Tema: Padrão · Instagram · Lens**. O Padrão (raiz) continua como era; Instagram (`/instagram/`) e Lens (`/lens/`) mostram a mesma página da semana, com os dados reais, em outro visual, uma página para cada uma das 28 semanas (`/instagram/semana/AAAA-wNN.html`), com anterior/próxima e "todas as semanas" dentro do tema. O seletor aparece também no Catálogo e nos temas, e troca para a mesma semana.
+- A escolha fica salva no navegador (`src/assets/tema.js`): ao abrir a página da semana do Padrão, o visitante vai para o tema que escolheu da última vez; clicar em Padrão guarda o Padrão. Sem JS, o menu funciona como links comuns.
+- O `gerar` renderiza os temas a partir de `modelos/instagram` e `modelos/lens` (a `carregar()` de `modelos/_base.mjs` aceita semana e tema). Os temas ficam com `noindex` e fora do sitemap; o Catálogo e o modal de detalhe só existem no tema Padrão (nos temas, o título leva ao TMDB). Os cinco outros modelos seguem só em `npm run modelos`.
+- `testar` confere os temas: 28 páginas por tema, menu com os 3 temas, versão, créditos, licença, CSP, links internos e todos os lançamentos da semana com link do TMDB.
+
 ## 0.4.0 — 26/11/2026
 
 - Modelos de layout: sete visuais alternativos para a página da semana, com os dados reais, inspirados em Instagram (perfil em grade), Google (resultados de busca), LinkedIn (feed profissional), Lens (amigável pastel), WhatsApp (conversa), TikTok (vídeo curto escuro) e Apple (minimalista premium). Cada um tem sua própria estrutura de tela, não só cores: claro/escuro, responsivo, filtros por gênero (e plataforma, em alguns) com JS opcional, e todos os itens, redes de cinema, créditos e licença do site oficial.

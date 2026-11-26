@@ -140,13 +140,14 @@ export function render(d) {
 
   return `<!doctype html>
 <html lang="pt-BR">
-${head(ID, d, { titulo: `Streaming Radar · Semana ${d.semana.numero} · modelo Lente amigável`, extra: `<script src="/${ID}/filtro.js" defer></script>\n` })}
+${head(ID, d, { titulo: `Streaming Radar · Semana ${d.semana.numero} · ${d.tema ? 'tema Lens' : 'modelo Lente amigável'}`, extra: `<script src="/${ID}/filtro.js" defer></script>\n<script src="/assets/tema.js?v=${d.versao}" defer></script>\n` })}
 <body>
 ${sprite}
 <a class="pular" href="#conteudo">Pular para o conteúdo</a>
 <header class="topo">
   <div class="caixa topo-in">
     <a class="marca" href="#inicio">${mascote('marca-ico')}<span>Streaming Radar</span><small>v${esc(d.versao)}</small></a>
+    ${d.seletorTemas}
     <nav class="nav" aria-label="Principal">
       <a href="${esc(d.site)}">Semana</a>
       <a href="${esc(d.catalogo.url)}">Catálogo</a>

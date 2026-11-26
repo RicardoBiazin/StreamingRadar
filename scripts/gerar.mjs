@@ -1,7 +1,9 @@
 // Gera public/: uma página por semana (/semana/AAAA-wNN.html), index.html (semana atual),
 // sitemap, robots, favicon e assets.
 
-import { cpSync, rmSync, mkdirSync } from 'node:fs';
+import { cpSync, rmSync, mkdirSync, readdirSync } from 'node:fs';
+import { carregar } from '../modelos/_base.mjs';
+import { TEMAS } from '../src/temas.mjs';
 import {
   lerJSON, gravarTexto, caminho, esc, slug, cortar, hojeBR, segunda, somarDias, slugSemana, diaLongo,
   faixa, diaMini, VERSAO, SITE, EXEMPLO,
@@ -146,7 +148,7 @@ ${semanas.map((x) => `<a href="${url(x)}"${x === w ? ' aria-current="page"' : ''
   const titulo = `Lançamentos de ${faixa(w.segunda)}: cinema, filmes e séries no streaming | Streaming Radar`;
   const descricao = `Estreias da semana de ${faixa(w.segunda)} no Brasil: ${qtd('cinema')} no cinema (com redes), ${qtd('filme')} filmes e ${qtd('serie')} séries no streaming, com plataforma e links.`;
   return pagina({
-    titulo, descricao, caminho: alvo, corpo,
+    titulo, descricao, caminho: alvo, corpo, semana: w.slug,
     json: alvo === '/' ? { '@context': 'https://schema.org', '@type': 'WebSite', name: 'Streaming Radar', url: SITE + '/', inLanguage: 'pt-BR', description: descricao } : null,
   });
 }
@@ -173,6 +175,17 @@ for (const i of dados.itens) {
     gravarTexto(`public/detalhe/${k}.json`, JSON.stringify(detalhes[k]));
   }
 }
+// Temas Instagram e Lens: a mesma semana com outro visual (modelos/<id>/), em /instagram/ e /lens/.
+const temas = [];
+for (const t of TEMAS.filter((x) => x.id !== 'padrao')) {
+  const mod = await import(`../modelos/${t.id}/modelo.mjs`);
+  for (const n of readdirSync(new URL(`../modelos/${t.id}/`, import.meta.url))) {
+    if (n !== 'modelo.mjs') cpSync(new URL(`../modelos/${t.id}/${n}`, import.meta.url), caminho(`public/${t.id}/${n}`), { recursive: true });
+  }
+  for (const w of semanas) gravarTexto(`public/${t.id}/semana/${w.slug}.html`, mod.render(carregar({ slug: w.slug, tema: t.id })));
+  gravarTexto(`public/${t.id}/index.html`, mod.render(carregar({ slug: atual.slug, tema: t.id })));
+  temas.push(t.id);
+}
 const cat = gerarCatalogo();
 gravarTexto('public/robots.txt', `User-agent: *\nAllow: /\nSitemap: ${SITE}/sitemap.xml\n`);
 const data = (dados.coletadoEm || '').slice(0, 10) || hoje;
@@ -184,4 +197,4 @@ ${cat.paginas.map((u) => `<url><loc>${SITE}${u}</loc><lastmod>${data}</lastmod><
 </urlset>
 `);
 
-console.log(`v${VERSAO}${EXEMPLO ? ' (EXEMPLO)' : ''}: ${semanas.length} semanas, semana atual ${atual.slug}, ${dados.itens.length} itens → public/`);
+console.log(`v${VERSAO}${EXEMPLO ? ' (EXEMPLO)' : ''}: ${semanas.length} semanas, semana atual ${atual.slug}, ${dados.itens.length} itens, temas: padrão + ${temas.join(', ')} → public/`);

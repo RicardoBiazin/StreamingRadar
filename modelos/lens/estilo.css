@@ -68,6 +68,11 @@ ul { padding: 0; list-style: none; }
 .marca { white-space: nowrap; display: inline-flex; align-items: center; gap: 10px; text-decoration: none; font-weight: 800; font-size: 19px; letter-spacing: -0.02em; }
 .marca small { font-size: 12px; font-weight: 700; color: var(--suave); background: var(--painel); padding: 2px 9px; border-radius: 999px; }
 .marca-ico { width: 40px; height: 38px; }
+.temas { display: flex; align-items: center; gap: 6px; margin-left: auto; margin-right: 8px; }
+.temas-rot { font-size: 13px; font-weight: 800; color: var(--suave); margin-right: 2px; }
+.temas a { text-decoration: none; font-weight: 700; font-size: 14px; padding: 7px 14px; border-radius: 999px; background: var(--painel); white-space: nowrap; transition: background-color .15s; }
+.temas a:hover { background: var(--lilas-b); color: #2a2342; }
+.temas a[aria-current] { background: var(--realce); color: var(--realce-tinta); }
 .nav { display: flex; gap: 8px; }
 .nav a { text-decoration: none; font-weight: 700; font-size: 15px; padding: 9px 18px; border-radius: 999px; background: var(--painel); transition: background-color .15s, transform .15s; }
 .nav a:hover { background: var(--lilas-b); color: #2a2342; transform: translateY(-1px); }
@@ -211,7 +216,9 @@ ul { padding: 0; list-style: none; }
   .grade { grid-template-columns: repeat(2, minmax(0, 1fr)); }
 }
 @media (max-width: 700px) {
-  .topo-in { height: 60px; }
+  .topo-in { height: auto; min-height: 60px; flex-wrap: wrap; padding-block: 8px; row-gap: 6px; }
+  .temas { order: 3; flex-basis: 100%; margin: 0; justify-content: center; }
+  .temas a { padding: 6px 14px; font-size: 13px; }
   .marca { font-size: 16px; gap: 8px; }
   .marca-ico { width: 34px; height: 32px; }
   .marca small { display: none; }

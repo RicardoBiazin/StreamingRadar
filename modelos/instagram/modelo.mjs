@@ -123,12 +123,13 @@ export function render(d) {
 
   return `<!doctype html>
 <html lang="pt-BR">
-${head(ID, d, { titulo: `Streaming Radar: semana ${s.numero}, ${s.faixa}`, extra: `<script src="/${ID}/filtro.js?v=${d.versao}" defer></script>\n` })}
+${head(ID, d, { titulo: `Streaming Radar: semana ${s.numero}, ${s.faixa}`, extra: `<script src="/${ID}/filtro.js?v=${d.versao}" defer></script>\n<script src="/assets/tema.js?v=${d.versao}" defer></script>\n` })}
 <body>
 <a class="pular" href="#conteudo">Pular para o conteúdo</a>
 <header class="nav">
   <div class="nav-in">
     <a class="marca" href="#topo">${ic('radar', 'ico-marca')}<strong>Streaming Radar</strong><span class="versao">v${esc(d.versao)}</span></a>
+    ${d.seletorTemas}
     <nav aria-label="Site oficial">
       <a href="${esc(d.site)}">Semana</a>
       <a href="${esc(d.catalogo.url)}">Catálogo</a>

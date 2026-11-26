@@ -4,6 +4,7 @@ import { readdirSync, readFileSync, existsSync } from 'node:fs';
 import { resolve } from 'node:path';
 import { lerJSON, caminho, VERSAO, EXEMPLO, segunda, slugSemana } from './util.mjs';
 import { REDES } from '../src/redes.mjs';
+import { TEMAS } from '../src/temas.mjs';
 import { lerOmdb } from './fontes/omdb.mjs';
 import detalheFn, { montarDetalhe } from '../netlify/functions/detalhe.mjs';
 
@@ -176,6 +177,46 @@ for (const rel of ['assets/estilo.css', 'assets/app.js', 'favicon.svg', 'robots.
   ok(existsSync(`${pub}/${rel}`), `public/${rel} não existe`);
 }
 for (const f of paginas) ok(sitemap.includes(`/semana/${f}`), `sitemap sem ${f}`);
+
+// ---------- temas (Padrão, Instagram, Lens) ----------
+ok(existsSync(`${pub}/assets/tema.js`), 'public/assets/tema.js não existe');
+ok(!/instagram|\/lens\//.test(sitemap), 'sitemap não deve listar os temas (noindex)');
+const semanasDados = [...new Set(dados.itens.map((i) => i.segunda))];
+for (const [nome, html] of todas) {
+  if (!html) continue;
+  const menu = html.match(/<nav class="temas"[\s\S]*?<\/nav>/)?.[0] || '';
+  ok(menu && /data-tema="padrao"/.test(menu) && /data-tema="instagram"/.test(menu) && /data-tema="lens"/.test(menu), `${nome}: menu de temas incompleto`);
+  ok(/tema\.js\?v=/.test(html), `${nome}: sem tema.js`);
+  ok(/<body data-semana="\d{4}-w\d{2}"/.test(html), `${nome}: body sem data-semana (o tema salvo não redireciona)`);
+}
+for (const t of TEMAS.filter((x) => x.id !== 'padrao')) {
+  const dir = `${pub}/${t.id}`;
+  ok(existsSync(`${dir}/estilo.css`) && existsSync(`${dir}/filtro.js`), `tema ${t.id}: estilo.css/filtro.js ausentes`);
+  const pags = existsSync(`${dir}/semana`) ? readdirSync(`${dir}/semana`).filter((f) => f.endsWith('.html')) : [];
+  ok(pags.length === paginas.length, `tema ${t.id}: ${pags.length} páginas de semana, o Padrão tem ${paginas.length}`);
+  for (const [nome, html] of [['index.html', lerPag(`${t.id}/index.html`)], ...pags.map((f) => [`semana/${f}`, lerPag(`${t.id}/semana/${f}`)])]) {
+    const rot = `${t.id}/${nome}`;
+    if (!html) { ok(false, `${rot} não existe`); continue; }
+    ok(html.includes(`v${VERSAO}`) && /TMDB/.test(html) && /JustWatch/.test(html) && /licença MIT/.test(html), `${rot}: faltam versão, créditos ou licença`);
+    ok(!/<script(?![^>]*(src=|application\/ld\+json))/.test(html) && !/<style[\s>]/.test(html) && !/\sstyle="/.test(html), `${rot}: script ou estilo inline`);
+    ok(/<meta name="robots" content="noindex/.test(html), `${rot}: sem noindex`);
+    ok(html.includes(`data-atual="${t.id}"`) && /\/assets\/tema\.js/.test(html), `${rot}: sem seletor de temas ou tema.js`);
+    ok(!/\bundefined\b|\bNaN\b|\[object Object\]/.test(html), `${rot}: texto quebrado`);
+    // links internos (seletor, semana anterior/próxima, catálogo) existem
+    for (const h of html.matchAll(/href="(\/[^"#?]*)/g)) {
+      const arq = h[1] === '/' ? 'index.html' : h[1].slice(1);
+      const ex = existsSync(`${pub}/${arq}`) || existsSync(`${pub}/${arq}/index.html`);
+      ok(ex || (/^\/catalogo\/?$/.test(h[1]) && !existsSync(caminho('dados/catalogo/bruto.json'))), `${rot}: link interno quebrado ${h[1]}`);
+    }
+    // cada lançamento da semana aparece com link para o TMDB
+    const slugPag = nome === 'index.html' ? null : nome.slice(7, -5);
+    const alvoSeg = slugPag ? semanasDados.find((s) => slugSemana(s) === slugPag) : null;
+    if (alvoSeg) {
+      const faltam = dados.itens.filter((i) => i.segunda === alvoSeg && !html.includes(`/${i.tipo === 'serie' ? 'tv' : 'movie'}/${i.tmdb}`));
+      ok(!faltam.length, `${rot}: ${faltam.length} lançamento(s) sem link do TMDB (${faltam[0]?.titulo})`);
+    }
+  }
+}
 
 if (erros.length) {
   console.error(`✗ ${erros.length} problema(s):\n- ` + erros.slice(0, 40).join('\n- '));

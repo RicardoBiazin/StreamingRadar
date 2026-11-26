@@ -4,6 +4,7 @@
 import { lerJSON, esc, slug, cortar, hojeBR, segunda, somarDias, slugSemana, faixa, diaLongo, diaMini, VERSAO, SITE } from '../scripts/util.mjs';
 import { REDES, linkRede } from '../src/redes.mjs';
 import { sitePlataforma } from '../src/plataformas.mjs';
+import { seletorTemas, urlTema } from '../src/temas.mjs';
 
 export { esc, cortar, VERSAO, SITE };
 export const IMG = 'https://image.tmdb.org/t/p/';
@@ -63,20 +64,41 @@ function item(i, notas, hoje) {
   };
 }
 
-/** Dados reais para renderizar um modelo. */
-export function carregar() {
+// leitura única: o site gera as mesmas páginas para várias semanas e temas
+let cache = null;
+function fonte() {
+  if (cache) return cache;
   const lanc = lerJSON('dados/lancamentos.json');
   if (!lanc) throw new Error('Sem dados/lancamentos.json: rode `npm run atualizar` antes de gerar os modelos.');
-  const notas = lerJSON('dados/notas.json', {});
   const hoje = hojeBR();
-  const itens = lanc.itens.map((i) => item(i, notas, hoje));
+  const notas = lerJSON('dados/notas.json', {});
+  const cat = lerJSON('dados/catalogo/bruto.json');
+  cache = {
+    lanc, hoje,
+    itens: lanc.itens.map((i) => item(i, notas, hoje)),
+    catalogo: {
+      plataformas: cat ? cat.plataformas.length : null,
+      titulos: cat ? new Set(cat.plataformas.flatMap((p) => p.itens.map((i) => `${i[0]}-${i[1]}`))).size : null,
+    },
+  };
+  return cache;
+}
+
+/**
+ * Dados reais para renderizar um modelo.
+ * `slug`: semana a mostrar (padrão: a atual). `tema`: quando o modelo é um tema do site (/instagram/, /lens/),
+ * os links de semana ficam dentro do tema, "Semana" volta ao início do tema e o seletor de temas vai em `d.seletorTemas`.
+ */
+export function carregar({ slug: pedido = null, tema = null } = {}) {
+  const { lanc, hoje, itens, catalogo } = fonte();
 
   const semanas = [];
   for (let s = segunda(lanc.de); s <= segunda(lanc.ate); s = somarDias(s, 7)) {
-    semanas.push({ segunda: s, slug: slugSemana(s), faixa: faixa(s), url: `${SITE}/semana/${slugSemana(s)}.html` });
+    const sl = slugSemana(s);
+    semanas.push({ segunda: s, slug: sl, faixa: faixa(s), url: tema ? urlTema(tema, sl) : `${SITE}/semana/${sl}.html` });
   }
   const atualSeg = segunda(hoje);
-  const k = Math.max(0, semanas.findIndex((w) => w.segunda === atualSeg));
+  const k = Math.max(0, semanas.findIndex((w) => (pedido ? w.slug === pedido : w.segunda === atualSeg)));
   const sem = semanas[k];
   const dela = itens.filter((_, idx) => lanc.itens[idx].segunda === sem.segunda);
 
@@ -93,10 +115,11 @@ export function carregar() {
     data, rotulo: dela.find((i) => i.data === data).dataLonga, mini: dela.find((i) => i.data === data).dataMini, itens: dela.filter((i) => i.data === data),
   }));
 
-  const cat = lerJSON('dados/catalogo/bruto.json');
   return {
     versao: VERSAO,
-    site: SITE,
+    site: tema ? urlTema(tema) : SITE, // "Semana" no menu: o início do tema (ou o site oficial)
+    tema,
+    seletorTemas: tema ? seletorTemas(tema, sem.slug) : '', // menu "Tema: Padrão · Instagram · Lens"
     hoje,
     semana: {
       slug: sem.slug, faixa: sem.faixa, numero: sem.slug.split('-w')[1], ano: sem.slug.slice(0, 4),
@@ -112,11 +135,7 @@ export function carregar() {
     generos, // [{ nome, slug, qtd }]
     plataformas, // [{ nome, slug, qtd, href }]
     redes: REDES.map((r) => ({ nome: r.nome, href: r.cartaz })),
-    catalogo: {
-      url: `${SITE}/catalogo/`,
-      plataformas: cat ? cat.plataformas.length : null,
-      titulos: cat ? new Set(cat.plataformas.flatMap((p) => p.itens.map((i) => `${i[0]}-${i[1]}`))).size : null,
-    },
+    catalogo: { url: tema ? '/catalogo/' : `${SITE}/catalogo/`, ...catalogo },
     totais: { itens: dela.length, cinema: dela.filter((i) => i.tipo === 'cinema').length, filmes: dela.filter((i) => i.tipo === 'filme').length, series: dela.filter((i) => i.tipo === 'serie').length },
     // créditos obrigatórios (todo modelo deve mostrar no rodapé)
     creditos: {
@@ -145,5 +164,5 @@ ${extra}</head>`;
 export function creditos(d) {
   const c = d.creditos;
   return `<div class="creditos"><p>Dados do <a href="https://www.themoviedb.org/" rel="noopener">TMDB</a> e do <a href="https://www.justwatch.com/br" rel="noopener">JustWatch</a>. ${esc(c.tmdb)} ${esc(c.omdb)}</p>
-<p>Código aberto sob a <a href="${c.licenca.href}" rel="noopener">${c.licenca.txt}</a>: <a href="${c.github}" rel="noopener">GitHub</a>. v${d.versao}. Modelo de layout: não é o site oficial.</p></div>`;
+<p>Código aberto sob a <a href="${c.licenca.href}" rel="noopener">${c.licenca.txt}</a>: <a href="${c.github}" rel="noopener">GitHub</a>. v${d.versao}. ${d.tema ? 'Tema do Streaming Radar: mesmos dados do tema Padrão.' : 'Modelo de layout: não é o site oficial.'}</p></div>`;
 }

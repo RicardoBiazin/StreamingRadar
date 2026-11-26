@@ -3,6 +3,7 @@
 import { esc, VERSAO, SITE } from '../scripts/util.mjs';
 import { REDES } from './redes.mjs';
 import { sitePlataforma } from './plataformas.mjs';
+import { seletorTemas } from './temas.mjs';
 
 // Plataformas citadas no rodapé (o link vem de plataformas.mjs).
 const PLATAFORMAS_RODAPE = ['Netflix', 'Amazon Prime Video', 'Disney Plus', 'HBO Max', 'Apple TV', 'Globoplay', 'Paramount Plus', 'Telecine', 'Mercado Play', 'Crunchyroll', 'Claro video', 'Pluto TV']
@@ -19,7 +20,7 @@ function relativos(html, caminho) {
   return html.replace(/(href|src)="\/(?!\/)([^"]*)"/g, (_m, atr, resto) => `${atr}="${pref}${resto === '' ? 'index.html' : resto}"`);
 }
 
-export function pagina({ titulo, descricao, caminho, corpo, json = null, scripts = [] }) {
+export function pagina({ titulo, descricao, caminho, corpo, json = null, scripts = [], semana = null }) {
   const url = SITE + caminho;
   return relativos(`<!doctype html>
 <html lang="pt-BR">
@@ -40,10 +41,11 @@ export function pagina({ titulo, descricao, caminho, corpo, json = null, scripts
 <link rel="icon" href="/favicon.svg" type="image/svg+xml">
 <link rel="stylesheet" href="/assets/estilo.css?v=${VERSAO}">
 ${json ? `<script type="application/ld+json">${JSON.stringify(json).replace(/</g, '\\u003c')}</script>\n` : ''}</head>
-<body>
+<body${semana ? ` data-semana="${esc(semana)}"` : ''}>
 <header class="topo">
   <a class="marca" href="/"><span class="radar" aria-hidden="true"></span>Streaming Radar</a>
   <nav class="menu" aria-label="Principal"><a href="/">Semana</a><a href="/catalogo/">Catálogo</a></nav>
+  ${seletorTemas('padrao', semana)}
   <span class="versao">v${VERSAO}</span>
 </header>
 <main data-vista="junto">
@@ -72,6 +74,7 @@ ${corpo}
   Código aberto sob a <a href="https://github.com/RicardoBiazin/StreamingRadar/blob/main/LICENSE" rel="noopener">licença MIT</a>:
   <a href="https://github.com/RicardoBiazin/StreamingRadar" rel="noopener">GitHub</a>. v${VERSAO}.</p>
 </footer>
+<script src="/assets/tema.js?v=${VERSAO}" defer></script>
 <script src="/assets/app.js?v=${VERSAO}" defer></script>
 <script src="/assets/detalhe.js?v=${VERSAO}" defer></script>
 ${scripts.map((s) => `<script src="${s}?v=${VERSAO}" defer></script>`).join('\n')}
