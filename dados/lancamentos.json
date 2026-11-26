@@ -1,6 +1,6 @@
 {
  "fonte": "tmdb",
- "coletadoEm": "2026-11-26T03:55:52.183Z",
+ "coletadoEm": "2026-11-26T04:09:02.486Z",
  "de": "2026-11-16",
  "ate": "2027-05-30",
  "itens": [
@@ -155,6 +155,28 @@
    "classificacao": "16"
   },
   {
+   "id": "filme-1515348",
+   "tmdb": 1515348,
+   "imdb": "tt37741878",
+   "tipo": "filme",
+   "titulo": "A Febre do Macaco Preto",
+   "original": null,
+   "data": "2026-11-16",
+   "semana": "2026-w47",
+   "segunda": "2026-11-16",
+   "generos": [],
+   "nota": 10,
+   "votos": 1,
+   "sinopse": "Inspirado no conto do escritor Alex Magalhães, A Febre do Macaco Preto conta uma história de racismo, do ponto de vista do próprio Racismo e do Macaco Preto, que testemunham o horror racial que Isaura sofre, por sua patroa Luana e a filha dela, Indianara.",
+   "poster": "/efQlyY0YAPC1Oy8YbZSFof1X0Fu.jpg",
+   "trailer": null,
+   "popularidade": 0.4361,
+   "plataformas": [],
+   "justwatch": null,
+   "duracao": null,
+   "classificacao": "16"
+  },
+  {
    "id": "filme-1773826",
    "tmdb": 1773826,
    "imdb": "tt50137618",
@@ -202,28 +224,6 @@
    "justwatch": null,
    "duracao": 7,
    "classificacao": "14"
-  },
-  {
-   "id": "filme-1515348",
-   "tmdb": 1515348,
-   "imdb": "tt37741878",
-   "tipo": "filme",
-   "titulo": "A Febre do Macaco Preto",
-   "original": null,
-   "data": "2026-11-16",
-   "semana": "2026-w47",
-   "segunda": "2026-11-16",
-   "generos": [],
-   "nota": 10,
-   "votos": 1,
-   "sinopse": "Inspirado no conto do escritor Alex Magalhães, A Febre do Macaco Preto conta uma história de racismo, do ponto de vista do próprio Racismo e do Macaco Preto, que testemunham o horror racial que Isaura sofre, por sua patroa Luana e a filha dela, Indianara.",
-   "poster": "/efQlyY0YAPC1Oy8YbZSFof1X0Fu.jpg",
-   "trailer": null,
-   "popularidade": 0.2773,
-   "plataformas": [],
-   "justwatch": null,
-   "duracao": null,
-   "classificacao": "16"
   },
   {
    "id": "filme-1827969",
@@ -511,7 +511,7 @@
    "sinopse": "Em um Egito dominado pelo medo e pela crueldade, o Faraó ordena que todos os meninos hebreus recém-nascidos sejam mortos, espalhando dor entre as famílias do povoado. Para salvar a vida de seu filho, Joquebede toma uma decisão desesperada, coloca o bebê em um cesto e o entrega ás águas do rio, confiando que Deus o conduzirá a um destino maior. Entre perseguições, medo e pequenos atos de bravura, nasce a história daquele que um dia seria chamado de Moisés, o menino salvo das águas, destinado a libertar seu povo do Egito.",
    "poster": "/bW3CMCE0NTXSv02HS6AKQwzycWM.jpg",
    "trailer": null,
-   "popularidade": 0.2403,
+   "popularidade": 0.2116,
    "plataformas": [],
    "justwatch": null,
    "duracao": 19,
@@ -3127,7 +3127,7 @@
    "sinopse": "Oito anos após os eventos de “Era uma vez em… Hollywood”, Cliff Booth navega pelo sistema de estúdio em seu novo papel como um arrumador.",
    "poster": "/60KWghhG3I3bKNEPT2i7ak7GiVg.jpg",
    "trailer": "fJH-wfSXnWg",
-   "popularidade": 18.4616,
+   "popularidade": 24.2152,
    "plataformas": [],
    "justwatch": null,
    "duracao": 141,
@@ -4364,7 +4364,7 @@
    "sinopse": "",
    "poster": "/qDasTvECXJIDtfTG45s7caEKYGG.jpg",
    "trailer": null,
-   "popularidade": 1.3486,
+   "popularidade": 1.4873,
    "plataformas": [
     {
      "id": null,
@@ -8245,7 +8245,7 @@
    "sinopse": "Oito anos após os eventos de “Era uma vez em… Hollywood”, Cliff Booth navega pelo sistema de estúdio em seu novo papel como um arrumador.",
    "poster": "/60KWghhG3I3bKNEPT2i7ak7GiVg.jpg",
    "trailer": "fJH-wfSXnWg",
-   "popularidade": 18.4616,
+   "popularidade": 24.2152,
    "plataformas": [
     {
      "id": null,
@@ -8590,7 +8590,7 @@
    "sinopse": "",
    "poster": "/hufdi1NnrWe64GZTx9CdKNuTjax.jpg",
    "trailer": "HejGqY39nds",
-   "popularidade": 1.6076,
+   "popularidade": 1.6654,
    "plataformas": [
     {
      "id": null,
@@ -9237,7 +9237,7 @@
    "sinopse": "",
    "poster": "/kuiyV1IKosXzkKUnvKDKQApoZ1Z.jpg",
    "trailer": null,
-   "popularidade": 3.041,
+   "popularidade": 4.0429,
    "plataformas": [
     {
      "id": null,
@@ -10470,7 +10470,7 @@
    "sinopse": "Em busca de uma nova chance, Georgia leva os filhos Ginny e Austin para morar em outra cidade. Só que recomeçar do zero não é tão simples assim.",
    "poster": "/uKval7QmEozy7R05FEvE3H9Qice.jpg",
    "trailer": "T-tsnIjKV58",
-   "popularidade": 20.7657,
+   "popularidade": 20.8594,
    "plataformas": [
     {
      "id": 8,
@@ -12169,7 +12169,7 @@
    "sinopse": "",
    "poster": "/5XjRvsQLZd5W7g934C3GHxjyNRj.jpg",
    "trailer": null,
-   "popularidade": 1.7558,
+   "popularidade": 1.5762,
    "plataformas": [],
    "justwatch": null,
    "duracao": null,
