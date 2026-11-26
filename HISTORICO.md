@@ -1,5 +1,12 @@
 # Histórico
 
+## 0.3.0 — 26/11/2026
+
+- Modal de detalhe: clicar no título ou no pôster de um filme/série (semana e catálogo) abre elenco (12 nomes com foto e personagem), direção/criação, sinopse completa, gêneros, duração, temporadas, nota do TMDB, onde assistir no Brasil (assinatura/grátis, aluguel, compra) e links (TMDB, IMDb, trailer, JustWatch). Cartões de lançamento carregam um arquivo estático (`public/detalhe/<tipo>-<id>.json`, gerado na coleta); o catálogo usa a Netlify Function `/api/detalhe` (`netlify/functions/detalhe.mjs`), que consulta o TMDB com a chave guardada na variável `TMDB_API_KEY` do Netlify (nunca no navegador) e fica em cache de 1 dia no CDN. Sem JS, o clique segue o link do TMDB.
+- Filtros por categoria, como nos serviços de streaming: faixa de gêneros com contagem na semana (filtra os cartões e as contagens das seções, junto com o filtro de plataforma; fica no endereço, `#gen=drama`) e, no catálogo de cada plataforma, faixas de tipo (filmes/séries) e de gêneros, além de busca e ordem.
+- `testar` confere `montarDetalhe`, a recusa de parâmetros inválidos na função, os arquivos de detalhe dos cartões e as faixas de gênero.
+- O Actions de 26/11 coletou, commitou os dados e falhou só no deploy: "Unauthorized: could not retrieve project" (NETLIFY_AUTH_TOKEN ou NETLIFY_SITE_ID gravado errado; regravar com `--body`).
+
 ## 0.2.2 — 26/11/2026
 
 - Causa de "Plataforma ainda não informada" em O Pequeno Guerreiro (Way of the Warrior Kid): dado velho. O TMDB só ligou o filme à Apple TV depois da última coleta, e o site não se atualiza sozinho enquanto os secrets do GitHub (`TMDB_API_KEY`, `NETLIFY_AUTH_TOKEN`, `NETLIFY_SITE_ID`) não existirem: o workflow diário roda em 8 s e não faz nada.

@@ -57,6 +57,20 @@ const notas = {};
     : { imdb: 4 + (k % 6) + 0.3, votos: 1000 * (k + 1), rt: (k * 13) % 100, mc: k % 5 === 0 ? null : (k * 17) % 100, em: hoje };
 });
 gravarJSON('dados/notas.json', notas);
+// Detalhes fictícios para o modal (elenco inventado).
+const detalhes = {};
+for (const [lista, tipo] of [[cinema, 'movie'], [filmes, 'movie'], [series, 'tv']]) {
+  for (const r of lista) {
+    detalhes[`${tipo}-${r.id}`] = {
+      tipo, id: r.id, t: r.titulo, o: r.original, l: 'Slogan fictício de exemplo', s: lorem + ' ' + lorem, d: (r.datas?.[0]?.data || r.primeira), r: r.duracao || 45,
+      g: r.generos, n: r.nota, v: r.votos, dir: ['Diretor Fictício'], tr: null,
+      el: Array.from({ length: 12 }, (_, k) => ({ n: `Ator Fictício ${k + 1}`, p: `Personagem ${k + 1}`, f: null })),
+      pl: { assinatura: (r.provedores?.flatrate || []).map((p) => ({ n: p.nome, l: null })), aluguel: [], compra: [] },
+      jw: null, imdb: r.imdb, st: tipo === 'tv' ? 'Em exibição' : 'Released', temp: tipo === 'tv' ? 2 : null, eps: tipo === 'tv' ? 16 : null, pais: ['BR'],
+    };
+  }
+}
+gravarJSON('dados/detalhes.json', detalhes, true);
 await import('./normalizar.mjs');
 await import('./gerar.mjs');
 console.log('Exemplo pronto em .exemplo/public (rode `npm run preview` com SR_EXEMPLO=1 para abrir).');

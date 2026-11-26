@@ -4,6 +4,10 @@
   publish = "public"
   command = ""
 
+# Função do modal de detalhe (elenco etc.). Precisa da variável TMDB_API_KEY no Netlify.
+[functions]
+  directory = "netlify/functions"
+
 [[headers]]
   for = "/*"
   [headers.values]

@@ -5,6 +5,7 @@ import { resolve } from 'node:path';
 import { lerJSON, caminho, VERSAO, EXEMPLO, segunda, slugSemana } from './util.mjs';
 import { REDES } from '../src/redes.mjs';
 import { lerOmdb } from './fontes/omdb.mjs';
+import detalheFn, { montarDetalhe } from '../netlify/functions/detalhe.mjs';
 
 const erros = [];
 const ok = (cond, msg) => { if (!cond) erros.push(msg); };
@@ -75,7 +76,10 @@ for (const [nome, html] of todas) {
       ok(existsSync(pub + '/' + arq), `${nome}: link interno quebrado ${alvo}`);
     } else {
       // o site é relativo para abrir também direto do disco: confere o arquivo a partir da pasta da página
-      ok(existsSync(resolve(pub, pasta, alvo.split('#')[0] || 'index.html')), `${nome}: link relativo quebrado ${alvo}`);
+      const destino = resolve(pub, pasta, alvo.split('#')[0] || 'index.html');
+      // sem catálogo coletado (modo exemplo), o link do menu para /catalogo/ não tem destino
+      const semCatalogo = !existsSync(caminho('dados/catalogo/bruto.json')) && /catalogo\/?$/.test(alvo);
+      ok(semCatalogo || existsSync(destino) || (existsSync(destino) === false && existsSync(resolve(destino, 'index.html'))), `${nome}: link relativo quebrado ${alvo}`);
     }
   }
   // folhas de estilo, scripts e imagens do próprio site também precisam existir (e abrir sem servidor)
@@ -92,6 +96,47 @@ for (const [nome, html] of todas) {
   }
   ok(!/class="quando"><\/p>/.test(html), `${nome}: data vazia no cartão`);
   ok(!/\bundefined\b|\bNaN\b|\[object Object\]/.test(html), `${nome}: texto quebrado (undefined/NaN/[object Object])`);
+}
+
+// ---------- detalhe (modal) ----------
+{
+  const amostraTv = montarDetalhe('tv', { id: 1, name: 'S', original_name: 'S', overview: 'x', first_air_date: '2026-01-02', created_by: [{ name: 'Criador' }], genres: [{ name: 'Drama' }], vote_average: 7.46, vote_count: 10, number_of_seasons: 2, number_of_episodes: 16, credits: { cast: [{ name: 'A', character: 'B', profile_path: '/a.jpg' }] }, 'watch/providers': { results: { BR: { link: 'https://x', flatrate: [{ provider_name: 'Netflix', logo_path: '/n.jpg' }, { provider_name: 'Netflix Standard with Ads', logo_path: '/n2.jpg' }] } } }, external_ids: { imdb_id: 'tt1' } });
+  ok(amostraTv.dir[0] === 'Criador' && amostraTv.el[0].n === 'A' && amostraTv.n === 7.5 && amostraTv.temp === 2, 'montarDetalhe(tv) não leu a amostra');
+  ok(amostraTv.pl.assinatura.length === 1 && amostraTv.imdb === 'tt1', 'montarDetalhe(tv) deveria ignorar variante com anúncios e ler o IMDb');
+  const amostraFilme = montarDetalhe('movie', { id: 2, title: 'F', release_date: '2026-03-04', runtime: 100, credits: { crew: [{ job: 'Director', name: 'Dir' }, { job: 'Writer', name: 'W' }], cast: [] }, imdb_id: 'tt2' });
+  ok(amostraFilme.dir.join() === 'Dir' && amostraFilme.r === 100 && amostraFilme.d === '2026-03-04', 'montarDetalhe(movie) não leu a amostra');
+  const ruim = await detalheFn(new Request('http://x/api/detalhe?tipo=movie&id=abc'));
+  ok(ruim.status === 400, 'função de detalhe deveria recusar id inválido com 400');
+  const ruim2 = await detalheFn(new Request('http://x/api/detalhe?tipo=person&id=1'));
+  ok(ruim2.status === 400, 'função de detalhe deveria recusar tipo inválido com 400');
+
+  const det = lerJSON('dados/detalhes.json', null);
+  const idx0 = lerPag('index.html') || '';
+  const nDet = (idx0.match(/data-det="1"/g) || []).length;
+  if (det) {
+    ok(nDet > 0, 'nenhum cartão da semana atual tem data-det (detalhes não ligados aos cartões)');
+    for (const m of idx0.matchAll(/data-tipo="(movie|tv)" data-id="(\d+)" data-det="1"/g)) {
+      const arq = `${pub}/detalhe/${m[1]}-${m[2]}.json`;
+      ok(existsSync(arq), `detalhe/${m[1]}-${m[2]}.json não existe`);
+      if (existsSync(arq)) {
+        const j = JSON.parse(readFileSync(arq, 'utf8'));
+        ok(j.t && Array.isArray(j.el) && Array.isArray(j.dir) && j.pl, `detalhe/${m[1]}-${m[2]}.json incompleto`);
+      }
+    }
+  }
+  ok(/<script src="(\.\.\/)?assets\/detalhe\.js"/.test(idx0), 'index.html sem assets/detalhe.js');
+  ok(existsSync(`${pub}/assets/detalhe.js`), 'assets/detalhe.js não existe');
+  ok(/\[functions\][\s\S]*netlify\/functions/.test(readFileSync(caminho('netlify.toml'), 'utf8')), 'netlify.toml sem o diretório de funções');
+}
+
+// ---------- filtros por gênero ----------
+{
+  const idx1 = lerPag('index.html') || '';
+  ok(/id="f-gen"/.test(idx1), 'index.html sem a faixa de gêneros (#f-gen)');
+  const cartoes = idx1.match(/<article class="card"[^>]*>/g) || [];
+  ok(cartoes.length > 0 && cartoes.every((c) => /data-gen="/.test(c)), 'cartão da semana sem data-gen');
+  const gens = [...idx1.matchAll(/<button type="button" data-gen="([a-z0-9-]+)"/g)].map((m) => m[1]);
+  for (const g of gens) ok(cartoes.some((c) => new RegExp(`data-gen="[^"]*\\b${g}\\b`).test(c)), `chip de gênero "${g}" sem nenhum cartão`);
 }
 
 // ---------- catálogo ----------

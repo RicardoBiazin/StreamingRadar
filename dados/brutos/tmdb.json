@@ -1,6 +1,6 @@
 {
  "fonte": "tmdb",
- "coletadoEm": "2026-11-26T03:49:16.983Z",
+ "coletadoEm": "2026-11-26T03:55:52.183Z",
  "hoje": "2026-11-26",
  "de": "2026-11-16",
  "ate": "2027-05-30",
@@ -1510,7 +1510,7 @@
    ],
    "nota": 0,
    "votos": 0,
-   "popularidade": 10.5691,
+   "popularidade": 11.0449,
    "duracao": 120,
    "empresas": [
     "Working Title",
@@ -3160,7 +3160,7 @@
    ],
    "nota": 0,
    "votos": 0,
-   "popularidade": 2.6989,
+   "popularidade": 2.9494,
    "duracao": null,
    "empresas": [
     "Legendary Pictures",
@@ -5500,7 +5500,7 @@
    ],
    "nota": 5.791,
    "votos": 43,
-   "popularidade": 0.4274,
+   "popularidade": 0.3957,
    "duracao": 5,
    "empresas": [
     "Kanoon"
@@ -5913,7 +5913,7 @@
    ],
    "nota": 0,
    "votos": 0,
-   "popularidade": 0.3317,
+   "popularidade": 0.3139,
    "duracao": 90,
    "empresas": [],
    "datas": [
@@ -9071,7 +9071,7 @@
    ],
    "nota": 0,
    "votos": 0,
-   "popularidade": 0.6249,
+   "popularidade": 0.4676,
    "duracao": 15,
    "empresas": [
     "ButecoClaquete"
@@ -9354,7 +9354,7 @@
    ],
    "nota": 0,
    "votos": 0,
-   "popularidade": 0.268,
+   "popularidade": 0.2233,
    "duracao": 5,
    "empresas": [],
    "datas": [
@@ -11388,7 +11388,7 @@
    ],
    "nota": 7.602,
    "votos": 2630,
-   "popularidade": 300.5534,
+   "popularidade": 326.5062,
    "primeira": "2003-09-23",
    "ultimoEp": {
     "data": "2026-11-17",
@@ -15346,17 +15346,17 @@
    ],
    "nota": 7,
    "votos": 9,
-   "popularidade": 76.2549,
+   "popularidade": 75.9105,
    "primeira": "1969-09-01",
    "ultimoEp": {
-    "data": "2026-11-24",
-    "temporada": 58,
-    "episodio": 281
-   },
-   "proximoEp": {
     "data": "2026-11-25",
     "temporada": 58,
     "episodio": 282
+   },
+   "proximoEp": {
+    "data": "2026-11-26",
+    "temporada": 58,
+    "episodio": 283
    },
    "temporadas": [
     {
@@ -18624,7 +18624,7 @@
    ],
    "nota": 8.63,
    "votos": 50,
-   "popularidade": 42.6183,
+   "popularidade": 42.7555,
    "primeira": "2020-11-29",
    "ultimoEp": {
     "data": "2026-11-23",
@@ -24646,17 +24646,17 @@
    ],
    "nota": 6.2,
    "votos": 27,
-   "popularidade": 15.4327,
+   "popularidade": 15.4548,
    "primeira": "2020-11-11",
    "ultimoEp": {
-    "data": "2026-11-18",
-    "temporada": 7,
-    "episodio": 10
-   },
-   "proximoEp": {
     "data": "2026-11-25",
     "temporada": 7,
     "episodio": 11
+   },
+   "proximoEp": {
+    "data": "2026-12-02",
+    "temporada": 7,
+    "episodio": 12
    },
    "temporadas": [
     {
@@ -27060,6 +27060,1494 @@
    }
   },
   {
+   "id": 157061,
+   "imdb": "tt14379784",
+   "titulo": "A Hora do Diabo",
+   "original": "The Devil's Hour",
+   "lingua": "en",
+   "sinopse": "Lucy acorda exatamente às 3h33 todas as noites. Nada faz sentido na vida dela há muito tempo, mas as respostas estão lá fora, em algum lugar, no fim de uma série de assassinatos brutais.",
+   "poster": "/qFHKmswojrg4PmZOAgJ1oqVnrWS.jpg",
+   "generos": [
+    "Mistério",
+    "Crime",
+    "Drama"
+   ],
+   "nota": 7.245,
+   "votos": 347,
+   "popularidade": 12.3729,
+   "primeira": "2022-10-28",
+   "ultimoEp": {
+    "data": "2024-10-18",
+    "temporada": 2,
+    "episodio": 5
+   },
+   "proximoEp": {
+    "data": "2026-12-04",
+    "temporada": 3,
+    "episodio": 1
+   },
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2022-10-28"
+    },
+    {
+     "n": 2,
+     "data": "2024-10-18"
+    },
+    {
+     "n": 3,
+     "data": "2026-12-04"
+    }
+   ],
+   "canais": [
+    "Prime Video"
+   ],
+   "trailer": "H5CCF39hIVw",
+   "provedores": {
+    "link": "https://www.themoviedb.org/tv/157061-the-devil-s-hour/watch?locale=BR",
+    "flatrate": [
+     {
+      "id": 119,
+      "nome": "Amazon Prime Video",
+      "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+     },
+     {
+      "id": 2100,
+      "nome": "Amazon Prime Video with Ads",
+      "logo": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png"
+     }
+    ],
+    "rent": [],
+    "buy": []
+   }
+  },
+  {
+   "id": 122241,
+   "imdb": "tt13929916",
+   "titulo": "LOL: Last One Laughing - Alemanha",
+   "original": "LOL: Last One Laughing",
+   "lingua": "de",
+   "sinopse": "",
+   "poster": "/wo6gbvAxX3wbrHwmQwB48uZMveO.jpg",
+   "generos": [
+    "Reality",
+    "Comédia"
+   ],
+   "nota": 7.444,
+   "votos": 90,
+   "popularidade": 11.5788,
+   "primeira": "2021-04-01",
+   "ultimoEp": {
+    "data": "2026-05-28",
+    "temporada": 7,
+    "episodio": 6
+   },
+   "proximoEp": {
+    "data": "2027-03-25",
+    "temporada": 8,
+    "episodio": 1
+   },
+   "temporadas": [
+    {
+     "n": 0,
+     "data": "2023-12-22"
+    },
+    {
+     "n": 1,
+     "data": "2021-04-01"
+    },
+    {
+     "n": 2,
+     "data": "2021-10-01"
+    },
+    {
+     "n": 3,
+     "data": "2022-04-14"
+    },
+    {
+     "n": 4,
+     "data": "2023-04-06"
+    },
+    {
+     "n": 5,
+     "data": "2024-03-28"
+    },
+    {
+     "n": 6,
+     "data": "2025-04-17"
+    },
+    {
+     "n": 7,
+     "data": "2026-05-14"
+    },
+    {
+     "n": 8,
+     "data": "2027-03-25"
+    }
+   ],
+   "canais": [
+    "Prime Video"
+   ],
+   "trailer": null,
+   "provedores": {
+    "link": "https://www.themoviedb.org/tv/122241-lol-last-one-laughing/watch?locale=BR",
+    "flatrate": [
+     {
+      "id": 119,
+      "nome": "Amazon Prime Video",
+      "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+     },
+     {
+      "id": 2100,
+      "nome": "Amazon Prime Video with Ads",
+      "logo": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png"
+     }
+    ],
+    "rent": [],
+    "buy": []
+   }
+  },
+  {
+   "id": 218347,
+   "imdb": "tt11218290",
+   "titulo": "Sweetpea",
+   "original": "Sweetpea",
+   "lingua": "en",
+   "sinopse": "Sweetpea é a história bombástica de Rhiannon Lewis, uma moça tímida e invisível que é levada ao extremo quando seu pai morre e sua agressora dos tempos de escola volta para a cidade.",
+   "poster": "/feoDYCy0AUD031gLqBmA9gC4pw1.jpg",
+   "generos": [
+    "Comédia",
+    "Drama"
+   ],
+   "nota": 7.4,
+   "votos": 319,
+   "popularidade": 11.5649,
+   "primeira": "2024-10-10",
+   "ultimoEp": {
+    "data": "2024-11-14",
+    "temporada": 1,
+    "episodio": 6
+   },
+   "proximoEp": {
+    "data": "2026-11-26",
+    "temporada": 2,
+    "episodio": 1
+   },
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2024-10-10"
+    },
+    {
+     "n": 2,
+     "data": "2026-11-26"
+    }
+   ],
+   "canais": [
+    "Sky Atlantic",
+    "Sky Showcase"
+   ],
+   "trailer": "7-Zb6aYhAsk",
+   "provedores": {
+    "link": "https://www.themoviedb.org/tv/218347-sweetpea/watch?locale=BR",
+    "flatrate": [
+     {
+      "id": 119,
+      "nome": "Amazon Prime Video",
+      "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+     },
+     {
+      "id": 2100,
+      "nome": "Amazon Prime Video with Ads",
+      "logo": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png"
+     }
+    ],
+    "rent": [],
+    "buy": []
+   }
+  },
+  {
+   "id": 64840,
+   "imdb": "tt5332206",
+   "titulo": "Signal",
+   "original": "시그널",
+   "lingua": "ko",
+   "sinopse": "Detetives do presente e um detetive do passado se comunicam através de walkie-talkie para resolver um caso não solucionado há muito tempo.",
+   "poster": "/xURGDl0GdHVdoKbxwh3HmZKPilR.jpg",
+   "generos": [
+    "Crime",
+    "Mistério",
+    "Sci-Fi & Fantasy",
+    "Drama"
+   ],
+   "nota": 8.167,
+   "votos": 209,
+   "popularidade": 12.9269,
+   "primeira": "2016-01-22",
+   "ultimoEp": {
+    "data": "2016-03-12",
+    "temporada": 1,
+    "episodio": 16
+   },
+   "proximoEp": {
+    "data": "2026-12-07",
+    "temporada": 2,
+    "episodio": 1
+   },
+   "temporadas": [
+    {
+     "n": 0,
+     "data": "2016-01-22"
+    },
+    {
+     "n": 1,
+     "data": "2016-01-22"
+    },
+    {
+     "n": 2,
+     "data": "2026-12-07"
+    }
+   ],
+   "canais": [
+    "tvN"
+   ],
+   "trailer": "JnX9ctyNrAI",
+   "provedores": {
+    "link": "https://www.themoviedb.org/tv/64840-sigeuneol/watch?locale=BR",
+    "flatrate": [
+     {
+      "id": 8,
+      "nome": "Netflix",
+      "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+     },
+     {
+      "id": 119,
+      "nome": "Amazon Prime Video",
+      "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+     },
+     {
+      "id": 1796,
+      "nome": "Netflix Standard with Ads",
+      "logo": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+     },
+     {
+      "id": 2100,
+      "nome": "Amazon Prime Video with Ads",
+      "logo": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png"
+     },
+     {
+      "id": 623,
+      "nome": "Tencent Video",
+      "logo": "/oxcvMEkpFb1x4I2xQuRH1yxuJoA.png"
+     }
+    ],
+    "rent": [],
+    "buy": []
+   }
+  },
+  {
+   "id": 101352,
+   "imdb": "tt12004706",
+   "titulo": "Panchayat",
+   "original": "पंचायत",
+   "lingua": "hi",
+   "sinopse": "Panchayat é uma comédia dramática que captura a jornada de um graduado em engenharia Abhishek, que, por falta de uma opção de trabalho melhor, ingressa como secretário de um escritório panchayat em um vilarejo remoto de Uttar Pradesh. Preso entre aldeões malucos e um estilo de vida difícil, Abhishek começa seu trabalho com a única motivação de sair de lá o mais rápido possível, para o qual ele até se prepara para o CAT.",
+   "poster": "/cPPhduQk1eX0MAE2JDaQRh3UZB5.jpg",
+   "generos": [
+    "Comédia",
+    "Drama"
+   ],
+   "nota": 8.198,
+   "votos": 164,
+   "popularidade": 11.3451,
+   "primeira": "2020-03-05",
+   "ultimoEp": {
+    "data": "2025-06-24",
+    "temporada": 4,
+    "episodio": 8
+   },
+   "proximoEp": {
+    "data": "2026-12-03",
+    "temporada": 5,
+    "episodio": 1
+   },
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2020-03-05"
+    },
+    {
+     "n": 2,
+     "data": "2022-05-18"
+    },
+    {
+     "n": 3,
+     "data": "2024-05-28"
+    },
+    {
+     "n": 4,
+     "data": "2025-06-24"
+    },
+    {
+     "n": 5,
+     "data": "2026-12-03"
+    }
+   ],
+   "canais": [
+    "Prime Video"
+   ],
+   "trailer": "AHMEtNAZTP4",
+   "provedores": {
+    "link": "https://www.themoviedb.org/tv/101352-pmcayt/watch?locale=BR",
+    "flatrate": [
+     {
+      "id": 119,
+      "nome": "Amazon Prime Video",
+      "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+     },
+     {
+      "id": 2100,
+      "nome": "Amazon Prime Video with Ads",
+      "logo": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png"
+     }
+    ],
+    "rent": [],
+    "buy": []
+   }
+  },
+  {
+   "id": 139434,
+   "imdb": "tt16994878",
+   "titulo": "7 vs. Wild",
+   "original": "7 vs. Wild",
+   "lingua": "de",
+   "sinopse": "",
+   "poster": "/mOpZaVHuTFOPVYL7uZXexdpHXWz.jpg",
+   "generos": [
+    "Reality",
+    "Documentário"
+   ],
+   "nota": 8.267,
+   "votos": 30,
+   "popularidade": 10.0368,
+   "primeira": "2021-11-06",
+   "ultimoEp": {
+    "data": "2026-11-24",
+    "temporada": 6,
+    "episodio": 10
+   },
+   "proximoEp": {
+    "data": "2026-11-27",
+    "temporada": 6,
+    "episodio": 11
+   },
+   "temporadas": [
+    {
+     "n": 0,
+     "data": "2022-10-30"
+    },
+    {
+     "n": 1,
+     "data": "2021-11-06"
+    },
+    {
+     "n": 2,
+     "data": "2022-11-05"
+    },
+    {
+     "n": 3,
+     "data": "2023-10-31"
+    },
+    {
+     "n": 4,
+     "data": "2024-10-01"
+    },
+    {
+     "n": 5,
+     "data": "2025-10-07"
+    },
+    {
+     "n": 6,
+     "data": "2026-10-23"
+    }
+   ],
+   "canais": [
+    "YouTube",
+    "Prime Video",
+    "Amazon Freevee"
+   ],
+   "trailer": null,
+   "provedores": {
+    "link": "https://www.themoviedb.org/tv/139434-7-vs-wild/watch?locale=BR",
+    "flatrate": [
+     {
+      "id": 119,
+      "nome": "Amazon Prime Video",
+      "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+     },
+     {
+      "id": 2100,
+      "nome": "Amazon Prime Video with Ads",
+      "logo": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png"
+     }
+    ],
+    "rent": [],
+    "buy": []
+   }
+  },
+  {
+   "id": 247619,
+   "imdb": "tt23488694",
+   "titulo": "Muito Esforçado",
+   "original": "Overcompensating",
+   "lingua": "en",
+   "sinopse": "A jornada caótica de Benny, um ex-jogador de futebol enrustido e rei da festa de boas-vindas, enquanto se torna amigo de Carmen, uma estranha com a missão de se adequar a qualquer custo. Muito engraçada e pessoal, a série explora até que ponto todos nós nos esforçamos muito enquanto descobrimos quem somos.",
+   "poster": "/lwtBsOUCGumGd0kR8XBJWHlqel3.jpg",
+   "generos": [
+    "Comédia"
+   ],
+   "nota": 7.2,
+   "votos": 134,
+   "popularidade": 10.012,
+   "primeira": "2025-05-15",
+   "ultimoEp": {
+    "data": "2025-05-15",
+    "temporada": 1,
+    "episodio": 8
+   },
+   "proximoEp": {
+    "data": "2027-02-17",
+    "temporada": 2,
+    "episodio": 1
+   },
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2025-05-15"
+    },
+    {
+     "n": 2,
+     "data": "2027-02-17"
+    }
+   ],
+   "canais": [
+    "Prime Video"
+   ],
+   "trailer": "LSli17bsonk",
+   "provedores": {
+    "link": "https://www.themoviedb.org/tv/247619-overcompensating/watch?locale=BR",
+    "flatrate": [
+     {
+      "id": 119,
+      "nome": "Amazon Prime Video",
+      "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+     },
+     {
+      "id": 2100,
+      "nome": "Amazon Prime Video with Ads",
+      "logo": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png"
+     }
+    ],
+    "rent": [],
+    "buy": []
+   }
+  },
+  {
+   "id": 324326,
+   "imdb": "tt44757191",
+   "titulo": "Os Sete Cavaleiros do Reino Marronnier",
+   "original": "マロニエ王国の七人の騎士",
+   "lingua": "ja",
+   "sinopse": "No coração de um continente com oito reinos, fica o Reino de Marronnier. Seu general, Baribara, tem sete filhos, e cada um possui um dom único e atua como capitão dos cavaleiros. Unidos pela nobre causa de salvar uma princesa de um jeito da hora, os irmãos partem para os sete reinos vizinhos como embaixadores da boa vontade. Que encontros, provações e sinas os aguardam?",
+   "poster": "/csQMsKWVEXd5P7gOqY7liIhR4DR.jpg",
+   "generos": [
+    "Animação",
+    "Comédia",
+    "Sci-Fi & Fantasy"
+   ],
+   "nota": 6,
+   "votos": 2,
+   "popularidade": 7.9958,
+   "primeira": "2026-10-03",
+   "ultimoEp": {
+    "data": "2026-11-21",
+    "temporada": 1,
+    "episodio": 8
+   },
+   "proximoEp": {
+    "data": "2026-11-28",
+    "temporada": 1,
+    "episodio": 9
+   },
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2026-10-03"
+    }
+   ],
+   "canais": [
+    "NHK Educational TV"
+   ],
+   "trailer": null,
+   "provedores": {
+    "link": "https://www.themoviedb.org/tv/324326-maronie-wang-guo-no-qi-ren-no-qi-shi/watch?locale=BR",
+    "flatrate": [
+     {
+      "id": 119,
+      "nome": "Amazon Prime Video",
+      "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+     },
+     {
+      "id": 2100,
+      "nome": "Amazon Prime Video with Ads",
+      "logo": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png"
+     }
+    ],
+    "rent": [],
+    "buy": []
+   }
+  },
+  {
+   "id": 215597,
+   "imdb": "tt20978970",
+   "titulo": "A Saga Wingfeather",
+   "original": "The Wingfeather Saga",
+   "lingua": "en",
+   "sinopse": "Série animada baseada nos romances de fantasia de Andrew Peterson que detalha as aventuras da família Igiby e sua perseguição pelos venenosos Presas de Dang e seu senhor maligno, Gnag, o Sem Nome.",
+   "poster": "/wRquZNWAqtp6cPUEM4RS4DZULLs.jpg",
+   "generos": [
+    "Animação",
+    "Sci-Fi & Fantasy",
+    "Action & Adventure"
+   ],
+   "nota": 7.2,
+   "votos": 18,
+   "popularidade": 6.5796,
+   "primeira": "2022-12-02",
+   "ultimoEp": {
+    "data": "2026-11-25",
+    "temporada": 4,
+    "episodio": 6
+   },
+   "proximoEp": {
+    "data": "2026-12-02",
+    "temporada": 4,
+    "episodio": 7
+   },
+   "temporadas": [
+    {
+     "n": 0,
+     "data": "2017-11-02"
+    },
+    {
+     "n": 1,
+     "data": "2022-12-02"
+    },
+    {
+     "n": 2,
+     "data": "2024-04-05"
+    },
+    {
+     "n": 3,
+     "data": "2025-11-12"
+    },
+    {
+     "n": 4,
+     "data": "2026-10-21"
+    }
+   ],
+   "canais": [
+    "Angel"
+   ],
+   "trailer": null,
+   "provedores": {
+    "link": "https://www.themoviedb.org/tv/215597-the-wingfeather-saga/watch?locale=BR",
+    "flatrate": [
+     {
+      "id": 119,
+      "nome": "Amazon Prime Video",
+      "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+     },
+     {
+      "id": 2100,
+      "nome": "Amazon Prime Video with Ads",
+      "logo": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png"
+     }
+    ],
+    "rent": [],
+    "buy": []
+   }
+  },
+  {
+   "id": 217745,
+   "imdb": "tt23058150",
+   "titulo": "LOL : Qui rira le dernier ?",
+   "original": "LOL : Qui rira le dernier ?",
+   "lingua": "fr",
+   "sinopse": "Patrick Huard convida 10 comediantes para esta experiência única que beira a tortura. Eles passarão seis horas juntos em um espaço fechado onde é proibido rir. O último a rir ganhará o concurso, bem como $ 100.000 para a fundação de sua escolha.",
+   "poster": "/fEjDxv11H3miUB2Q9nJJiuYbV8G.jpg",
+   "generos": [
+    "Reality",
+    "Comédia"
+   ],
+   "nota": 6.2,
+   "votos": 8,
+   "popularidade": 4.8389,
+   "primeira": "2023-01-05",
+   "ultimoEp": {
+    "data": "2026-01-22",
+    "temporada": 4,
+    "episodio": 6
+   },
+   "proximoEp": {
+    "data": "2027-01-01",
+    "temporada": 5,
+    "episodio": 1
+   },
+   "temporadas": [
+    {
+     "n": 0,
+     "data": "2026-10-23"
+    },
+    {
+     "n": 1,
+     "data": "2023-01-04"
+    },
+    {
+     "n": 2,
+     "data": "2024-01-03"
+    },
+    {
+     "n": 3,
+     "data": "2025-01-07"
+    },
+    {
+     "n": 4,
+     "data": "2026-01-14"
+    },
+    {
+     "n": 5,
+     "data": "2027-01-01"
+    }
+   ],
+   "canais": [
+    "Prime Video"
+   ],
+   "trailer": null,
+   "provedores": {
+    "link": "https://www.themoviedb.org/tv/217745-lol-qui-rira-le-dernier/watch?locale=BR",
+    "flatrate": [
+     {
+      "id": 119,
+      "nome": "Amazon Prime Video",
+      "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+     },
+     {
+      "id": 2100,
+      "nome": "Amazon Prime Video with Ads",
+      "logo": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png"
+     }
+    ],
+    "rent": [],
+    "buy": []
+   }
+  },
+  {
+   "id": 326367,
+   "imdb": "tt40914930",
+   "titulo": "अलायन्स",
+   "original": "अलायन्स",
+   "lingua": "hi",
+   "sinopse": "",
+   "poster": "/t9Og3WjlXcptadBFhLFJL3cSMDy.jpg",
+   "generos": [
+    "Reality"
+   ],
+   "nota": 6.5,
+   "votos": 2,
+   "popularidade": 3.5867,
+   "primeira": "2026-06-26",
+   "ultimoEp": {
+    "data": "2026-08-06",
+    "temporada": 1,
+    "episodio": 47
+   },
+   "proximoEp": {
+    "data": "2027-01-14",
+    "temporada": 2,
+    "episodio": 1
+   },
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2026-06-26"
+    },
+    {
+     "n": 2,
+     "data": "2027-01-14"
+    }
+   ],
+   "canais": [
+    "Prime Video"
+   ],
+   "trailer": "XvCJ9g-XJgo",
+   "provedores": {
+    "link": "https://www.themoviedb.org/tv/326367-alayns/watch?locale=BR",
+    "flatrate": [
+     {
+      "id": 119,
+      "nome": "Amazon Prime Video",
+      "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+     },
+     {
+      "id": 2100,
+      "nome": "Amazon Prime Video with Ads",
+      "logo": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png"
+     }
+    ],
+    "rent": [],
+    "buy": []
+   }
+  },
+  {
+   "id": 238108,
+   "imdb": "tt21908964",
+   "titulo": "Call Me Bae",
+   "original": "Call Me Bae",
+   "lingua": "hi",
+   "sinopse": "",
+   "poster": "/qdWoYn4KOiZNjR4EOHUsNjamzJ0.jpg",
+   "generos": [
+    "Drama",
+    "Comédia"
+   ],
+   "nota": 7.6,
+   "votos": 7,
+   "popularidade": 3.3325,
+   "primeira": "2024-09-06",
+   "ultimoEp": {
+    "data": "2024-09-06",
+    "temporada": 1,
+    "episodio": 8
+   },
+   "proximoEp": {
+    "data": "2026-12-17",
+    "temporada": 2,
+    "episodio": 1
+   },
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2024-09-06"
+    },
+    {
+     "n": 2,
+     "data": "2026-12-17"
+    }
+   ],
+   "canais": [
+    "Prime Video"
+   ],
+   "trailer": null,
+   "provedores": {
+    "link": "https://www.themoviedb.org/tv/238108-call-me-bae/watch?locale=BR",
+    "flatrate": [
+     {
+      "id": 119,
+      "nome": "Amazon Prime Video",
+      "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+     },
+     {
+      "id": 2100,
+      "nome": "Amazon Prime Video with Ads",
+      "logo": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png"
+     }
+    ],
+    "rent": [],
+    "buy": []
+   }
+  },
+  {
+   "id": 288458,
+   "imdb": "tt38010918",
+   "titulo": "Ben-Hur: A Série",
+   "original": "Ben-Hur: A Série",
+   "lingua": "pt",
+   "sinopse": "Judá Ben‑Hur tem seu destino marcado por uma amizade complexa com o romano Messala. Anos depois, o reencontro com o amigo de infância desfere um golpe capaz de destruí-lo e afastá-lo de quem sempre foi. Vazio por dentro, apenas uma coisa o move: a busca implacável por justiça. Ou seria vingança?",
+   "poster": "/kZtYlwXBbTYuC177PeAQXKOyCBz.jpg",
+   "generos": [
+    "Drama",
+    "Action & Adventure"
+   ],
+   "nota": 9,
+   "votos": 1,
+   "popularidade": 3.7048,
+   "primeira": "2026-10-09",
+   "ultimoEp": {
+    "data": "2026-11-20",
+    "temporada": 1,
+    "episodio": 10
+   },
+   "proximoEp": {
+    "data": "2026-11-27",
+    "temporada": 1,
+    "episodio": 11
+   },
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2026-10-09"
+    }
+   ],
+   "canais": [
+    "Univer Video"
+   ],
+   "trailer": null,
+   "provedores": {
+    "link": "https://www.themoviedb.org/tv/288458-ben-hur-a-serie/watch?locale=BR",
+    "flatrate": [
+     {
+      "id": 119,
+      "nome": "Amazon Prime Video",
+      "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+     },
+     {
+      "id": 1860,
+      "nome": "Univer Video",
+      "logo": "/nFOHylv7fSm5fEyTMBWxSwUwv4u.png"
+     },
+     {
+      "id": 2100,
+      "nome": "Amazon Prime Video with Ads",
+      "logo": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png"
+     }
+    ],
+    "rent": [],
+    "buy": []
+   }
+  },
+  {
+   "id": 293691,
+   "imdb": "tt32810392",
+   "titulo": "Uma Noite em Idaho: Os Assassinatos na Faculdade",
+   "original": "One Night in Idaho",
+   "lingua": "en",
+   "sinopse": "Na noite de 13 de novembro de 2022, quatro estudantes universitários foram brutalmente assassinados em uma casa fora do campus, na tranquila cidade universitária de Moscow, Idaho. Com acesso exclusivo e íntimo às pessoas mais próximas das vítimas, Uma Noite em Idaho: Os Assassinatos na Faculdade explora os desdobramentos emocionais dessa tragédia estadunidense e suas consequências contínuas.",
+   "poster": "/74KGPlhyBM7AUfYQJ9VWB2sifpu.jpg",
+   "generos": [
+    "Documentário"
+   ],
+   "nota": 7.8,
+   "votos": 13,
+   "popularidade": 2.9335,
+   "primeira": "2025-07-11",
+   "ultimoEp": {
+    "data": "2025-07-11",
+    "temporada": 1,
+    "episodio": 4
+   },
+   "proximoEp": {
+    "data": "2026-12-28",
+    "temporada": 2,
+    "episodio": 1
+   },
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2025-07-11"
+    },
+    {
+     "n": 2,
+     "data": "2026-12-28"
+    }
+   ],
+   "canais": [
+    "Prime Video"
+   ],
+   "trailer": "Ro_qTgaXCPk",
+   "provedores": {
+    "link": "https://www.themoviedb.org/tv/293691-one-night-in-idaho/watch?locale=BR",
+    "flatrate": [
+     {
+      "id": 119,
+      "nome": "Amazon Prime Video",
+      "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+     },
+     {
+      "id": 2100,
+      "nome": "Amazon Prime Video with Ads",
+      "logo": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png"
+     }
+    ],
+    "rent": [],
+    "buy": []
+   }
+  },
+  {
+   "id": 246929,
+   "imdb": "tt31418326",
+   "titulo": "Your Majesty",
+   "original": "Su majestad",
+   "lingua": "es",
+   "sinopse": "Depois de se ver envolvido num escândalo financeiro, o rei Alfonso XIV decide afastar-se da vida pública durante alguns meses. Entretanto, alguém tem de assumir as rédeas da monarquia e a única alternativa é a sua filha Pilar. A princesa terá de provar ao país que não é a rapariga irresponsável, preguiçosa e inútil que todos pensam. Mas talvez não estejam assim tão enganados.",
+   "poster": "/oYz66iyll5q5yImMnzVkvUOxBho.jpg",
+   "generos": [
+    "Comédia"
+   ],
+   "nota": 6.757,
+   "votos": 35,
+   "popularidade": 3.3137,
+   "primeira": "2025-02-27",
+   "ultimoEp": {
+    "data": "2025-02-27",
+    "temporada": 1,
+    "episodio": 7
+   },
+   "proximoEp": {
+    "data": "2027-01-15",
+    "temporada": 2,
+    "episodio": 1
+   },
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2025-02-27"
+    },
+    {
+     "n": 2,
+     "data": "2027-01-15"
+    }
+   ],
+   "canais": [
+    "Prime Video"
+   ],
+   "trailer": null,
+   "provedores": {
+    "link": "https://www.themoviedb.org/tv/246929-su-majestad/watch?locale=BR",
+    "flatrate": [
+     {
+      "id": 119,
+      "nome": "Amazon Prime Video",
+      "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+     },
+     {
+      "id": 2100,
+      "nome": "Amazon Prime Video with Ads",
+      "logo": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png"
+     }
+    ],
+    "rent": [],
+    "buy": []
+   }
+  },
+  {
+   "id": 68689,
+   "imdb": "tt6334758",
+   "titulo": "MasterChef Profissionais",
+   "original": "MasterChef Profissionais",
+   "lingua": "pt",
+   "sinopse": "Cozinheiros profissionais se desdobram para agradar o paladar exigente de três dos maiores chefs do Brasil numa disputa deliciosa pelo grande prêmio.",
+   "poster": "/nWxNohdZy1xteqTbFkXIVUoDj1g.jpg",
+   "generos": [
+    "Reality"
+   ],
+   "nota": 7.5,
+   "votos": 9,
+   "popularidade": 2.7803,
+   "primeira": "2016-10-04",
+   "ultimoEp": {
+    "data": "2026-11-24",
+    "temporada": 6,
+    "episodio": 8
+   },
+   "proximoEp": null,
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2016-10-03"
+    },
+    {
+     "n": 2,
+     "data": "2017-09-04"
+    },
+    {
+     "n": 3,
+     "data": "2018-08-21"
+    },
+    {
+     "n": 4,
+     "data": "2022-09-13"
+    },
+    {
+     "n": 5,
+     "data": "2023-09-19"
+    },
+    {
+     "n": 6,
+     "data": "2026-10-06"
+    }
+   ],
+   "canais": [
+    "Band"
+   ],
+   "trailer": null,
+   "provedores": {
+    "link": "https://www.themoviedb.org/tv/68689-masterchef-profissionais/watch?locale=BR",
+    "flatrate": [
+     {
+      "id": 119,
+      "nome": "Amazon Prime Video",
+      "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+     },
+     {
+      "id": 1899,
+      "nome": "HBO Max",
+      "logo": "/skypuy7SXuugIQeYg0IglmzoKaS.png"
+     },
+     {
+      "id": 1825,
+      "nome": "HBO Max Amazon Channel",
+      "logo": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png"
+     },
+     {
+      "id": 2100,
+      "nome": "Amazon Prime Video with Ads",
+      "logo": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png"
+     }
+    ],
+    "rent": [],
+    "buy": []
+   }
+  },
+  {
+   "id": 222598,
+   "imdb": "tt26778255",
+   "titulo": "LOL: Se Rir, Já Era Argentina",
+   "original": "LOL: Last One Laughing Argentina",
+   "lingua": "es",
+   "sinopse": "Este experimento social apresentado pela icônica Susana Giménez tentará encontrar o próximo campeão da comédia e coroar o primeiro vencedor do LOL Argentina. Quem rir, perde, e quem chegar até o fim e provocar mais risadas dos rivais será o vencedor da temporada.",
+   "poster": "/jMq6SAdD3wIjCsfzSvQU682sPk9.jpg",
+   "generos": [
+    "Reality",
+    "Comédia"
+   ],
+   "nota": 4.8,
+   "votos": 11,
+   "popularidade": 2.4657,
+   "primeira": "2023-03-16",
+   "ultimoEp": {
+    "data": "2026-11-20",
+    "temporada": 3,
+    "episodio": 6
+   },
+   "proximoEp": null,
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2023-03-16"
+    },
+    {
+     "n": 2,
+     "data": "2025-09-12"
+    },
+    {
+     "n": 3,
+     "data": "2026-11-20"
+    }
+   ],
+   "canais": [
+    "Prime Video"
+   ],
+   "trailer": null,
+   "provedores": {
+    "link": "https://www.themoviedb.org/tv/222598-lol-last-one-laughing-argentina/watch?locale=BR",
+    "flatrate": [
+     {
+      "id": 119,
+      "nome": "Amazon Prime Video",
+      "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+     },
+     {
+      "id": 2100,
+      "nome": "Amazon Prime Video with Ads",
+      "logo": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png"
+     }
+    ],
+    "rent": [],
+    "buy": []
+   }
+  },
+  {
+   "id": 337721,
+   "imdb": "tt46657547",
+   "titulo": "Obsessão Proibida",
+   "original": "Prohibida Obsesión",
+   "lingua": "es",
+   "sinopse": "Um único erro pode custar tudo. A vida perfeita do arquiteto Luciano começa a ruir após uma noite de paixão com Bárbara. O que parecia um assunto do passado se transforma em um assédio implacável quando ela consegue entrar em seu círculo mais íntimo. Encurralado pela culpa e pelo medo de ser descoberto, Luciano arriscará tudo para não perder a vida que construiu.",
+   "poster": "/wCZtNtSDUj9oH92nXRX3Km2LC6P.jpg",
+   "generos": [
+    "Drama"
+   ],
+   "nota": 7.5,
+   "votos": 6,
+   "popularidade": 1.7083,
+   "primeira": "2026-09-28",
+   "ultimoEp": {
+    "data": "2026-11-24",
+    "temporada": 1,
+    "episodio": 29
+   },
+   "proximoEp": {
+    "data": "2026-11-29",
+    "temporada": 1,
+    "episodio": 30
+   },
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2026-09-28"
+    }
+   ],
+   "canais": [
+    "Mega",
+    "Prime Video"
+   ],
+   "trailer": null,
+   "provedores": {
+    "link": "https://www.themoviedb.org/tv/337721-prohibida-obsesion/watch?locale=BR",
+    "flatrate": [
+     {
+      "id": 119,
+      "nome": "Amazon Prime Video",
+      "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+     },
+     {
+      "id": 2100,
+      "nome": "Amazon Prime Video with Ads",
+      "logo": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png"
+     }
+    ],
+    "rent": [],
+    "buy": []
+   }
+  },
+  {
+   "id": 46299,
+   "imdb": "tt2162116",
+   "titulo": "The Voice Brasil",
+   "original": "The Voice Brasil",
+   "lingua": "pt",
+   "sinopse": "Quatro grandes nomes da música brasileira treinam vozes promissoras e competem em equipes para revelar novos talentos. Ao final de diversas fases, o público decide quem leva para casa o prêmio e um contrato com uma grande gravadora.",
+   "poster": "/idDSw9iGgUfks5ofxkIhabMlabx.jpg",
+   "generos": [
+    "Reality"
+   ],
+   "nota": 8.5,
+   "votos": 4,
+   "popularidade": 10.8264,
+   "primeira": "2012-09-23",
+   "ultimoEp": {
+    "data": "2026-11-22",
+    "temporada": 14,
+    "episodio": 11
+   },
+   "proximoEp": null,
+   "temporadas": [
+    {
+     "n": 0,
+     "data": "2017-09-04"
+    },
+    {
+     "n": 1,
+     "data": "2012-09-23"
+    },
+    {
+     "n": 2,
+     "data": "2013-10-03"
+    },
+    {
+     "n": 3,
+     "data": "2014-09-18"
+    },
+    {
+     "n": 4,
+     "data": "2015-10-01"
+    },
+    {
+     "n": 5,
+     "data": "2016-10-05"
+    },
+    {
+     "n": 6,
+     "data": "2017-09-21"
+    },
+    {
+     "n": 7,
+     "data": "2018-07-16"
+    },
+    {
+     "n": 8,
+     "data": "2019-07-30"
+    },
+    {
+     "n": 9,
+     "data": "2020-10-15"
+    },
+    {
+     "n": 10,
+     "data": "2021-10-26"
+    },
+    {
+     "n": 11,
+     "data": "2022-11-15"
+    },
+    {
+     "n": 12,
+     "data": "2023-11-28"
+    },
+    {
+     "n": 13,
+     "data": "2025-10-06"
+    },
+    {
+     "n": 14,
+     "data": "2026-09-27"
+    }
+   ],
+   "canais": [
+    "TV Globo",
+    "SBT",
+    "Disney+"
+   ],
+   "trailer": null,
+   "provedores": {
+    "link": "https://www.themoviedb.org/tv/46299-the-voice-brasil/watch?locale=BR",
+    "flatrate": [
+     {
+      "id": 337,
+      "nome": "Disney Plus",
+      "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
+     }
+    ],
+    "rent": [],
+    "buy": []
+   }
+  },
+  {
+   "id": 87994,
+   "imdb": "tt10115054",
+   "titulo": "Vale dos Reis: Tesouros do Egito",
+   "original": "Lost Treasures of Egypt",
+   "lingua": "en",
+   "sinopse": "Uma série imersiva, cheia de ação e guiada por descobertas que segue equipes internacionais de egiptólogos enquanto eles desenterram o mais rico ponto de arqueologia antiga do mundo - o Vale dos Reis do Egito.",
+   "poster": "/yepAD6s0yknRhji7Ea78aXVydHm.jpg",
+   "generos": [
+    "Documentário"
+   ],
+   "nota": 7.5,
+   "votos": 25,
+   "popularidade": 9.0353,
+   "primeira": "2019-07-07",
+   "ultimoEp": {
+    "data": "2026-11-19",
+    "temporada": 7,
+    "episodio": 2
+   },
+   "proximoEp": {
+    "data": "2026-11-26",
+    "temporada": 7,
+    "episodio": 3
+   },
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2019-07-07"
+    },
+    {
+     "n": 2,
+     "data": "2020-08-11"
+    },
+    {
+     "n": 3,
+     "data": "2021-09-13"
+    },
+    {
+     "n": 4,
+     "data": "2022-10-30"
+    },
+    {
+     "n": 5,
+     "data": "2024-05-01"
+    },
+    {
+     "n": 6,
+     "data": "2025-07-31"
+    },
+    {
+     "n": 7,
+     "data": "2026-11-19"
+    }
+   ],
+   "canais": [
+    "National Geographic"
+   ],
+   "trailer": "aA7i6ZaFWr0",
+   "provedores": {
+    "link": "https://www.themoviedb.org/tv/87994-lost-treasures-of-egypt/watch?locale=BR",
+    "flatrate": [
+     {
+      "id": 337,
+      "nome": "Disney Plus",
+      "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
+     }
+    ],
+    "rent": [],
+    "buy": []
+   }
+  },
+  {
+   "id": 334887,
+   "imdb": "tt42007258",
+   "titulo": "Máfia: O Reality",
+   "original": "The Mob",
+   "lingua": "en",
+   "sinopse": "Doze celebridades formam uma nova Família, onde o respeito se conquista e a lealdade é testada. Em jogo, um prêmio de até 250 mil dólares. Os participantes cumprem missões para ganhar dinheiro, mas é o Don quem comanda tudo: ele distribui a grana e elimina um por um. Para se manter no poder, o Don precisa encarar traições brutais e enganação. Só mais um dia na Máfia.",
+   "poster": "/2UPChV4LEyFXW4vu3s0jMsqWIq1.jpg",
+   "generos": [
+    "Reality"
+   ],
+   "nota": 3.5,
+   "votos": 2,
+   "popularidade": 3.8435,
+   "primeira": "2026-10-26",
+   "ultimoEp": {
+    "data": "2026-11-16",
+    "temporada": 1,
+    "episodio": 8
+   },
+   "proximoEp": null,
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2026-10-26"
+    }
+   ],
+   "canais": [
+    "Hulu"
+   ],
+   "trailer": "nAl3qxAHcT0",
+   "provedores": {
+    "link": "https://www.themoviedb.org/tv/334887-the-mob/watch?locale=BR",
+    "flatrate": [
+     {
+      "id": 337,
+      "nome": "Disney Plus",
+      "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
+     }
+    ],
+    "rent": [],
+    "buy": []
+   }
+  },
+  {
+   "id": 332379,
+   "imdb": null,
+   "titulo": "Contagem Regressiva para Vingadores: Doutor Destino - Podcast Oficial",
+   "original": "Countdown to Avengers: Doomsday Official Podcast",
+   "lingua": "en",
+   "sinopse": "Iman Vellani e Frank Alvarez se juntam para reassistir a uma coleção de filmes do Universo Cinematográfico Marvel (MCU), preparando o terreno para \"Vingadores: Doutor Destino\". Eles abordam as impressões pessoais sobre cada filme e acompanham a jornada dos Vingadores rumo à batalha com o Doutor Destino, ao mesmo tempo em que celebram alguns dos momentos mais icônicos do MCU.",
+   "poster": "/jQKt9R0LRWGXYF4TfhyrIrqqvv3.jpg",
+   "generos": [
+    "Talk"
+   ],
+   "nota": 0,
+   "votos": 0,
+   "popularidade": 1.8115,
+   "primeira": "2026-08-27",
+   "ultimoEp": {
+    "data": "2026-11-19",
+    "temporada": 1,
+    "episodio": 8
+   },
+   "proximoEp": {
+    "data": "2026-11-26",
+    "temporada": 1,
+    "episodio": 9
+   },
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2026-08-27"
+    }
+   ],
+   "canais": [
+    "YouTube",
+    "Disney+"
+   ],
+   "trailer": "xe3qx0kXArA",
+   "provedores": {
+    "link": "https://www.themoviedb.org/tv/332379-countdown-to-avengers-doomsday-official-podcast/watch?locale=BR",
+    "flatrate": [
+     {
+      "id": 337,
+      "nome": "Disney Plus",
+      "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
+     }
+    ],
+    "rent": [],
+    "buy": []
+   }
+  },
+  {
+   "id": 340321,
+   "imdb": null,
+   "titulo": "스타일 워즈",
+   "original": "스타일 워즈",
+   "lingua": "ko",
+   "sinopse": "O programa é um jogo de sobrevivência de moda em nível nacional que reúne 72 participantes obcecados por estilo, vindos de diferentes gerações e idades. Na competição, fatores como aparência tradicional, idade, experiência ou fama prévia não importam; o único critério de sobrevivência e vitória é o estilo puro e a capacidade de enfrentar desafios de moda.",
+   "poster": "/4TPb5YUlD957jPjVh3pSQMgeFnb.jpg",
+   "generos": [
+    "Reality"
+   ],
+   "nota": 0,
+   "votos": 0,
+   "popularidade": 1.9759,
+   "primeira": "2026-11-11",
+   "ultimoEp": {
+    "data": "2026-11-25",
+    "temporada": 1,
+    "episodio": 6
+   },
+   "proximoEp": {
+    "data": "2026-12-02",
+    "temporada": 1,
+    "episodio": 7
+   },
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2026-11-11"
+    }
+   ],
+   "canais": [
+    "Disney+"
+   ],
+   "trailer": "wIKw6jgoKHM",
+   "provedores": {
+    "link": "https://www.themoviedb.org/tv/340321-seutail-wojeu/watch?locale=BR",
+    "flatrate": [
+     {
+      "id": 337,
+      "nome": "Disney Plus",
+      "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
+     }
+    ],
+    "rent": [],
+    "buy": []
+   }
+  },
+  {
    "id": 87826,
    "imdb": "tt9817298",
    "titulo": "Sunset - Milha de Ouro",
@@ -27259,85 +28747,6 @@
       "id": 1796,
       "nome": "Netflix Standard with Ads",
       "logo": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
-     }
-    ],
-    "rent": [],
-    "buy": []
-   }
-  },
-  {
-   "id": 64840,
-   "imdb": "tt5332206",
-   "titulo": "Signal",
-   "original": "시그널",
-   "lingua": "ko",
-   "sinopse": "Detetives do presente e um detetive do passado se comunicam através de walkie-talkie para resolver um caso não solucionado há muito tempo.",
-   "poster": "/xURGDl0GdHVdoKbxwh3HmZKPilR.jpg",
-   "generos": [
-    "Crime",
-    "Mistério",
-    "Sci-Fi & Fantasy",
-    "Drama"
-   ],
-   "nota": 8.2,
-   "votos": 209,
-   "popularidade": 11.4623,
-   "primeira": "2016-01-22",
-   "ultimoEp": {
-    "data": "2016-03-12",
-    "temporada": 1,
-    "episodio": 16
-   },
-   "proximoEp": {
-    "data": "2026-12-07",
-    "temporada": 2,
-    "episodio": 1
-   },
-   "temporadas": [
-    {
-     "n": 0,
-     "data": "2016-01-22"
-    },
-    {
-     "n": 1,
-     "data": "2016-01-22"
-    },
-    {
-     "n": 2,
-     "data": "2026-12-07"
-    }
-   ],
-   "canais": [
-    "tvN"
-   ],
-   "trailer": "JnX9ctyNrAI",
-   "provedores": {
-    "link": "https://www.themoviedb.org/tv/64840-sigeuneol/watch?locale=BR",
-    "flatrate": [
-     {
-      "id": 8,
-      "nome": "Netflix",
-      "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
-     },
-     {
-      "id": 119,
-      "nome": "Amazon Prime Video",
-      "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
-     },
-     {
-      "id": 1796,
-      "nome": "Netflix Standard with Ads",
-      "logo": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
-     },
-     {
-      "id": 2100,
-      "nome": "Amazon Prime Video with Ads",
-      "logo": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png"
-     },
-     {
-      "id": 623,
-      "nome": "Tencent Video",
-      "logo": "/oxcvMEkpFb1x4I2xQuRH1yxuJoA.png"
      }
     ],
     "rent": [],
@@ -28929,62 +30338,72 @@
    }
   },
   {
-   "id": 157061,
-   "imdb": "tt14379784",
-   "titulo": "A Hora do Diabo",
-   "original": "The Devil's Hour",
+   "id": 137948,
+   "imdb": "tt13236336",
+   "titulo": "Sacrifício",
+   "original": "Sacrifice",
    "lingua": "en",
-   "sinopse": "Lucy acorda exatamente às 3h33 todas as noites. Nada faz sentido na vida dela há muito tempo, mas as respostas estão lá fora, em algum lugar, no fim de uma série de assassinatos brutais.",
-   "poster": "/qFHKmswojrg4PmZOAgJ1oqVnrWS.jpg",
+   "sinopse": "A influente advogada de entretenimento Daniella Hernandez lida com os problemas de seus clientes enquanto desvenda segredos do passado de sua família e a morte de seus pais.",
+   "poster": "/gMXvBWlDqJZ0Gow7KAc96fChrzD.jpg",
    "generos": [
-    "Mistério",
-    "Crime",
     "Drama"
    ],
-   "nota": 7.245,
-   "votos": 347,
-   "popularidade": 12.3729,
-   "primeira": "2022-10-28",
+   "nota": 7.333,
+   "votos": 9,
+   "popularidade": 5.2418,
+   "primeira": "2021-11-04",
    "ultimoEp": {
-    "data": "2024-10-18",
+    "data": "2026-11-18",
     "temporada": 2,
-    "episodio": 5
+    "episodio": 9
    },
    "proximoEp": {
-    "data": "2026-12-04",
-    "temporada": 3,
-    "episodio": 1
+    "data": "2026-11-25",
+    "temporada": 2,
+    "episodio": 10
    },
    "temporadas": [
     {
      "n": 1,
-     "data": "2022-10-28"
+     "data": "2021-11-04"
     },
     {
      "n": 2,
-     "data": "2024-10-18"
-    },
-    {
-     "n": 3,
-     "data": "2026-12-04"
+     "data": "2026-09-30"
     }
    ],
    "canais": [
-    "Prime Video"
+    "BET+",
+    "Paramount+"
    ],
-   "trailer": "H5CCF39hIVw",
+   "trailer": null,
    "provedores": {
-    "link": "https://www.themoviedb.org/tv/157061-the-devil-s-hour/watch?locale=BR",
+    "link": "https://www.themoviedb.org/tv/137948-sacrifice/watch?locale=BR",
     "flatrate": [
      {
-      "id": 119,
-      "nome": "Amazon Prime Video",
-      "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+      "id": 531,
+      "nome": "Paramount Plus",
+      "logo": "/pkx3klJlwW5JdtaulvDx6hDNtch.png"
      },
      {
-      "id": 2100,
-      "nome": "Amazon Prime Video with Ads",
-      "logo": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png"
+      "id": 484,
+      "nome": "Claro tv+",
+      "logo": "/olzQMHt2SX7iNy8WDMR299hVFcL.png"
+     },
+     {
+      "id": 582,
+      "nome": "Paramount+ Amazon Channel",
+      "logo": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png"
+     },
+     {
+      "id": 1853,
+      "nome": "Paramount Plus Apple TV channel",
+      "logo": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png"
+     },
+     {
+      "id": 2303,
+      "nome": "Paramount Plus Premium",
+      "logo": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png"
      }
     ],
     "rent": [],
@@ -28992,85 +30411,75 @@
    }
   },
   {
-   "id": 122241,
-   "imdb": "tt13929916",
-   "titulo": "LOL: Last One Laughing - Alemanha",
-   "original": "LOL: Last One Laughing",
-   "lingua": "de",
-   "sinopse": "",
-   "poster": "/wo6gbvAxX3wbrHwmQwB48uZMveO.jpg",
+   "id": 239334,
+   "imdb": "tt30006118",
+   "titulo": "Frenchie Shore",
+   "original": "Frenchie Shore",
+   "lingua": "fr",
+   "sinopse": "Seguindo os passos de reality shows como \"Jersey Shore\" e \"Geordie Shore\", os dez maiores festeiros da França se reúnem em Cap d'Agde para férias dos sonhos.",
+   "poster": "/AjnQUAy49iz7BMMve0ZKIfAWxFi.jpg",
    "generos": [
-    "Reality",
-    "Comédia"
+    "Reality"
    ],
-   "nota": 7.444,
-   "votos": 90,
-   "popularidade": 11.5788,
-   "primeira": "2021-04-01",
+   "nota": 6,
+   "votos": 5,
+   "popularidade": 4.5401,
+   "primeira": "2023-11-12",
    "ultimoEp": {
-    "data": "2026-05-28",
-    "temporada": 7,
-    "episodio": 6
+    "data": "2026-11-21",
+    "temporada": 3,
+    "episodio": 2
    },
    "proximoEp": {
-    "data": "2027-03-25",
-    "temporada": 8,
-    "episodio": 1
+    "data": "2026-11-28",
+    "temporada": 3,
+    "episodio": 3
    },
    "temporadas": [
     {
      "n": 0,
-     "data": "2023-12-22"
+     "data": "2024-10-26"
     },
     {
      "n": 1,
-     "data": "2021-04-01"
+     "data": "2023-11-12"
     },
     {
      "n": 2,
-     "data": "2021-10-01"
+     "data": "2024-11-23"
     },
     {
      "n": 3,
-     "data": "2022-04-14"
-    },
-    {
-     "n": 4,
-     "data": "2023-04-06"
-    },
-    {
-     "n": 5,
-     "data": "2024-03-28"
-    },
-    {
-     "n": 6,
-     "data": "2025-04-17"
-    },
-    {
-     "n": 7,
-     "data": "2026-05-14"
-    },
-    {
-     "n": 8,
-     "data": "2027-03-25"
+     "data": "2026-11-21"
     }
    ],
    "canais": [
-    "Prime Video"
+    "Paramount+",
+    "MTV France"
    ],
-   "trailer": null,
+   "trailer": "_oKqMhOuCrU",
    "provedores": {
-    "link": "https://www.themoviedb.org/tv/122241-lol-last-one-laughing/watch?locale=BR",
+    "link": "https://www.themoviedb.org/tv/239334-frenchie-shore/watch?locale=BR",
     "flatrate": [
      {
-      "id": 119,
-      "nome": "Amazon Prime Video",
-      "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+      "id": 531,
+      "nome": "Paramount Plus",
+      "logo": "/pkx3klJlwW5JdtaulvDx6hDNtch.png"
      },
      {
-      "id": 2100,
-      "nome": "Amazon Prime Video with Ads",
-      "logo": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png"
+      "id": 582,
+      "nome": "Paramount+ Amazon Channel",
+      "logo": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png"
+     },
+     {
+      "id": 1853,
+      "nome": "Paramount Plus Apple TV channel",
+      "logo": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png"
+     },
+     {
+      "id": 2303,
+      "nome": "Paramount Plus Premium",
+      "logo": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png"
      }
     ],
     "rent": [],
@@ -29078,58 +30487,70 @@
    }
   },
   {
-   "id": 218347,
-   "imdb": "tt11218290",
-   "titulo": "Sweetpea",
-   "original": "Sweetpea",
+   "id": 240903,
+   "imdb": "tt30292502",
+   "titulo": "Austrália Shore",
+   "original": "Aussie Shore",
    "lingua": "en",
-   "sinopse": "Sweetpea é a história bombástica de Rhiannon Lewis, uma moça tímida e invisível que é levada ao extremo quando seu pai morre e sua agressora dos tempos de escola volta para a cidade.",
-   "poster": "/feoDYCy0AUD031gLqBmA9gC4pw1.jpg",
+   "sinopse": "Austrália Shore mostra as confusões de um grupo de amigos jovens e bagunceiros enquanto eles trabalham duro e festejam ainda mais, e navegam pelos altos e baixos de morarem juntos 24 horas por dia na baladeira cidade de Cairns.",
+   "poster": "/uc6zlspqXJqVOlxD3AYnEo4GBvt.jpg",
    "generos": [
-    "Comédia",
-    "Drama"
+    "Reality"
    ],
-   "nota": 7.4,
-   "votos": 319,
-   "popularidade": 11.5649,
-   "primeira": "2024-10-10",
+   "nota": 5.6,
+   "votos": 7,
+   "popularidade": 2.9361,
+   "primeira": "2024-10-03",
    "ultimoEp": {
-    "data": "2024-11-14",
-    "temporada": 1,
+    "data": "2026-11-19",
+    "temporada": 3,
     "episodio": 6
    },
    "proximoEp": {
     "data": "2026-11-26",
-    "temporada": 2,
-    "episodio": 1
+    "temporada": 3,
+    "episodio": 7
    },
    "temporadas": [
     {
      "n": 1,
-     "data": "2024-10-10"
+     "data": "2024-10-03"
     },
     {
      "n": 2,
-     "data": "2026-11-26"
+     "data": "2025-09-25"
+    },
+    {
+     "n": 3,
+     "data": "2026-10-22"
     }
    ],
    "canais": [
-    "Sky Atlantic",
-    "Sky Showcase"
+    "Paramount+"
    ],
-   "trailer": "7-Zb6aYhAsk",
+   "trailer": "clgwl3ow91s",
    "provedores": {
-    "link": "https://www.themoviedb.org/tv/218347-sweetpea/watch?locale=BR",
+    "link": "https://www.themoviedb.org/tv/240903-aussie-shore/watch?locale=BR",
     "flatrate": [
      {
-      "id": 119,
-      "nome": "Amazon Prime Video",
-      "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+      "id": 531,
+      "nome": "Paramount Plus",
+      "logo": "/pkx3klJlwW5JdtaulvDx6hDNtch.png"
      },
      {
-      "id": 2100,
-      "nome": "Amazon Prime Video with Ads",
-      "logo": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png"
+      "id": 582,
+      "nome": "Paramount+ Amazon Channel",
+      "logo": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png"
+     },
+     {
+      "id": 1853,
+      "nome": "Paramount Plus Apple TV channel",
+      "logo": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png"
+     },
+     {
+      "id": 2303,
+      "nome": "Paramount Plus Premium",
+      "logo": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png"
      }
     ],
     "rent": [],
@@ -29137,149 +30558,373 @@
    }
   },
   {
-   "id": 101352,
-   "imdb": "tt12004706",
-   "titulo": "Panchayat",
-   "original": "पंचायत",
-   "lingua": "hi",
-   "sinopse": "Panchayat é uma comédia dramática que captura a jornada de um graduado em engenharia Abhishek, que, por falta de uma opção de trabalho melhor, ingressa como secretário de um escritório panchayat em um vilarejo remoto de Uttar Pradesh. Preso entre aldeões malucos e um estilo de vida difícil, Abhishek começa seu trabalho com a única motivação de sair de lá o mais rápido possível, para o qual ele até se prepara para o CAT.",
-   "poster": "/cPPhduQk1eX0MAE2JDaQRh3UZB5.jpg",
+   "id": 153246,
+   "imdb": "tt24851318",
+   "titulo": "Germany Shore",
+   "original": "Germany Shore",
+   "lingua": "de",
+   "sinopse": "Germany Shore envia um grupo descolado a um lugar ensolarado para festejar. São jovens, sexys e cheios de energia! São quinze dias na mansão dos sonhos transformada em uma grande balada.",
+   "poster": "/6yNwf8hvO0dmsHWtfukqaTcNGq9.jpg",
    "generos": [
-    "Comédia",
-    "Drama"
+    "Reality"
    ],
-   "nota": 8.198,
-   "votos": 164,
-   "popularidade": 11.3451,
-   "primeira": "2020-03-05",
+   "nota": 3.8,
+   "votos": 5,
+   "popularidade": 2.8999,
+   "primeira": "2021-11-17",
    "ultimoEp": {
-    "data": "2025-06-24",
-    "temporada": 4,
-    "episodio": 8
+    "data": "2026-11-24",
+    "temporada": 6,
+    "episodio": 1
    },
    "proximoEp": {
-    "data": "2026-12-03",
-    "temporada": 5,
+    "data": "2026-12-01",
+    "temporada": 6,
+    "episodio": 2
+   },
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2021-11-17"
+    },
+    {
+     "n": 2,
+     "data": "2022-12-15"
+    },
+    {
+     "n": 3,
+     "data": "2023-11-14"
+    },
+    {
+     "n": 4,
+     "data": "2024-11-19"
+    },
+    {
+     "n": 5,
+     "data": "2025-10-28"
+    },
+    {
+     "n": 6,
+     "data": "2026-11-24"
+    }
+   ],
+   "canais": [
+    "3+",
+    "Joyn",
+    "Paramount+"
+   ],
+   "trailer": "C5EWTKQ--pI",
+   "provedores": {
+    "link": "https://www.themoviedb.org/tv/153246-germany-shore/watch?locale=BR",
+    "flatrate": [
+     {
+      "id": 531,
+      "nome": "Paramount Plus",
+      "logo": "/pkx3klJlwW5JdtaulvDx6hDNtch.png"
+     },
+     {
+      "id": 582,
+      "nome": "Paramount+ Amazon Channel",
+      "logo": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png"
+     },
+     {
+      "id": 1853,
+      "nome": "Paramount Plus Apple TV channel",
+      "logo": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png"
+     },
+     {
+      "id": 2303,
+      "nome": "Paramount Plus Premium",
+      "logo": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png"
+     }
+    ],
+    "rent": [],
+    "buy": []
+   }
+  },
+  {
+   "id": 307913,
+   "imdb": "tt39093331",
+   "titulo": "Canadá Shore",
+   "original": "Canada Shore",
+   "lingua": "en",
+   "sinopse": "Dez jovens canadenses ousados invadem uma cidade de festas à beira de um lago na Colúmbia Britânica para seu primeiro verão de bebedeira, pegação e decisões ruins, enquanto obedecem à chefe icônica: a única e inigualável Snooki.",
+   "poster": "/gItzF0zia8qMaAqniM6mhPgbbsl.jpg",
+   "generos": [
+    "Reality"
+   ],
+   "nota": 6,
+   "votos": 6,
+   "popularidade": 0.852,
+   "primeira": "2026-01-22",
+   "ultimoEp": {
+    "data": "2026-03-19",
+    "temporada": 1,
+    "episodio": 10
+   },
+   "proximoEp": {
+    "data": "2027-01-07",
+    "temporada": 2,
     "episodio": 1
    },
    "temporadas": [
     {
      "n": 1,
-     "data": "2020-03-05"
+     "data": "2026-01-22"
     },
     {
      "n": 2,
-     "data": "2022-05-18"
+     "data": "2027-01-07"
+    }
+   ],
+   "canais": [
+    "Paramount+"
+   ],
+   "trailer": "MlTMqgas974",
+   "provedores": {
+    "link": "https://www.themoviedb.org/tv/307913-canada-shore/watch?locale=BR",
+    "flatrate": [
+     {
+      "id": 531,
+      "nome": "Paramount Plus",
+      "logo": "/pkx3klJlwW5JdtaulvDx6hDNtch.png"
+     },
+     {
+      "id": 582,
+      "nome": "Paramount+ Amazon Channel",
+      "logo": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png"
+     },
+     {
+      "id": 1853,
+      "nome": "Paramount Plus Apple TV channel",
+      "logo": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png"
+     },
+     {
+      "id": 2303,
+      "nome": "Paramount Plus Premium",
+      "logo": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png"
+     }
+    ],
+    "rent": [],
+    "buy": []
+   }
+  },
+  {
+   "id": 235904,
+   "imdb": "tt21627122",
+   "titulo": "Spinners – Vivendo no Limite",
+   "original": "Spinners",
+   "lingua": "en",
+   "sinopse": "Ethan é um motorista de 17 anos que trabalha para uma gangue local. Desgostoso com a vida de gangues, Ethan descobre uma possível saída através de spinning, um esporte a motor extremo. Mas a iminente guerra de gangues põe em risco essa esperança.",
+   "poster": "/5XPrBrKyOuqQh3sMOZivn4339MX.jpg",
+   "generos": [
+    "Crime",
+    "Drama"
+   ],
+   "nota": 7.8,
+   "votos": 6,
+   "popularidade": 7.2118,
+   "primeira": "2023-11-08",
+   "ultimoEp": {
+    "data": "2026-11-22",
+    "temporada": 2,
+    "episodio": 5
+   },
+   "proximoEp": {
+    "data": "2026-11-29",
+    "temporada": 2,
+    "episodio": 6
+   },
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2023-11-08"
     },
     {
-     "n": 3,
-     "data": "2024-05-28"
+     "n": 2,
+     "data": "2026-10-25"
+    }
+   ],
+   "canais": [
+    "Canal+",
+    "Showmax",
+    "Mzanzi Magic"
+   ],
+   "trailer": "wJfvUrDssh8",
+   "provedores": {
+    "link": "https://www.themoviedb.org/tv/235904-spinners/watch?locale=BR",
+    "flatrate": [
+     {
+      "id": 307,
+      "nome": "Globoplay",
+      "logo": "/9A6Oxd3F7iXm7mds7CxYOBicojs.png"
+     }
+    ],
+    "rent": [],
+    "buy": []
+   }
+  },
+  {
+   "id": 221998,
+   "imdb": "tt10928084",
+   "titulo": "Papo de Segunda",
+   "original": "Papo de Segunda",
+   "lingua": "pt",
+   "sinopse": "No programa são debatidos diversos assuntos da atualidade. São quatro pontos de vista, por vezes conflitantes, ora solidários, mas sempre divertidos.",
+   "poster": "/4dYawy4T0AEhsHyPPTr5LGxJ4T0.jpg",
+   "generos": [
+    "Talk"
+   ],
+   "nota": 10,
+   "votos": 1,
+   "popularidade": 5.4769,
+   "primeira": "2015-06-08",
+   "ultimoEp": {
+    "data": "2026-11-16",
+    "temporada": 18,
+    "episodio": 30
+   },
+   "proximoEp": null,
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2015-06-08"
     },
     {
-     "n": 4,
-     "data": "2025-06-24"
+     "n": 14,
+     "data": "2023-01-02"
     },
     {
-     "n": 5,
+     "n": 15,
+     "data": "2023-03-13"
+    },
+    {
+     "n": 16,
+     "data": "2024-04-22"
+    },
+    {
+     "n": 17,
+     "data": "2025-05-05"
+    },
+    {
+     "n": 18,
+     "data": "2026-04-27"
+    }
+   ],
+   "canais": [
+    "GNT"
+   ],
+   "trailer": null,
+   "provedores": {
+    "link": "https://www.themoviedb.org/tv/221998-papo-de-segunda/watch?locale=BR",
+    "flatrate": [
+     {
+      "id": 307,
+      "nome": "Globoplay",
+      "logo": "/9A6Oxd3F7iXm7mds7CxYOBicojs.png"
+     }
+    ],
+    "rent": [],
+    "buy": []
+   }
+  },
+  {
+   "id": 328440,
+   "imdb": "tt48805877",
+   "titulo": "Lá na Minha Terra",
+   "original": "Lá na Minha Terra",
+   "lingua": "pt",
+   "sinopse": "Rosenda, mulher sertaneja e mãe de quatro filhos, parte para São Paulo após descobrir que o marido desaparecido pode estar vivo; ao chegar, encontra um homem transformado: rico, casado, e disposto a apagá-la do passado. Rosenda decide ficar na \"terra da garoa\", na companhia dos filhos, e reconstruir sua vida após a decepção com o homem que amou.",
+   "poster": "/w4Sj5uMPXOp4M9DnCm4vEepxtcb.jpg",
+   "generos": [
+    "Soap",
+    "Drama",
+    "Comédia"
+   ],
+   "nota": 0,
+   "votos": 0,
+   "popularidade": 2.9071,
+   "primeira": "2026-11-09",
+   "ultimoEp": {
+    "data": "2026-11-24",
+    "temporada": 1,
+    "episodio": 14
+   },
+   "proximoEp": {
+    "data": "2026-11-25",
+    "temporada": 1,
+    "episodio": 15
+   },
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2026-11-09"
+    }
+   ],
+   "canais": [
+    "TV Globo"
+   ],
+   "trailer": null,
+   "provedores": {
+    "link": "https://www.themoviedb.org/tv/328440-la-na-minha-terra/watch?locale=BR",
+    "flatrate": [
+     {
+      "id": 307,
+      "nome": "Globoplay",
+      "logo": "/9A6Oxd3F7iXm7mds7CxYOBicojs.png"
+     }
+    ],
+    "rent": [],
+    "buy": []
+   }
+  },
+  {
+   "id": 226254,
+   "imdb": "tt36325058",
+   "titulo": "Pablo & Luisão",
+   "original": "Pablo & Luisão",
+   "lingua": "pt",
+   "sinopse": "A série acompanha as divertidas e caóticas aventuras de Luisão (Aílton Graça), pai do humorista Paulo Vieira, e de seu inseparável amigo Pablo (Otávio Muller). Juntos, eles vivem inventando planos mirabolantes que acabam gerando consequências inusitadas – especialmente para as crianças Paulo (Yves Miguel), seu irmão Neto (João Pedro Martins) e a mãe dos meninos, Conceição (Dira Paes). Inspirada em acontecimentos reais da infância de Paulo Vieira, a trama mistura humor e afeto familiar.",
+   "poster": "/5dzl9zehL0zZ6gWQisU05eSQpOv.jpg",
+   "generos": [
+    "Comédia",
+    "Família"
+   ],
+   "nota": 8.4,
+   "votos": 4,
+   "popularidade": 3.1162,
+   "primeira": "2025-05-22",
+   "ultimoEp": {
+    "data": "2025-05-22",
+    "temporada": 1,
+    "episodio": 16
+   },
+   "proximoEp": {
+    "data": "2026-12-03",
+    "temporada": 2,
+    "episodio": 1
+   },
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2025-05-21"
+    },
+    {
+     "n": 2,
      "data": "2026-12-03"
     }
    ],
    "canais": [
-    "Prime Video"
-   ],
-   "trailer": "AHMEtNAZTP4",
-   "provedores": {
-    "link": "https://www.themoviedb.org/tv/101352-pmcayt/watch?locale=BR",
-    "flatrate": [
-     {
-      "id": 119,
-      "nome": "Amazon Prime Video",
-      "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
-     },
-     {
-      "id": 2100,
-      "nome": "Amazon Prime Video with Ads",
-      "logo": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png"
-     }
-    ],
-    "rent": [],
-    "buy": []
-   }
-  },
-  {
-   "id": 139434,
-   "imdb": "tt16994878",
-   "titulo": "7 vs. Wild",
-   "original": "7 vs. Wild",
-   "lingua": "de",
-   "sinopse": "",
-   "poster": "/mOpZaVHuTFOPVYL7uZXexdpHXWz.jpg",
-   "generos": [
-    "Reality",
-    "Documentário"
-   ],
-   "nota": 8.267,
-   "votos": 30,
-   "popularidade": 10.0368,
-   "primeira": "2021-11-06",
-   "ultimoEp": {
-    "data": "2026-11-24",
-    "temporada": 6,
-    "episodio": 10
-   },
-   "proximoEp": {
-    "data": "2026-11-27",
-    "temporada": 6,
-    "episodio": 11
-   },
-   "temporadas": [
-    {
-     "n": 0,
-     "data": "2022-10-30"
-    },
-    {
-     "n": 1,
-     "data": "2021-11-06"
-    },
-    {
-     "n": 2,
-     "data": "2022-11-05"
-    },
-    {
-     "n": 3,
-     "data": "2023-10-31"
-    },
-    {
-     "n": 4,
-     "data": "2024-10-01"
-    },
-    {
-     "n": 5,
-     "data": "2025-10-07"
-    },
-    {
-     "n": 6,
-     "data": "2026-10-23"
-    }
-   ],
-   "canais": [
-    "YouTube",
-    "Prime Video",
-    "Amazon Freevee"
+    "Globoplay"
    ],
    "trailer": null,
    "provedores": {
-    "link": "https://www.themoviedb.org/tv/139434-7-vs-wild/watch?locale=BR",
+    "link": "https://www.themoviedb.org/tv/226254-pablo-luisao/watch?locale=BR",
     "flatrate": [
      {
-      "id": 119,
-      "nome": "Amazon Prime Video",
-      "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
-     },
-     {
-      "id": 2100,
-      "nome": "Amazon Prime Video with Ads",
-      "logo": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png"
+      "id": 307,
+      "nome": "Globoplay",
+      "logo": "/9A6Oxd3F7iXm7mds7CxYOBicojs.png"
      }
     ],
     "rent": [],
@@ -29287,313 +30932,47 @@
    }
   },
   {
-   "id": 247619,
-   "imdb": "tt23488694",
-   "titulo": "Muito Esforçado",
-   "original": "Overcompensating",
-   "lingua": "en",
-   "sinopse": "A jornada caótica de Benny, um ex-jogador de futebol enrustido e rei da festa de boas-vindas, enquanto se torna amigo de Carmen, uma estranha com a missão de se adequar a qualquer custo. Muito engraçada e pessoal, a série explora até que ponto todos nós nos esforçamos muito enquanto descobrimos quem somos.",
-   "poster": "/lwtBsOUCGumGd0kR8XBJWHlqel3.jpg",
-   "generos": [
-    "Comédia"
-   ],
-   "nota": 7.2,
-   "votos": 134,
-   "popularidade": 10.012,
-   "primeira": "2025-05-15",
-   "ultimoEp": {
-    "data": "2025-05-15",
-    "temporada": 1,
-    "episodio": 8
-   },
-   "proximoEp": {
-    "data": "2027-02-17",
-    "temporada": 2,
-    "episodio": 1
-   },
-   "temporadas": [
-    {
-     "n": 1,
-     "data": "2025-05-15"
-    },
-    {
-     "n": 2,
-     "data": "2027-02-17"
-    }
-   ],
-   "canais": [
-    "Prime Video"
-   ],
-   "trailer": "LSli17bsonk",
-   "provedores": {
-    "link": "https://www.themoviedb.org/tv/247619-overcompensating/watch?locale=BR",
-    "flatrate": [
-     {
-      "id": 119,
-      "nome": "Amazon Prime Video",
-      "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
-     },
-     {
-      "id": 2100,
-      "nome": "Amazon Prime Video with Ads",
-      "logo": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png"
-     }
-    ],
-    "rent": [],
-    "buy": []
-   }
-  },
-  {
-   "id": 324326,
-   "imdb": "tt44757191",
-   "titulo": "Os Sete Cavaleiros do Reino Marronnier",
-   "original": "マロニエ王国の七人の騎士",
-   "lingua": "ja",
-   "sinopse": "No coração de um continente com oito reinos, fica o Reino de Marronnier. Seu general, Baribara, tem sete filhos, e cada um possui um dom único e atua como capitão dos cavaleiros. Unidos pela nobre causa de salvar uma princesa de um jeito da hora, os irmãos partem para os sete reinos vizinhos como embaixadores da boa vontade. Que encontros, provações e sinas os aguardam?",
-   "poster": "/csQMsKWVEXd5P7gOqY7liIhR4DR.jpg",
-   "generos": [
-    "Animação",
-    "Comédia",
-    "Sci-Fi & Fantasy"
-   ],
-   "nota": 6,
-   "votos": 2,
-   "popularidade": 7.9958,
-   "primeira": "2026-10-03",
-   "ultimoEp": {
-    "data": "2026-11-21",
-    "temporada": 1,
-    "episodio": 8
-   },
-   "proximoEp": {
-    "data": "2026-11-28",
-    "temporada": 1,
-    "episodio": 9
-   },
-   "temporadas": [
-    {
-     "n": 1,
-     "data": "2026-10-03"
-    }
-   ],
-   "canais": [
-    "NHK Educational TV"
-   ],
-   "trailer": null,
-   "provedores": {
-    "link": "https://www.themoviedb.org/tv/324326-maronie-wang-guo-no-qi-ren-no-qi-shi/watch?locale=BR",
-    "flatrate": [
-     {
-      "id": 119,
-      "nome": "Amazon Prime Video",
-      "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
-     },
-     {
-      "id": 2100,
-      "nome": "Amazon Prime Video with Ads",
-      "logo": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png"
-     }
-    ],
-    "rent": [],
-    "buy": []
-   }
-  },
-  {
-   "id": 215597,
-   "imdb": "tt20978970",
-   "titulo": "A Saga Wingfeather",
-   "original": "The Wingfeather Saga",
-   "lingua": "en",
-   "sinopse": "Série animada baseada nos romances de fantasia de Andrew Peterson que detalha as aventuras da família Igiby e sua perseguição pelos venenosos Presas de Dang e seu senhor maligno, Gnag, o Sem Nome.",
-   "poster": "/wRquZNWAqtp6cPUEM4RS4DZULLs.jpg",
-   "generos": [
-    "Animação",
-    "Sci-Fi & Fantasy",
-    "Action & Adventure"
-   ],
-   "nota": 7.2,
-   "votos": 18,
-   "popularidade": 6.5796,
-   "primeira": "2022-12-02",
-   "ultimoEp": {
-    "data": "2026-11-25",
-    "temporada": 4,
-    "episodio": 6
-   },
-   "proximoEp": {
-    "data": "2026-12-02",
-    "temporada": 4,
-    "episodio": 7
-   },
-   "temporadas": [
-    {
-     "n": 0,
-     "data": "2017-11-02"
-    },
-    {
-     "n": 1,
-     "data": "2022-12-02"
-    },
-    {
-     "n": 2,
-     "data": "2024-04-05"
-    },
-    {
-     "n": 3,
-     "data": "2025-11-12"
-    },
-    {
-     "n": 4,
-     "data": "2026-10-21"
-    }
-   ],
-   "canais": [
-    "Angel"
-   ],
-   "trailer": null,
-   "provedores": {
-    "link": "https://www.themoviedb.org/tv/215597-the-wingfeather-saga/watch?locale=BR",
-    "flatrate": [
-     {
-      "id": 119,
-      "nome": "Amazon Prime Video",
-      "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
-     },
-     {
-      "id": 2100,
-      "nome": "Amazon Prime Video with Ads",
-      "logo": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png"
-     }
-    ],
-    "rent": [],
-    "buy": []
-   }
-  },
-  {
-   "id": 217745,
-   "imdb": "tt23058150",
-   "titulo": "LOL : Qui rira le dernier ?",
-   "original": "LOL : Qui rira le dernier ?",
-   "lingua": "fr",
-   "sinopse": "Patrick Huard convida 10 comediantes para esta experiência única que beira a tortura. Eles passarão seis horas juntos em um espaço fechado onde é proibido rir. O último a rir ganhará o concurso, bem como $ 100.000 para a fundação de sua escolha.",
-   "poster": "/fEjDxv11H3miUB2Q9nJJiuYbV8G.jpg",
-   "generos": [
-    "Reality",
-    "Comédia"
-   ],
-   "nota": 6.2,
-   "votos": 8,
-   "popularidade": 4.8389,
-   "primeira": "2023-01-05",
-   "ultimoEp": {
-    "data": "2026-01-22",
-    "temporada": 4,
-    "episodio": 6
-   },
-   "proximoEp": {
-    "data": "2027-01-01",
-    "temporada": 5,
-    "episodio": 1
-   },
-   "temporadas": [
-    {
-     "n": 0,
-     "data": "2026-10-23"
-    },
-    {
-     "n": 1,
-     "data": "2023-01-04"
-    },
-    {
-     "n": 2,
-     "data": "2024-01-03"
-    },
-    {
-     "n": 3,
-     "data": "2025-01-07"
-    },
-    {
-     "n": 4,
-     "data": "2026-01-14"
-    },
-    {
-     "n": 5,
-     "data": "2027-01-01"
-    }
-   ],
-   "canais": [
-    "Prime Video"
-   ],
-   "trailer": null,
-   "provedores": {
-    "link": "https://www.themoviedb.org/tv/217745-lol-qui-rira-le-dernier/watch?locale=BR",
-    "flatrate": [
-     {
-      "id": 119,
-      "nome": "Amazon Prime Video",
-      "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
-     },
-     {
-      "id": 2100,
-      "nome": "Amazon Prime Video with Ads",
-      "logo": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png"
-     }
-    ],
-    "rent": [],
-    "buy": []
-   }
-  },
-  {
-   "id": 326367,
-   "imdb": "tt40914930",
-   "titulo": "अलायन्स",
-   "original": "अलायन्स",
-   "lingua": "hi",
-   "sinopse": "",
-   "poster": "/t9Og3WjlXcptadBFhLFJL3cSMDy.jpg",
+   "id": 287934,
+   "imdb": "tt35400429",
+   "titulo": "Chef de Alto Nível",
+   "original": "Chef de Alto Nível",
+   "lingua": "pt",
+   "sinopse": "Durante toda a competição, 24 participantes se dividem em três categorias, os três níveis de cozinha. Cada um terá a oportunidade de mostrar suas habilidades, enfrentando grandes desafios, além de desenvolver seu talento, com direito à mentoria e avaliação de chefs renomados.",
+   "poster": "/8s16MorTyLQ2jYkbEawf2PpN5dX.jpg",
    "generos": [
     "Reality"
    ],
-   "nota": 6.5,
-   "votos": 2,
-   "popularidade": 3.5867,
-   "primeira": "2026-06-26",
+   "nota": 0,
+   "votos": 0,
+   "popularidade": 2.7905,
+   "primeira": "2025-07-15",
    "ultimoEp": {
-    "data": "2026-08-06",
-    "temporada": 1,
-    "episodio": 47
-   },
-   "proximoEp": {
-    "data": "2027-01-14",
+    "data": "2026-11-24",
     "temporada": 2,
-    "episodio": 1
+    "episodio": 11
    },
+   "proximoEp": null,
    "temporadas": [
     {
      "n": 1,
-     "data": "2026-06-26"
+     "data": "2025-07-15"
     },
     {
      "n": 2,
-     "data": "2027-01-14"
+     "data": "2026-10-13"
     }
    ],
    "canais": [
-    "Prime Video"
+    "TV Globo"
    ],
-   "trailer": "XvCJ9g-XJgo",
+   "trailer": null,
    "provedores": {
-    "link": "https://www.themoviedb.org/tv/326367-alayns/watch?locale=BR",
+    "link": "https://www.themoviedb.org/tv/287934-chef-de-alto-nivel/watch?locale=BR",
     "flatrate": [
      {
-      "id": 119,
-      "nome": "Amazon Prime Video",
-      "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
-     },
-     {
-      "id": 2100,
-      "nome": "Amazon Prime Video with Ads",
-      "logo": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png"
+      "id": 307,
+      "nome": "Globoplay",
+      "logo": "/9A6Oxd3F7iXm7mds7CxYOBicojs.png"
      }
     ],
     "rent": [],
@@ -29601,230 +30980,181 @@
    }
   },
   {
-   "id": 238108,
-   "imdb": "tt21908964",
-   "titulo": "Call Me Bae",
-   "original": "Call Me Bae",
-   "lingua": "hi",
-   "sinopse": "",
-   "poster": "/qdWoYn4KOiZNjR4EOHUsNjamzJ0.jpg",
+   "id": 208716,
+   "imdb": "tt18285084",
+   "titulo": "Domingão com Huck",
+   "original": "Domingão com Huck",
+   "lingua": "pt",
+   "sinopse": "Apresentado por Luciano Huck, o programa leva aos brasileiros entretenimento, diversão e emoção em quadros amados pelo público, além de contar boas histórias em matérias especiais pelo país.",
+   "poster": "/569LRJdSiSwAuisahIjhF5EGTid.jpg",
+   "generos": [
+    "Talk"
+   ],
+   "nota": 7,
+   "votos": 1,
+   "popularidade": 2.5782,
+   "primeira": "2021-09-05",
+   "ultimoEp": {
+    "data": "2026-11-22",
+    "temporada": 6,
+    "episodio": 47
+   },
+   "proximoEp": {
+    "data": "2026-11-29",
+    "temporada": 6,
+    "episodio": 48
+   },
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2021-09-05"
+    },
+    {
+     "n": 2,
+     "data": "2022-01-02"
+    },
+    {
+     "n": 3,
+     "data": "2023-01-01"
+    },
+    {
+     "n": 4,
+     "data": "2024-01-07"
+    },
+    {
+     "n": 5,
+     "data": "2025-01-05"
+    },
+    {
+     "n": 6,
+     "data": "2026-01-04"
+    }
+   ],
+   "canais": [
+    "TV Globo"
+   ],
+   "trailer": null,
+   "provedores": {
+    "link": "https://www.themoviedb.org/tv/208716-domingao-com-huck/watch?locale=BR",
+    "flatrate": [
+     {
+      "id": 307,
+      "nome": "Globoplay",
+      "logo": "/9A6Oxd3F7iXm7mds7CxYOBicojs.png"
+     }
+    ],
+    "rent": [],
+    "buy": []
+   }
+  },
+  {
+   "id": 201177,
+   "imdb": "tt21940522",
+   "titulo": "Avisa Lá Que Eu Vou",
+   "original": "Avisa Lá Que Eu Vou",
+   "lingua": "pt",
+   "sinopse": "A partir de um anúncio nas suas redes sociais, Paulo Vieira sai em viagem pelo interior do Brasil em busca do que esse país tem de melhor: brasileiros e suas histórias.",
+   "poster": "/n7fOa8q4Wckc4o0iwk9qSldkk6q.jpg",
+   "generos": [
+    "Talk"
+   ],
+   "nota": 10,
+   "votos": 1,
+   "popularidade": 2.379,
+   "primeira": "2022-05-03",
+   "ultimoEp": {
+    "data": "2026-11-23",
+    "temporada": 5,
+    "episodio": 7
+   },
+   "proximoEp": null,
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2022-05-03"
+    },
+    {
+     "n": 2,
+     "data": "2023-05-02"
+    },
+    {
+     "n": 3,
+     "data": "2024-05-08"
+    },
+    {
+     "n": 4,
+     "data": "2025-06-17"
+    },
+    {
+     "n": 5,
+     "data": "2026-10-12"
+    }
+   ],
+   "canais": [
+    "GNT"
+   ],
+   "trailer": null,
+   "provedores": {
+    "link": "https://www.themoviedb.org/tv/201177-avisa-la-que-eu-vou/watch?locale=BR",
+    "flatrate": [
+     {
+      "id": 307,
+      "nome": "Globoplay",
+      "logo": "/9A6Oxd3F7iXm7mds7CxYOBicojs.png"
+     }
+    ],
+    "rent": [],
+    "buy": []
+   }
+  },
+  {
+   "id": 336716,
+   "imdb": "tt37672352",
+   "titulo": "Delegado",
+   "original": "Delegado",
+   "lingua": "pt",
+   "sinopse": "Um jovem bem-intencionado e ingênuo movido por um senso idealizado de justiça ingressa na Polícia Civil e enfrenta uma realidade dura marcada por corrupção, precariedade e contradições sociais.",
+   "poster": "/hYYnerMVNdiQBk6QfxzYVGuzavG.jpg",
    "generos": [
     "Drama",
     "Comédia"
    ],
-   "nota": 7.6,
-   "votos": 7,
-   "popularidade": 3.3325,
-   "primeira": "2024-09-06",
-   "ultimoEp": {
-    "data": "2024-09-06",
-    "temporada": 1,
-    "episodio": 8
-   },
-   "proximoEp": {
-    "data": "2026-12-17",
-    "temporada": 2,
-    "episodio": 1
-   },
-   "temporadas": [
-    {
-     "n": 1,
-     "data": "2024-09-06"
-    },
-    {
-     "n": 2,
-     "data": "2026-12-17"
-    }
-   ],
-   "canais": [
-    "Prime Video"
-   ],
-   "trailer": null,
-   "provedores": {
-    "link": "https://www.themoviedb.org/tv/238108-call-me-bae/watch?locale=BR",
-    "flatrate": [
-     {
-      "id": 119,
-      "nome": "Amazon Prime Video",
-      "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
-     },
-     {
-      "id": 2100,
-      "nome": "Amazon Prime Video with Ads",
-      "logo": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png"
-     }
-    ],
-    "rent": [],
-    "buy": []
-   }
-  },
-  {
-   "id": 288458,
-   "imdb": "tt38010918",
-   "titulo": "Ben-Hur: A Série",
-   "original": "Ben-Hur: A Série",
-   "lingua": "pt",
-   "sinopse": "Judá Ben‑Hur tem seu destino marcado por uma amizade complexa com o romano Messala. Anos depois, o reencontro com o amigo de infância desfere um golpe capaz de destruí-lo e afastá-lo de quem sempre foi. Vazio por dentro, apenas uma coisa o move: a busca implacável por justiça. Ou seria vingança?",
-   "poster": "/kZtYlwXBbTYuC177PeAQXKOyCBz.jpg",
-   "generos": [
-    "Drama",
-    "Action & Adventure"
-   ],
-   "nota": 9,
+   "nota": 10,
    "votos": 1,
-   "popularidade": 3.7048,
-   "primeira": "2026-10-09",
+   "popularidade": 1.8215,
+   "primeira": "2026-10-30",
    "ultimoEp": {
     "data": "2026-11-20",
-    "temporada": 1,
-    "episodio": 10
-   },
-   "proximoEp": {
-    "data": "2026-11-27",
-    "temporada": 1,
-    "episodio": 11
-   },
-   "temporadas": [
-    {
-     "n": 1,
-     "data": "2026-10-09"
-    }
-   ],
-   "canais": [
-    "Univer Video"
-   ],
-   "trailer": null,
-   "provedores": {
-    "link": "https://www.themoviedb.org/tv/288458-ben-hur-a-serie/watch?locale=BR",
-    "flatrate": [
-     {
-      "id": 119,
-      "nome": "Amazon Prime Video",
-      "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
-     },
-     {
-      "id": 1860,
-      "nome": "Univer Video",
-      "logo": "/nFOHylv7fSm5fEyTMBWxSwUwv4u.png"
-     },
-     {
-      "id": 2100,
-      "nome": "Amazon Prime Video with Ads",
-      "logo": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png"
-     }
-    ],
-    "rent": [],
-    "buy": []
-   }
-  },
-  {
-   "id": 293691,
-   "imdb": "tt32810392",
-   "titulo": "Uma Noite em Idaho: Os Assassinatos na Faculdade",
-   "original": "One Night in Idaho",
-   "lingua": "en",
-   "sinopse": "Na noite de 13 de novembro de 2022, quatro estudantes universitários foram brutalmente assassinados em uma casa fora do campus, na tranquila cidade universitária de Moscow, Idaho. Com acesso exclusivo e íntimo às pessoas mais próximas das vítimas, Uma Noite em Idaho: Os Assassinatos na Faculdade explora os desdobramentos emocionais dessa tragédia estadunidense e suas consequências contínuas.",
-   "poster": "/74KGPlhyBM7AUfYQJ9VWB2sifpu.jpg",
-   "generos": [
-    "Documentário"
-   ],
-   "nota": 7.8,
-   "votos": 13,
-   "popularidade": 2.9335,
-   "primeira": "2025-07-11",
-   "ultimoEp": {
-    "data": "2025-07-11",
     "temporada": 1,
     "episodio": 4
    },
    "proximoEp": {
-    "data": "2026-12-28",
-    "temporada": 2,
-    "episodio": 1
-   },
-   "temporadas": [
-    {
-     "n": 1,
-     "data": "2025-07-11"
-    },
-    {
-     "n": 2,
-     "data": "2026-12-28"
-    }
-   ],
-   "canais": [
-    "Prime Video"
-   ],
-   "trailer": "Ro_qTgaXCPk",
-   "provedores": {
-    "link": "https://www.themoviedb.org/tv/293691-one-night-in-idaho/watch?locale=BR",
-    "flatrate": [
-     {
-      "id": 119,
-      "nome": "Amazon Prime Video",
-      "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
-     },
-     {
-      "id": 2100,
-      "nome": "Amazon Prime Video with Ads",
-      "logo": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png"
-     }
-    ],
-    "rent": [],
-    "buy": []
-   }
-  },
-  {
-   "id": 246929,
-   "imdb": "tt31418326",
-   "titulo": "Your Majesty",
-   "original": "Su majestad",
-   "lingua": "es",
-   "sinopse": "Depois de se ver envolvido num escândalo financeiro, o rei Alfonso XIV decide afastar-se da vida pública durante alguns meses. Entretanto, alguém tem de assumir as rédeas da monarquia e a única alternativa é a sua filha Pilar. A princesa terá de provar ao país que não é a rapariga irresponsável, preguiçosa e inútil que todos pensam. Mas talvez não estejam assim tão enganados.",
-   "poster": "/oYz66iyll5q5yImMnzVkvUOxBho.jpg",
-   "generos": [
-    "Comédia"
-   ],
-   "nota": 6.757,
-   "votos": 35,
-   "popularidade": 3.3137,
-   "primeira": "2025-02-27",
-   "ultimoEp": {
-    "data": "2025-02-27",
+    "data": "2026-11-27",
     "temporada": 1,
-    "episodio": 7
-   },
-   "proximoEp": {
-    "data": "2027-01-15",
-    "temporada": 2,
-    "episodio": 1
+    "episodio": 5
    },
    "temporadas": [
     {
      "n": 1,
-     "data": "2025-02-27"
-    },
-    {
-     "n": 2,
-     "data": "2027-01-15"
+     "data": "2026-10-30"
     }
    ],
    "canais": [
-    "Prime Video"
+    "Canal Brasil"
    ],
    "trailer": null,
    "provedores": {
-    "link": "https://www.themoviedb.org/tv/246929-su-majestad/watch?locale=BR",
+    "link": "https://www.themoviedb.org/tv/336716-delegado/watch?locale=BR",
     "flatrate": [
      {
-      "id": 119,
-      "nome": "Amazon Prime Video",
-      "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+      "id": 307,
+      "nome": "Globoplay",
+      "logo": "/9A6Oxd3F7iXm7mds7CxYOBicojs.png"
      },
      {
-      "id": 2100,
-      "nome": "Amazon Prime Video with Ads",
-      "logo": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png"
+      "id": 484,
+      "nome": "Claro tv+",
+      "logo": "/olzQMHt2SX7iNy8WDMR299hVFcL.png"
      }
     ],
     "rent": [],
@@ -29832,136 +31162,43 @@
    }
   },
   {
-   "id": 68689,
-   "imdb": "tt6334758",
-   "titulo": "MasterChef Profissionais",
-   "original": "MasterChef Profissionais",
+   "id": 341531,
+   "imdb": null,
+   "titulo": "A Clínica",
+   "original": "A Clínica",
    "lingua": "pt",
-   "sinopse": "Cozinheiros profissionais se desdobram para agradar o paladar exigente de três dos maiores chefs do Brasil numa disputa deliciosa pelo grande prêmio.",
-   "poster": "/nWxNohdZy1xteqTbFkXIVUoDj1g.jpg",
+   "sinopse": "O documentário ‘A Clínica’ revisita a trajetória da Clínica Maxwell a partir de relatos de pessoas ligadas à instituição e revela os impactos de uma história que atravessou gerações.",
+   "poster": "/1zQAFeQgAJoemIMtN9AbQYKEOIS.jpg",
    "generos": [
-    "Reality"
+    "Documentário"
    ],
-   "nota": 7.5,
-   "votos": 9,
-   "popularidade": 2.7803,
-   "primeira": "2016-10-04",
+   "nota": 0,
+   "votos": 0,
+   "popularidade": 1.22,
+   "primeira": "2026-11-09",
    "ultimoEp": {
-    "data": "2026-11-24",
-    "temporada": 6,
-    "episodio": 8
-   },
-   "proximoEp": null,
-   "temporadas": [
-    {
-     "n": 1,
-     "data": "2016-10-03"
-    },
-    {
-     "n": 2,
-     "data": "2017-09-04"
-    },
-    {
-     "n": 3,
-     "data": "2018-08-21"
-    },
-    {
-     "n": 4,
-     "data": "2022-09-13"
-    },
-    {
-     "n": 5,
-     "data": "2023-09-19"
-    },
-    {
-     "n": 6,
-     "data": "2026-10-06"
-    }
-   ],
-   "canais": [
-    "Band"
-   ],
-   "trailer": null,
-   "provedores": {
-    "link": "https://www.themoviedb.org/tv/68689-masterchef-profissionais/watch?locale=BR",
-    "flatrate": [
-     {
-      "id": 119,
-      "nome": "Amazon Prime Video",
-      "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
-     },
-     {
-      "id": 1899,
-      "nome": "HBO Max",
-      "logo": "/skypuy7SXuugIQeYg0IglmzoKaS.png"
-     },
-     {
-      "id": 1825,
-      "nome": "HBO Max Amazon Channel",
-      "logo": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png"
-     },
-     {
-      "id": 2100,
-      "nome": "Amazon Prime Video with Ads",
-      "logo": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png"
-     }
-    ],
-    "rent": [],
-    "buy": []
-   }
-  },
-  {
-   "id": 222598,
-   "imdb": "tt26778255",
-   "titulo": "LOL: Se Rir, Já Era Argentina",
-   "original": "LOL: Last One Laughing Argentina",
-   "lingua": "es",
-   "sinopse": "Este experimento social apresentado pela icônica Susana Giménez tentará encontrar o próximo campeão da comédia e coroar o primeiro vencedor do LOL Argentina. Quem rir, perde, e quem chegar até o fim e provocar mais risadas dos rivais será o vencedor da temporada.",
-   "poster": "/jMq6SAdD3wIjCsfzSvQU682sPk9.jpg",
-   "generos": [
-    "Reality",
-    "Comédia"
-   ],
-   "nota": 4.8,
-   "votos": 11,
-   "popularidade": 2.4657,
-   "primeira": "2023-03-16",
-   "ultimoEp": {
-    "data": "2026-11-20",
-    "temporada": 3,
+    "data": "2026-11-25",
+    "temporada": 1,
     "episodio": 6
    },
    "proximoEp": null,
    "temporadas": [
     {
      "n": 1,
-     "data": "2023-03-16"
-    },
-    {
-     "n": 2,
-     "data": "2025-09-12"
-    },
-    {
-     "n": 3,
-     "data": "2026-11-20"
+     "data": "2026-11-09"
     }
    ],
    "canais": [
-    "Prime Video"
+    "Globoplay"
    ],
    "trailer": null,
    "provedores": {
-    "link": "https://www.themoviedb.org/tv/222598-lol-last-one-laughing-argentina/watch?locale=BR",
+    "link": "https://www.themoviedb.org/tv/341531-a-clinica/watch?locale=BR",
     "flatrate": [
      {
-      "id": 119,
-      "nome": "Amazon Prime Video",
-      "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
-     },
-     {
-      "id": 2100,
-      "nome": "Amazon Prime Video with Ads",
-      "logo": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png"
+      "id": 307,
+      "nome": "Globoplay",
+      "logo": "/9A6Oxd3F7iXm7mds7CxYOBicojs.png"
      }
     ],
     "rent": [],
@@ -29969,30 +31206,79 @@
    }
   },
   {
-   "id": 337721,
-   "imdb": "tt46657547",
-   "titulo": "Obsessão Proibida",
-   "original": "Prohibida Obsesión",
-   "lingua": "es",
-   "sinopse": "Um único erro pode custar tudo. A vida perfeita do arquiteto Luciano começa a ruir após uma noite de paixão com Bárbara. O que parecia um assunto do passado se transforma em um assédio implacável quando ela consegue entrar em seu círculo mais íntimo. Encurralado pela culpa e pelo medo de ser descoberto, Luciano arriscará tudo para não perder a vida que construiu.",
-   "poster": "/wCZtNtSDUj9oH92nXRX3Km2LC6P.jpg",
+   "id": 296395,
+   "imdb": "tt37517058",
+   "titulo": "Prêmio Multishow de Humor: O Reality",
+   "original": "Prêmio Multishow de Humor: O Reality",
+   "lingua": "pt",
+   "sinopse": "O Prêmio Multishow de Humor voltou em formato de reality. Convivência, bastidores e os desafios de criar comédia, com apresentação de Dani Calabresa.",
+   "poster": "/df1QCfuhuB9UyWMFwelXH4a3Pzp.jpg",
    "generos": [
-    "Drama"
+    "Reality"
    ],
-   "nota": 7.5,
-   "votos": 6,
-   "popularidade": 1.7083,
-   "primeira": "2026-09-28",
+   "nota": 0,
+   "votos": 0,
+   "popularidade": 1.3169,
+   "primeira": "2025-07-01",
    "ultimoEp": {
-    "data": "2026-11-24",
+    "data": "2025-08-26",
     "temporada": 1,
-    "episodio": 29
+    "episodio": 15
    },
    "proximoEp": {
-    "data": "2026-11-29",
-    "temporada": 1,
-    "episodio": 30
+    "data": "2026-11-30",
+    "temporada": 2,
+    "episodio": 1
    },
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2025-06-30"
+    },
+    {
+     "n": 2,
+     "data": "2026-11-30"
+    }
+   ],
+   "canais": [
+    "Multishow"
+   ],
+   "trailer": null,
+   "provedores": {
+    "link": "https://www.themoviedb.org/tv/296395-premio-multishow-de-humor-o-reality/watch?locale=BR",
+    "flatrate": [
+     {
+      "id": 307,
+      "nome": "Globoplay",
+      "logo": "/9A6Oxd3F7iXm7mds7CxYOBicojs.png"
+     }
+    ],
+    "rent": [],
+    "buy": []
+   }
+  },
+  {
+   "id": 336077,
+   "imdb": null,
+   "titulo": "Blogueirinha Entrevista",
+   "original": "Blogueirinha Entrevista",
+   "lingua": "pt",
+   "sinopse": "O programa apresenta o humor ácido da Blogueirinha em sabatinas com celebridades brasileiras, contando agora com a presença inédita de auditório.",
+   "poster": "/duPN1Uk6OHc84jTpBN2c4zbqgtg.jpg",
+   "generos": [
+    "Talk",
+    "Comédia"
+   ],
+   "nota": 0,
+   "votos": 0,
+   "popularidade": 0.5282,
+   "primeira": "2026-09-28",
+   "ultimoEp": {
+    "data": "2026-11-16",
+    "temporada": 1,
+    "episodio": 8
+   },
+   "proximoEp": null,
    "temporadas": [
     {
      "n": 1,
@@ -30000,22 +31286,281 @@
     }
    ],
    "canais": [
-    "Mega",
-    "Prime Video"
+    "Multishow"
    ],
    "trailer": null,
    "provedores": {
-    "link": "https://www.themoviedb.org/tv/337721-prohibida-obsesion/watch?locale=BR",
+    "link": "https://www.themoviedb.org/tv/336077-blogueirinha-entrevista/watch?locale=BR",
     "flatrate": [
      {
-      "id": 119,
-      "nome": "Amazon Prime Video",
-      "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+      "id": 307,
+      "nome": "Globoplay",
+      "logo": "/9A6Oxd3F7iXm7mds7CxYOBicojs.png"
      },
      {
-      "id": 2100,
-      "nome": "Amazon Prime Video with Ads",
-      "logo": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png"
+      "id": 2774,
+      "nome": "Multishow Amazon Channel",
+      "logo": "/zg4JTdoXkZBw5YriGHAeRNizSZf.png"
+     }
+    ],
+    "rent": [],
+    "buy": []
+   }
+  },
+  {
+   "id": 19653,
+   "imdb": "tt0315288",
+   "titulo": "Big Brother Brasil",
+   "original": "Big Brother Brasil",
+   "lingua": "pt",
+   "sinopse": "Confinados em uma casa, participantes precisam conviver — e enfrentar diferentes personalidades —, dividir tarefas, participar de competições e enfrentar o temido \"paredão\" até quem um deles se consagre campeão do reality show mais assistido do Brasil desde 2002. E tudo isso permeado por festas, romances e muitas confusões.",
+   "poster": "/7n7uoEiIcpZkEFNZ83PFPrQzoaR.jpg",
+   "generos": [
+    "Reality"
+   ],
+   "nota": 4.7,
+   "votos": 50,
+   "popularidade": 0.4799,
+   "primeira": "2002-01-29",
+   "ultimoEp": {
+    "data": "2026-04-21",
+    "temporada": 26,
+    "episodio": 100
+   },
+   "proximoEp": {
+    "data": "2027-01-11",
+    "temporada": 27,
+    "episodio": 1
+   },
+   "temporadas": [
+    {
+     "n": 0,
+     "data": "2002-04-07"
+    },
+    {
+     "n": 1,
+     "data": "2002-01-25"
+    },
+    {
+     "n": 2,
+     "data": "2002-05-10"
+    },
+    {
+     "n": 3,
+     "data": "2003-01-11"
+    },
+    {
+     "n": 4,
+     "data": "2004-01-10"
+    },
+    {
+     "n": 5,
+     "data": "2005-01-07"
+    },
+    {
+     "n": 6,
+     "data": "2006-01-07"
+    },
+    {
+     "n": 7,
+     "data": "2007-01-06"
+    },
+    {
+     "n": 8,
+     "data": "2008-01-05"
+    },
+    {
+     "n": 9,
+     "data": "2009-01-10"
+    },
+    {
+     "n": 10,
+     "data": "2010-01-09"
+    },
+    {
+     "n": 11,
+     "data": "2011-01-08"
+    },
+    {
+     "n": 12,
+     "data": "2012-01-07"
+    },
+    {
+     "n": 13,
+     "data": "2013-01-05"
+    },
+    {
+     "n": 14,
+     "data": "2014-01-11"
+    },
+    {
+     "n": 15,
+     "data": "2015-01-17"
+    },
+    {
+     "n": 16,
+     "data": "2016-01-16"
+    },
+    {
+     "n": 17,
+     "data": "2017-01-20"
+    },
+    {
+     "n": 18,
+     "data": "2018-01-20"
+    },
+    {
+     "n": 19,
+     "data": "2019-01-13"
+    },
+    {
+     "n": 20,
+     "data": "2020-01-19"
+    },
+    {
+     "n": 21,
+     "data": "2021-01-23"
+    },
+    {
+     "n": 22,
+     "data": "2022-01-15"
+    },
+    {
+     "n": 23,
+     "data": "2023-01-13"
+    },
+    {
+     "n": 24,
+     "data": "2024-01-05"
+    },
+    {
+     "n": 25,
+     "data": "2025-01-12"
+    },
+    {
+     "n": 26,
+     "data": "2026-01-08"
+    },
+    {
+     "n": 27,
+     "data": "2027-01-11"
+    }
+   ],
+   "canais": [
+    "TV Globo"
+   ],
+   "trailer": null,
+   "provedores": {
+    "link": "https://www.themoviedb.org/tv/19653-big-brother-brasil/watch?locale=BR",
+    "flatrate": [
+     {
+      "id": 307,
+      "nome": "Globoplay",
+      "logo": "/9A6Oxd3F7iXm7mds7CxYOBicojs.png"
+     }
+    ],
+    "rent": [],
+    "buy": []
+   }
+  },
+  {
+   "id": 337034,
+   "imdb": null,
+   "titulo": "Arquivos do Céu",
+   "original": "Arquivos do Céu",
+   "lingua": "pt",
+   "sinopse": "Em cinco episódios, a série documental mergulha nos casos ufológicos mais intrigantes do Brasil, seguindo pistas que atravessam décadas e ultrapassam nossas fronteiras.",
+   "poster": "/gLWOQbcz56I61IlW26JTBHLWtGC.jpg",
+   "generos": [
+    "Documentário"
+   ],
+   "nota": 0,
+   "votos": 0,
+   "popularidade": 0.4286,
+   "primeira": "2026-10-29",
+   "ultimoEp": {
+    "data": "2026-10-29",
+    "temporada": 1,
+    "episodio": 1
+   },
+   "proximoEp": {
+    "data": "2026-11-29",
+    "temporada": 1,
+    "episodio": 2
+   },
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2026-10-29"
+    }
+   ],
+   "canais": [
+    "Globoplay"
+   ],
+   "trailer": null,
+   "provedores": {
+    "link": "https://www.themoviedb.org/tv/337034-arquivos-do-ceu/watch?locale=BR",
+    "flatrate": [
+     {
+      "id": 307,
+      "nome": "Globoplay",
+      "logo": "/9A6Oxd3F7iXm7mds7CxYOBicojs.png"
+     }
+    ],
+    "rent": [],
+    "buy": []
+   }
+  },
+  {
+   "id": 341346,
+   "imdb": null,
+   "titulo": "Voz da Consciência",
+   "original": "Voz da Consciência",
+   "lingua": "pt",
+   "sinopse": "Programa mergulha na história do samba a partir da trajetória de nove grandes artistas que consagraram o ritmo no Brasil e no mundo. As conversas exaltam a contribuição da comunidade negra na construção e na perpetuação do samba.",
+   "poster": "/aOclfk9UroZdrjrCeVgQ4MdwcXv.jpg",
+   "generos": [
+    "Talk",
+    "Documentário"
+   ],
+   "nota": 0,
+   "votos": 0,
+   "popularidade": 0.2977,
+   "primeira": "2024-11-18",
+   "ultimoEp": {
+    "data": "2026-11-19",
+    "temporada": 3,
+    "episodio": 3
+   },
+   "proximoEp": null,
+   "temporadas": [
+    {
+     "n": 1,
+     "data": "2024-11-18"
+    },
+    {
+     "n": 2,
+     "data": "2025-11-01"
+    },
+    {
+     "n": 3,
+     "data": "2026-11-05"
+    }
+   ],
+   "canais": [],
+   "trailer": null,
+   "provedores": {
+    "link": "https://www.themoviedb.org/tv/341346-voz-da-consciencia/watch?locale=BR",
+    "flatrate": [
+     {
+      "id": 307,
+      "nome": "Globoplay",
+      "logo": "/9A6Oxd3F7iXm7mds7CxYOBicojs.png"
+     },
+     {
+      "id": 2774,
+      "nome": "Multishow Amazon Channel",
+      "logo": "/zg4JTdoXkZBw5YriGHAeRNizSZf.png"
      }
     ],
     "rent": [],
@@ -32298,1227 +33843,6 @@
    }
   },
   {
-   "id": 235904,
-   "imdb": "tt21627122",
-   "titulo": "Spinners – Vivendo no Limite",
-   "original": "Spinners",
-   "lingua": "en",
-   "sinopse": "Ethan é um motorista de 17 anos que trabalha para uma gangue local. Desgostoso com a vida de gangues, Ethan descobre uma possível saída através de spinning, um esporte a motor extremo. Mas a iminente guerra de gangues põe em risco essa esperança.",
-   "poster": "/5XPrBrKyOuqQh3sMOZivn4339MX.jpg",
-   "generos": [
-    "Crime",
-    "Drama"
-   ],
-   "nota": 7.8,
-   "votos": 6,
-   "popularidade": 7.2118,
-   "primeira": "2023-11-08",
-   "ultimoEp": {
-    "data": "2026-11-22",
-    "temporada": 2,
-    "episodio": 5
-   },
-   "proximoEp": {
-    "data": "2026-11-29",
-    "temporada": 2,
-    "episodio": 6
-   },
-   "temporadas": [
-    {
-     "n": 1,
-     "data": "2023-11-08"
-    },
-    {
-     "n": 2,
-     "data": "2026-10-25"
-    }
-   ],
-   "canais": [
-    "Canal+",
-    "Showmax",
-    "Mzanzi Magic"
-   ],
-   "trailer": "wJfvUrDssh8",
-   "provedores": {
-    "link": "https://www.themoviedb.org/tv/235904-spinners/watch?locale=BR",
-    "flatrate": [
-     {
-      "id": 307,
-      "nome": "Globoplay",
-      "logo": "/9A6Oxd3F7iXm7mds7CxYOBicojs.png"
-     }
-    ],
-    "rent": [],
-    "buy": []
-   }
-  },
-  {
-   "id": 221998,
-   "imdb": "tt10928084",
-   "titulo": "Papo de Segunda",
-   "original": "Papo de Segunda",
-   "lingua": "pt",
-   "sinopse": "No programa são debatidos diversos assuntos da atualidade. São quatro pontos de vista, por vezes conflitantes, ora solidários, mas sempre divertidos.",
-   "poster": "/4dYawy4T0AEhsHyPPTr5LGxJ4T0.jpg",
-   "generos": [
-    "Talk"
-   ],
-   "nota": 10,
-   "votos": 1,
-   "popularidade": 5.4769,
-   "primeira": "2015-06-08",
-   "ultimoEp": {
-    "data": "2026-11-16",
-    "temporada": 18,
-    "episodio": 30
-   },
-   "proximoEp": null,
-   "temporadas": [
-    {
-     "n": 1,
-     "data": "2015-06-08"
-    },
-    {
-     "n": 14,
-     "data": "2023-01-02"
-    },
-    {
-     "n": 15,
-     "data": "2023-03-13"
-    },
-    {
-     "n": 16,
-     "data": "2024-04-22"
-    },
-    {
-     "n": 17,
-     "data": "2025-05-05"
-    },
-    {
-     "n": 18,
-     "data": "2026-04-27"
-    }
-   ],
-   "canais": [
-    "GNT"
-   ],
-   "trailer": null,
-   "provedores": {
-    "link": "https://www.themoviedb.org/tv/221998-papo-de-segunda/watch?locale=BR",
-    "flatrate": [
-     {
-      "id": 307,
-      "nome": "Globoplay",
-      "logo": "/9A6Oxd3F7iXm7mds7CxYOBicojs.png"
-     }
-    ],
-    "rent": [],
-    "buy": []
-   }
-  },
-  {
-   "id": 328440,
-   "imdb": "tt48805877",
-   "titulo": "Lá na Minha Terra",
-   "original": "Lá na Minha Terra",
-   "lingua": "pt",
-   "sinopse": "Rosenda, mulher sertaneja e mãe de quatro filhos, parte para São Paulo após descobrir que o marido desaparecido pode estar vivo; ao chegar, encontra um homem transformado: rico, casado, e disposto a apagá-la do passado. Rosenda decide ficar na \"terra da garoa\", na companhia dos filhos, e reconstruir sua vida após a decepção com o homem que amou.",
-   "poster": "/w4Sj5uMPXOp4M9DnCm4vEepxtcb.jpg",
-   "generos": [
-    "Soap",
-    "Drama",
-    "Comédia"
-   ],
-   "nota": 0,
-   "votos": 0,
-   "popularidade": 2.9071,
-   "primeira": "2026-11-09",
-   "ultimoEp": {
-    "data": "2026-11-24",
-    "temporada": 1,
-    "episodio": 14
-   },
-   "proximoEp": {
-    "data": "2026-11-25",
-    "temporada": 1,
-    "episodio": 15
-   },
-   "temporadas": [
-    {
-     "n": 1,
-     "data": "2026-11-09"
-    }
-   ],
-   "canais": [
-    "TV Globo"
-   ],
-   "trailer": null,
-   "provedores": {
-    "link": "https://www.themoviedb.org/tv/328440-la-na-minha-terra/watch?locale=BR",
-    "flatrate": [
-     {
-      "id": 307,
-      "nome": "Globoplay",
-      "logo": "/9A6Oxd3F7iXm7mds7CxYOBicojs.png"
-     }
-    ],
-    "rent": [],
-    "buy": []
-   }
-  },
-  {
-   "id": 226254,
-   "imdb": "tt36325058",
-   "titulo": "Pablo & Luisão",
-   "original": "Pablo & Luisão",
-   "lingua": "pt",
-   "sinopse": "A série acompanha as divertidas e caóticas aventuras de Luisão (Aílton Graça), pai do humorista Paulo Vieira, e de seu inseparável amigo Pablo (Otávio Muller). Juntos, eles vivem inventando planos mirabolantes que acabam gerando consequências inusitadas – especialmente para as crianças Paulo (Yves Miguel), seu irmão Neto (João Pedro Martins) e a mãe dos meninos, Conceição (Dira Paes). Inspirada em acontecimentos reais da infância de Paulo Vieira, a trama mistura humor e afeto familiar.",
-   "poster": "/5dzl9zehL0zZ6gWQisU05eSQpOv.jpg",
-   "generos": [
-    "Comédia",
-    "Família"
-   ],
-   "nota": 8.4,
-   "votos": 4,
-   "popularidade": 3.1162,
-   "primeira": "2025-05-22",
-   "ultimoEp": {
-    "data": "2025-05-22",
-    "temporada": 1,
-    "episodio": 16
-   },
-   "proximoEp": {
-    "data": "2026-12-03",
-    "temporada": 2,
-    "episodio": 1
-   },
-   "temporadas": [
-    {
-     "n": 1,
-     "data": "2025-05-21"
-    },
-    {
-     "n": 2,
-     "data": "2026-12-03"
-    }
-   ],
-   "canais": [
-    "Globoplay"
-   ],
-   "trailer": null,
-   "provedores": {
-    "link": "https://www.themoviedb.org/tv/226254-pablo-luisao/watch?locale=BR",
-    "flatrate": [
-     {
-      "id": 307,
-      "nome": "Globoplay",
-      "logo": "/9A6Oxd3F7iXm7mds7CxYOBicojs.png"
-     }
-    ],
-    "rent": [],
-    "buy": []
-   }
-  },
-  {
-   "id": 287934,
-   "imdb": "tt35400429",
-   "titulo": "Chef de Alto Nível",
-   "original": "Chef de Alto Nível",
-   "lingua": "pt",
-   "sinopse": "Durante toda a competição, 24 participantes se dividem em três categorias, os três níveis de cozinha. Cada um terá a oportunidade de mostrar suas habilidades, enfrentando grandes desafios, além de desenvolver seu talento, com direito à mentoria e avaliação de chefs renomados.",
-   "poster": "/8s16MorTyLQ2jYkbEawf2PpN5dX.jpg",
-   "generos": [
-    "Reality"
-   ],
-   "nota": 0,
-   "votos": 0,
-   "popularidade": 2.7905,
-   "primeira": "2025-07-15",
-   "ultimoEp": {
-    "data": "2026-11-24",
-    "temporada": 2,
-    "episodio": 11
-   },
-   "proximoEp": null,
-   "temporadas": [
-    {
-     "n": 1,
-     "data": "2025-07-15"
-    },
-    {
-     "n": 2,
-     "data": "2026-10-13"
-    }
-   ],
-   "canais": [
-    "TV Globo"
-   ],
-   "trailer": null,
-   "provedores": {
-    "link": "https://www.themoviedb.org/tv/287934-chef-de-alto-nivel/watch?locale=BR",
-    "flatrate": [
-     {
-      "id": 307,
-      "nome": "Globoplay",
-      "logo": "/9A6Oxd3F7iXm7mds7CxYOBicojs.png"
-     }
-    ],
-    "rent": [],
-    "buy": []
-   }
-  },
-  {
-   "id": 208716,
-   "imdb": "tt18285084",
-   "titulo": "Domingão com Huck",
-   "original": "Domingão com Huck",
-   "lingua": "pt",
-   "sinopse": "Apresentado por Luciano Huck, o programa leva aos brasileiros entretenimento, diversão e emoção em quadros amados pelo público, além de contar boas histórias em matérias especiais pelo país.",
-   "poster": "/569LRJdSiSwAuisahIjhF5EGTid.jpg",
-   "generos": [
-    "Talk"
-   ],
-   "nota": 7,
-   "votos": 1,
-   "popularidade": 2.5782,
-   "primeira": "2021-09-05",
-   "ultimoEp": {
-    "data": "2026-11-22",
-    "temporada": 6,
-    "episodio": 47
-   },
-   "proximoEp": {
-    "data": "2026-11-29",
-    "temporada": 6,
-    "episodio": 48
-   },
-   "temporadas": [
-    {
-     "n": 1,
-     "data": "2021-09-05"
-    },
-    {
-     "n": 2,
-     "data": "2022-01-02"
-    },
-    {
-     "n": 3,
-     "data": "2023-01-01"
-    },
-    {
-     "n": 4,
-     "data": "2024-01-07"
-    },
-    {
-     "n": 5,
-     "data": "2025-01-05"
-    },
-    {
-     "n": 6,
-     "data": "2026-01-04"
-    }
-   ],
-   "canais": [
-    "TV Globo"
-   ],
-   "trailer": null,
-   "provedores": {
-    "link": "https://www.themoviedb.org/tv/208716-domingao-com-huck/watch?locale=BR",
-    "flatrate": [
-     {
-      "id": 307,
-      "nome": "Globoplay",
-      "logo": "/9A6Oxd3F7iXm7mds7CxYOBicojs.png"
-     }
-    ],
-    "rent": [],
-    "buy": []
-   }
-  },
-  {
-   "id": 201177,
-   "imdb": "tt21940522",
-   "titulo": "Avisa Lá Que Eu Vou",
-   "original": "Avisa Lá Que Eu Vou",
-   "lingua": "pt",
-   "sinopse": "A partir de um anúncio nas suas redes sociais, Paulo Vieira sai em viagem pelo interior do Brasil em busca do que esse país tem de melhor: brasileiros e suas histórias.",
-   "poster": "/n7fOa8q4Wckc4o0iwk9qSldkk6q.jpg",
-   "generos": [
-    "Talk"
-   ],
-   "nota": 10,
-   "votos": 1,
-   "popularidade": 2.379,
-   "primeira": "2022-05-03",
-   "ultimoEp": {
-    "data": "2026-11-23",
-    "temporada": 5,
-    "episodio": 7
-   },
-   "proximoEp": null,
-   "temporadas": [
-    {
-     "n": 1,
-     "data": "2022-05-03"
-    },
-    {
-     "n": 2,
-     "data": "2023-05-02"
-    },
-    {
-     "n": 3,
-     "data": "2024-05-08"
-    },
-    {
-     "n": 4,
-     "data": "2025-06-17"
-    },
-    {
-     "n": 5,
-     "data": "2026-10-12"
-    }
-   ],
-   "canais": [
-    "GNT"
-   ],
-   "trailer": null,
-   "provedores": {
-    "link": "https://www.themoviedb.org/tv/201177-avisa-la-que-eu-vou/watch?locale=BR",
-    "flatrate": [
-     {
-      "id": 307,
-      "nome": "Globoplay",
-      "logo": "/9A6Oxd3F7iXm7mds7CxYOBicojs.png"
-     }
-    ],
-    "rent": [],
-    "buy": []
-   }
-  },
-  {
-   "id": 336716,
-   "imdb": "tt37672352",
-   "titulo": "Delegado",
-   "original": "Delegado",
-   "lingua": "pt",
-   "sinopse": "Um jovem bem-intencionado e ingênuo movido por um senso idealizado de justiça ingressa na Polícia Civil e enfrenta uma realidade dura marcada por corrupção, precariedade e contradições sociais.",
-   "poster": "/hYYnerMVNdiQBk6QfxzYVGuzavG.jpg",
-   "generos": [
-    "Drama",
-    "Comédia"
-   ],
-   "nota": 10,
-   "votos": 1,
-   "popularidade": 1.8215,
-   "primeira": "2026-10-30",
-   "ultimoEp": {
-    "data": "2026-11-20",
-    "temporada": 1,
-    "episodio": 4
-   },
-   "proximoEp": {
-    "data": "2026-11-27",
-    "temporada": 1,
-    "episodio": 5
-   },
-   "temporadas": [
-    {
-     "n": 1,
-     "data": "2026-10-30"
-    }
-   ],
-   "canais": [
-    "Canal Brasil"
-   ],
-   "trailer": null,
-   "provedores": {
-    "link": "https://www.themoviedb.org/tv/336716-delegado/watch?locale=BR",
-    "flatrate": [
-     {
-      "id": 307,
-      "nome": "Globoplay",
-      "logo": "/9A6Oxd3F7iXm7mds7CxYOBicojs.png"
-     },
-     {
-      "id": 484,
-      "nome": "Claro tv+",
-      "logo": "/olzQMHt2SX7iNy8WDMR299hVFcL.png"
-     }
-    ],
-    "rent": [],
-    "buy": []
-   }
-  },
-  {
-   "id": 341531,
-   "imdb": null,
-   "titulo": "A Clínica",
-   "original": "A Clínica",
-   "lingua": "pt",
-   "sinopse": "O documentário ‘A Clínica’ revisita a trajetória da Clínica Maxwell a partir de relatos de pessoas ligadas à instituição e revela os impactos de uma história que atravessou gerações.",
-   "poster": "/1zQAFeQgAJoemIMtN9AbQYKEOIS.jpg",
-   "generos": [
-    "Documentário"
-   ],
-   "nota": 0,
-   "votos": 0,
-   "popularidade": 1.22,
-   "primeira": "2026-11-09",
-   "ultimoEp": {
-    "data": "2026-11-25",
-    "temporada": 1,
-    "episodio": 6
-   },
-   "proximoEp": null,
-   "temporadas": [
-    {
-     "n": 1,
-     "data": "2026-11-09"
-    }
-   ],
-   "canais": [
-    "Globoplay"
-   ],
-   "trailer": null,
-   "provedores": {
-    "link": "https://www.themoviedb.org/tv/341531-a-clinica/watch?locale=BR",
-    "flatrate": [
-     {
-      "id": 307,
-      "nome": "Globoplay",
-      "logo": "/9A6Oxd3F7iXm7mds7CxYOBicojs.png"
-     }
-    ],
-    "rent": [],
-    "buy": []
-   }
-  },
-  {
-   "id": 296395,
-   "imdb": "tt37517058",
-   "titulo": "Prêmio Multishow de Humor: O Reality",
-   "original": "Prêmio Multishow de Humor: O Reality",
-   "lingua": "pt",
-   "sinopse": "O Prêmio Multishow de Humor voltou em formato de reality. Convivência, bastidores e os desafios de criar comédia, com apresentação de Dani Calabresa.",
-   "poster": "/df1QCfuhuB9UyWMFwelXH4a3Pzp.jpg",
-   "generos": [
-    "Reality"
-   ],
-   "nota": 0,
-   "votos": 0,
-   "popularidade": 1.3169,
-   "primeira": "2025-07-01",
-   "ultimoEp": {
-    "data": "2025-08-26",
-    "temporada": 1,
-    "episodio": 15
-   },
-   "proximoEp": {
-    "data": "2026-11-30",
-    "temporada": 2,
-    "episodio": 1
-   },
-   "temporadas": [
-    {
-     "n": 1,
-     "data": "2025-06-30"
-    },
-    {
-     "n": 2,
-     "data": "2026-11-30"
-    }
-   ],
-   "canais": [
-    "Multishow"
-   ],
-   "trailer": null,
-   "provedores": {
-    "link": "https://www.themoviedb.org/tv/296395-premio-multishow-de-humor-o-reality/watch?locale=BR",
-    "flatrate": [
-     {
-      "id": 307,
-      "nome": "Globoplay",
-      "logo": "/9A6Oxd3F7iXm7mds7CxYOBicojs.png"
-     }
-    ],
-    "rent": [],
-    "buy": []
-   }
-  },
-  {
-   "id": 336077,
-   "imdb": null,
-   "titulo": "Blogueirinha Entrevista",
-   "original": "Blogueirinha Entrevista",
-   "lingua": "pt",
-   "sinopse": "O programa apresenta o humor ácido da Blogueirinha em sabatinas com celebridades brasileiras, contando agora com a presença inédita de auditório.",
-   "poster": "/duPN1Uk6OHc84jTpBN2c4zbqgtg.jpg",
-   "generos": [
-    "Talk",
-    "Comédia"
-   ],
-   "nota": 0,
-   "votos": 0,
-   "popularidade": 0.5282,
-   "primeira": "2026-09-28",
-   "ultimoEp": {
-    "data": "2026-11-16",
-    "temporada": 1,
-    "episodio": 8
-   },
-   "proximoEp": null,
-   "temporadas": [
-    {
-     "n": 1,
-     "data": "2026-09-28"
-    }
-   ],
-   "canais": [
-    "Multishow"
-   ],
-   "trailer": null,
-   "provedores": {
-    "link": "https://www.themoviedb.org/tv/336077-blogueirinha-entrevista/watch?locale=BR",
-    "flatrate": [
-     {
-      "id": 307,
-      "nome": "Globoplay",
-      "logo": "/9A6Oxd3F7iXm7mds7CxYOBicojs.png"
-     },
-     {
-      "id": 2774,
-      "nome": "Multishow Amazon Channel",
-      "logo": "/zg4JTdoXkZBw5YriGHAeRNizSZf.png"
-     }
-    ],
-    "rent": [],
-    "buy": []
-   }
-  },
-  {
-   "id": 19653,
-   "imdb": "tt0315288",
-   "titulo": "Big Brother Brasil",
-   "original": "Big Brother Brasil",
-   "lingua": "pt",
-   "sinopse": "Confinados em uma casa, participantes precisam conviver — e enfrentar diferentes personalidades —, dividir tarefas, participar de competições e enfrentar o temido \"paredão\" até quem um deles se consagre campeão do reality show mais assistido do Brasil desde 2002. E tudo isso permeado por festas, romances e muitas confusões.",
-   "poster": "/7n7uoEiIcpZkEFNZ83PFPrQzoaR.jpg",
-   "generos": [
-    "Reality"
-   ],
-   "nota": 4.7,
-   "votos": 50,
-   "popularidade": 0.4799,
-   "primeira": "2002-01-29",
-   "ultimoEp": {
-    "data": "2026-04-21",
-    "temporada": 26,
-    "episodio": 100
-   },
-   "proximoEp": {
-    "data": "2027-01-11",
-    "temporada": 27,
-    "episodio": 1
-   },
-   "temporadas": [
-    {
-     "n": 0,
-     "data": "2002-04-07"
-    },
-    {
-     "n": 1,
-     "data": "2002-01-25"
-    },
-    {
-     "n": 2,
-     "data": "2002-05-10"
-    },
-    {
-     "n": 3,
-     "data": "2003-01-11"
-    },
-    {
-     "n": 4,
-     "data": "2004-01-10"
-    },
-    {
-     "n": 5,
-     "data": "2005-01-07"
-    },
-    {
-     "n": 6,
-     "data": "2006-01-07"
-    },
-    {
-     "n": 7,
-     "data": "2007-01-06"
-    },
-    {
-     "n": 8,
-     "data": "2008-01-05"
-    },
-    {
-     "n": 9,
-     "data": "2009-01-10"
-    },
-    {
-     "n": 10,
-     "data": "2010-01-09"
-    },
-    {
-     "n": 11,
-     "data": "2011-01-08"
-    },
-    {
-     "n": 12,
-     "data": "2012-01-07"
-    },
-    {
-     "n": 13,
-     "data": "2013-01-05"
-    },
-    {
-     "n": 14,
-     "data": "2014-01-11"
-    },
-    {
-     "n": 15,
-     "data": "2015-01-17"
-    },
-    {
-     "n": 16,
-     "data": "2016-01-16"
-    },
-    {
-     "n": 17,
-     "data": "2017-01-20"
-    },
-    {
-     "n": 18,
-     "data": "2018-01-20"
-    },
-    {
-     "n": 19,
-     "data": "2019-01-13"
-    },
-    {
-     "n": 20,
-     "data": "2020-01-19"
-    },
-    {
-     "n": 21,
-     "data": "2021-01-23"
-    },
-    {
-     "n": 22,
-     "data": "2022-01-15"
-    },
-    {
-     "n": 23,
-     "data": "2023-01-13"
-    },
-    {
-     "n": 24,
-     "data": "2024-01-05"
-    },
-    {
-     "n": 25,
-     "data": "2025-01-12"
-    },
-    {
-     "n": 26,
-     "data": "2026-01-08"
-    },
-    {
-     "n": 27,
-     "data": "2027-01-11"
-    }
-   ],
-   "canais": [
-    "TV Globo"
-   ],
-   "trailer": null,
-   "provedores": {
-    "link": "https://www.themoviedb.org/tv/19653-big-brother-brasil/watch?locale=BR",
-    "flatrate": [
-     {
-      "id": 307,
-      "nome": "Globoplay",
-      "logo": "/9A6Oxd3F7iXm7mds7CxYOBicojs.png"
-     }
-    ],
-    "rent": [],
-    "buy": []
-   }
-  },
-  {
-   "id": 337034,
-   "imdb": null,
-   "titulo": "Arquivos do Céu",
-   "original": "Arquivos do Céu",
-   "lingua": "pt",
-   "sinopse": "Em cinco episódios, a série documental mergulha nos casos ufológicos mais intrigantes do Brasil, seguindo pistas que atravessam décadas e ultrapassam nossas fronteiras.",
-   "poster": "/gLWOQbcz56I61IlW26JTBHLWtGC.jpg",
-   "generos": [
-    "Documentário"
-   ],
-   "nota": 0,
-   "votos": 0,
-   "popularidade": 0.4286,
-   "primeira": "2026-10-29",
-   "ultimoEp": {
-    "data": "2026-10-29",
-    "temporada": 1,
-    "episodio": 1
-   },
-   "proximoEp": {
-    "data": "2026-11-29",
-    "temporada": 1,
-    "episodio": 2
-   },
-   "temporadas": [
-    {
-     "n": 1,
-     "data": "2026-10-29"
-    }
-   ],
-   "canais": [
-    "Globoplay"
-   ],
-   "trailer": null,
-   "provedores": {
-    "link": "https://www.themoviedb.org/tv/337034-arquivos-do-ceu/watch?locale=BR",
-    "flatrate": [
-     {
-      "id": 307,
-      "nome": "Globoplay",
-      "logo": "/9A6Oxd3F7iXm7mds7CxYOBicojs.png"
-     }
-    ],
-    "rent": [],
-    "buy": []
-   }
-  },
-  {
-   "id": 341346,
-   "imdb": null,
-   "titulo": "Voz da Consciência",
-   "original": "Voz da Consciência",
-   "lingua": "pt",
-   "sinopse": "Programa mergulha na história do samba a partir da trajetória de nove grandes artistas que consagraram o ritmo no Brasil e no mundo. As conversas exaltam a contribuição da comunidade negra na construção e na perpetuação do samba.",
-   "poster": "/aOclfk9UroZdrjrCeVgQ4MdwcXv.jpg",
-   "generos": [
-    "Talk",
-    "Documentário"
-   ],
-   "nota": 0,
-   "votos": 0,
-   "popularidade": 0.2977,
-   "primeira": "2024-11-18",
-   "ultimoEp": {
-    "data": "2026-11-19",
-    "temporada": 3,
-    "episodio": 3
-   },
-   "proximoEp": null,
-   "temporadas": [
-    {
-     "n": 1,
-     "data": "2024-11-18"
-    },
-    {
-     "n": 2,
-     "data": "2025-11-01"
-    },
-    {
-     "n": 3,
-     "data": "2026-11-05"
-    }
-   ],
-   "canais": [],
-   "trailer": null,
-   "provedores": {
-    "link": "https://www.themoviedb.org/tv/341346-voz-da-consciencia/watch?locale=BR",
-    "flatrate": [
-     {
-      "id": 307,
-      "nome": "Globoplay",
-      "logo": "/9A6Oxd3F7iXm7mds7CxYOBicojs.png"
-     },
-     {
-      "id": 2774,
-      "nome": "Multishow Amazon Channel",
-      "logo": "/zg4JTdoXkZBw5YriGHAeRNizSZf.png"
-     }
-    ],
-    "rent": [],
-    "buy": []
-   }
-  },
-  {
-   "id": 46299,
-   "imdb": "tt2162116",
-   "titulo": "The Voice Brasil",
-   "original": "The Voice Brasil",
-   "lingua": "pt",
-   "sinopse": "Quatro grandes nomes da música brasileira treinam vozes promissoras e competem em equipes para revelar novos talentos. Ao final de diversas fases, o público decide quem leva para casa o prêmio e um contrato com uma grande gravadora.",
-   "poster": "/idDSw9iGgUfks5ofxkIhabMlabx.jpg",
-   "generos": [
-    "Reality"
-   ],
-   "nota": 8.5,
-   "votos": 4,
-   "popularidade": 10.8264,
-   "primeira": "2012-09-23",
-   "ultimoEp": {
-    "data": "2026-11-22",
-    "temporada": 14,
-    "episodio": 11
-   },
-   "proximoEp": null,
-   "temporadas": [
-    {
-     "n": 0,
-     "data": "2017-09-04"
-    },
-    {
-     "n": 1,
-     "data": "2012-09-23"
-    },
-    {
-     "n": 2,
-     "data": "2013-10-03"
-    },
-    {
-     "n": 3,
-     "data": "2014-09-18"
-    },
-    {
-     "n": 4,
-     "data": "2015-10-01"
-    },
-    {
-     "n": 5,
-     "data": "2016-10-05"
-    },
-    {
-     "n": 6,
-     "data": "2017-09-21"
-    },
-    {
-     "n": 7,
-     "data": "2018-07-16"
-    },
-    {
-     "n": 8,
-     "data": "2019-07-30"
-    },
-    {
-     "n": 9,
-     "data": "2020-10-15"
-    },
-    {
-     "n": 10,
-     "data": "2021-10-26"
-    },
-    {
-     "n": 11,
-     "data": "2022-11-15"
-    },
-    {
-     "n": 12,
-     "data": "2023-11-28"
-    },
-    {
-     "n": 13,
-     "data": "2025-10-06"
-    },
-    {
-     "n": 14,
-     "data": "2026-09-27"
-    }
-   ],
-   "canais": [
-    "TV Globo",
-    "SBT",
-    "Disney+"
-   ],
-   "trailer": null,
-   "provedores": {
-    "link": "https://www.themoviedb.org/tv/46299-the-voice-brasil/watch?locale=BR",
-    "flatrate": [
-     {
-      "id": 337,
-      "nome": "Disney Plus",
-      "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
-     }
-    ],
-    "rent": [],
-    "buy": []
-   }
-  },
-  {
-   "id": 87994,
-   "imdb": "tt10115054",
-   "titulo": "Vale dos Reis: Tesouros do Egito",
-   "original": "Lost Treasures of Egypt",
-   "lingua": "en",
-   "sinopse": "Uma série imersiva, cheia de ação e guiada por descobertas que segue equipes internacionais de egiptólogos enquanto eles desenterram o mais rico ponto de arqueologia antiga do mundo - o Vale dos Reis do Egito.",
-   "poster": "/yepAD6s0yknRhji7Ea78aXVydHm.jpg",
-   "generos": [
-    "Documentário"
-   ],
-   "nota": 7.5,
-   "votos": 25,
-   "popularidade": 9.0353,
-   "primeira": "2019-07-07",
-   "ultimoEp": {
-    "data": "2026-11-19",
-    "temporada": 7,
-    "episodio": 2
-   },
-   "proximoEp": {
-    "data": "2026-11-26",
-    "temporada": 7,
-    "episodio": 3
-   },
-   "temporadas": [
-    {
-     "n": 1,
-     "data": "2019-07-07"
-    },
-    {
-     "n": 2,
-     "data": "2020-08-11"
-    },
-    {
-     "n": 3,
-     "data": "2021-09-13"
-    },
-    {
-     "n": 4,
-     "data": "2022-10-30"
-    },
-    {
-     "n": 5,
-     "data": "2024-05-01"
-    },
-    {
-     "n": 6,
-     "data": "2025-07-31"
-    },
-    {
-     "n": 7,
-     "data": "2026-11-19"
-    }
-   ],
-   "canais": [
-    "National Geographic"
-   ],
-   "trailer": "aA7i6ZaFWr0",
-   "provedores": {
-    "link": "https://www.themoviedb.org/tv/87994-lost-treasures-of-egypt/watch?locale=BR",
-    "flatrate": [
-     {
-      "id": 337,
-      "nome": "Disney Plus",
-      "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
-     }
-    ],
-    "rent": [],
-    "buy": []
-   }
-  },
-  {
-   "id": 334887,
-   "imdb": "tt42007258",
-   "titulo": "Máfia: O Reality",
-   "original": "The Mob",
-   "lingua": "en",
-   "sinopse": "Doze celebridades formam uma nova Família, onde o respeito se conquista e a lealdade é testada. Em jogo, um prêmio de até 250 mil dólares. Os participantes cumprem missões para ganhar dinheiro, mas é o Don quem comanda tudo: ele distribui a grana e elimina um por um. Para se manter no poder, o Don precisa encarar traições brutais e enganação. Só mais um dia na Máfia.",
-   "poster": "/2UPChV4LEyFXW4vu3s0jMsqWIq1.jpg",
-   "generos": [
-    "Reality"
-   ],
-   "nota": 3.5,
-   "votos": 2,
-   "popularidade": 3.8435,
-   "primeira": "2026-10-26",
-   "ultimoEp": {
-    "data": "2026-11-16",
-    "temporada": 1,
-    "episodio": 8
-   },
-   "proximoEp": null,
-   "temporadas": [
-    {
-     "n": 1,
-     "data": "2026-10-26"
-    }
-   ],
-   "canais": [
-    "Hulu"
-   ],
-   "trailer": "nAl3qxAHcT0",
-   "provedores": {
-    "link": "https://www.themoviedb.org/tv/334887-the-mob/watch?locale=BR",
-    "flatrate": [
-     {
-      "id": 337,
-      "nome": "Disney Plus",
-      "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
-     }
-    ],
-    "rent": [],
-    "buy": []
-   }
-  },
-  {
-   "id": 332379,
-   "imdb": null,
-   "titulo": "Contagem Regressiva para Vingadores: Doutor Destino - Podcast Oficial",
-   "original": "Countdown to Avengers: Doomsday Official Podcast",
-   "lingua": "en",
-   "sinopse": "Iman Vellani e Frank Alvarez se juntam para reassistir a uma coleção de filmes do Universo Cinematográfico Marvel (MCU), preparando o terreno para \"Vingadores: Doutor Destino\". Eles abordam as impressões pessoais sobre cada filme e acompanham a jornada dos Vingadores rumo à batalha com o Doutor Destino, ao mesmo tempo em que celebram alguns dos momentos mais icônicos do MCU.",
-   "poster": "/jQKt9R0LRWGXYF4TfhyrIrqqvv3.jpg",
-   "generos": [
-    "Talk"
-   ],
-   "nota": 0,
-   "votos": 0,
-   "popularidade": 1.8115,
-   "primeira": "2026-08-27",
-   "ultimoEp": {
-    "data": "2026-11-19",
-    "temporada": 1,
-    "episodio": 8
-   },
-   "proximoEp": {
-    "data": "2026-11-26",
-    "temporada": 1,
-    "episodio": 9
-   },
-   "temporadas": [
-    {
-     "n": 1,
-     "data": "2026-08-27"
-    }
-   ],
-   "canais": [
-    "YouTube",
-    "Disney+"
-   ],
-   "trailer": "xe3qx0kXArA",
-   "provedores": {
-    "link": "https://www.themoviedb.org/tv/332379-countdown-to-avengers-doomsday-official-podcast/watch?locale=BR",
-    "flatrate": [
-     {
-      "id": 337,
-      "nome": "Disney Plus",
-      "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
-     }
-    ],
-    "rent": [],
-    "buy": []
-   }
-  },
-  {
-   "id": 340321,
-   "imdb": null,
-   "titulo": "스타일 워즈",
-   "original": "스타일 워즈",
-   "lingua": "ko",
-   "sinopse": "O programa é um jogo de sobrevivência de moda em nível nacional que reúne 72 participantes obcecados por estilo, vindos de diferentes gerações e idades. Na competição, fatores como aparência tradicional, idade, experiência ou fama prévia não importam; o único critério de sobrevivência e vitória é o estilo puro e a capacidade de enfrentar desafios de moda.",
-   "poster": "/4TPb5YUlD957jPjVh3pSQMgeFnb.jpg",
-   "generos": [
-    "Reality"
-   ],
-   "nota": 0,
-   "votos": 0,
-   "popularidade": 1.9759,
-   "primeira": "2026-11-11",
-   "ultimoEp": {
-    "data": "2026-11-25",
-    "temporada": 1,
-    "episodio": 6
-   },
-   "proximoEp": {
-    "data": "2026-12-02",
-    "temporada": 1,
-    "episodio": 7
-   },
-   "temporadas": [
-    {
-     "n": 1,
-     "data": "2026-11-11"
-    }
-   ],
-   "canais": [
-    "Disney+"
-   ],
-   "trailer": "wIKw6jgoKHM",
-   "provedores": {
-    "link": "https://www.themoviedb.org/tv/340321-seutail-wojeu/watch?locale=BR",
-    "flatrate": [
-     {
-      "id": 337,
-      "nome": "Disney Plus",
-      "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
-     }
-    ],
-    "rent": [],
-    "buy": []
-   }
-  },
-  {
-   "id": 127616,
-   "imdb": "tt15415042",
-   "titulo": "42 - Die Antwort auf fast alles",
-   "original": "42 - Die Antwort auf fast alles",
-   "lingua": "de",
-   "sinopse": "",
-   "poster": "/1Ms1AJeLzx6LFHhzhcMnqcl2qoa.jpg",
-   "generos": [
-    "Documentário"
-   ],
-   "nota": 9.6,
-   "votos": 5,
-   "popularidade": 12.6756,
-   "primeira": "2021-09-04",
-   "ultimoEp": {
-    "data": "2026-11-21",
-    "temporada": 1,
-    "episodio": 222
-   },
-   "proximoEp": {
-    "data": "2026-11-28",
-    "temporada": 1,
-    "episodio": 223
-   },
-   "temporadas": [
-    {
-     "n": 1,
-     "data": "2021-09-04"
-    }
-   ],
-   "canais": [
-    "ARTE"
-   ],
-   "trailer": null,
-   "provedores": {
-    "link": "https://www.themoviedb.org/tv/127616-42-die-antwort-auf-fast-alles/watch?locale=BR",
-    "flatrate": [
-     {
-      "id": 190,
-      "nome": "Curiosity Stream",
-      "logo": "/oPrhlrmvdq8QDWVXgHLAZz8B2Of.png"
-     }
-    ],
-    "rent": [],
-    "buy": []
-   }
-  },
-  {
    "id": 230050,
    "imdb": "tt28313387",
    "titulo": "A Returner’s Magic Should Be Special",
@@ -33979,7 +34303,7 @@
    ],
    "nota": 9.1,
    "votos": 6,
-   "popularidade": 10.6665,
+   "popularidade": 9.3044,
    "primeira": "2026-10-05",
    "ultimoEp": {
     "data": "2026-11-23",
@@ -35141,371 +35465,47 @@
    }
   },
   {
-   "id": 137948,
-   "imdb": "tt13236336",
-   "titulo": "Sacrifício",
-   "original": "Sacrifice",
-   "lingua": "en",
-   "sinopse": "A influente advogada de entretenimento Daniella Hernandez lida com os problemas de seus clientes enquanto desvenda segredos do passado de sua família e a morte de seus pais.",
-   "poster": "/gMXvBWlDqJZ0Gow7KAc96fChrzD.jpg",
+   "id": 127616,
+   "imdb": "tt15415042",
+   "titulo": "42 - Die Antwort auf fast alles",
+   "original": "42 - Die Antwort auf fast alles",
+   "lingua": "de",
+   "sinopse": "",
+   "poster": "/1Ms1AJeLzx6LFHhzhcMnqcl2qoa.jpg",
    "generos": [
-    "Drama"
+    "Documentário"
    ],
-   "nota": 7.333,
-   "votos": 9,
-   "popularidade": 5.2418,
-   "primeira": "2021-11-04",
-   "ultimoEp": {
-    "data": "2026-11-18",
-    "temporada": 2,
-    "episodio": 9
-   },
-   "proximoEp": {
-    "data": "2026-11-25",
-    "temporada": 2,
-    "episodio": 10
-   },
-   "temporadas": [
-    {
-     "n": 1,
-     "data": "2021-11-04"
-    },
-    {
-     "n": 2,
-     "data": "2026-09-30"
-    }
-   ],
-   "canais": [
-    "BET+",
-    "Paramount+"
-   ],
-   "trailer": null,
-   "provedores": {
-    "link": "https://www.themoviedb.org/tv/137948-sacrifice/watch?locale=BR",
-    "flatrate": [
-     {
-      "id": 531,
-      "nome": "Paramount Plus",
-      "logo": "/pkx3klJlwW5JdtaulvDx6hDNtch.png"
-     },
-     {
-      "id": 484,
-      "nome": "Claro tv+",
-      "logo": "/olzQMHt2SX7iNy8WDMR299hVFcL.png"
-     },
-     {
-      "id": 582,
-      "nome": "Paramount+ Amazon Channel",
-      "logo": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png"
-     },
-     {
-      "id": 1853,
-      "nome": "Paramount Plus Apple TV channel",
-      "logo": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png"
-     },
-     {
-      "id": 2303,
-      "nome": "Paramount Plus Premium",
-      "logo": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png"
-     }
-    ],
-    "rent": [],
-    "buy": []
-   }
-  },
-  {
-   "id": 239334,
-   "imdb": "tt30006118",
-   "titulo": "Frenchie Shore",
-   "original": "Frenchie Shore",
-   "lingua": "fr",
-   "sinopse": "Seguindo os passos de reality shows como \"Jersey Shore\" e \"Geordie Shore\", os dez maiores festeiros da França se reúnem em Cap d'Agde para férias dos sonhos.",
-   "poster": "/AjnQUAy49iz7BMMve0ZKIfAWxFi.jpg",
-   "generos": [
-    "Reality"
-   ],
-   "nota": 6,
+   "nota": 9.6,
    "votos": 5,
-   "popularidade": 4.5401,
-   "primeira": "2023-11-12",
+   "popularidade": 12.6756,
+   "primeira": "2021-09-04",
    "ultimoEp": {
     "data": "2026-11-21",
-    "temporada": 3,
-    "episodio": 2
+    "temporada": 1,
+    "episodio": 222
    },
    "proximoEp": {
     "data": "2026-11-28",
-    "temporada": 3,
-    "episodio": 3
-   },
-   "temporadas": [
-    {
-     "n": 0,
-     "data": "2024-10-26"
-    },
-    {
-     "n": 1,
-     "data": "2023-11-12"
-    },
-    {
-     "n": 2,
-     "data": "2024-11-23"
-    },
-    {
-     "n": 3,
-     "data": "2026-11-21"
-    }
-   ],
-   "canais": [
-    "Paramount+",
-    "MTV France"
-   ],
-   "trailer": "_oKqMhOuCrU",
-   "provedores": {
-    "link": "https://www.themoviedb.org/tv/239334-frenchie-shore/watch?locale=BR",
-    "flatrate": [
-     {
-      "id": 531,
-      "nome": "Paramount Plus",
-      "logo": "/pkx3klJlwW5JdtaulvDx6hDNtch.png"
-     },
-     {
-      "id": 582,
-      "nome": "Paramount+ Amazon Channel",
-      "logo": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png"
-     },
-     {
-      "id": 1853,
-      "nome": "Paramount Plus Apple TV channel",
-      "logo": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png"
-     },
-     {
-      "id": 2303,
-      "nome": "Paramount Plus Premium",
-      "logo": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png"
-     }
-    ],
-    "rent": [],
-    "buy": []
-   }
-  },
-  {
-   "id": 240903,
-   "imdb": "tt30292502",
-   "titulo": "Austrália Shore",
-   "original": "Aussie Shore",
-   "lingua": "en",
-   "sinopse": "Austrália Shore mostra as confusões de um grupo de amigos jovens e bagunceiros enquanto eles trabalham duro e festejam ainda mais, e navegam pelos altos e baixos de morarem juntos 24 horas por dia na baladeira cidade de Cairns.",
-   "poster": "/uc6zlspqXJqVOlxD3AYnEo4GBvt.jpg",
-   "generos": [
-    "Reality"
-   ],
-   "nota": 5.6,
-   "votos": 7,
-   "popularidade": 2.9361,
-   "primeira": "2024-10-03",
-   "ultimoEp": {
-    "data": "2026-11-19",
-    "temporada": 3,
-    "episodio": 6
-   },
-   "proximoEp": {
-    "data": "2026-11-26",
-    "temporada": 3,
-    "episodio": 7
-   },
-   "temporadas": [
-    {
-     "n": 1,
-     "data": "2024-10-03"
-    },
-    {
-     "n": 2,
-     "data": "2025-09-25"
-    },
-    {
-     "n": 3,
-     "data": "2026-10-22"
-    }
-   ],
-   "canais": [
-    "Paramount+"
-   ],
-   "trailer": "clgwl3ow91s",
-   "provedores": {
-    "link": "https://www.themoviedb.org/tv/240903-aussie-shore/watch?locale=BR",
-    "flatrate": [
-     {
-      "id": 531,
-      "nome": "Paramount Plus",
-      "logo": "/pkx3klJlwW5JdtaulvDx6hDNtch.png"
-     },
-     {
-      "id": 582,
-      "nome": "Paramount+ Amazon Channel",
-      "logo": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png"
-     },
-     {
-      "id": 1853,
-      "nome": "Paramount Plus Apple TV channel",
-      "logo": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png"
-     },
-     {
-      "id": 2303,
-      "nome": "Paramount Plus Premium",
-      "logo": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png"
-     }
-    ],
-    "rent": [],
-    "buy": []
-   }
-  },
-  {
-   "id": 153246,
-   "imdb": "tt24851318",
-   "titulo": "Germany Shore",
-   "original": "Germany Shore",
-   "lingua": "de",
-   "sinopse": "Germany Shore envia um grupo descolado a um lugar ensolarado para festejar. São jovens, sexys e cheios de energia! São quinze dias na mansão dos sonhos transformada em uma grande balada.",
-   "poster": "/6yNwf8hvO0dmsHWtfukqaTcNGq9.jpg",
-   "generos": [
-    "Reality"
-   ],
-   "nota": 3.8,
-   "votos": 5,
-   "popularidade": 2.8999,
-   "primeira": "2021-11-17",
-   "ultimoEp": {
-    "data": "2026-11-24",
-    "temporada": 6,
-    "episodio": 1
-   },
-   "proximoEp": {
-    "data": "2026-12-01",
-    "temporada": 6,
-    "episodio": 2
-   },
-   "temporadas": [
-    {
-     "n": 1,
-     "data": "2021-11-17"
-    },
-    {
-     "n": 2,
-     "data": "2022-12-15"
-    },
-    {
-     "n": 3,
-     "data": "2023-11-14"
-    },
-    {
-     "n": 4,
-     "data": "2024-11-19"
-    },
-    {
-     "n": 5,
-     "data": "2025-10-28"
-    },
-    {
-     "n": 6,
-     "data": "2026-11-24"
-    }
-   ],
-   "canais": [
-    "3+",
-    "Joyn",
-    "Paramount+"
-   ],
-   "trailer": "C5EWTKQ--pI",
-   "provedores": {
-    "link": "https://www.themoviedb.org/tv/153246-germany-shore/watch?locale=BR",
-    "flatrate": [
-     {
-      "id": 531,
-      "nome": "Paramount Plus",
-      "logo": "/pkx3klJlwW5JdtaulvDx6hDNtch.png"
-     },
-     {
-      "id": 582,
-      "nome": "Paramount+ Amazon Channel",
-      "logo": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png"
-     },
-     {
-      "id": 1853,
-      "nome": "Paramount Plus Apple TV channel",
-      "logo": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png"
-     },
-     {
-      "id": 2303,
-      "nome": "Paramount Plus Premium",
-      "logo": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png"
-     }
-    ],
-    "rent": [],
-    "buy": []
-   }
-  },
-  {
-   "id": 307913,
-   "imdb": "tt39093331",
-   "titulo": "Canadá Shore",
-   "original": "Canada Shore",
-   "lingua": "en",
-   "sinopse": "Dez jovens canadenses ousados invadem uma cidade de festas à beira de um lago na Colúmbia Britânica para seu primeiro verão de bebedeira, pegação e decisões ruins, enquanto obedecem à chefe icônica: a única e inigualável Snooki.",
-   "poster": "/gItzF0zia8qMaAqniM6mhPgbbsl.jpg",
-   "generos": [
-    "Reality"
-   ],
-   "nota": 6,
-   "votos": 6,
-   "popularidade": 0.852,
-   "primeira": "2026-01-22",
-   "ultimoEp": {
-    "data": "2026-03-19",
     "temporada": 1,
-    "episodio": 10
-   },
-   "proximoEp": {
-    "data": "2027-01-07",
-    "temporada": 2,
-    "episodio": 1
+    "episodio": 223
    },
    "temporadas": [
     {
      "n": 1,
-     "data": "2026-01-22"
-    },
-    {
-     "n": 2,
-     "data": "2027-01-07"
+     "data": "2021-09-04"
     }
    ],
    "canais": [
-    "Paramount+"
+    "ARTE"
    ],
-   "trailer": "MlTMqgas974",
+   "trailer": null,
    "provedores": {
-    "link": "https://www.themoviedb.org/tv/307913-canada-shore/watch?locale=BR",
+    "link": "https://www.themoviedb.org/tv/127616-42-die-antwort-auf-fast-alles/watch?locale=BR",
     "flatrate": [
      {
-      "id": 531,
-      "nome": "Paramount Plus",
-      "logo": "/pkx3klJlwW5JdtaulvDx6hDNtch.png"
-     },
-     {
-      "id": 582,
-      "nome": "Paramount+ Amazon Channel",
-      "logo": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png"
-     },
-     {
-      "id": 1853,
-      "nome": "Paramount Plus Apple TV channel",
-      "logo": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png"
-     },
-     {
-      "id": 2303,
-      "nome": "Paramount Plus Premium",
-      "logo": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png"
+      "id": 190,
+      "nome": "Curiosity Stream",
+      "logo": "/oPrhlrmvdq8QDWVXgHLAZz8B2Of.png"
      }
     ],
     "rent": [],
@@ -38689,7 +38689,7 @@
    ],
    "nota": 9,
    "votos": 3,
-   "popularidade": 1.6385,
+   "popularidade": 1.7918,
    "primeira": "2025-11-14",
    "ultimoEp": {
     "data": "2026-11-19",
@@ -40946,7 +40946,7 @@
    ],
    "nota": 0,
    "votos": 0,
-   "popularidade": 1.3008,
+   "popularidade": 1.2468,
    "primeira": "2026-12-04",
    "ultimoEp": null,
    "proximoEp": {

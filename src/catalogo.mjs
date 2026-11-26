@@ -30,7 +30,7 @@ export function gerarCatalogo() {
     const [tipo, id, titulo, ano, nota, votos, poster, gen] = i;
     const url = `https://www.themoviedb.org/${tipo ? 'tv' : 'movie'}/${id}`;
     const meta = [ano, tipo ? 'Série' : 'Filme', ...gen.slice(0, 2).map((g) => nomesGen[g]).filter(Boolean)].filter(Boolean).join(' · ');
-    return `<article class="mini"><a class="capa" href="${url}" rel="noopener">${poster
+    return `<article class="mini" data-tipo="${tipo ? 'tv' : 'movie'}" data-id="${id}"><a class="capa" href="${url}" rel="noopener">${poster
       ? `<img class="poster" src="${IMG}w185/${esc(poster)}" alt="Pôster de ${esc(titulo)}" width="185" height="278" loading="lazy" referrerpolicy="no-referrer">`
       : `<div class="poster sem" aria-hidden="true">${esc(titulo.slice(0, 1))}</div>`}</a>
 <div class="mini-info"><h3><a href="${url}" rel="noopener">${esc(titulo)}</a></h3><p class="meta">${esc(meta)}</p>${nota ? `<p class="nota-mini">★ ${nota.toFixed(1).replace('.', ',')} <span>TMDB</span></p>` : ''}<p class="links"><a href="${url}" rel="noopener">TMDB</a> · <a href="https://www.justwatch.com/br/busca?q=${encodeURIComponent(titulo)}" rel="noopener">JustWatch</a></p></div></article>`;
@@ -44,7 +44,10 @@ export function gerarCatalogo() {
     const generos = Object.fromEntries([...usadosGen].filter((g) => nomesGen[g]).map((g) => [g, nomesGen[g]]));
     gravarTexto(`public/catalogo/${p.slug}.json`, JSON.stringify({ n: p.nome, g: generos, i: p.itens }));
 
-    const opcoes = Object.entries(generos).sort((a, b) => a[1].localeCompare(b[1], 'pt-BR'));
+    // gêneros do mais frequente ao menos, com a contagem (como as categorias dos serviços de streaming)
+    const contGen = {};
+    for (const i of p.itens) for (const g of i[7]) contGen[g] = (contGen[g] || 0) + 1;
+    const opcoes = Object.entries(generos).map(([id, n]) => [id, n, contGen[id] || 0]).sort((a, b) => b[2] - a[2] || a[1].localeCompare(b[1], 'pt-BR'));
     const titulo = `Catálogo ${p.nome} no Brasil: ${fmtNum(p.itens.length)} filmes e séries | Streaming Radar`;
     const descricao = `Tudo o que está disponível na ${p.nome} no Brasil: ${fmtNum(p.filmes)} filmes e ${fmtNum(p.series)} séries, com busca, filtro por gênero e links.`;
     const corpo = `<nav class="migalha" aria-label="Você está em"><a href="/catalogo/">Catálogo</a> › ${esc(p.nome)}</nav>
@@ -52,10 +55,10 @@ export function gerarCatalogo() {
 <p>${fmtNum(p.filmes)} filmes · ${fmtNum(p.series)} séries${p.site ? ` · <a href="${esc(p.site)}" rel="noopener">site da ${esc(p.nome)}</a>` : ''}</p></div>
 <div class="cat-controles">
   <label>Buscar <input type="search" id="c-busca" placeholder="título..." autocomplete="off"></label>
-  <label>Tipo <select id="c-tipo"><option value="">Filmes e séries</option><option value="0">Só filmes</option><option value="1">Só séries</option></select></label>
-  <label>Gênero <select id="c-gen"><option value="">Todos</option>${opcoes.map(([id, n]) => `<option value="${id}">${esc(n)}</option>`).join('')}</select></label>
   <label>Ordem <select id="c-ord"><option value="pop">Mais populares</option><option value="nota">Melhor nota</option><option value="ano">Mais recentes</option><option value="az">A a Z</option></select></label>
 </div>
+<div class="chips-gen" id="c-tipo" role="group" aria-label="Filtrar por tipo"><button type="button" data-v="" aria-pressed="true">Filmes e séries</button><button type="button" data-v="0" aria-pressed="false">Filmes <span>${fmtNum(p.filmes)}</span></button><button type="button" data-v="1" aria-pressed="false">Séries <span>${fmtNum(p.series)}</span></button></div>
+<div class="chips-gen" id="c-gen" role="group" aria-label="Filtrar por gênero"><button type="button" data-v="" aria-pressed="true">Todos os gêneros</button>${opcoes.map(([id, n, qtd]) => `<button type="button" data-v="${id}" aria-pressed="false">${esc(n)} <span>${fmtNum(qtd)}</span></button>`).join('')}</div>
 <p class="cat-status" id="c-status" aria-live="polite">${fmtNum(p.itens.length)} títulos</p>
 <div class="grade-cat" id="catalogo" data-json="/catalogo/${esc(p.slug)}.json">
 ${p.itens.slice(0, INICIAL).map(cartao).join('\n')}

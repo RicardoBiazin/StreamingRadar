@@ -150,3 +150,35 @@ a.chip:hover { text-decoration: underline; }
   .versao { display: none; }
   .topo { gap: 4px; }
 }
+
+/* ---------- modal de detalhe ---------- */
+dialog.detalhe { width: min(760px, calc(100vw - 24px)); max-height: calc(100vh - 32px); padding: 0; border: 1px solid var(--linha); border-radius: 14px; background: var(--painel); color: var(--texto); }
+dialog.detalhe::backdrop { background: rgba(0, 0, 0, .6); }
+.detalhe-corpo { padding: 22px 22px 20px; overflow-y: auto; max-height: calc(100vh - 34px); }
+.detalhe-fechar { position: absolute; top: 8px; right: 10px; z-index: 2; width: 34px; height: 34px; border-radius: 50%; border: 1px solid var(--linha); background: var(--painel); color: var(--texto); font-size: 1.3rem; line-height: 1; cursor: pointer; }
+.detalhe-fechar:hover { border-color: var(--destaque); }
+.detalhe-info h2 { margin: 0 34px 2px 0; font-size: 1.4rem; line-height: 1.2; }
+.detalhe-ano { font-weight: 400; color: var(--suave); }
+.detalhe-slogan { margin: 4px 0; color: var(--suave); font-style: italic; }
+.detalhe-nota { margin: 8px 0 0; font-weight: 700; color: var(--nota); }
+.detalhe-nota span { font-weight: 400; color: var(--suave); font-size: .8rem; }
+.detalhe-dir { margin: 8px 0 0; }
+.detalhe-sec { margin: 18px 0 6px; font-size: 1rem; }
+.detalhe-sinopse { margin: 0; line-height: 1.55; }
+.elenco { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(104px, 1fr)); gap: 12px; }
+.elenco li { display: flex; flex-direction: column; font-size: .8rem; }
+.elenco .foto { width: 100%; height: auto; aspect-ratio: 2 / 3; object-fit: cover; border-radius: 8px; background: var(--linha); display: grid; place-items: center; font-size: 1.6rem; color: var(--suave); }
+.elenco strong { margin-top: 5px; line-height: 1.2; }
+.elenco span { color: var(--suave); line-height: 1.2; }
+.detalhe-onde { display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-top: 6px; }
+.detalhe-links { margin-top: 16px; }
+.detalhe-carregando { color: var(--suave); }
+@media (max-width: 480px) { .detalhe-corpo { padding: 16px 14px; } .elenco { grid-template-columns: repeat(3, minmax(0, 1fr)); } }
+
+/* ---------- faixas de gênero/tipo (estilo categorias de streaming) ---------- */
+.chips-gen { display: flex; gap: 8px; overflow-x: auto; padding: 10px 0 8px; margin: 0; scrollbar-width: thin; -webkit-overflow-scrolling: touch; }
+.chips-gen button { flex: 0 0 auto; font: inherit; font-size: .88rem; padding: 6px 14px; border-radius: 999px; border: 1px solid var(--linha); background: var(--painel); color: var(--texto); cursor: pointer; white-space: nowrap; }
+.chips-gen button:hover { border-color: var(--destaque); }
+.chips-gen button span { margin-left: 4px; font-size: .75rem; color: var(--suave); }
+.chips-gen button[aria-pressed="true"] { background: var(--destaque); border-color: var(--destaque); color: var(--fundo); font-weight: 600; }
+.chips-gen button[aria-pressed="true"] span { color: var(--fundo); opacity: .8; }

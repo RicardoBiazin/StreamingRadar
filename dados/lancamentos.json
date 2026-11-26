@@ -1,6 +1,6 @@
 {
  "fonte": "tmdb",
- "coletadoEm": "2026-11-26T03:49:16.983Z",
+ "coletadoEm": "2026-11-26T03:55:52.183Z",
  "de": "2026-11-16",
  "ate": "2027-05-30",
  "itens": [
@@ -1334,6 +1334,40 @@
    "classificacao": null
   },
   {
+   "id": "serie-294060",
+   "tmdb": 294060,
+   "imdb": "tt38986610",
+   "tipo": "serie",
+   "titulo": "Beauty and the Geek",
+   "original": null,
+   "data": "2026-11-19",
+   "semana": "2026-w47",
+   "segunda": "2026-11-16",
+   "generos": [
+    "Reality"
+   ],
+   "nota": 9,
+   "votos": 3,
+   "sinopse": "",
+   "poster": "/tFwaND8FjI1Sirep8jeYyxQkQXB.jpg",
+   "trailer": null,
+   "popularidade": 1.7918,
+   "plataformas": [
+    {
+     "id": null,
+     "nome": "Amazon Prime Video",
+     "logo": null,
+     "tipo": "assinatura",
+     "inferido": true
+    }
+   ],
+   "justwatch": null,
+   "temporada": 2,
+   "canais": [
+    "Prime Video"
+   ]
+  },
+  {
    "id": "cinema-1277882",
    "tmdb": 1277882,
    "imdb": "tt35455855",
@@ -1356,40 +1390,6 @@
    "justwatch": null,
    "duracao": 111,
    "classificacao": null
-  },
-  {
-   "id": "serie-294060",
-   "tmdb": 294060,
-   "imdb": "tt38986610",
-   "tipo": "serie",
-   "titulo": "Beauty and the Geek",
-   "original": null,
-   "data": "2026-11-19",
-   "semana": "2026-w47",
-   "segunda": "2026-11-16",
-   "generos": [
-    "Reality"
-   ],
-   "nota": 9,
-   "votos": 3,
-   "sinopse": "",
-   "poster": "/tFwaND8FjI1Sirep8jeYyxQkQXB.jpg",
-   "trailer": null,
-   "popularidade": 1.6385,
-   "plataformas": [
-    {
-     "id": null,
-     "nome": "Amazon Prime Video",
-     "logo": null,
-     "tipo": "assinatura",
-     "inferido": true
-    }
-   ],
-   "justwatch": null,
-   "temporada": 2,
-   "canais": [
-    "Prime Video"
-   ]
   },
   {
    "id": "cinema-1255582",
@@ -3001,36 +3001,11 @@
    "sinopse": "Após ser demitido de seu emprego, o conformista Aderbal perde todo seu seguro-desemprego com casas de aposta. Devastado com sua perda, ele parte em uma jornada em busca de vingança, prometendo assassinar todos os influenciadores que divulgam casas de apostas que cruzarem seu caminho. Em paralelo a isso, um conflito nuclear entre Brasil e Estados Unidos ameaça a vida no planeta terra.",
    "poster": "/9FRhNJ5Hs37qRrG2EYK9KXAmVG9.jpg",
    "trailer": null,
-   "popularidade": 0.6249,
+   "popularidade": 0.4676,
    "plataformas": [],
    "justwatch": null,
    "duracao": 15,
    "classificacao": "18"
-  },
-  {
-   "id": "cinema-94513",
-   "tmdb": 94513,
-   "imdb": "tt0072902",
-   "tipo": "cinema",
-   "titulo": "Duas Soluções para Um Problema",
-   "original": "دو راه حل برای يک مسئله",
-   "data": "2026-11-24",
-   "semana": "2026-w48",
-   "segunda": "2026-11-23",
-   "generos": [
-    "Drama",
-    "Família"
-   ],
-   "nota": 5.8,
-   "votos": 43,
-   "sinopse": "Dois meninos são colegas de classe. Quando Nader devolve o caderno do amigo com a capa rasgada, o outro se depara com duas soluções: ou ele se vinga ou os dois meninos procuram uma solução juntos para manter a amizade.",
-   "poster": "/vQCLc5ULGNowk2GB99f3dNCGstj.jpg",
-   "trailer": null,
-   "popularidade": 0.4274,
-   "plataformas": [],
-   "justwatch": null,
-   "duracao": 5,
-   "classificacao": null
   },
   {
    "id": "cinema-1763409",
@@ -3055,6 +3030,31 @@
    "plataformas": [],
    "justwatch": null,
    "duracao": null,
+   "classificacao": null
+  },
+  {
+   "id": "cinema-94513",
+   "tmdb": 94513,
+   "imdb": "tt0072902",
+   "tipo": "cinema",
+   "titulo": "Duas Soluções para Um Problema",
+   "original": "دو راه حل برای يک مسئله",
+   "data": "2026-11-24",
+   "semana": "2026-w48",
+   "segunda": "2026-11-23",
+   "generos": [
+    "Drama",
+    "Família"
+   ],
+   "nota": 5.8,
+   "votos": 43,
+   "sinopse": "Dois meninos são colegas de classe. Quando Nader devolve o caderno do amigo com a capa rasgada, o outro se depara com duas soluções: ou ele se vinga ou os dois meninos procuram uma solução juntos para manter a amizade.",
+   "poster": "/vQCLc5ULGNowk2GB99f3dNCGstj.jpg",
+   "trailer": null,
+   "popularidade": 0.3957,
+   "plataformas": [],
+   "justwatch": null,
+   "duracao": 5,
    "classificacao": null
   },
   {
@@ -3988,7 +3988,7 @@
    "sinopse": "Professora, militante e guardiã de saberes amazônicos, Dona Onete se tornou um ícone da música aos 72 anos, mas sua história começou muito antes. Neste documentário filmado entre rios e matas do Pará, Onete canta os banzeiros, os botos e os sabores da floresta com humor e sabedoria em uma celebração da Amazônia viva que pulsa em sua voz.",
    "poster": "/zaW3bvhrr4L9LRWz2VeqGhSxLPP.jpg",
    "trailer": null,
-   "popularidade": 0.3317,
+   "popularidade": 0.3139,
    "plataformas": [],
    "justwatch": null,
    "duracao": 90,
@@ -4012,7 +4012,7 @@
    "sinopse": "César, um homem viciado em apostas e afundado em dívidas com Marcos, que agora veio cobrar o que lhe deve. Durante uma noite em um bar, César continua apostando na esperança de ganhar dinheiro suficiente para quitar a dívida. Porém, a cada nova rodada, o que está em jogo deixa de ser apenas dinheiro, e sim, a possibilidade de ganhar mais tempo e adiar a própria morte.",
    "poster": "/tjbokn6KriYWJFiKXfoExZtVHb3.jpg",
    "trailer": null,
-   "popularidade": 0.268,
+   "popularidade": 0.2233,
    "plataformas": [],
    "justwatch": null,
    "duracao": 5,
@@ -5963,7 +5963,7 @@
    "sinopse": "A história, dividida em 8 capítulos, se passa em Barranquilla no final da década de 1950 (1958). Acompanha a vida de quatro amigas — Lina, Dora, Catalina e Beatriz — enquanto elas tentam trilhar seus próprios caminhos e desafiar as rígidas normas sociais, o machismo e o culto à aparência que limitam as mulheres em uma sociedade conservadora.",
    "poster": "/tczZnjpluajsheBCBdRNkk4akk2.jpg",
    "trailer": null,
-   "popularidade": 1.3008,
+   "popularidade": 1.2468,
    "plataformas": [
     {
      "id": null,
@@ -6221,7 +6221,7 @@
    "sinopse": "Detetives do presente e um detetive do passado se comunicam através de walkie-talkie para resolver um caso não solucionado há muito tempo.",
    "poster": "/xURGDl0GdHVdoKbxwh3HmZKPilR.jpg",
    "trailer": "JnX9ctyNrAI",
-   "popularidade": 11.4623,
+   "popularidade": 12.9269,
    "plataformas": [
     {
      "id": 8,
@@ -10580,7 +10580,7 @@
    "sinopse": "Na Inglaterra medieval do século XIII, um homem enfrenta uma transformação corporal em lobisomem, lidando com as consequências sobrenaturais e os perigos da época.",
    "poster": "/qAvCgWOCzBGnhHIEkaWBSxhEEEk.jpg",
    "trailer": "CL1EFACsWag",
-   "popularidade": 10.5691,
+   "popularidade": 11.0449,
    "plataformas": [],
    "justwatch": null,
    "duracao": 120,
@@ -10693,7 +10693,7 @@
    "sinopse": "A história da inesperada amizade entre dois animais.",
    "poster": "/AfJldsj8a42yeg9Ued3MdgbfWnC.jpg",
    "trailer": null,
-   "popularidade": 2.6989,
+   "popularidade": 2.9494,
    "plataformas": [],
    "justwatch": null,
    "duracao": null,

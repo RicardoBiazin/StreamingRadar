@@ -17,6 +17,7 @@ if (!dados) {
   process.exit(1);
 }
 const notas = lerJSON('dados/notas.json', {});
+const detalhes = lerJSON('dados/detalhes.json', {}); // elenco, direção etc. (coletar.mjs)
 const hoje = hojeBR();
 const IMG = 'https://image.tmdb.org/t/p/';
 
@@ -81,7 +82,10 @@ function cartao(i) {
     i.justwatch ? `<a href="${esc(i.justwatch)}" rel="noopener">JustWatch</a>` : null,
   ].filter(Boolean).join(' · ');
 
-  return `<article class="card" data-plat="${esc(platSlugs)}">
+  const tipoApi = i.tipo === 'serie' ? 'tv' : 'movie';
+  const temDet = `${tipoApi}-${i.tmdb}` in detalhes;
+  const gens = i.generos.map((g) => slug(g)).join(' ');
+  return `<article class="card" data-plat="${esc(platSlugs)}" data-gen="${esc(gens)}" data-tipo="${tipoApi}" data-id="${i.tmdb}"${temDet ? ' data-det="1"' : ''}>
   <a class="capa" href="${esc(tituloLink(i))}" rel="noopener">${poster}</a>
   <div class="info">
     <p class="quando">${esc(diaMini(i.data))}</p>
@@ -117,6 +121,10 @@ function paginaSemana(w, k, alvo) {
   const opcoes = [...nomes].sort((a, b) => a[1].localeCompare(b[1], 'pt-BR'));
   const qtd = (t) => w.itens.filter((i) => i.tipo === t).length;
   const eAtual = w === atual;
+  // Gêneros da semana (como as categorias dos serviços de streaming), do mais frequente ao menos.
+  const contGen = new Map();
+  for (const i of w.itens) for (const g of i.generos) contGen.set(g, (contGen.get(g) || 0) + 1);
+  const chipsGen = [...contGen].sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0], 'pt-BR')).slice(0, 18);
 
   const corpo = `<div class="semana-nav">
   ${ant ? `<a class="seta" href="${url(ant)}" rel="prev">‹ ${esc(faixa(ant.segunda))}</a>` : '<span class="seta off"></span>'}
@@ -128,8 +136,9 @@ function paginaSemana(w, k, alvo) {
   <span class="vista" role="group" aria-label="Modo de exibição"><button type="button" data-vista="junto" aria-pressed="true">Todos juntos</button><button type="button" data-vista="dia" aria-pressed="false">Por dia</button></span>
   ${opcoes.length ? `<label class="filtro">Plataforma <select id="f-plat"><option value="">Todas</option>${opcoes.map(([s, n]) => `<option value="${esc(s)}">${esc(n)}</option>`).join('')}</select></label>` : ''}
 </nav>
+${chipsGen.length ? `<div class="chips-gen" id="f-gen" role="group" aria-label="Filtrar por gênero"><button type="button" data-gen="" aria-pressed="true">Todos</button>${chipsGen.map(([g, n]) => `<button type="button" data-gen="${esc(slug(g))}" aria-pressed="false">${esc(g)} <span>${n}</span></button>`).join('')}</div>` : ''}
 ${SECOES.map((s) => secao(w, s)).join('\n')}
-<p class="vazio-filtro" id="sem-filtro" hidden>Nada nesta semana para a plataforma escolhida.</p>
+<p class="vazio-filtro" id="sem-filtro" hidden>Nada nesta semana com os filtros escolhidos.</p>
 <nav class="todas" aria-label="Todas as semanas"><h2>Outras semanas</h2>
 ${semanas.map((x) => `<a href="${url(x)}"${x === w ? ' aria-current="page"' : ''}>${esc(faixa(x.segunda))}${x === atual ? ' (atual)' : ''}</a>`).join('\n')}
 </nav>`;
@@ -155,6 +164,15 @@ gravarTexto('public/404.html', pagina({
   corpo: '<div class="semana-tit"><h1>Página não encontrada</h1><p><a href="/">Ver os lançamentos desta semana</a></p></div>',
 }));
 
+// Um arquivo por título de lançamento (o modal tenta este antes de chamar /api/detalhe).
+const feitos = new Set();
+for (const i of dados.itens) {
+  const k = `${i.tipo === 'serie' ? 'tv' : 'movie'}-${i.tmdb}`;
+  if (detalhes[k] && !feitos.has(k)) {
+    feitos.add(k);
+    gravarTexto(`public/detalhe/${k}.json`, JSON.stringify(detalhes[k]));
+  }
+}
 const cat = gerarCatalogo();
 gravarTexto('public/robots.txt', `User-agent: *\nAllow: /\nSitemap: ${SITE}/sitemap.xml\n`);
 const data = (dados.coletadoEm || '').slice(0, 10) || hoje;

@@ -29,12 +29,13 @@
     var selOrd = document.getElementById('c-ord');
     var status = document.getElementById('c-status');
     var botao = document.getElementById('c-mais');
-    var dados = null, nomes = {}, visiveis = [], mostrados = 0, timer = null;
+    var dados = null, nomes = {}, visiveis = [], mostrados = 0, timer = null, tipoSel = '', genSel = '';
 
     var cartao = function (i) {
       var tipo = i[0], id = i[1], titulo = i[2], ano = i[3], nota = i[4], poster = i[6], gen = i[7];
       var url = 'https://www.themoviedb.org/' + (tipo ? 'tv' : 'movie') + '/' + id;
       var a = el('article', 'mini');
+      a.setAttribute('data-tipo', tipo ? 'tv' : 'movie'); a.setAttribute('data-id', String(id));
       var capa = el('a', 'capa'); capa.href = url; capa.rel = 'noopener';
       if (poster) {
         var img = el('img', 'poster');
@@ -74,7 +75,7 @@
 
     var filtrar = function () {
       var q = semAcento(campo.value.trim());
-      var tipo = selTipo.value, gen = selGen.value ? Number(selGen.value) : null, ord = selOrd.value;
+      var tipo = tipoSel, gen = genSel !== '' ? Number(genSel) : null, ord = selOrd.value;
       visiveis = dados.i.filter(function (i) {
         if (tipo !== '' && String(i[0]) !== tipo) return false;
         if (gen !== null && i[7].indexOf(gen) === -1) return false;
@@ -98,7 +99,19 @@
       // a ordem do arquivo é a popularidade; i[8] = título sem acento para a busca
       dados.i.forEach(function (i) { i[8] = semAcento(i[2]); });
       campo.addEventListener('input', agendar);
-      [selTipo, selGen, selOrd].forEach(function (s) { s.addEventListener('change', filtrar); });
+      selOrd.addEventListener('change', filtrar);
+      // tipo e gênero: faixas de botões (como as categorias dos serviços de streaming)
+      var ligar = function (grupo, definir) {
+        grupo.addEventListener('click', function (e) {
+          var b = e.target.closest ? e.target.closest('button[data-v]') : null;
+          if (!b) return;
+          definir(b.getAttribute('data-v'));
+          [].forEach.call(grupo.querySelectorAll('button'), function (x) { x.setAttribute('aria-pressed', String(x === b)); });
+          filtrar();
+        });
+      };
+      ligar(selTipo, function (v) { tipoSel = v; });
+      ligar(selGen, function (v) { genSel = v; });
       botao.addEventListener('click', function () { desenhar(false); });
       filtrar();
     }).catch(function () { status.textContent = 'Não foi possível carregar o catálogo; mostrando os mais populares.'; });

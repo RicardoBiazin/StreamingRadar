@@ -1,6 +1,8 @@
 // Coleta no TMDB (API v3). Aceita chave v3 (32 hex, ?api_key=) ou token v4 (eyJ..., Bearer).
 // Documentação: https://developer.themoviedb.org/reference
 
+import { montarDetalhe } from '../../netlify/functions/detalhe.mjs';
+
 const BASE = 'https://api.themoviedb.org/3';
 
 export async function tmdb(chave, caminho, params = {}) {
@@ -73,11 +75,12 @@ const provedores = (wp) => {
 
 async function detalheFilme(chave, id) {
   const d = await tmdb(chave, `/movie/${id}`, {
-    language: 'pt-BR', append_to_response: 'release_dates,videos,watch/providers', include_video_language: 'pt,en,null',
+    language: 'pt-BR', append_to_response: 'release_dates,videos,watch/providers,credits', include_video_language: 'pt,en,null',
   });
   if (!d) return null;
   const br = d.release_dates?.results?.find((r) => r.iso_3166_1 === 'BR')?.release_dates || [];
   return {
+    det: montarDetalhe('movie', d),
     id: d.id, imdb: d.imdb_id || null, titulo: d.title, original: d.original_title, lingua: d.original_language,
     sinopse: d.overview, poster: d.poster_path, generos: (d.genres || []).map((g) => g.name),
     nota: d.vote_average, votos: d.vote_count, popularidade: d.popularity, duracao: d.runtime || null,
@@ -90,10 +93,11 @@ async function detalheFilme(chave, id) {
 
 async function detalheSerie(chave, id) {
   const d = await tmdb(chave, `/tv/${id}`, {
-    language: 'pt-BR', append_to_response: 'videos,watch/providers,external_ids', include_video_language: 'pt,en,null',
+    language: 'pt-BR', append_to_response: 'videos,watch/providers,external_ids,credits', include_video_language: 'pt,en,null',
   });
   if (!d) return null;
   return {
+    det: montarDetalhe('tv', d),
     id: d.id, imdb: d.external_ids?.imdb_id || null, titulo: d.name, original: d.original_name, lingua: d.original_language,
     sinopse: d.overview, poster: d.poster_path, generos: (d.genres || []).map((g) => g.name),
     nota: d.vote_average, votos: d.vote_count, popularidade: d.popularity,

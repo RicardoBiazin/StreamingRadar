@@ -21,7 +21,17 @@ try {
   const bruto = await coletarTudo(chave, { de, ate });
   const total = bruto.cinema.length + bruto.filmes.length + bruto.series.length;
   if (total === 0) throw new Error('TMDB devolveu zero itens; mantendo o bruto anterior.');
+  // Elenco, direção etc. (det) saem do bruto e vão para dados/detalhes.json (fora do git):
+  // o gerar faz um arquivo estático por cartão em public/detalhe/.
+  const detalhes = {};
+  for (const [lista, tipo] of [[bruto.cinema, 'movie'], [bruto.filmes, 'movie'], [bruto.series, 'tv']]) {
+    for (const r of lista) {
+      if (r.det) detalhes[`${tipo}-${r.id}`] = r.det;
+      delete r.det;
+    }
+  }
   gravarJSON('dados/brutos/tmdb.json', { fonte: 'tmdb', coletadoEm: new Date().toISOString(), hoje, de, ate, ...bruto });
+  gravarJSON('dados/detalhes.json', detalhes, true);
   console.log(`cinema ${bruto.cinema.length} · filmes ${bruto.filmes.length} · séries ${bruto.series.length}`);
 } catch (e) {
   // Se já existe um bruto, o site continua no ar com ele; só a coleta do dia falha.

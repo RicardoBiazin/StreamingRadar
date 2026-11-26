@@ -5,15 +5,24 @@
 import http from 'node:http';
 import { readFileSync, existsSync, statSync } from 'node:fs';
 import { extname, join, normalize } from 'node:path';
-import { caminho } from './util.mjs';
+import { caminho, carregarEnv } from './util.mjs';
 
 const raiz = caminho('public');
 const csp = readFileSync(caminho('netlify.toml'), 'utf8').match(/Content-Security-Policy = "([^"]+)"/)?.[1];
 const porta = Number(process.argv[2] || 4207);
 const TIPOS = { '.html': 'text/html; charset=utf-8', '.css': 'text/css', '.js': 'text/javascript', '.svg': 'image/svg+xml', '.xml': 'application/xml', '.txt': 'text/plain', '.json': 'application/json' };
 
-http.createServer((req, res) => {
-  let rel = decodeURIComponent(new URL(req.url, 'http://x').pathname);
+http.createServer(async (req, res) => {
+  const u = new URL(req.url, 'http://127.0.0.1');
+  // Imita a Netlify Function do modal de detalhe (usa TMDB_API_KEY do .env).
+  if (u.pathname === '/api/detalhe') {
+    carregarEnv();
+    const { default: fn } = await import('../netlify/functions/detalhe.mjs');
+    const r = await fn(new Request(u));
+    res.writeHead(r.status, { 'content-type': 'application/json', 'content-security-policy': csp });
+    return res.end(Buffer.from(await r.arrayBuffer()));
+  }
+  let rel = decodeURIComponent(u.pathname);
   if (rel.endsWith('/')) rel += 'index.html';
   let arq = normalize(join(raiz, rel));
   const ok = arq.startsWith(raiz) && existsSync(arq) && statSync(arq).isFile();
