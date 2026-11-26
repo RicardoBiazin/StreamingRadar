@@ -1,5 +1,12 @@
 # Histórico
 
+## 0.3.2 — 26/11/2026
+
+- Índice do catálogo (`/catalogo/`) com filtros: faixas de tipo (filmes/séries) e de gêneros com contagem, seletor de plataforma, ordem (populares, nota, recentes, A a Z) e busca, sobre os ~59 mil títulos de todas as plataformas, com as plataformas de cada título no cartão. Os 48 mais populares já vêm no HTML; o `busca.json` (títulos com gêneros e plataformas) só é baixado na primeira interação. A página de cada plataforma e o índice usam o mesmo motor em `catalogo.js`.
+- As faixas de gênero e de tipo quebram em várias linhas, sem barra de rolagem.
+- Rodapé com a licença MIT (link para o arquivo LICENSE).
+- O Actions passou a publicar no Netlify (secret `NETLIFY_AUTH_TOKEN` corrigido): coleta, commit dos dados e deploy em 1 min 47 s.
+
 ## 0.3.1 — 26/11/2026
 
 - Corrigido: "quando clica nada acontece" e faixas de gênero sem estilo. O navegador guardava por 1 hora o CSS e o JS antigos (`Cache-Control: max-age=3600` em `/assets/*`) junto com o HTML novo. Agora os arquivos saem com `?v=<versão>` (muda a cada versão) e `/assets/*` passou a `max-age=0, must-revalidate`. O `testar` confere o `?v=` nos CSS/JS.

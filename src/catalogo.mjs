@@ -26,14 +26,15 @@ export function gerarCatalogo() {
     return { ...p, slug: s, site: sitePlataforma(p.nome), filmes: p.itens.filter((i) => i[0] === 0).length, series: p.itens.filter((i) => i[0] === 1).length };
   }).sort((a, b) => b.itens.length - a.itens.length);
 
-  const cartao = (i) => {
+  const cartao = (i, nomesPlat = null) => {
     const [tipo, id, titulo, ano, nota, votos, poster, gen] = i;
+    const onde = nomesPlat?.length ? `<p class="plats-mini">${esc(nomesPlat.slice(0, 3).join(' · '))}${nomesPlat.length > 3 ? ` +${nomesPlat.length - 3}` : ''}</p>` : '';
     const url = `https://www.themoviedb.org/${tipo ? 'tv' : 'movie'}/${id}`;
     const meta = [ano, tipo ? 'Série' : 'Filme', ...gen.slice(0, 2).map((g) => nomesGen[g]).filter(Boolean)].filter(Boolean).join(' · ');
     return `<article class="mini" data-tipo="${tipo ? 'tv' : 'movie'}" data-id="${id}"><a class="capa" href="${url}" rel="noopener">${poster
       ? `<img class="poster" src="${IMG}w185/${esc(poster)}" alt="Pôster de ${esc(titulo)}" width="185" height="278" loading="lazy" referrerpolicy="no-referrer">`
       : `<div class="poster sem" aria-hidden="true">${esc(titulo.slice(0, 1))}</div>`}</a>
-<div class="mini-info"><h3><a href="${url}" rel="noopener">${esc(titulo)}</a></h3><p class="meta">${esc(meta)}</p>${nota ? `<p class="nota-mini">★ ${nota.toFixed(1).replace('.', ',')} <span>TMDB</span></p>` : ''}<p class="links"><a href="${url}" rel="noopener">TMDB</a> · <a href="https://www.justwatch.com/br/busca?q=${encodeURIComponent(titulo)}" rel="noopener">JustWatch</a></p></div></article>`;
+<div class="mini-info"><h3><a href="${url}" rel="noopener">${esc(titulo)}</a></h3><p class="meta">${esc(meta)}</p>${nota ? `<p class="nota-mini">★ ${nota.toFixed(1).replace('.', ',')} <span>TMDB</span></p>` : ''}${onde}<p class="links"><a href="${url}" rel="noopener">TMDB</a> · <a href="https://www.justwatch.com/br/busca?q=${encodeURIComponent(titulo)}" rel="noopener">JustWatch</a></p></div></article>`;
   };
 
   const paginas = [];
@@ -69,28 +70,48 @@ ${p.itens.slice(0, INICIAL).map(cartao).join('\n')}
   }
 
   // ---------- índice de busca entre plataformas ----------
-  const idx = new Map(); // "tipo-id" -> [tipo,id,titulo,ano,[plataformas]]
+  // Um item por título, com as mesmas 8 colunas dos arquivos por plataforma + a lista de
+  // plataformas (índices em `p`). A ordem é a popularidade: melhor posição em qualquer plataforma.
+  const idx = new Map();
   plats.forEach((p, k) => {
-    for (const i of p.itens) {
+    p.itens.forEach((i, pos) => {
       const chave = `${i[0]}-${i[1]}`;
-      if (!idx.has(chave)) idx.set(chave, [i[0], i[1], i[2], i[3], []]);
-      idx.get(chave)[4].push(k);
-    }
+      let e = idx.get(chave);
+      if (!e) { e = { item: [...i, []], rank: pos }; idx.set(chave, e); }
+      e.rank = Math.min(e.rank, pos);
+      e.item[8].push(k);
+    });
   });
-  const busca = { p: plats.map((p) => ({ s: p.slug, n: p.nome })), i: [...idx.values()] };
+  const ordenados = [...idx.values()].sort((a, b) => a.rank - b.rank || b.item[8].length - a.item[8].length).map((e) => e.item);
+  const usadosTodos = {};
+  for (const i of ordenados) for (const g of i[7]) usadosTodos[g] = (usadosTodos[g] || 0) + 1;
+  const generosTodos = Object.fromEntries(Object.keys(usadosTodos).filter((g) => nomesGen[g]).map((g) => [g, nomesGen[g]]));
+  const busca = { p: plats.map((p) => ({ s: p.slug, n: p.nome })), g: generosTodos, i: ordenados };
   gravarTexto('public/catalogo/busca.json', JSON.stringify(busca));
   const unicos = idx.size;
+  const nFilmes = ordenados.filter((i) => i[0] === 0).length;
+  const chipsGen = Object.entries(generosTodos).map(([id, n]) => [id, n, usadosTodos[id]]).sort((a, b) => b[2] - a[2] || a[1].localeCompare(b[1], 'pt-BR'));
 
   // ---------- índice do catálogo ----------
   const titulo = `Catálogo de streaming no Brasil: ${fmtNum(unicos)} filmes e séries | Streaming Radar`;
   const descricao = `Descubra onde assistir: catálogo completo de ${plats.length} plataformas de streaming no Brasil, com ${fmtNum(unicos)} filmes e séries, busca entre plataformas e links.`;
   const corpo = `<div class="semana-tit"><h1>Catálogo de streaming</h1><p>${fmtNum(unicos)} filmes e séries em ${plats.length} plataformas no Brasil (assinatura, grátis ou com anúncios)</p></div>
-<div class="cat-controles unica">
-  <label>Onde assistir? <input type="search" id="b-busca" placeholder="digite o título de um filme ou série..." autocomplete="off"></label>
+<div id="b-area">
+<div class="cat-controles">
+  <label class="larga">Onde assistir? <input type="search" id="b-busca" placeholder="digite o título de um filme ou série..." autocomplete="off"></label>
+  <label>Plataforma <select id="b-plat"><option value="">Todas</option>${plats.map((p, k) => `<option value="${k}">${esc(p.nome)}</option>`).join('')}</select></label>
+  <label>Ordem <select id="b-ord"><option value="pop">Mais populares</option><option value="nota">Melhor nota</option><option value="ano">Mais recentes</option><option value="az">A a Z</option></select></label>
 </div>
-<ul class="resultados" id="b-resultados" aria-live="polite"></ul>
+<div class="chips-gen" id="b-tipo" role="group" aria-label="Filtrar por tipo"><button type="button" data-v="" aria-pressed="true">Filmes e séries</button><button type="button" data-v="0" aria-pressed="false">Filmes <span>${fmtNum(nFilmes)}</span></button><button type="button" data-v="1" aria-pressed="false">Séries <span>${fmtNum(unicos - nFilmes)}</span></button></div>
+<div class="chips-gen" id="b-gen" role="group" aria-label="Filtrar por gênero"><button type="button" data-v="" aria-pressed="true">Todos os gêneros</button>${chipsGen.map(([id, n, qtd]) => `<button type="button" data-v="${id}" aria-pressed="false">${esc(n)} <span>${fmtNum(qtd)}</span></button>`).join('')}</div>
+</div>
+<p class="cat-status" id="b-status" aria-live="polite">${fmtNum(unicos)} títulos em ${plats.length} plataformas (os mais populares abaixo; mexa nos filtros para ver todos)</p>
+<div class="grade-cat" id="b-grade" data-json="/catalogo/busca.json">
+${ordenados.slice(0, INICIAL).map((i) => cartao(i, i[8].map((k) => plats[k].nome))).join('\n')}
+</div>
+<p class="mais"><button type="button" id="b-mais">Mostrar mais</button></p>
 <h2 class="plat-tit">Plataformas</h2>
-<ul class="plat-lista" id="b-plats" data-json="/catalogo/busca.json">
+<ul class="plat-lista" id="b-plats">
 ${plats.map((p) => `<li><a href="/catalogo/${esc(p.slug)}.html"><strong>${esc(p.nome)}</strong><span>${fmtNum(p.filmes)} filmes · ${fmtNum(p.series)} séries</span></a></li>`).join('\n')}
 </ul>`;
   gravarTexto('public/catalogo/index.html', pagina({ titulo, descricao, caminho: '/catalogo/', corpo, scripts: ['/assets/catalogo.js'] }));

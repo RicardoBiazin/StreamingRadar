@@ -69,7 +69,8 @@ ${corpo}
   </div>
   <p>Este produto usa a API do TMDB, mas não é endossado nem certificado pelo TMDB. Marcas e logotipos pertencem aos seus donos.</p>
   <p>Datas e catálogos mudam sem aviso: confira no link da plataforma ou da rede antes de sair de casa. Site gerado de forma autônoma todo dia.
-  Código aberto: <a href="https://github.com/RicardoBiazin/StreamingRadar" rel="noopener">GitHub</a>. v${VERSAO}.</p>
+  Código aberto sob a <a href="https://github.com/RicardoBiazin/StreamingRadar/blob/main/LICENSE" rel="noopener">licença MIT</a>:
+  <a href="https://github.com/RicardoBiazin/StreamingRadar" rel="noopener">GitHub</a>. v${VERSAO}.</p>
 </footer>
 <script src="/assets/app.js?v=${VERSAO}" defer></script>
 <script src="/assets/detalhe.js?v=${VERSAO}" defer></script>

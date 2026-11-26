@@ -176,7 +176,7 @@ dialog.detalhe::backdrop { background: rgba(0, 0, 0, .6); }
 @media (max-width: 480px) { .detalhe-corpo { padding: 16px 14px; } .elenco { grid-template-columns: repeat(3, minmax(0, 1fr)); } }
 
 /* ---------- faixas de gênero/tipo (estilo categorias de streaming) ---------- */
-.chips-gen { display: flex; gap: 8px; overflow-x: auto; padding: 10px 0 8px; margin: 0; scrollbar-width: thin; -webkit-overflow-scrolling: touch; }
+.chips-gen { display: flex; flex-wrap: wrap; gap: 8px; padding: 10px 0 8px; margin: 0; }
 .chips-gen button { flex: 0 0 auto; font: inherit; font-size: .88rem; padding: 6px 14px; border-radius: 999px; border: 1px solid var(--linha); background: var(--painel); color: var(--texto); cursor: pointer; white-space: nowrap; }
 .chips-gen button:hover { border-color: var(--destaque); }
 .chips-gen button span { margin-left: 4px; font-size: .75rem; color: var(--suave); }
@@ -190,3 +190,6 @@ dialog.detalhe::backdrop { background: rgba(0, 0, 0, .6); }
 .rodape li { margin: 3px 0; }
 .rodape ul.rodape-links { list-style: none; padding: 0; display: flex; flex-wrap: wrap; gap: 4px 14px; }
 .rodape ul.rodape-links li { margin: 0; }
+.cat-controles label.larga { flex: 1 1 320px; }
+.cat-controles label.larga input { width: 100%; }
+.plats-mini { margin: 3px 0 0; font-size: .72rem; color: var(--suave); }

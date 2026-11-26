@@ -145,6 +145,12 @@ if (bruto) {
   ok(bruto.plataformas.length >= 10, `catálogo com poucas plataformas (${bruto.plataformas.length})`);
   const cidx = lerPag('catalogo/index.html');
   ok(cidx && cidx.includes('id="b-busca"'), 'catalogo/index.html sem a busca');
+  for (const id of ['b-gen', 'b-tipo', 'b-plat', 'b-ord', 'b-grade', 'b-mais']) ok(cidx && cidx.includes(`id="${id}"`), `catalogo/index.html sem #${id} (filtros do índice)`);
+  if (existsSync(pub + '/catalogo/busca.json')) {
+    const bj = JSON.parse(readFileSync(pub + '/catalogo/busca.json', 'utf8'));
+    ok(bj.i.length > 1000 && bj.i.every((i) => i.length === 9 && Array.isArray(i[7]) && Array.isArray(i[8]) && i[8].length > 0), 'busca.json: linhas sem os 9 campos (gêneros e plataformas)');
+    ok(bj.g && Object.keys(bj.g).length > 5 && bj.p.length === bruto.plataformas.length, 'busca.json: gêneros ou plataformas ausentes');
+  }
   ok(existsSync(pub + '/catalogo/busca.json'), 'catalogo/busca.json não existe');
   ok(existsSync(pub + '/assets/catalogo.js'), 'assets/catalogo.js não existe');
   for (const p of bruto.plataformas) ok(p.itens.length > 0, `catálogo: ${p.nome} sem itens`);
