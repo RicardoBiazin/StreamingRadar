@@ -1,6 +1,6 @@
 {
  "fonte": "tmdb",
- "coletadoEm": "2026-11-26T04:51:18.916Z",
+ "coletadoEm": "2026-11-26T17:58:35.977Z",
  "de": "2026-11-16",
  "ate": "2027-05-30",
  "itens": [
@@ -91,7 +91,7 @@
     "Thriller"
    ],
    "nota": 8.1,
-   "votos": 31,
+   "votos": 33,
    "sinopse": "Um veterano de guerra viciado, agora motorista de aplicativo, se envolve para ajudar uma passageira aterrorizada a fugir de uma rede de tráfico humano que atende clientes poderosos.",
    "poster": "/sMEXKr33hp6f3CJO6igodtRBBLW.jpg",
    "trailer": "qRG0OTAHSlI",
@@ -107,28 +107,6 @@
    "justwatch": "https://www.themoviedb.org/movie/1378742-drive-through-fire/watch?locale=BR",
    "duracao": 87,
    "classificacao": "16"
-  },
-  {
-   "id": "filme-1828712",
-   "tmdb": 1828712,
-   "imdb": null,
-   "tipo": "filme",
-   "titulo": "Anjos Exterminadores",
-   "original": null,
-   "data": "2026-11-16",
-   "semana": "2026-w47",
-   "segunda": "2026-11-16",
-   "generos": [],
-   "nota": 7,
-   "votos": 1,
-   "sinopse": "Cansado das humilhações, um motorista decide se vingar de todos que o maltrataram. Com a ajuda de uma pessoa misteriosa, sua revolta se transforma em uma jornada de assassinatos.",
-   "poster": "/7UA4ZFmvYJSgHXK5Clq2vHAf4e7.jpg",
-   "trailer": null,
-   "popularidade": 0.803,
-   "plataformas": [],
-   "justwatch": null,
-   "duracao": 20,
-   "classificacao": "18"
   },
   {
    "id": "filme-1644267",
@@ -155,6 +133,28 @@
    "classificacao": "16"
   },
   {
+   "id": "filme-1828712",
+   "tmdb": 1828712,
+   "imdb": null,
+   "tipo": "filme",
+   "titulo": "Anjos Exterminadores",
+   "original": null,
+   "data": "2026-11-16",
+   "semana": "2026-w47",
+   "segunda": "2026-11-16",
+   "generos": [],
+   "nota": 7,
+   "votos": 1,
+   "sinopse": "Cansado das humilhações, um motorista decide se vingar de todos que o maltrataram. Com a ajuda de uma pessoa misteriosa, sua revolta se transforma em uma jornada de assassinatos.",
+   "poster": "/7UA4ZFmvYJSgHXK5Clq2vHAf4e7.jpg",
+   "trailer": null,
+   "popularidade": 0.4721,
+   "plataformas": [],
+   "justwatch": null,
+   "duracao": 20,
+   "classificacao": "18"
+  },
+  {
    "id": "filme-1515348",
    "tmdb": 1515348,
    "imdb": "tt37741878",
@@ -177,30 +177,6 @@
    "classificacao": "16"
   },
   {
-   "id": "filme-1773826",
-   "tmdb": 1773826,
-   "imdb": "tt50137618",
-   "tipo": "filme",
-   "titulo": "La Befana",
-   "original": null,
-   "data": "2026-11-16",
-   "semana": "2026-w47",
-   "segunda": "2026-11-16",
-   "generos": [
-    "Fantasia"
-   ],
-   "nota": 10,
-   "votos": 1,
-   "sinopse": "O curta conta a história de Rebeca, uma menina que vai ouvir a história da La Befana. Ela é uma bruxa que aparece na Epifania de reis distribuindo doces e frutas secas para crinças boas e carvão para as crianças más.",
-   "poster": "/1g5r2B6RF0rUkbDcdL6TGwHm91E.jpg",
-   "trailer": null,
-   "popularidade": 0.3219,
-   "plataformas": [],
-   "justwatch": null,
-   "duracao": 6,
-   "classificacao": "L"
-  },
-  {
    "id": "cinema-1828253",
    "tmdb": 1828253,
    "imdb": null,
@@ -219,7 +195,7 @@
    "sinopse": "Um garoto constantemente em busca de validação passa a recorrer a uma inteligência artificial para obter respostas sobre as mais diversas questões de sua vida. Entre perguntas incessantes, dúvidas e inseguranças, ele desenvolve uma relação cada vez mais dependente com a tecnologia. Até que, subitamente, a IA começa a responder de maneira hostil, questionando suas atitudes e enviando mensagens cada vez mais estranhas. Aos poucos, acontecimentos inexplicáveis começam a invadir sua realidade, tornando cada vez mais difícil distinguir o que é uma falha da tecnologia e o que pode estar acontecendo fora da tela.",
    "poster": "/qFh9lZvfAgZdh9ftyDRzwgV04Gs.jpg",
    "trailer": null,
-   "popularidade": 0.2785,
+   "popularidade": 0.2556,
    "plataformas": [],
    "justwatch": null,
    "duracao": 7,
@@ -248,6 +224,30 @@
    "classificacao": "L"
   },
   {
+   "id": "filme-1773826",
+   "tmdb": 1773826,
+   "imdb": "tt50137618",
+   "tipo": "filme",
+   "titulo": "La Befana",
+   "original": null,
+   "data": "2026-11-16",
+   "semana": "2026-w47",
+   "segunda": "2026-11-16",
+   "generos": [
+    "Fantasia"
+   ],
+   "nota": 10,
+   "votos": 1,
+   "sinopse": "O curta conta a história de Rebeca, uma menina que vai ouvir a história da La Befana. Ela é uma bruxa que aparece na Epifania de reis distribuindo doces e frutas secas para crinças boas e carvão para as crianças más.",
+   "poster": "/1g5r2B6RF0rUkbDcdL6TGwHm91E.jpg",
+   "trailer": null,
+   "popularidade": 0.2175,
+   "plataformas": [],
+   "justwatch": null,
+   "duracao": 6,
+   "classificacao": "L"
+  },
+  {
    "id": "filme-884568",
    "tmdb": 884568,
    "imdb": "tt16250706",
@@ -265,7 +265,7 @@
    "sinopse": "",
    "poster": "/q7quwQRJC5gekHqSch35M8Bqm3u.jpg",
    "trailer": null,
-   "popularidade": 0.1873,
+   "popularidade": 0.1497,
    "plataformas": [
     {
      "id": 444,
@@ -318,11 +318,11 @@
     "Fantasia"
    ],
    "nota": 8,
-   "votos": 5480,
+   "votos": 5506,
    "sinopse": "Acompanhe o rei grego Odisseu em sua perigosa jornada de 20 anos para voltar a Ítaca após a Guerra de Troia, enfrentando monstros e deuses enquanto sua esposa Penélope resiste em seu reino.",
    "poster": "/m0ehGErq8GTLK4WZxaq9QLGAR3u.jpg",
    "trailer": "AyIZ9tiiN8I",
-   "popularidade": 410.8277,
+   "popularidade": 383.1028,
    "plataformas": [
     {
      "id": 484,
@@ -365,7 +365,7 @@
    "sinopse": "Para vencer Bobby, é preciso enfrentar outro adversário. 2 chefs se enfrentam pela chance de testar suas habilidades culinárias contra Bobby. O vencedor segue para a batalha final contra Bobby, mas tem uma vantagem: ele escolhe o prato a ser feito.",
    "poster": "/5goXqzn6peCcq4grdAHACSzcBZr.jpg",
    "trailer": "zr2oymvEo5Y",
-   "popularidade": 52.2609,
+   "popularidade": 52.8585,
    "plataformas": [
     {
      "id": 1899,
@@ -395,11 +395,11 @@
     "Thriller"
    ],
    "nota": 7,
-   "votos": 187,
+   "votos": 188,
    "sinopse": "Professora do ensino fundamental tranca acidentalmente o aluno mais rebelde da turma em sua própria casa. Desesperada para resolver o problema, ela hesita quando vê a turma melhorar sem o garoto, e isso a coloca em um terrível beco sem saída.",
    "poster": "/azg9CmvPuPeqC4VlwktHASoivYJ.jpg",
    "trailer": "4nhu80EmVQE",
-   "popularidade": 10.0201,
+   "popularidade": 9.3511,
    "plataformas": [
     {
      "id": 484,
@@ -444,7 +444,7 @@
    "sinopse": "Os Johnstons são uma família americana de sete pessoas que buscam o sonho americano. No entanto, esta não é uma família comum: todos os sete Johnstons são pessoas pequenas. O pai Trent e a mãe Amber têm cinco filhos menores de 16 anos, todos com nanismo acondroplásico. Jonah e Elizabeth são seus filhos biológicos e eles também adotaram Anna, Alex e Emma.",
    "poster": "/xCQrPnMdvytlfp4EvbGGvFOv6ty.jpg",
    "trailer": "ZpyP_hvARuM",
-   "popularidade": 8.3064,
+   "popularidade": 9.0639,
    "plataformas": [
     {
      "id": 1899,
@@ -557,7 +557,7 @@
     "Aventura"
    ],
    "nota": 7.8,
-   "votos": 358,
+   "votos": 369,
    "sinopse": "Revisite o mundo de Panem 24 anos antes dos eventos de Jogos Vorazes, começando na manhã da colheita dos 50º Jogos Vorazes, também conhecida como o Segundo Massacre Quaternário.",
    "poster": "/ibZ6GSHtCeC7fLDJ2uyXNemgYwr.jpg",
    "trailer": "Dr060OLTodE",
@@ -582,11 +582,11 @@
     "Comédia"
    ],
    "nota": 6.8,
-   "votos": 133,
+   "votos": 137,
    "sinopse": "Uma guarda-costas pragmática tem que proteger um ator de Hollywood durante as festas de fim de ano, mas o clima esquenta, segredos vêm à tona e o Natal fica bem mais complicado.",
    "poster": "/lcjabMgrRfWGs81vq9vGK0tERDo.jpg",
    "trailer": "mFvtVPMa5ak",
-   "popularidade": 167.1052,
+   "popularidade": 155.7847,
    "plataformas": [
     {
      "id": 8,
@@ -615,7 +615,7 @@
     "Comédia"
    ],
    "nota": 6.5,
-   "votos": 68,
+   "votos": 69,
    "sinopse": "Inspirado na vida de um querido ícone americano, este filme narra a incrível jornada de John Madden ao lado de seu melhor amigo e autêntico Al Davis. A trama acompanha desde a parceria campeã do Super Bowl com a equipe do Raiders, até ele se tornar a voz mais reconhecível do futebol americano e construir a franquia mundial de videogame Madden NFL. É a celebração de uma mente brilhante, cujo espírito e personalidade únicos, a parceria com sua ousada esposa Virginia, as amizades duradouras e o amor contagiante pelas pessoas e pelo esporte transcenderam o mundo do futebol americano.",
    "poster": "/hCJ93wcAb0zGFK3G4MgkWJKx6Lm.jpg",
    "trailer": "xzh7HzLXXpk",
@@ -680,8 +680,8 @@
     "Drama",
     "Crime"
    ],
-   "nota": 7.2,
-   "votos": 16,
+   "nota": 7.1,
+   "votos": 17,
    "sinopse": "Nesta série baseada no livro de Marcelo Larraquy, o ladrão Aníbal Gordon se transforma em assassino durante a violenta década de 1970 na Argentina.",
    "poster": "/kYNwxl86H3vBWflMuNw8dQQQbos.jpg",
    "trailer": null,
@@ -719,7 +719,7 @@
    "sinopse": "",
    "poster": "/rY8QGWz7xdsBx6Em1WnpqQZ2oIU.jpg",
    "trailer": null,
-   "popularidade": 20.4135,
+   "popularidade": 20.6081,
    "plataformas": [
     {
      "id": null,
@@ -1002,7 +1002,7 @@
    "sinopse": "‘Anathema\" acompanha a história de Alan Teixeira, um jovem estudante prodígio que, com 15 anos, ganhou prêmios e ficou reconhecido como um dos mais brilhantes autores mirins de sua geração com o lançamento de seu livro, Amálgama. Por trás das suas conquistas o jovem escritor começa a enfrentar um período conturbado de sua vida marcado por pressões e expectativas que acompanham seu sucesso.",
    "poster": "/kukHMdfO21tt8q3Ze5KKv3L2dEn.jpg",
    "trailer": null,
-   "popularidade": 0.1238,
+   "popularidade": 0.1328,
    "plataformas": [],
    "justwatch": null,
    "duracao": 40,
@@ -1049,11 +1049,11 @@
     "História"
    ],
    "nota": 8.3,
-   "votos": 77,
+   "votos": 79,
    "sinopse": "Antes de Rocky se tornar uma lenda que atravessa gerações, Stallone precisou lutar para sobreviver. Na pele de um ator fracassado, ele escreve a história definitiva de um perdedor e precisa lutar pela chance de interpretar o papel de sua vida: Rocky Balboa. Conheça a trajetória por trás da criação de Rocky: Um Lutador.",
    "poster": "/798ggYI8xHBiya9evE9HimE79ib.jpg",
    "trailer": "jq5oCjhQtIc",
-   "popularidade": 53.9845,
+   "popularidade": 46.8881,
    "plataformas": [],
    "justwatch": null,
    "duracao": 128,
@@ -1074,7 +1074,7 @@
     "Drama"
    ],
    "nota": 6.5,
-   "votos": 14,
+   "votos": 15,
    "sinopse": "Jovens, idealistas e, de repente, bilionários. Este casal tentou fazer boas ações, mas só despertou o pior um no outro. Uma história de amor tóxico inspirada em uma fraude real.",
    "poster": "/enOhB2zy0o0P7Vn4WhK8NRsjA8J.jpg",
    "trailer": "9aGeKSSyuhk",
@@ -1203,7 +1203,7 @@
    "sinopse": "A França é ocupada pelos nazistas, mas um homem se recusa a desistir. Sem tropas, sem país e movido por uma convicção irracional, o general De Gaulle tenta convencer o mundo de que a batalha pelo seu país ainda não terminou.",
    "poster": "/sLO3aAWmNx9bOKJL4P5DYHS7SeQ.jpg",
    "trailer": "dKUArYoZ_0U",
-   "popularidade": 10.6449,
+   "popularidade": 10.65,
    "plataformas": [
     {
      "id": 2356,
@@ -1232,7 +1232,7 @@
     "História"
    ],
    "nota": 7.9,
-   "votos": 261,
+   "votos": 262,
    "sinopse": "A França é ocupada pelos nazistas, mas um homem se recusa a desistir. Sem tropas, sem país e movido por uma convicção irracional, o general De Gaulle tenta convencer o mundo de que a batalha pelo seu país ainda não terminou.",
    "poster": "/3ElUZHW6cfar2X07Kh68DDkaNla.jpg",
    "trailer": "J6MRNchmZkY",
@@ -1410,7 +1410,7 @@
    "sinopse": "Amanda e Caio são um casal trans que compartilha sete anos de amor e sonhos. Quando decidem morar juntos, porém, as diferenças entre os dois começam a pesar.",
    "poster": "/fhUzd3PQyXgmRQUvAKVOzwzFx7H.jpg",
    "trailer": null,
-   "popularidade": 0.9829,
+   "popularidade": 0.8893,
    "plataformas": [],
    "justwatch": null,
    "duracao": 87,
@@ -1442,28 +1442,41 @@
    "classificacao": null
   },
   {
-   "id": "cinema-764516",
-   "tmdb": 764516,
-   "imdb": "tt14113574",
-   "tipo": "cinema",
-   "titulo": "Fogaréu",
+   "id": "serie-343091",
+   "tmdb": 343091,
+   "imdb": "tt43750368",
+   "tipo": "serie",
+   "titulo": "Galactic Defense Force",
    "original": null,
    "data": "2026-11-19",
    "semana": "2026-w47",
    "segunda": "2026-11-16",
    "generos": [
-    "Drama"
+    "Animação",
+    "Sci-Fi & Fantasy",
+    "Action & Adventure",
+    "Comédia"
    ],
    "nota": null,
    "votos": 0,
-   "sinopse": "Ao retornar à cidade de em que nasceu no interior de Goiás com as cinzas da mãe adotiva, Fernanda confronta segredos familiares e desafia a fachada de uma elite rural conservadora, tornando-se uma ameaça à reeleição de seu tio.",
-   "poster": "/yFFufzySPbs7ntuGWCfGUO0eF35.jpg",
-   "trailer": null,
-   "popularidade": 0.6683,
-   "plataformas": [],
+   "sinopse": "",
+   "poster": "/47h7rSk4znOtk0AH1R9jAzAk8XI.jpg",
+   "trailer": "uxQ7KUuicBk",
+   "popularidade": 0.5883,
+   "plataformas": [
+    {
+     "id": null,
+     "nome": "Amazon Prime Video",
+     "logo": null,
+     "tipo": "assinatura",
+     "inferido": true
+    }
+   ],
    "justwatch": null,
-   "duracao": 100,
-   "classificacao": "16"
+   "temporada": 1,
+   "canais": [
+    "Prime Video"
+   ]
   },
   {
    "id": "cinema-1717652",
@@ -1516,6 +1529,30 @@
    "classificacao": "14"
   },
   {
+   "id": "cinema-764516",
+   "tmdb": 764516,
+   "imdb": "tt14113574",
+   "tipo": "cinema",
+   "titulo": "Fogaréu",
+   "original": null,
+   "data": "2026-11-19",
+   "semana": "2026-w47",
+   "segunda": "2026-11-16",
+   "generos": [
+    "Drama"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "Ao retornar à cidade de em que nasceu no interior de Goiás com as cinzas da mãe adotiva, Fernanda confronta segredos familiares e desafia a fachada de uma elite rural conservadora, tornando-se uma ameaça à reeleição de seu tio.",
+   "poster": "/yFFufzySPbs7ntuGWCfGUO0eF35.jpg",
+   "trailer": null,
+   "popularidade": 0.519,
+   "plataformas": [],
+   "justwatch": null,
+   "duracao": 100,
+   "classificacao": "16"
+  },
+  {
    "id": "cinema-1240002",
    "tmdb": 1240002,
    "imdb": "tt30818243",
@@ -1542,43 +1579,6 @@
    "classificacao": "14"
   },
   {
-   "id": "serie-343091",
-   "tmdb": 343091,
-   "imdb": "tt43750368",
-   "tipo": "serie",
-   "titulo": "Galactic Defense Force",
-   "original": null,
-   "data": "2026-11-19",
-   "semana": "2026-w47",
-   "segunda": "2026-11-16",
-   "generos": [
-    "Animação",
-    "Sci-Fi & Fantasy",
-    "Action & Adventure",
-    "Comédia"
-   ],
-   "nota": null,
-   "votos": 0,
-   "sinopse": "",
-   "poster": "/47h7rSk4znOtk0AH1R9jAzAk8XI.jpg",
-   "trailer": "uxQ7KUuicBk",
-   "popularidade": 0.3082,
-   "plataformas": [
-    {
-     "id": null,
-     "nome": "Amazon Prime Video",
-     "logo": null,
-     "tipo": "assinatura",
-     "inferido": true
-    }
-   ],
-   "justwatch": null,
-   "temporada": 1,
-   "canais": [
-    "Prime Video"
-   ]
-  },
-  {
    "id": "cinema-1499805",
    "tmdb": 1499805,
    "imdb": null,
@@ -1596,7 +1596,7 @@
    "sinopse": "Morto em decorrência da Covid, Letieres Leite nos deixou um legado musical imenso, e boa parte dele está registrado neste documentário. A partir de uma longa entrevista, o filme mostra o fundador da Orquestra Rumpilezz apresentando seu pensamento artístico e suas ideias musicais inovadoras.",
    "poster": "/7wM81MDkqMRgYvOmZIocLqBKgVo.jpg",
    "trailer": null,
-   "popularidade": 0.2372,
+   "popularidade": 0.2226,
    "plataformas": [],
    "justwatch": null,
    "duracao": 90,
@@ -1664,16 +1664,14 @@
    "generos": [
     "Animação",
     "Família",
-    "Comédia",
-    "Aventura",
-    "Fantasia"
+    "Comédia"
    ],
-   "nota": 7.2,
-   "votos": 95,
+   "nota": 7.1,
+   "votos": 101,
    "sinopse": "Nesta comédia de ação diferente e encantadora, Lilith, a meia-irmã \"malvada\" da Cinderela, rouba a varinha da Fada Madrinha e vira do avesso a clássica história.",
    "poster": "/fLOzL7A81v6V0BKWXXjfeT1ehkw.jpg",
    "trailer": "luwtJdrFTo0",
-   "popularidade": 122.8655,
+   "popularidade": 126.7351,
    "plataformas": [
     {
      "id": 8,
@@ -1703,11 +1701,11 @@
     "Família"
    ],
    "nota": 7.3,
-   "votos": 887,
+   "votos": 888,
    "sinopse": "Percy Jackson terá uma missão perigosa. Enquanto enfrenta monstros e engana deuses, ele terá uma jornada através dos EUA para devolver o raio-mestre de Zeus e impedir uma guerra iminente. Com a ajuda de seus colegas de missão, Annabeth e Grover, a jornada de Percy o deixará mais próximo das respostas das seguintes perguntas: \"como se encaixar num mundo onde ele se sente deslocado?\" e \"qual será o seu futuro?\".",
    "poster": "/i30zp0HtZ7FicUn065xrhnYKN90.jpg",
    "trailer": "yT1ng2tiwLA",
-   "popularidade": 121.798,
+   "popularidade": 123.4135,
    "plataformas": [
     {
      "id": 8,
@@ -1745,11 +1743,11 @@
     "Thriller"
    ],
    "nota": 7.2,
-   "votos": 42,
+   "votos": 43,
    "sinopse": "Jude Derry chega à exclusiva Universidade de Tagus com uma missão secreta: se infiltrar no círculo dos irmãos Cash e descobrir a verdade sobre a morte do irmão dela. O que começa como vingança vira um perigoso triângulo de sedução, atração proibida e mentiras, que a empurra rumo a uma verdade para a qual talvez ela não esteja preparada. Baseado no romance de Alex Mírez.",
    "poster": "/lKgbxuLuupPgIUAw0Ren7ZlOHLg.jpg",
    "trailer": "50v6k3LUcxU",
-   "popularidade": 91.7327,
+   "popularidade": 88.2818,
    "plataformas": [
     {
      "id": 119,
@@ -1781,7 +1779,7 @@
    "sinopse": "Dois detetives tentam solucionar assassinatos brutais e mensagens enigmáticas que surgem em dois países. Só que a verdade está mais perto do que eles imaginam.",
    "poster": "/c3kKwzYpUvtLMCtfmrDPqphsZrc.jpg",
    "trailer": "n1omQI6g3v0",
-   "popularidade": 62.5992,
+   "popularidade": 60.7375,
    "plataformas": [
     {
      "id": 8,
@@ -1812,7 +1810,7 @@
     "Thriller"
    ],
    "nota": 8.2,
-   "votos": 911,
+   "votos": 912,
    "sinopse": "Após a filha de Wang Wei ser sequestrada por uma rede criminosa e ele não receber ajuda da polícia corrupta, Wei decide encontrá-la por conta própria. Seu único aliado é Navin, um jornalista implacável cuja esposa desapareceu misteriosamente. Movidos por uma fúria vingativa, a dupla improvável enfrenta os sequestradores impiedosamente neste explosivo confronto de artes marciais.",
    "poster": "/s7hNelWMQCqPTYhZHCtUaSd4hvC.jpg",
    "trailer": "Avky8dVaqAI",
@@ -1837,7 +1835,7 @@
     "Drama"
    ],
    "nota": 7.8,
-   "votos": 24,
+   "votos": 25,
    "sinopse": "",
    "poster": "/cVaqEhiRPtnWzZVNZu9iaJHsoVE.jpg",
    "trailer": "IUsiTOUo3HE",
@@ -1953,6 +1951,32 @@
    "classificacao": "14"
   },
   {
+   "id": "cinema-848700",
+   "tmdb": 848700,
+   "imdb": "tt37118301",
+   "tipo": "cinema",
+   "titulo": "Minotauro",
+   "original": "Minotaure",
+   "data": "2026-11-20",
+   "semana": "2026-w47",
+   "segunda": "2026-11-16",
+   "generos": [
+    "Drama",
+    "Crime",
+    "Thriller"
+   ],
+   "nota": 7.3,
+   "votos": 61,
+   "sinopse": "Rússia, 2022. Quando Gleb, um diretor de empresa bem-sucedido, se vê sitiado por pressões corporativas crescentes e por um mundo cada vez mais instável, o colapso de sua vida cuidadosamente organizada acelera rumo à violência.",
+   "poster": "/7XH2vaVsishBS0GuCgO3bOXfCaB.jpg",
+   "trailer": "wdFIMrC4oW8",
+   "popularidade": 8.6232,
+   "plataformas": [],
+   "justwatch": null,
+   "duracao": 125,
+   "classificacao": null
+  },
+  {
    "id": "filme-1196067",
    "tmdb": 1196067,
    "imdb": "tt14264694",
@@ -1984,32 +2008,6 @@
    "justwatch": "https://www.themoviedb.org/movie/1196067-worldbreaker/watch?locale=BR",
    "duracao": 92,
    "classificacao": "14"
-  },
-  {
-   "id": "cinema-848700",
-   "tmdb": 848700,
-   "imdb": "tt37118301",
-   "tipo": "cinema",
-   "titulo": "Minotauro",
-   "original": "Minotaure",
-   "data": "2026-11-20",
-   "semana": "2026-w47",
-   "segunda": "2026-11-16",
-   "generos": [
-    "Drama",
-    "Crime",
-    "Thriller"
-   ],
-   "nota": 7.4,
-   "votos": 60,
-   "sinopse": "Rússia, 2022. Quando Gleb, um diretor de empresa bem-sucedido, se vê sitiado por pressões corporativas crescentes e por um mundo cada vez mais instável, o colapso de sua vida cuidadosamente organizada acelera rumo à violência.",
-   "poster": "/7XH2vaVsishBS0GuCgO3bOXfCaB.jpg",
-   "trailer": "wdFIMrC4oW8",
-   "popularidade": 7.7868,
-   "plataformas": [],
-   "justwatch": null,
-   "duracao": 125,
-   "classificacao": null
   },
   {
    "id": "serie-6480",
@@ -2060,7 +2058,7 @@
     "War & Politics"
    ],
    "nota": 1,
-   "votos": 3,
+   "votos": 4,
    "sinopse": "Acompanhe a transição de Melania Trump para o cargo de primeira-dama, enquanto ela se prepara para um novo capítulo na Casa Branca e transforma sua missão em ação.",
    "poster": "/1NxI7Ovlg2mgSoSB6rwtWX9HSNR.jpg",
    "trailer": "vQhH-mOVtPs",
@@ -2098,7 +2096,7 @@
    "sinopse": "",
    "poster": "/gdDUz1FqDDN2criezLPyQ3j0qdu.jpg",
    "trailer": null,
-   "popularidade": 3.6923,
+   "popularidade": 4.5754,
    "plataformas": [
     {
      "id": 119,
@@ -2147,6 +2145,38 @@
     "YouTube",
     "Disney+"
    ]
+  },
+  {
+   "id": "serie-306074",
+   "tmdb": 306074,
+   "imdb": "tt39053780",
+   "tipo": "serie",
+   "titulo": "Mark Rober: CrunchLabs",
+   "original": "Mark Rober's CrunchLabs",
+   "data": "2026-11-20",
+   "semana": "2026-w47",
+   "segunda": "2026-11-16",
+   "generos": [
+    "Família",
+    "Documentário"
+   ],
+   "nota": 9.7,
+   "votos": 3,
+   "sinopse": "Um espaço de experimentação científica onde o ex-engenheiro da NASA, agora YouTuber, Mark Rober, enfrenta desafios que levam a criatividade ao limite.",
+   "poster": "/ppEXlChC27GBXdRj93Qq3uvCBBD.jpg",
+   "trailer": null,
+   "popularidade": 2.5021,
+   "plataformas": [
+    {
+     "id": 8,
+     "nome": "Netflix",
+     "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "tipo": "assinatura"
+    }
+   ],
+   "justwatch": "https://www.themoviedb.org/tv/306074-mark-rober-s-crunchlabs/watch?locale=BR",
+   "temporada": 6,
+   "canais": []
   },
   {
    "id": "serie-222598",
@@ -2267,7 +2297,7 @@
    "sinopse": "",
    "poster": "/vXfbJGSQVRcpOJmPUmv6zBv49GJ.jpg",
    "trailer": null,
-   "popularidade": 1.1554,
+   "popularidade": 1.1972,
    "plataformas": [
     {
      "id": null,
@@ -2328,7 +2358,7 @@
    "sinopse": "Uma comédia de mistério baseada no famoso jogo de tabuleiro Clue e no filme de 1986. Em uma noite chuvosa, seis convidados são reunidos em uma mansão isolada por um anfitrião misterioso. Quando um assassinato acontece, todos se tornam suspeitos. Entre segredos, chantagens e uma sequência de mortes inesperadas, os personagens precisam descobrir quem é o culpado, onde o crime ocorreu e qual foi a arma usada, em uma trama repleta de humor, confusão e reviravoltas.",
    "poster": "/yK3Zxq9gIWIAokr8yiZqcFSdYYo.jpg",
    "trailer": null,
-   "popularidade": 0.2438,
+   "popularidade": 0.2209,
    "plataformas": [],
    "justwatch": null,
    "duracao": 81,
@@ -2352,7 +2382,7 @@
    "sinopse": "",
    "poster": "/snlEbmy62vNZUyyGr3kbTeDoZ94.jpg",
    "trailer": null,
-   "popularidade": 0.0978,
+   "popularidade": 0.0616,
    "plataformas": [],
    "justwatch": null,
    "duracao": 82,
@@ -2489,7 +2519,7 @@
     "Mistério"
    ],
    "nota": 7.4,
-   "votos": 1087,
+   "votos": 1088,
    "sinopse": "A trama foca em um time de talentosas jogadoras de futebol do ensino médio de Nova Jersey, que viaja para Seattle por conta de um torneio nacional. No entanto, o avião que levava o grupo de atletas cai no distante deserto de Ontário, no Canadá. As jovens sobrevivem ao acidente, mas acabam presas em uma região inóspita, onde são obrigadas a se transformar em um clã selvagem se quiserem sobreviver. Com duas linhas temporais, a série salta para 2021, onde apresenta as personagens adultas tentando reconstruir suas vidas, apesar de o passado ser difícil de ignorar.",
    "poster": "/xRnGrn7Z7SC0KIBodocoU1QgDZF.jpg",
    "trailer": "zDFHivyECDU",
@@ -2523,8 +2553,8 @@
     "Comédia",
     "Documentário"
    ],
-   "nota": 5,
-   "votos": 1,
+   "nota": 6.5,
+   "votos": 2,
    "sinopse": "Conhecido por suas pegadinhas virais, entre elas a do restaurante falso melhor avaliado de Londres, Oobah Butler coloca na mira as indústrias e as instituições poderosas, e se infiltra nelas por meio de planos elaborados e audaciosos.",
    "poster": "/iqGHsCsi4zpLsAnGiiP5Wki1CR0.jpg",
    "trailer": "i3fXiJ40WOw",
@@ -2581,7 +2611,7 @@
    "sinopse": "Depois de perder sua esposa Arthur começa a perder a própria sanidade.",
    "poster": "/pl6ieJavsozl1Cv5LzYpopjWJwg.jpg",
    "trailer": null,
-   "popularidade": 0.098,
+   "popularidade": 0.1278,
    "plataformas": [],
    "justwatch": null,
    "duracao": 77,
@@ -2605,7 +2635,7 @@
    "sinopse": "",
    "poster": "/ngw9XHEJHBSUbWmRryIcWWy1spd.jpg",
    "trailer": null,
-   "popularidade": 0.097,
+   "popularidade": 0.0524,
    "plataformas": [],
    "justwatch": null,
    "duracao": 15,
@@ -2625,8 +2655,8 @@
     "Romance",
     "Comédia"
    ],
-   "nota": 6.7,
-   "votos": 55,
+   "nota": 6.1,
+   "votos": 65,
    "sinopse": "Os editores rivais Ryan Mitchell e Hannah Hendricks não podem voar por causa de uma tempestade e são obrigados a dividir um carro alugado para chegar em Nova York, onde uma reunião pode salvar suas carreiras. À medida que imprevistos na estrada e paradas em cidadezinhas acontecem, o espírito natalino vai transformando a rivalidade entre eles em algo inesperado.",
    "poster": "/38xHqU2bKbsXs0KD8bXtrDFpc8n.jpg",
    "trailer": "nOyT9RkGRn4",
@@ -2691,12 +2721,12 @@
    "generos": [
     "Documentário"
    ],
-   "nota": 5.8,
-   "votos": 10,
+   "nota": 6,
+   "votos": 12,
    "sinopse": "A influenciadora Chiara Ferragni abre o jogo e fala, pela primeira vez, sobre o escândalo que abalou sua carreira e levou ao fim de seu casamento midiático.",
    "poster": "/feygypjrjjPS0OroINFLjJ5AiK5.jpg",
    "trailer": "j51cSe8IoxU",
-   "popularidade": 9.2042,
+   "popularidade": 9.4103,
    "plataformas": [
     {
      "id": 8,
@@ -2762,7 +2792,7 @@
    "sinopse": "Entre lembranças esquecidas e incertezas sobre o futuro, dois jovens se encontram por acaso em um parque, unidos por um misterioso caderno de fotografias perdido. O que começa como uma simples tentativa de encontrar seu dono acaba se transformando em uma jornada de redescoberta, nostalgia e reflexão sobre o tempo.",
    "poster": "/o23Oe7Ai80XyJJHFgMxHtGpgM3W.jpg",
    "trailer": null,
-   "popularidade": 0.2473,
+   "popularidade": 0.2538,
    "plataformas": [],
    "justwatch": null,
    "duracao": null,
@@ -2782,8 +2812,8 @@
     "Sci-Fi & Fantasy",
     "Drama"
    ],
-   "nota": 5.1,
-   "votos": 25,
+   "nota": 4.9,
+   "votos": 40,
    "sinopse": "Cora, uma fugitiva que se tornou Blade Runner, une forças com Olwen, uma replicante à beira da morte, para caçar um fugitivo numa Los Angeles renascida. Juntas, descobrem uma verdade que ameaça destruir a sua frágil cidade.",
    "poster": "/8Huo5JEmtKV03VTzq50lYVDbD4N.jpg",
    "trailer": "1d4x_eSdqNc",
@@ -2818,7 +2848,7 @@
     "Thriller"
    ],
    "nota": 7,
-   "votos": 175,
+   "votos": 179,
    "sinopse": "Frances Haugen, uma jovem engenheira do Facebook, conta com a ajuda de Jeff Horwitz, repórter do The Wall Street Journal, para embarcar em uma jornada arriscada que acaba revelando alguns dos segredos mais bem guardados da rede social.",
    "poster": "/51AEphEZ5JXaV0FL5PGITjLQE0m.jpg",
    "trailer": "R8ANzYpaZaY",
@@ -2841,8 +2871,8 @@
    "generos": [
     "Drama"
    ],
-   "nota": 7.5,
-   "votos": 14,
+   "nota": 7.3,
+   "votos": 25,
    "sinopse": "Jake é um fuzileiro naval ferido que se torna mentor de seu tímido e angustiado sobrinho, Marc. Usando os princípios de seu treinamento militar, Jake ensina Marc a ser um pequeno guerreiro ao entrar no ensino médio.",
    "poster": "/79VKzdDYRCvfZWNAEYBoPxeEHm6.jpg",
    "trailer": "R1ECMLrwDYQ",
@@ -2964,7 +2994,7 @@
    "sinopse": "Germany Shore envia um grupo descolado a um lugar ensolarado para festejar. São jovens, sexys e cheios de energia! São quinze dias na mansão dos sonhos transformada em uma grande balada.",
    "poster": "/6yNwf8hvO0dmsHWtfukqaTcNGq9.jpg",
    "trailer": "C5EWTKQ--pI",
-   "popularidade": 2.8999,
+   "popularidade": 2.9661,
    "plataformas": [
     {
      "id": 531,
@@ -3083,6 +3113,88 @@
    "classificacao": "12"
   },
   {
+   "id": "cinema-1847685",
+   "tmdb": 1847685,
+   "imdb": null,
+   "tipo": "cinema",
+   "titulo": "Cidade Dorme, O porco ataca",
+   "original": null,
+   "data": "2026-11-24",
+   "semana": "2026-w48",
+   "segunda": "2026-11-23",
+   "generos": [
+    "Fantasia",
+    "Ficção científica"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "Um jovem inicia seu contrato no precário Departamento de Assuntos Especiais (DAE), responsáveis pelo monitoramento de casos extraordinários do município de Santa Teresinha, o novato é recebido por excêntricos funcionários, o agente acomodado e o misterioso cínico diretor do departamento. Com o desaparecimento repentino de um jornalista independente local, informações recentes são levantadas por sua colega de trabalho e a suspeita quanto ao envolvimento do  Departamento de Assuntos Especiais vem à tona.",
+   "poster": "/rAqbRjkrKlm2CmUD4NKJ04PNOd6.jpg",
+   "trailer": null,
+   "popularidade": 0,
+   "plataformas": [],
+   "justwatch": null,
+   "duracao": 25,
+   "classificacao": "16"
+  },
+  {
+   "id": "filme-1101412",
+   "tmdb": 1101412,
+   "imdb": "tt31192372",
+   "tipo": "filme",
+   "titulo": "A Queda 2: No Limite",
+   "original": "Fall 2: Deadpoint",
+   "data": "2026-11-25",
+   "semana": "2026-w48",
+   "segunda": "2026-11-23",
+   "generos": [
+    "Thriller"
+   ],
+   "nota": 7.2,
+   "votos": 899,
+   "sinopse": "De luto pela morte de sua irmã Shiloh, Jax Hunter cria um laço com Luce, a amiga corajosa de Shiloh. Juntas, elas enfrentam a perigosa passarela suspensa do Monte Kwan, na Tailândia. Quando um deslizamento de rochas as deixa presas em uma estreita prancha a mais de 3.000 metros de altitude, Jax precisa enfrentar seus medos para sobreviver.",
+   "poster": "/xtxEvJACNnbz3WYmJ5mYT1a0KGk.jpg",
+   "trailer": "Krs0VDIjhmE",
+   "popularidade": 92.3152,
+   "plataformas": [],
+   "justwatch": null,
+   "duracao": 100,
+   "classificacao": "16"
+  },
+  {
+   "id": "filme-1458300",
+   "tmdb": 1458300,
+   "imdb": "tt36413910",
+   "tipo": "filme",
+   "titulo": "The Mosquito Bowl",
+   "original": null,
+   "data": "2026-11-25",
+   "semana": "2026-w48",
+   "segunda": "2026-11-23",
+   "generos": [
+    "Guerra",
+    "História",
+    "Drama"
+   ],
+   "nota": 7.1,
+   "votos": 19,
+   "sinopse": "Após o ataque a Pearl Harbor, quatro estrelas do futebol americano universitário se alistam nos fuzileiros navais, descobrindo a força da irmandade e o preço da guerra.",
+   "poster": "/zTCY09GmAd3ZtIIiOTs2sqfVoLG.jpg",
+   "trailer": "F6YDzPfjH4I",
+   "popularidade": 62.9767,
+   "plataformas": [
+    {
+     "id": 8,
+     "nome": "Netflix",
+     "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "tipo": "assinatura"
+    }
+   ],
+   "justwatch": "https://www.themoviedb.org/movie/1458300-the-mosquito-bowl/watch?locale=BR",
+   "duracao": 128,
+   "classificacao": "16"
+  },
+  {
    "id": "cinema-1400336",
    "tmdb": 1400336,
    "imdb": "tt34966140",
@@ -3096,8 +3208,8 @@
     "Comédia",
     "Romance"
    ],
-   "nota": 7,
-   "votos": 10,
+   "nota": 6.8,
+   "votos": 13,
    "sinopse": "Henry, filho de Greg e Pam Focker, enfrenta o caos familiar ao decidir se casar com uma mulher de personalidade forte que parece ser totalmente incompatível com ele.",
    "poster": "/aoJYSUEBOS1MYEf4nqjsH0K3PWB.jpg",
    "trailer": "9CKu3WoMYCg",
@@ -3106,6 +3218,32 @@
    "justwatch": null,
    "duracao": 105,
    "classificacao": null
+  },
+  {
+   "id": "filme-1284046",
+   "tmdb": 1284046,
+   "imdb": "tt32268691",
+   "tipo": "filme",
+   "titulo": "Protocolo de Extermínio",
+   "original": "Onslaught",
+   "data": "2026-11-25",
+   "semana": "2026-w48",
+   "segunda": "2026-11-23",
+   "generos": [
+    "Ação",
+    "Terror",
+    "Thriller"
+   ],
+   "nota": 5.7,
+   "votos": 165,
+   "sinopse": "Quando um grupo de supersoldados geneticamente modificados escapa de uma base no deserto, uma veterana do Exército é a única coisa entre eles e o caos. Para proteger sua filha, fará de tudo. Será que conseguirá detê-los?",
+   "poster": "/nNHzRcCukOLjaSwcfX7RZoIGnCU.jpg",
+   "trailer": "AMLCbpM1fRQ",
+   "popularidade": 32.2092,
+   "plataformas": [],
+   "justwatch": null,
+   "duracao": 92,
+   "classificacao": "18"
   },
   {
    "id": "cinema-1457866",
@@ -3134,6 +3272,40 @@
    "classificacao": "16"
   },
   {
+   "id": "serie-310209",
+   "tmdb": 310209,
+   "imdb": "tt41743360",
+   "tipo": "serie",
+   "titulo": "Nove às Seis",
+   "original": "나인 투 식스",
+   "data": "2026-11-25",
+   "semana": "2026-w48",
+   "segunda": "2026-11-23",
+   "generos": [
+    "Drama",
+    "Comédia"
+   ],
+   "nota": 5,
+   "votos": 1,
+   "sinopse": "Acusada de incendiar um carro, Kang Yi-ji, gerente da Chronic Motors, pode perder seu cargo. Será possível encontrar amor e felicidade no trabalho?",
+   "poster": "/wRKzSp3u0SWqs4dihRttb8rJ1FW.jpg",
+   "trailer": null,
+   "popularidade": 18.5097,
+   "plataformas": [
+    {
+     "id": 119,
+     "nome": "Amazon Prime Video",
+     "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "tipo": "assinatura"
+    }
+   ],
+   "justwatch": "https://www.themoviedb.org/tv/310209-nain-tu-sigseu/watch?locale=BR",
+   "temporada": 1,
+   "canais": [
+    "SBS"
+   ]
+  },
+  {
    "id": "filme-1601243",
    "tmdb": 1601243,
    "imdb": "tt27674706",
@@ -3149,41 +3321,22 @@
     "Thriller",
     "Faroeste"
    ],
-   "nota": 6.6,
-   "votos": 44,
+   "nota": 6.7,
+   "votos": 45,
    "sinopse": "Depois de se aposentar da polícia, um detetive decide vingar a morte de seu melhor amigo, fazendo justiça com as próprias mãos nas ruas, algo que ele não conseguiu durante seu serviço.",
    "poster": "/4pDQ8It1MgURTNAS0sLF4LTsc3P.jpg",
    "trailer": "ZMlCJQ2SefU",
-   "popularidade": 7.0089,
-   "plataformas": [],
-   "justwatch": null,
-   "duracao": 89,
-   "classificacao": "16"
-  },
-  {
-   "id": "filme-1458300",
-   "tmdb": 1458300,
-   "imdb": "tt36413910",
-   "tipo": "filme",
-   "titulo": "The Mosquito Bowl",
-   "original": null,
-   "data": "2026-11-25",
-   "semana": "2026-w48",
-   "segunda": "2026-11-23",
-   "generos": [
-    "Guerra",
-    "História",
-    "Drama"
+   "popularidade": 9.0465,
+   "plataformas": [
+    {
+     "id": 582,
+     "nome": "Paramount+ Amazon Channel",
+     "logo": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+     "tipo": "assinatura"
+    }
    ],
-   "nota": 6.8,
-   "votos": 16,
-   "sinopse": "Após o ataque a Pearl Harbor, quatro estrelas do futebol americano universitário se alistam nos fuzileiros navais, descobrindo a força da irmandade e o preço da guerra.",
-   "poster": "/zTCY09GmAd3ZtIIiOTs2sqfVoLG.jpg",
-   "trailer": "F6YDzPfjH4I",
-   "popularidade": 6.0422,
-   "plataformas": [],
-   "justwatch": null,
-   "duracao": 128,
+   "justwatch": "https://www.themoviedb.org/movie/1601243-oscar-shaw/watch?locale=BR",
+   "duracao": 89,
    "classificacao": "16"
   },
   {
@@ -3220,6 +3373,93 @@
    ]
   },
   {
+   "id": "filme-1026222",
+   "tmdb": 1026222,
+   "imdb": "tt9024562",
+   "tipo": "filme",
+   "titulo": "Vingança Divina",
+   "original": "Saint Clare",
+   "data": "2026-11-25",
+   "semana": "2026-w48",
+   "segunda": "2026-11-23",
+   "generos": [
+    "Thriller",
+    "Terror"
+   ],
+   "nota": 5.1,
+   "votos": 45,
+   "sinopse": "Uma mulher solitária é assombrada por vozes que a levam a matar pessoas e escapar impune, até que seu último assassinato a arrasta para uma toca cheia de corrupção, tráfico e visões da vida após a morte.",
+   "poster": "/nYjtL7MdOxxGdX3adOSY1Q80sDM.jpg",
+   "trailer": "nwTKf9niMIU",
+   "popularidade": 1.171,
+   "plataformas": [],
+   "justwatch": null,
+   "duracao": 92,
+   "classificacao": "16"
+  },
+  {
+   "id": "filme-1828420",
+   "tmdb": 1828420,
+   "imdb": null,
+   "tipo": "filme",
+   "titulo": "Starlight",
+   "original": null,
+   "data": "2026-11-25",
+   "semana": "2026-w48",
+   "segunda": "2026-11-23",
+   "generos": [
+    "Animação",
+    "Drama",
+    "Fantasia"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "",
+   "poster": "/eUtVJGT0BuIVbvDRw2WgNbrzPgk.jpg",
+   "trailer": null,
+   "popularidade": 0.402,
+   "plataformas": [],
+   "justwatch": null,
+   "duracao": 3,
+   "classificacao": null
+  },
+  {
+   "id": "serie-343634",
+   "tmdb": 343634,
+   "imdb": null,
+   "tipo": "serie",
+   "titulo": "ピクチャログ ー ESCAPE from 大喜利 LABYRINTH ー",
+   "original": null,
+   "data": "2026-11-25",
+   "semana": "2026-w48",
+   "segunda": "2026-11-23",
+   "generos": [
+    "Reality",
+    "Comédia"
+   ],
+   "nota": 7,
+   "votos": 1,
+   "sinopse": "",
+   "poster": "/1y5QobUcGzCZuaEk4iAf06C8wXW.jpg",
+   "trailer": null,
+   "popularidade": 0.3493,
+   "plataformas": [
+    {
+     "id": null,
+     "nome": "Netflix",
+     "logo": null,
+     "tipo": "assinatura",
+     "inferido": true
+    }
+   ],
+   "justwatch": null,
+   "temporada": 1,
+   "canais": [
+    "Netflix",
+    "DOWNTOWN+"
+   ]
+  },
+  {
    "id": "cinema-1824922",
    "tmdb": 1824922,
    "imdb": null,
@@ -3244,76 +3484,6 @@
    "classificacao": "14"
   },
   {
-   "id": "filme-1831999",
-   "tmdb": 1831999,
-   "imdb": null,
-   "tipo": "filme",
-   "titulo": "Noite de Estreia",
-   "original": null,
-   "data": "2026-11-25",
-   "semana": "2026-w48",
-   "segunda": "2026-11-23",
-   "generos": [],
-   "nota": null,
-   "votos": 0,
-   "sinopse": "Na noite de estreia de um talk show ao vivo, o convidado informa, de última hora, que vai se atrasar, fazendo com que o apresentador, a produtora e o diretor tenham que decidir entre esperar sua chegada ou buscar um novo convidado.",
-   "poster": "/8gL25kLTeA5d3YWWdAqt6icZaA4.jpg",
-   "trailer": null,
-   "popularidade": 0.1711,
-   "plataformas": [],
-   "justwatch": null,
-   "duracao": 25,
-   "classificacao": null
-  },
-  {
-   "id": "filme-1828420",
-   "tmdb": 1828420,
-   "imdb": null,
-   "tipo": "filme",
-   "titulo": "Starlight",
-   "original": null,
-   "data": "2026-11-25",
-   "semana": "2026-w48",
-   "segunda": "2026-11-23",
-   "generos": [
-    "Animação",
-    "Drama",
-    "Fantasia"
-   ],
-   "nota": null,
-   "votos": 0,
-   "sinopse": "",
-   "poster": "/eUtVJGT0BuIVbvDRw2WgNbrzPgk.jpg",
-   "trailer": null,
-   "popularidade": 0.1621,
-   "plataformas": [],
-   "justwatch": null,
-   "duracao": 3,
-   "classificacao": null
-  },
-  {
-   "id": "cinema-1507903",
-   "tmdb": 1507903,
-   "imdb": null,
-   "tipo": "cinema",
-   "titulo": "Labirintite",
-   "original": null,
-   "data": "2026-11-25",
-   "semana": "2026-w48",
-   "segunda": "2026-11-23",
-   "generos": [],
-   "nota": null,
-   "votos": 0,
-   "sinopse": "",
-   "poster": "/ucaWrDFtXlpRtKxN72BLnj5AzlX.jpg",
-   "trailer": "YaWZL2vDW6A",
-   "popularidade": 0.0451,
-   "plataformas": [],
-   "justwatch": null,
-   "duracao": 127,
-   "classificacao": "16"
-  },
-  {
    "id": "cinema-1843307",
    "tmdb": 1843307,
    "imdb": null,
@@ -3331,11 +3501,33 @@
    "sinopse": "Um jovem vive uma vida monótona e sem sentido. Tudo muda após a descoberta do noise japonês.  Filme indicado por Takashi Mizutani, guitarrista da banda Les Rallizes Dénudés: \"Pior curta que já vi em toda minha vida\"",
    "poster": "/pMukhIUOBIu5EHwTDz1UKM88X0k.jpg",
    "trailer": null,
-   "popularidade": 0,
+   "popularidade": 0.2135,
    "plataformas": [],
    "justwatch": null,
    "duracao": null,
    "classificacao": "14"
+  },
+  {
+   "id": "cinema-1507903",
+   "tmdb": 1507903,
+   "imdb": null,
+   "tipo": "cinema",
+   "titulo": "Labirintite",
+   "original": null,
+   "data": "2026-11-25",
+   "semana": "2026-w48",
+   "segunda": "2026-11-23",
+   "generos": [],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "",
+   "poster": "/ucaWrDFtXlpRtKxN72BLnj5AzlX.jpg",
+   "trailer": "YaWZL2vDW6A",
+   "popularidade": 0.0657,
+   "plataformas": [],
+   "justwatch": null,
+   "duracao": 127,
+   "classificacao": "16"
   },
   {
    "id": "cinema-1765072",
@@ -3351,7 +3543,7 @@
     "Documentário"
    ],
    "nota": 8.6,
-   "votos": 201,
+   "votos": 210,
    "sinopse": "Trinta e quatro dias antes de ser enviada para a prisão, a notória fundadora do Vale do Silício, Elizabeth Holmes, convida uma equipe de filmagem cética para documentar cada passo seu. O que começa como um retrato íntimo de uma criminosa enigmática se transforma em uma jornada alucinante de três anos rumo ao abismo.",
    "poster": "/mnu5cNfijdbuU4iWrV2Lg7AfM0J.jpg",
    "trailer": "IEx8D1Wb__U",
@@ -3378,8 +3570,8 @@
     "Fantasia",
     "Comédia"
    ],
-   "nota": 6.3,
-   "votos": 16,
+   "nota": 5.7,
+   "votos": 19,
    "sinopse": "Uma adolescente desajeitada e sua mãe perfeccionista descobrem que suas peculiaridades podem ser poderes mágicos, transformando suas vidas e revelando um reino mágico oculto.",
    "poster": "/lhDdE2Uvis4Khtr1o366cAbnb57.jpg",
    "trailer": "9ke5KSOUl-U",
@@ -3406,7 +3598,7 @@
    "nota": 7,
    "votos": 118,
    "sinopse": "Sophie troca a Nova Inglaterra pelo leste do Texas e cai na órbita magnética de uma socialite rica — onde um grupo de donas de casa esconde segredos mortais.",
-   "poster": "/knR0tDKgFwsUMxe0MqZSWQYhwpL.jpg",
+   "poster": "/iKL02GmejLCGBJr7XHU82vvqA1C.jpg",
    "trailer": "uZvZfqiAhdQ",
    "popularidade": 18.9389,
    "plataformas": [
@@ -3442,7 +3634,7 @@
    "sinopse": "Dois adolescentes precisam escapar de um monstro violento capaz de se transformar na pessoa que a vítima mais deseja no mundo. Por estarem apaixonados, a criatura assume a aparência de um para atrair o outro, transformando o afeto em uma armadilha de sobrevivência.",
    "poster": "/tA2pUPCx4TyWn6rkH4XtAsvMaYS.jpg",
    "trailer": "WXuK0vlFxII",
-   "popularidade": 14.885,
+   "popularidade": 14.1464,
    "plataformas": [],
    "justwatch": null,
    "duracao": 88,
@@ -3552,8 +3744,8 @@
     "Sci-Fi & Fantasy",
     "Mistério"
    ],
-   "nota": null,
-   "votos": 0,
+   "nota": 10,
+   "votos": 1,
    "sinopse": "Em um futuro sem sol no qual os humanos viram plantas para produzir oxigênio, um jovem desesperado passa pela transformação e descobre uma conspiração.",
    "poster": "/vTTr4YG3qIUq6E5uahU0fWSWch7.jpg",
    "trailer": "2Qg_AfPF2sM",
@@ -3572,30 +3764,6 @@
    "canais": [
     "Netflix"
    ]
-  },
-  {
-   "id": "cinema-1074074",
-   "tmdb": 1074074,
-   "imdb": "tt33451014",
-   "tipo": "cinema",
-   "titulo": "O Ser Querido",
-   "original": "El ser querido",
-   "data": "2026-11-26",
-   "semana": "2026-w48",
-   "segunda": "2026-11-23",
-   "generos": [
-    "Drama"
-   ],
-   "nota": 7,
-   "votos": 128,
-   "sinopse": "Um aclamado diretor espanhol se reúne com sua filha afastada, uma atriz sem sucesso, para filmar. Os dois precisam lidar com seu relacionamento tenso e problemas do passado que nenhum quer abordar diretamente.",
-   "poster": "/np85eyqM67U80U4mIlnB6X4dSnL.jpg",
-   "trailer": "2I5LLG2XBco",
-   "popularidade": 6.2362,
-   "plataformas": [],
-   "justwatch": null,
-   "duracao": 135,
-   "classificacao": null
   },
   {
    "id": "cinema-1554956",
@@ -3620,6 +3788,30 @@
    "plataformas": [],
    "justwatch": null,
    "duracao": 102,
+   "classificacao": null
+  },
+  {
+   "id": "cinema-1074074",
+   "tmdb": 1074074,
+   "imdb": "tt33451014",
+   "tipo": "cinema",
+   "titulo": "O Ser Querido",
+   "original": "El ser querido",
+   "data": "2026-11-26",
+   "semana": "2026-w48",
+   "segunda": "2026-11-23",
+   "generos": [
+    "Drama"
+   ],
+   "nota": 7,
+   "votos": 128,
+   "sinopse": "Um aclamado diretor espanhol se reúne com sua filha afastada, uma atriz sem sucesso, para filmar. Os dois precisam lidar com seu relacionamento tenso e problemas do passado que nenhum quer abordar diretamente.",
+   "poster": "/np85eyqM67U80U4mIlnB6X4dSnL.jpg",
+   "trailer": "2I5LLG2XBco",
+   "popularidade": 5.9663,
+   "plataformas": [],
+   "justwatch": null,
+   "duracao": 135,
    "classificacao": null
   },
   {
@@ -3658,40 +3850,6 @@
    ]
   },
   {
-   "id": "serie-338930",
-   "tmdb": 338930,
-   "imdb": "tt36951910",
-   "tipo": "serie",
-   "titulo": "Legevakta",
-   "original": null,
-   "data": "2026-11-26",
-   "semana": "2026-w48",
-   "segunda": "2026-11-23",
-   "generos": [
-    "Drama"
-   ],
-   "nota": null,
-   "votos": 0,
-   "sinopse": "",
-   "poster": "/oFoT6GRACWN9X6fFvtCys0ViDUl.jpg",
-   "trailer": "fqZR2dreobc",
-   "popularidade": 2.2242,
-   "plataformas": [
-    {
-     "id": null,
-     "nome": "Netflix",
-     "logo": null,
-     "tipo": "assinatura",
-     "inferido": true
-    }
-   ],
-   "justwatch": null,
-   "temporada": 1,
-   "canais": [
-    "Netflix"
-   ]
-  },
-  {
    "id": "cinema-1401334",
    "tmdb": 1401334,
    "imdb": "tt34384168",
@@ -3709,11 +3867,45 @@
    "sinopse": "Isabel é uma jovem bastante religiosa que tem sua vida transformada quando começa a trabalhar com Enrico, um homem livre e sedutor. À medida que tenta negar a atração pelo colega e o despertar de suas vontades mais proibidas, a moça se vê confrontando tudo o que sempre acreditou rejeitar.",
    "poster": "/3jLwNepjuZ3ZQWxxTft645SqG84.jpg",
    "trailer": null,
-   "popularidade": 1.9343,
+   "popularidade": 2.4606,
    "plataformas": [],
    "justwatch": null,
    "duracao": 113,
    "classificacao": "18"
+  },
+  {
+   "id": "serie-338930",
+   "tmdb": 338930,
+   "imdb": "tt36951910",
+   "tipo": "serie",
+   "titulo": "Pronto-Socorro",
+   "original": "Legevakta",
+   "data": "2026-11-26",
+   "semana": "2026-w48",
+   "segunda": "2026-11-23",
+   "generos": [
+    "Drama"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "Banida para um pronto-socorro caótico para salvar sua carreira, a brilhante e impaciente cirurgiã Sofia luta contra o caos até que o calor, a camaradagem e o amor a façam escolher entre a ambição solo e uma família inesperada.",
+   "poster": "/oFoT6GRACWN9X6fFvtCys0ViDUl.jpg",
+   "trailer": "fqZR2dreobc",
+   "popularidade": 2.2242,
+   "plataformas": [
+    {
+     "id": null,
+     "nome": "Netflix",
+     "logo": null,
+     "tipo": "assinatura",
+     "inferido": true
+    }
+   ],
+   "justwatch": null,
+   "temporada": 1,
+   "canais": [
+    "Netflix"
+   ]
   },
   {
    "id": "cinema-1748001",
@@ -3791,7 +3983,7 @@
    "sinopse": "Spin-off do longa de 2003",
    "poster": "/5pQ3ZhJTSxUHAsXAdLZoyjMnc4O.jpg",
    "trailer": null,
-   "popularidade": 0.7054,
+   "popularidade": 0.7513,
    "plataformas": [],
    "justwatch": null,
    "duracao": null,
@@ -3824,6 +4016,31 @@
    "classificacao": null
   },
   {
+   "id": "cinema-1282173",
+   "tmdb": 1282173,
+   "imdb": "tt28734505",
+   "tipo": "cinema",
+   "titulo": "Loucos Amores Líquidos",
+   "original": null,
+   "data": "2026-11-26",
+   "semana": "2026-w48",
+   "segunda": "2026-11-23",
+   "generos": [
+    "Romance",
+    "Comédia"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "Três gerações de mulheres da mesma família viajam do Brasil para a região da Basilicata, na Itália, em busca de suas raízes, identidades e novos amores.",
+   "poster": "/uuP4qOLahpZh95zkurByAcooNS9.jpg",
+   "trailer": null,
+   "popularidade": 0.6369,
+   "plataformas": [],
+   "justwatch": null,
+   "duracao": 95,
+   "classificacao": null
+  },
+  {
    "id": "cinema-1541094",
    "tmdb": 1541094,
    "imdb": "tt37543363",
@@ -3842,7 +4059,7 @@
    "sinopse": "Professora, militante e guardiã de saberes amazônicos, Dona Onete se tornou uma estrela da música aos 72 anos, mas sua história começou muito antes. Neste documentário filmado entre rios e matas do Pará, Onete canta os banzeiros, os botos e os sabores da floresta com humor e sabedoria em uma celebração da Amazônia viva que pulsa em sua voz.",
    "poster": "/eEfgJczx8LaA3xwxB5FgaBWIbhc.jpg",
    "trailer": null,
-   "popularidade": 0.5969,
+   "popularidade": 0.6302,
    "plataformas": [],
    "justwatch": null,
    "duracao": 90,
@@ -3890,35 +4107,10 @@
    "sinopse": "Após receber uma resenha negativa, um grupo de teatro mambembe de vanguarda resolve sequestrar a temida crítica de teatro Bárbara Heleonora. O diretor ensaia cada passo do sequestro como um grande espetáculo. No cativeiro, o grupo faz uma segunda apresentação para Bárbara, explicando cada detalhe da encenação. O preço do resgate é a publicação de uma nova crítica, desta vez positiva.",
    "poster": null,
    "trailer": null,
-   "popularidade": 0.5149,
+   "popularidade": 0.4994,
    "plataformas": [],
    "justwatch": null,
    "duracao": 80,
-   "classificacao": null
-  },
-  {
-   "id": "cinema-1282173",
-   "tmdb": 1282173,
-   "imdb": "tt28734505",
-   "tipo": "cinema",
-   "titulo": "Loucos Amores Líquidos",
-   "original": null,
-   "data": "2026-11-26",
-   "semana": "2026-w48",
-   "segunda": "2026-11-23",
-   "generos": [
-    "Romance",
-    "Comédia"
-   ],
-   "nota": null,
-   "votos": 0,
-   "sinopse": "Três gerações de mulheres da mesma família viajam do Brasil para a região da Basilicata, na Itália, em busca de suas raízes, identidades e novos amores.",
-   "poster": "/uuP4qOLahpZh95zkurByAcooNS9.jpg",
-   "trailer": null,
-   "popularidade": 0.4177,
-   "plataformas": [],
-   "justwatch": null,
-   "duracao": 95,
    "classificacao": null
   },
   {
@@ -4019,30 +4211,6 @@
    "classificacao": "12"
   },
   {
-   "id": "cinema-1800849",
-   "tmdb": 1800849,
-   "imdb": null,
-   "tipo": "cinema",
-   "titulo": "Os irmãos Segreto",
-   "original": null,
-   "data": "2026-11-26",
-   "semana": "2026-w48",
-   "segunda": "2026-11-23",
-   "generos": [
-    "Documentário"
-   ],
-   "nota": null,
-   "votos": 0,
-   "sinopse": "Da pobreza na Itália às noites vibrantes do Rio de Janeiro, Pasquale, Gaetano e Alfonso Segreto encontram no entretenimento um caminho para mudar de vida. Entre pequenos delitos, ambições e conflitos familiares, os três irmãos italianos tornam-se empresários da diversão e protagonistas do nascimento do cinema brasileiro.",
-   "poster": "/sNn2NSx18FffICqFyxalwibqahk.jpg",
-   "trailer": null,
-   "popularidade": 0.1651,
-   "plataformas": [],
-   "justwatch": null,
-   "duracao": 76,
-   "classificacao": "12"
-  },
-  {
    "id": "cinema-1748668",
    "tmdb": 1748668,
    "imdb": null,
@@ -4060,11 +4228,35 @@
    "sinopse": "Jana, Damião e Balotelli vivem o futebol de várzea, cada qual a seu modo, revelando sonhos, conflitos e formas de resistência que moldam o esporte amador em seus territórios.",
    "poster": "/9aSgyoVdgNA7EZw8iX5g9OPNEFK.jpg",
    "trailer": null,
-   "popularidade": 0.125,
+   "popularidade": 0.158,
    "plataformas": [],
    "justwatch": null,
    "duracao": 76,
    "classificacao": null
+  },
+  {
+   "id": "cinema-1800849",
+   "tmdb": 1800849,
+   "imdb": null,
+   "tipo": "cinema",
+   "titulo": "Os irmãos Segreto",
+   "original": null,
+   "data": "2026-11-26",
+   "semana": "2026-w48",
+   "segunda": "2026-11-23",
+   "generos": [
+    "Documentário"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "Da pobreza na Itália às noites vibrantes do Rio de Janeiro, Pasquale, Gaetano e Alfonso Segreto encontram no entretenimento um caminho para mudar de vida. Entre pequenos delitos, ambições e conflitos familiares, os três irmãos italianos tornam-se empresários da diversão e protagonistas do nascimento do cinema brasileiro.",
+   "poster": "/sNn2NSx18FffICqFyxalwibqahk.jpg",
+   "trailer": null,
+   "popularidade": 0.1577,
+   "plataformas": [],
+   "justwatch": null,
+   "duracao": 76,
+   "classificacao": "12"
   },
   {
    "id": "cinema-1842980",
@@ -4109,11 +4301,35 @@
    "sinopse": "O documentário aborda sobre protagonismo da comunidade trans e neurodivergente enquanto acompanha a rotina  e história de vida de Nicholas e Mickael/Kali",
    "poster": null,
    "trailer": null,
-   "popularidade": 0.0194,
+   "popularidade": 0.026,
    "plataformas": [],
    "justwatch": null,
    "duracao": 15,
    "classificacao": "14"
+  },
+  {
+   "id": "cinema-1847749",
+   "tmdb": 1847749,
+   "imdb": null,
+   "tipo": "cinema",
+   "titulo": "Dora Morelenbaum - Ao Vivo no Rio",
+   "original": null,
+   "data": "2026-11-26",
+   "semana": "2026-w48",
+   "segunda": "2026-11-23",
+   "generos": [
+    "Música"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "Registro de uma apresentação intimista de Dora Morelenbaum e Guilherme Lirio, gravada no Estúdio Guanabara, no Rio de Janeiro. O show reúne composições autorais e releituras, explorando a MPB contemporânea em uma atmosfera de experimentação, delicadeza e liberdade musical.",
+   "poster": "/ud1NzbY08zl4xc7jB5VdovhoGPB.jpg",
+   "trailer": null,
+   "popularidade": 0,
+   "plataformas": [],
+   "justwatch": null,
+   "duracao": 40,
+   "classificacao": "L"
   },
   {
    "id": "serie-387",
@@ -4245,7 +4461,7 @@
    "sinopse": "",
    "poster": "/nb2igvS4qWtWHqsiJeEBeHizIfc.jpg",
    "trailer": null,
-   "popularidade": 0.8928,
+   "popularidade": 1.6186,
    "plataformas": [
     {
      "id": null,
@@ -4260,30 +4476,6 @@
    "canais": [
     "Prime Video"
    ]
-  },
-  {
-   "id": "cinema-1694282",
-   "tmdb": 1694282,
-   "imdb": null,
-   "tipo": "cinema",
-   "titulo": "Breve Eternidade",
-   "original": null,
-   "data": "2026-11-27",
-   "semana": "2026-w48",
-   "segunda": "2026-11-23",
-   "generos": [
-    "Drama"
-   ],
-   "nota": null,
-   "votos": 0,
-   "sinopse": "Bárbara e Milena vivem a intensidade de uma conexão magnética e silenciosa. Entre momentos de contemplação e uma tensão latente que beira o obsessivo, as duas jovens exploram o despertar de novos sentimentos enquanto enfrentam a iminência de uma partida que pode mudar tudo.",
-   "poster": "/wjAmRoyjmWsvIsm3GlLEzmua41f.jpg",
-   "trailer": null,
-   "popularidade": 0.0619,
-   "plataformas": [],
-   "justwatch": null,
-   "duracao": 19,
-   "classificacao": "12"
   },
   {
    "id": "cinema-1841632",
@@ -4303,10 +4495,34 @@
    "sinopse": "",
    "poster": "/A0juoVh8e5awil0Ot1eotWLVDRc.jpg",
    "trailer": null,
-   "popularidade": 0.0388,
+   "popularidade": 0.1491,
    "plataformas": [],
    "justwatch": null,
    "duracao": null,
+   "classificacao": "12"
+  },
+  {
+   "id": "cinema-1694282",
+   "tmdb": 1694282,
+   "imdb": null,
+   "tipo": "cinema",
+   "titulo": "Breve Eternidade",
+   "original": null,
+   "data": "2026-11-27",
+   "semana": "2026-w48",
+   "segunda": "2026-11-23",
+   "generos": [
+    "Drama"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "Bárbara e Milena vivem a intensidade de uma conexão magnética e silenciosa. Entre momentos de contemplação e uma tensão latente que beira o obsessivo, as duas jovens exploram o despertar de novos sentimentos enquanto enfrentam a iminência de uma partida que pode mudar tudo.",
+   "poster": "/wjAmRoyjmWsvIsm3GlLEzmua41f.jpg",
+   "trailer": null,
+   "popularidade": 0.0489,
+   "plataformas": [],
+   "justwatch": null,
+   "duracao": 19,
    "classificacao": "12"
   },
   {
@@ -4399,7 +4615,7 @@
    "sinopse": "Uma tragédia ocorre durante as gravações de um filme. Em uma reviravolta inesperada, o renomado Detetive Bones resolve investigar o caso, pois ele fareja que algo não está certo.",
    "poster": "/UqfGJujS7ip4iBooNXoQpYJRaE.jpg",
    "trailer": "ZkCJazYw-3M",
-   "popularidade": 0.8491,
+   "popularidade": 0.7239,
    "plataformas": [],
    "justwatch": null,
    "duracao": 22,
@@ -4424,7 +4640,7 @@
    "sinopse": "Um porto-indústria privado, com investimentos americanos e chineses voltados à exploração de petróleo e minério, instala-se no interior do Brasil, entre as divisas do Espírito Santo e do Rio de Janeiro. Em meio a paisagens industriais e rurais, HOPE - 希望 se constrói através da ficção e do documentário, revelando tensões entre promessas e transformações, enquanto o território é atravessado por fluxos globais de extração e circulação.",
    "poster": "/dl5rTKB1QtqwteIfLNl540iW3jj.jpg",
    "trailer": null,
-   "popularidade": 0.2965,
+   "popularidade": 0.2828,
    "plataformas": [],
    "justwatch": null,
    "duracao": 20,
@@ -4475,7 +4691,7 @@
    "sinopse": "De Incheon para o mundo e de volta aonde tudo começou. NMIXX encerra sua primeira turnê mundial com um final inesquecível, transmitido nos cinemas do mundo todo para o NSWER experienciar junto.",
    "poster": "/pjkFMUo2Cm4mQkveSeInd7m1Iwq.jpg",
    "trailer": null,
-   "popularidade": 0.7157,
+   "popularidade": 0.65,
    "plataformas": [],
    "justwatch": null,
    "duracao": 210,
@@ -4615,7 +4831,7 @@
    "sinopse": "Em Minas Gerais, os dois maiores times caíram por circunstâncias diferentes, mas o sentimento é o mesmo entre os torcedores. Nesse documentário, dois torcedores, um de cada time, compartilham suas experiências de como é passar por uma queda.",
    "poster": "/ui7FPAoIL46TGXH1nXDDAyRUF1W.jpg",
    "trailer": null,
-   "popularidade": 0.0552,
+   "popularidade": 0.0347,
    "plataformas": [],
    "justwatch": null,
    "duracao": 20,
@@ -4640,7 +4856,7 @@
    "sinopse": "Um investigador que se tornou vigilante sanitário no sul da Flórida é arrastado para um mundo de ganância e corrupção após um turista encontrar um braço decepado durante uma pescaria. E sim, há um macaco.",
    "poster": "/gZBkZMV4covtVRV5k06gZGrmIfW.jpg",
    "trailer": "cXdNTiQBdlI",
-   "popularidade": 17.7917,
+   "popularidade": 18.4102,
    "plataformas": [
     {
      "id": 350,
@@ -4745,7 +4961,7 @@
    "sinopse": "",
    "poster": "/sv6XxYblK99shoVkPI3uMa3bA4.jpg",
    "trailer": null,
-   "popularidade": 1.2257,
+   "popularidade": 1.0886,
    "plataformas": [
     {
      "id": null,
@@ -4814,7 +5030,7 @@
    "sinopse": "As primeiras impressões dão lugar a algo mais profundo entre Elizabeth Bennet e Sr. Darcy nesta adaptação fiel e atual do romance clássico.",
    "poster": "/nqm2DnxpdOevMWExZO3kiDSRMJq.jpg",
    "trailer": "KuRYRhP6kag",
-   "popularidade": 7.1365,
+   "popularidade": 7.2021,
    "plataformas": [
     {
      "id": null,
@@ -4848,7 +5064,7 @@
    "sinopse": "",
    "poster": "/vEwWCE6kuThzWLO4yQ8tduFGzMY.jpg",
    "trailer": null,
-   "popularidade": 1.2619,
+   "popularidade": 1.4391,
    "plataformas": [
     {
      "id": null,
@@ -4920,7 +5136,7 @@
    "sinopse": "En un universo marcado por rivalidades, dos adolescentes se encuentran en lados opuestos. Sin embargo, a medida que sus historias se desarrollan, descubren que tienen más en común de lo que jamás podrían haber imaginado. Esta cautivadora serie explora los complejos temas de amistad, rivalidad y autoconocimiento, revelando cómo lazos inesperados pueden surgir en medio de los conflictos. \"Mejores Enemigas\" es una producción de Pegsa para Disney, que se está grabando actualmente en Buenos Aires.",
    "poster": "/pp7YY7096FAA7Kvmx9nu2RZi72F.jpg",
    "trailer": null,
-   "popularidade": 0.636,
+   "popularidade": 0.8219,
    "plataformas": [
     {
      "id": null,
@@ -4934,6 +5150,41 @@
    "temporada": 1,
    "canais": [
     "Disney+"
+   ]
+  },
+  {
+   "id": "serie-343798",
+   "tmdb": 343798,
+   "imdb": "tt50986405",
+   "tipo": "serie",
+   "titulo": "World War II: Behind Enemy Lines",
+   "original": null,
+   "data": "2026-12-02",
+   "semana": "2026-w49",
+   "segunda": "2026-11-30",
+   "generos": [
+    "Documentário",
+    "War & Politics"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "",
+   "poster": null,
+   "trailer": "7eqt8zY3D0Y",
+   "popularidade": 0,
+   "plataformas": [
+    {
+     "id": null,
+     "nome": "Netflix",
+     "logo": null,
+     "tipo": "assinatura",
+     "inferido": true
+    }
+   ],
+   "justwatch": null,
+   "temporada": 1,
+   "canais": [
+    "Netflix"
    ]
   },
   {
@@ -4952,7 +5203,7 @@
     "Aventura"
    ],
    "nota": 8.5,
-   "votos": 7117,
+   "votos": 7124,
    "sinopse": "É um novo dia para Peter Parker. Combatendo o crime em tempo integral como Homem-Aranha em um mundo que não se lembra mais dele e lidando com a pressão de ver seus antigos amigos seguirem em frente sem sua presença, Peter passa por uma mudança que talvez nem ele tenha o poder de controlar. Mas essa transformação também pode ser a única coisa capaz de deter uma surpreendente nova ameaça à cidade e às pessoas que ele ama: um poderoso vilão que ninguém sequer consegue enxergar.",
    "poster": "/x0nvYzQpyJc5pdT9lMnkMuYAg0O.jpg",
    "trailer": "QrxivJMVCyU",
@@ -4977,7 +5228,7 @@
     "Aventura"
    ],
    "nota": 8.1,
-   "votos": 9050,
+   "votos": 9053,
    "sinopse": "A jornada de Paul Atreides continua. Ele está determinado a buscar vingança contra aqueles que destruíram sua família e seu lar. Com a ajuda de Chani e dos Fremen, ele embarca em uma jornada espiritual, mística e marcial. Se torna Muad'Dib, o líder messiânico dos Fremen, enquanto luta para evitar um futuro sombrio que ele testemunhou em visões. No entanto, suas ações inadvertidamente desencadeiam uma Guerra Santa em seu nome, que se espalha pelo universo conhecido. Enquanto enfrenta escolhas difíceis entre o amor por Chani e o destino de seu povo, Paul precisa usar suas habilidades e conhecimentos para evitar o terrível futuro que previu.",
    "poster": "/VMy4UGsI2u3f4fALGeCqCdsQBb.jpg",
    "trailer": "v3TrqXtYPVI",
@@ -5002,11 +5253,11 @@
     "Aventura"
    ],
    "nota": 7.8,
-   "votos": 16036,
+   "votos": 16043,
    "sinopse": "Em um futuro distante, planetas são comandados por casas nobres que fazem parte de um império feudal intergalático. Paul Atreides é um jovem cuja família toma o controle do planeta deserto Arrakis, também conhecido como Duna. A única fonte da especiaria Melange, a substância mais importante do cosmos, Arrakis se mostra ser um planeta nem um pouco fácil de governar.",
    "poster": "/uzERcfV2rSHNhW5eViQiO9hNiA7.jpg",
    "trailer": "w0HgHet0sxg",
-   "popularidade": 46.4103,
+   "popularidade": 45.4938,
    "plataformas": [],
    "justwatch": null,
    "duracao": 155,
@@ -5038,31 +5289,6 @@
    "classificacao": "16"
   },
   {
-   "id": "cinema-1379486",
-   "tmdb": 1379486,
-   "imdb": "tt34374553",
-   "tipo": "cinema",
-   "titulo": "Psicopata Vitoriana",
-   "original": "Victorian Psycho",
-   "data": "2026-12-03",
-   "semana": "2026-w49",
-   "segunda": "2026-11-30",
-   "generos": [
-    "Terror",
-    "Thriller"
-   ],
-   "nota": 6.3,
-   "votos": 6,
-   "sinopse": "Winifred Notty vive nos limites da loucura, escondendo desejos violentos por trás de um sorriso impecável. Na Inglaterra de 1858, ela é enviada à sombria mansão Ensor House para disciplinar as crianças do lar. Quando os membros da casa começam a desaparecer um a um, fica claro que o verdadeiro terror sempre esteve dentro de casa.",
-   "poster": "/PknxspZqEf739GAC4L50jF9aNv.jpg",
-   "trailer": "sDiFol_2j2I",
-   "popularidade": 16.35,
-   "plataformas": [],
-   "justwatch": null,
-   "duracao": 102,
-   "classificacao": "18"
-  },
-  {
    "id": "cinema-1078446",
    "tmdb": 1078446,
    "imdb": "tt32432428",
@@ -5081,11 +5307,36 @@
    "sinopse": "O Papai Noel se encontra preso em um shopping, em Nova Jersey, e isolado do Polo Norte. Ele precisa fazer justiça à sua maneira contra um implacável Senhor do Crime e seus capangas, que invadem o estabelecimento.",
    "poster": "/e2olETeXHDasOr30feVU7JCxFJN.jpg",
    "trailer": "FmM2giDwLAE",
-   "popularidade": 13.345,
+   "popularidade": 14.334,
    "plataformas": [],
    "justwatch": null,
    "duracao": 110,
    "classificacao": "16"
+  },
+  {
+   "id": "cinema-1379486",
+   "tmdb": 1379486,
+   "imdb": "tt34374553",
+   "tipo": "cinema",
+   "titulo": "Psicopata Vitoriana",
+   "original": "Victorian Psycho",
+   "data": "2026-12-03",
+   "semana": "2026-w49",
+   "segunda": "2026-11-30",
+   "generos": [
+    "Terror",
+    "Thriller"
+   ],
+   "nota": 6.3,
+   "votos": 6,
+   "sinopse": "Winifred Notty vive nos limites da loucura, escondendo desejos violentos por trás de um sorriso impecável. Na Inglaterra de 1858, ela é enviada à sombria mansão Ensor House para disciplinar as crianças do lar. Quando os membros da casa começam a desaparecer um a um, fica claro que o verdadeiro terror sempre esteve dentro de casa.",
+   "poster": "/PknxspZqEf739GAC4L50jF9aNv.jpg",
+   "trailer": "sDiFol_2j2I",
+   "popularidade": 11.6227,
+   "plataformas": [],
+   "justwatch": null,
+   "duracao": 102,
+   "classificacao": "18"
   },
   {
    "id": "serie-101352",
@@ -5140,7 +5391,7 @@
    "sinopse": "Alex Serian é um violoncelista talentoso que retorna a Los Angeles após passar duas décadas viajando pelo mundo. Ao revisitar o passado e redescobrir sua conexão com a arte que o guiou a vida toda, ele embarca em uma jornada de autoconhecimento que promete mudar sua forma de enxergar a si mesmo e o mundo.",
    "poster": "/uJga2NnCFaRldcFluPlVu5SsgxK.jpg",
    "trailer": "I6tMFYT9s7E",
-   "popularidade": 7.8897,
+   "popularidade": 8.9378,
    "plataformas": [],
    "justwatch": null,
    "duracao": 127,
@@ -5166,7 +5417,7 @@
    "sinopse": "Ambientado durante o violento regime católico que tomava conta da França nos idos de 1631, parte da suposta possessão de uma madre-superiora cujas fantasias sexuais com o mais proeminente padre do vilarejo de Loudon resulta num dos mais sangrentos episódios daquela era.",
    "poster": "/8pL9MIyfqhQSwAATOz7U7tBF1Z1.jpg",
    "trailer": "z_LVe_dUWKg",
-   "popularidade": 7.2897,
+   "popularidade": 8.0275,
    "plataformas": [],
    "justwatch": null,
    "duracao": 111,
@@ -5191,7 +5442,7 @@
    "sinopse": "Um rei consumido pelo medo recebe uma profecia sobre o nascimento de uma criança que ameaça seu reinado. Determinado a impedir o cumprimento dessa promessa divina, ele ordena a morte do menino. Mas uma mãe, guiada pela fé, protege seu filho e aceita o plano de Deus. Em meio à perseguição, uma batalha espiritual se desenrola pela salvação da humanidade. Esta é a origem de uma fé que mudará o mundo para sempre.",
    "poster": "/t7HF9jEVTOIG3DdCtPwWcQp7Vyd.jpg",
    "trailer": "lRF1Etsd4wo",
-   "popularidade": 5.1374,
+   "popularidade": 6.2079,
    "plataformas": [],
    "justwatch": null,
    "duracao": 115,
@@ -5365,7 +5616,7 @@
    "sinopse": "No Reino de Castília, o jovem entregador Arthur vê seu sonho de ser barbeiro interrompido quando se torna o único capaz de resgatar os sete herdeiros reais sequestrados. Transformado em pai do dia para a noite, ele precisa proteger os bebês enquanto amadurece, descobre suas origens e desperta heróis esquecidos para salvar o reino de uma força sombria.",
    "poster": "/c1W7gyvpfu92ZkB7oPkRabgu9Uh.jpg",
    "trailer": "gJqzGIZf7Qg",
-   "popularidade": 1.2765,
+   "popularidade": 1.4663,
    "plataformas": [],
    "justwatch": null,
    "duracao": 84,
@@ -5398,40 +5649,6 @@
    "classificacao": null
   },
   {
-   "id": "serie-342322",
-   "tmdb": 342322,
-   "imdb": null,
-   "tipo": "serie",
-   "titulo": "Literally! With Rob Lowe",
-   "original": null,
-   "data": "2026-12-03",
-   "semana": "2026-w49",
-   "segunda": "2026-11-30",
-   "generos": [
-    "Talk"
-   ],
-   "nota": null,
-   "votos": 0,
-   "sinopse": "",
-   "poster": null,
-   "trailer": null,
-   "popularidade": 1.1598,
-   "plataformas": [
-    {
-     "id": null,
-     "nome": "Netflix",
-     "logo": null,
-     "tipo": "assinatura",
-     "inferido": true
-    }
-   ],
-   "justwatch": null,
-   "temporada": 1,
-   "canais": [
-    "Netflix"
-   ]
-  },
-  {
    "id": "filme-1801852",
    "tmdb": 1801852,
    "imdb": "tt50901529",
@@ -5456,6 +5673,40 @@
    "justwatch": null,
    "duracao": 35,
    "classificacao": "L"
+  },
+  {
+   "id": "serie-342322",
+   "tmdb": 342322,
+   "imdb": null,
+   "tipo": "serie",
+   "titulo": "Literally! With Rob Lowe",
+   "original": null,
+   "data": "2026-12-03",
+   "semana": "2026-w49",
+   "segunda": "2026-11-30",
+   "generos": [
+    "Talk"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "",
+   "poster": null,
+   "trailer": null,
+   "popularidade": 0.9498,
+   "plataformas": [
+    {
+     "id": null,
+     "nome": "Netflix",
+     "logo": null,
+     "tipo": "assinatura",
+     "inferido": true
+    }
+   ],
+   "justwatch": null,
+   "temporada": 1,
+   "canais": [
+    "Netflix"
+   ]
   },
   {
    "id": "cinema-1587351",
@@ -5501,7 +5752,7 @@
    "sinopse": "Em busca das paisagens ideais para um longa-metragem, Andrei Tarkovsky percorre a Itália ao lado do roteirista Tonino Guerra. Entre vilarejos históricos, construções antigas e cenários naturais, os dois conversam sobre cinema, arte e o papel do artista, revelando as ideias e inquietações que acompanhariam a realização de Nostalgia, penúltimo filme de Tarkovsky.",
    "poster": "/xmp2XTTBVT4bkiLs67QrW74hmxX.jpg",
    "trailer": null,
-   "popularidade": 0.8191,
+   "popularidade": 0.7787,
    "plataformas": [],
    "justwatch": null,
    "duracao": 62,
@@ -5582,30 +5833,6 @@
    "classificacao": null
   },
   {
-   "id": "cinema-1530944",
-   "tmdb": 1530944,
-   "imdb": null,
-   "tipo": "cinema",
-   "titulo": "Uma em Mil",
-   "original": null,
-   "data": "2026-12-03",
-   "semana": "2026-w49",
-   "segunda": "2026-11-30",
-   "generos": [
-    "Documentário"
-   ],
-   "nota": null,
-   "votos": 0,
-   "sinopse": "É bem normal dizerem que \"uma em mil\" são as chances de uma pessoa nascer com Down. Este filme é dirigido por dois irmãos, e o mais jovem tem a síndrome. Juntos, eles tentam entender por que um deles nunca trocou uma lâmpada na vida e acabam descobrindo o que a invenção do rádio tem a ver com a invenção da escada. Isso mesmo, este não é um filme normal.",
-   "poster": "/u3BGXx2wB3B4EjMvkrDaQ1Zm6Fq.jpg",
-   "trailer": null,
-   "popularidade": 0.1714,
-   "plataformas": [],
-   "justwatch": null,
-   "duracao": 70,
-   "classificacao": "L"
-  },
-  {
    "id": "filme-1780359",
    "tmdb": 1780359,
    "imdb": "tt43732472",
@@ -5624,11 +5851,35 @@
    "sinopse": "o filme revela os bastidores do período em que o cantor ficou longe dos holofotes, mostrando registros inéditos de sua pausa na carreira, o processo criativo de seu novo álbum, o luto pela perda do pai e a emoção do reencontro com os fãs.",
    "poster": "/zlFKybFTTuQJVHClDfvX4BLbypi.jpg",
    "trailer": null,
-   "popularidade": 0.1692,
+   "popularidade": 0.2069,
    "plataformas": [],
    "justwatch": null,
    "duracao": null,
    "classificacao": null
+  },
+  {
+   "id": "cinema-1530944",
+   "tmdb": 1530944,
+   "imdb": null,
+   "tipo": "cinema",
+   "titulo": "Uma em Mil",
+   "original": null,
+   "data": "2026-12-03",
+   "semana": "2026-w49",
+   "segunda": "2026-11-30",
+   "generos": [
+    "Documentário"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "É bem normal dizerem que \"uma em mil\" são as chances de uma pessoa nascer com Down. Este filme é dirigido por dois irmãos, e o mais jovem tem a síndrome. Juntos, eles tentam entender por que um deles nunca trocou uma lâmpada na vida e acabam descobrindo o que a invenção do rádio tem a ver com a invenção da escada. Isso mesmo, este não é um filme normal.",
+   "poster": "/u3BGXx2wB3B4EjMvkrDaQ1Zm6Fq.jpg",
+   "trailer": null,
+   "popularidade": 0.2063,
+   "plataformas": [],
+   "justwatch": null,
+   "duracao": 70,
+   "classificacao": "L"
   },
   {
    "id": "filme-1058424",
@@ -5646,11 +5897,11 @@
     "Ação"
    ],
    "nota": 6.9,
-   "votos": 784,
+   "votos": 789,
    "sinopse": "A polícia investiga a presença de uma criatura misteriosa que vem causando tumulto na remota vila de Hope Harbor. Ao seguir os rastros do animal, um grupo de caçadores acaba se tornando sua presa involuntária, dando início a um conflito que se transforma em uma tragédia de proporções cósmicas.",
    "poster": "/yfWe8Vaac8b8f9dagmzBWOroUcg.jpg",
    "trailer": "OFaJzL83y0Q",
-   "popularidade": 201.5788,
+   "popularidade": 195.9714,
    "plataformas": [],
    "justwatch": null,
    "duracao": 156,
@@ -5782,11 +6033,11 @@
     "Drama"
    ],
    "nota": 7.2,
-   "votos": 347,
+   "votos": 348,
    "sinopse": "Lucy acorda exatamente às 3h33 todas as noites. Nada faz sentido na vida dela há muito tempo, mas as respostas estão lá fora, em algum lugar, no fim de uma série de assassinatos brutais.",
    "poster": "/qFHKmswojrg4PmZOAgJ1oqVnrWS.jpg",
    "trailer": "H5CCF39hIVw",
-   "popularidade": 12.3729,
+   "popularidade": 13.6448,
    "plataformas": [
     {
      "id": 119,
@@ -5876,6 +6127,42 @@
    ]
   },
   {
+   "id": "serie-336787",
+   "tmdb": 336787,
+   "imdb": "tt47596904",
+   "tipo": "serie",
+   "titulo": "神のクイズ",
+   "original": null,
+   "data": "2026-12-04",
+   "semana": "2026-w49",
+   "segunda": "2026-11-30",
+   "generos": [
+    "Drama",
+    "Crime",
+    "Mistério"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "",
+   "poster": "/339hVyqOUnoN5xqbMNvj0gURYoM.jpg",
+   "trailer": "QTPhT68_pC0",
+   "popularidade": 2.2111,
+   "plataformas": [
+    {
+     "id": null,
+     "nome": "Amazon Prime Video",
+     "logo": null,
+     "tipo": "assinatura",
+     "inferido": true
+    }
+   ],
+   "justwatch": null,
+   "temporada": 1,
+   "canais": [
+    "Prime Video"
+   ]
+  },
+  {
    "id": "serie-281722",
    "tmdb": 281722,
    "imdb": "tt35933285",
@@ -5907,42 +6194,6 @@
    "temporada": 1,
    "canais": [
     "Netflix"
-   ]
-  },
-  {
-   "id": "serie-336787",
-   "tmdb": 336787,
-   "imdb": "tt47596904",
-   "tipo": "serie",
-   "titulo": "神のクイズ",
-   "original": null,
-   "data": "2026-12-04",
-   "semana": "2026-w49",
-   "segunda": "2026-11-30",
-   "generos": [
-    "Drama",
-    "Crime",
-    "Mistério"
-   ],
-   "nota": null,
-   "votos": 0,
-   "sinopse": "",
-   "poster": "/339hVyqOUnoN5xqbMNvj0gURYoM.jpg",
-   "trailer": "QTPhT68_pC0",
-   "popularidade": 1.6466,
-   "plataformas": [
-    {
-     "id": null,
-     "nome": "Amazon Prime Video",
-     "logo": null,
-     "tipo": "assinatura",
-     "inferido": true
-    }
-   ],
-   "justwatch": null,
-   "temporada": 1,
-   "canais": [
-    "Prime Video"
    ]
   },
   {
@@ -5997,7 +6248,7 @@
    "sinopse": "",
    "poster": "/dP2wGaEjAD2VgraSGFzVo8HhtzF.jpg",
    "trailer": null,
-   "popularidade": 0.6487,
+   "popularidade": 0.7725,
    "plataformas": [
     {
      "id": null,
@@ -6033,7 +6284,7 @@
    "sinopse": "Ele era só um cineasta lobisomem independente que recebeu um convite para exibir um filme seu no México, e agora ele mesmo vai te contar como foi essa grande aventura.",
    "poster": "/kDqUFMNPRtiu9JruwBMF4LcNl0S.jpg",
    "trailer": null,
-   "popularidade": 0.2991,
+   "popularidade": 0.2519,
    "plataformas": [],
    "justwatch": null,
    "duracao": 9,
@@ -6084,7 +6335,7 @@
    "sinopse": "",
    "poster": "/q7xP1R89fH00YcjhCSAXvJtdTHq.jpg",
    "trailer": "aubeTxAJSok",
-   "popularidade": 0.4759,
+   "popularidade": 0.7068,
    "plataformas": [
     {
      "id": null,
@@ -6118,7 +6369,7 @@
    "sinopse": "À medida que se aproxima do desconhecido, Carter descobre que a linha entre caçador e presa é mais tênue do que imaginava. Encurralado por um horror que se esconde nas sombras, encontra na fé sua última esperança de escapar de um destino inevitável.",
    "poster": "/A5es1DsqnnoaFzhAlguK1fw2cLs.jpg",
    "trailer": null,
-   "popularidade": 0.0235,
+   "popularidade": 0.0093,
    "plataformas": [],
    "justwatch": null,
    "duracao": 3,
@@ -6144,7 +6395,7 @@
    "sinopse": "O veterano de guerra Cormoran Strike retorna da guerra no Afeganistão e abre uma firma de investigação particular operando em Londres.",
    "poster": "/9IF5DMeUcEaPXclFAfyMGP8CRg5.jpg",
    "trailer": "tM8TECB9GAk",
-   "popularidade": 18.9145,
+   "popularidade": 19.3828,
    "plataformas": [
     {
      "id": 1899,
@@ -6181,7 +6432,7 @@
     "Crime"
    ],
    "nota": 8.4,
-   "votos": 2348,
+   "votos": 2349,
    "sinopse": "Três desconhecidos que compartilham uma obsessão por crimes e de repente, se veem envolvidos em um quando investigam a misteriosa morte de um vizinho no prédio em que moram em Nova York.",
    "poster": "/cpwpCgSadr6BFSyY7PGs74PbiV9.jpg",
    "trailer": null,
@@ -6298,7 +6549,7 @@
     "Ficção científica"
    ],
    "nota": 7.4,
-   "votos": 474,
+   "votos": 477,
    "sinopse": "A ascensão meteórica de Matt Hagen de garoto das ruas de Gotham a astro de Hollywood é tragicamente interrompida quando as ações de um chefão do crime local o deixam terrivelmente desfigurado. Abandonado por sua equipe e sem nada, Matt busca um tratamento de ponta que, milagrosamente, o devolve à sua antiga forma... mas que também afeta, de maneira inesperada, sua percepção da realidade, lançando-o em uma espiral destrutiva de obsessão e vingança.",
    "poster": "/dqvHs2YXks989ScXvsngbqAeBHX.jpg",
    "trailer": "f7jlCqdtwdM",
@@ -6391,7 +6642,7 @@
    "nota": 8.3,
    "votos": 691,
    "sinopse": "Quando Ruby testemunha, sem querer, um segredo explosivo na escola particular de Maxton Hall, o arrogante e milionário herdeiro James Beaufort tem que lidar, para seu desgosto, com a perspicaz estudante bolsista, e está determinado a silenciar Ruby. A apaixonada troca de insultos entre eles surpreendentemente acende uma faísca...",
-   "poster": "/kI6BaSBXgHQ3naB4vwvB8eK6JtK.jpg",
+   "poster": "/vTZ7BZfySG7yL05q6mLKnrkz0YM.jpg",
    "trailer": null,
    "popularidade": 17.1047,
    "plataformas": [
@@ -6480,6 +6731,40 @@
    ]
   },
   {
+   "id": "serie-338215",
+   "tmdb": 338215,
+   "imdb": "tt38681839",
+   "tipo": "serie",
+   "titulo": "Bunt",
+   "original": null,
+   "data": "2026-12-09",
+   "semana": "2026-w50",
+   "segunda": "2026-12-07",
+   "generos": [
+    "Drama"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "",
+   "poster": "/dz8ilt25h9BOZ3tHw6JMNzd7Srt.jpg",
+   "trailer": null,
+   "popularidade": 1.3694,
+   "plataformas": [
+    {
+     "id": null,
+     "nome": "Netflix",
+     "logo": null,
+     "tipo": "assinatura",
+     "inferido": true
+    }
+   ],
+   "justwatch": null,
+   "temporada": 1,
+   "canais": [
+    "Netflix"
+   ]
+  },
+  {
    "id": "serie-336108",
    "tmdb": 336108,
    "imdb": null,
@@ -6514,40 +6799,6 @@
    ]
   },
   {
-   "id": "serie-338215",
-   "tmdb": 338215,
-   "imdb": "tt38681839",
-   "tipo": "serie",
-   "titulo": "Bunt",
-   "original": null,
-   "data": "2026-12-09",
-   "semana": "2026-w50",
-   "segunda": "2026-12-07",
-   "generos": [
-    "Drama"
-   ],
-   "nota": null,
-   "votos": 0,
-   "sinopse": "",
-   "poster": "/dz8ilt25h9BOZ3tHw6JMNzd7Srt.jpg",
-   "trailer": null,
-   "popularidade": 1.3572,
-   "plataformas": [
-    {
-     "id": null,
-     "nome": "Netflix",
-     "logo": null,
-     "tipo": "assinatura",
-     "inferido": true
-    }
-   ],
-   "justwatch": null,
-   "temporada": 1,
-   "canais": [
-    "Netflix"
-   ]
-  },
-  {
    "id": "serie-336605",
    "tmdb": 336605,
    "imdb": "tt43610460",
@@ -6566,7 +6817,7 @@
    "sinopse": "",
    "poster": "/e7gtd9EmEl6yN8gadikLiLurOyv.jpg",
    "trailer": null,
-   "popularidade": 0.6758,
+   "popularidade": 0.8417,
    "plataformas": [
     {
      "id": null,
@@ -6650,7 +6901,7 @@
     "Família"
    ],
    "nota": 7.8,
-   "votos": 19637,
+   "votos": 19639,
    "sinopse": "Em um pântano distante vive Shrek, um ogro solitário que vê, sem mais nem menos, sua vida ser invadida por uma série de personagens de contos de fada. Todos eles foram expulsos de suas casas pelo maligno Lorde Farquaad. Determinado a recuperar a tranquilidade, Shrek faz um acordo com Farquaad: todos os personagens poderão retornar aos seus lares se ele e seu amigo Burro resgatarem uma princesa que foi aprisionada por um dragão.",
    "poster": "/wxeqfC221YMptRRdzxlijAh7q8l.jpg",
    "trailer": "ppDwfm6e498",
@@ -6675,7 +6926,7 @@
     "Drama"
    ],
    "nota": 7.9,
-   "votos": 13087,
+   "votos": 13088,
    "sinopse": "Na década de 40, o operário Noah Calhoun e a rica Allie estão desesperadamente apaixonados, mas os pais da jovem não aprovam o namoro. Quando Noah vai para a Segunda Guerra Mundial, parece ser o fim do romance. Enquanto isso, Allie se envolve com outro homem. Mas quando Noah retorna para a pequena cidade anos mais tarde, próximo ao casamento de Allie, logo se torna claro que a paixão ainda não acabou.",
    "poster": "/hO6k34ZNDwWzgcnzFbqYf2Rjg5W.jpg",
    "trailer": "FC6biTjEyZw",
@@ -6699,11 +6950,11 @@
     "Drama"
    ],
    "nota": 7.5,
-   "votos": 5435,
+   "votos": 5437,
    "sinopse": "As últimas 12 horas da vida de Jesus de Nazaré. No meio da noite, Jesus é traído por Judas e preso por soldados no Monte das Oliveiras, sob o comando de religiosos hebreus, liderados por Caifás. Após ser severamente espancado pelos seus captores, Jesus é entregue para o governador romano na Judéia, Poncio Pilatos, que não entende o que aquele homem possa ter feito de tão horrível para pedirem a pena máxima.",
    "poster": "/ptGYQgdYCR8GVMVjpJ8QNJSxlkf.jpg",
    "trailer": "ezOafmA21NY",
-   "popularidade": 14.0492,
+   "popularidade": 14.3804,
    "plataformas": [],
    "justwatch": null,
    "duracao": 127,
@@ -6724,7 +6975,7 @@
     "Romance"
    ],
    "nota": 7.1,
-   "votos": 5867,
+   "votos": 5869,
    "sinopse": "Amanda Woods e Iris Simpkins estão desesperadas por mudanças de ares depois de uma série de problemas com os homens. Numa troca de residências temporária, Amanda viaja para Londres, enquanto Iris parte para Los Angeles, cidades que não conhecem, mas onde rapidamente se integram.",
    "poster": "/4TvrnjDdIACRp9Jy4KWO3VxrUrg.jpg",
    "trailer": "NLVLsyE4uUA",
@@ -6778,7 +7029,7 @@
    "sinopse": "",
    "poster": "/yVnoliFxMyTIUjgIiOY1QJMEjVZ.jpg",
    "trailer": null,
-   "popularidade": 5.3044,
+   "popularidade": 5.3505,
    "plataformas": [
     {
      "id": null,
@@ -6841,7 +7092,7 @@
    "sinopse": "Luffy e sua tripulação têm o Going Merry roubado e acabam envolvidos em uma disputa pelo Relógio de Diamante, cobiçado por diferentes grupos de piratas. Quando Nami é sequestrada e forçada a se casar com o temido Rei Urso, os Chapéus de Palha se unem aos Irmãos Ladrões para enfrentá-los, resgatar Nami e libertar a Ilha do Relógio da tirania.",
    "poster": "/fDbaWhJd1H3WTlScidizriOm2hk.jpg",
    "trailer": null,
-   "popularidade": 3.8293,
+   "popularidade": 4.0033,
    "plataformas": [],
    "justwatch": null,
    "duracao": 55,
@@ -6891,7 +7142,7 @@
    "sinopse": "Após 30 anos de sucesso extraordinário e exposição constante, Justin Timberlake reflete sobre sua vida atual e encara as polêmicas, as manchetes e o preço de nunca parar.",
    "poster": "/AiiQODMn4rRUOCrIYEABnKyqbnD.jpg",
    "trailer": "sDMNuKvCXOc",
-   "popularidade": 2.1195,
+   "popularidade": 2.0271,
    "plataformas": [
     {
      "id": null,
@@ -7051,7 +7302,7 @@
    "sinopse": "Cássia Rejane Eller. Cássia Eller. Cássia. Uma poderosa força inquieta no palco, a timidez em pessoa fora dele. Um dos grandes nomes da música brasileira, Cássia Eller marcou a década de 1990 e chocou o país com sua morte precoce, em 2001. Um filme sobre a cantora, a mãe, a mulher que expôs sua vida pessoal e rompeu barreiras, deixando um belo legado social e artístico.",
    "poster": "/fTdz32TNQB6CazvvsTEdOg05WDc.jpg",
    "trailer": "rpeKsgJ31bs",
-   "popularidade": 0.7628,
+   "popularidade": 0.832,
    "plataformas": [],
    "justwatch": null,
    "duracao": 120,
@@ -7075,7 +7326,7 @@
    "sinopse": "Mergulhando na obra de Carlos Diegues, cineasta que retratou a história e o espírito do Brasil desde 1961, o longa navega entre seus filmes e sua trajetória pessoal, recuperando entrevistas do diretor ao longo de seis décadas e apresentando imagens inéditas da última filmagem de Diegues, Deus ainda é brasileiro.",
    "poster": "/2AaovPHwSoKgkH73MbdJVn5bOrB.jpg",
    "trailer": null,
-   "popularidade": 0.5751,
+   "popularidade": 0.5458,
    "plataformas": [],
    "justwatch": null,
    "duracao": 97,
@@ -7173,7 +7424,7 @@
    "sinopse": "Semanas após o trágico e misterioso desaparecimento de Billy e seus amigos, Rafael, seu irmão gêmeo, volta para a casa, decidido a encarar a energia pesada do local para descobrir o que houve com seu irmão, se submetendo as mesmas circunstâncias que seu irmão havia encarado ao ficar sozinho em casa, infelizmente, a estadia não seria fácil, e ele perceberia isso em pouco tempo.",
    "poster": "/n3MFJJj1Glk98mDyhXwBSYnvOyS.jpg",
    "trailer": null,
-   "popularidade": 0.0819,
+   "popularidade": 0.049,
    "plataformas": [],
    "justwatch": null,
    "duracao": null,
@@ -7198,7 +7449,7 @@
    "sinopse": "O mundo do entretenimento coreano manteve as luzes acesas e o sonho vivo mesmo diante de obstáculos. Aqui, todos querem alcançar a glória.",
    "poster": "/733Vm8e0bzUbjbDuATgR4Ol7vqd.jpg",
    "trailer": null,
-   "popularidade": 5.8305,
+   "popularidade": 6.8062,
    "plataformas": [
     {
      "id": null,
@@ -7401,7 +7652,7 @@
    "sinopse": "",
    "poster": "/kH9nmA3spXyBqJ6UaWtFL23sB8Y.jpg",
    "trailer": null,
-   "popularidade": 1.6071,
+   "popularidade": 1.8974,
    "plataformas": [
     {
      "id": null,
@@ -7437,7 +7688,7 @@
    "sinopse": "",
    "poster": "/h9wGwLLFQztknv7QaXwF6Evyw0c.jpg",
    "trailer": null,
-   "popularidade": 0.6143,
+   "popularidade": 0.564,
    "plataformas": [],
    "justwatch": null,
    "duracao": 75,
@@ -7513,7 +7764,7 @@
    "sinopse": "Da mente inovadora de MrBeast, vem aí uma nova série de competição cheia de recordes chamada Beast Games. Incríveis 1.000 participantes competirão em desafios físicos e mentais eletrizantes pela chance de ganhar o grande prêmio de 5 milhões de dólares. Semana a semana, os competidores usarão sua força e inteligência para continuar no jogo, na esperança de se tornarem o vencedor multimilionário!",
    "poster": "/cS9OE5qZDpZkUhrOBX6hnGZp1z1.jpg",
    "trailer": "37ZG9lddxto",
-   "popularidade": 13.2357,
+   "popularidade": 13.5691,
    "plataformas": [
     {
      "id": 119,
@@ -7547,7 +7798,7 @@
    "sinopse": "Sonhando em se profissionalizar, um jovem lutador tenta ser notado até que um combate inesperado dá a ele a chance de sua vida, além de um rival violento no ringue.",
    "poster": "/udy3hudTgKADO6oo0cAiEYYoQCC.jpg",
    "trailer": null,
-   "popularidade": 7.0381,
+   "popularidade": 7.4718,
    "plataformas": [
     {
      "id": 8,
@@ -7581,7 +7832,7 @@
    "sinopse": "Acompanha um grupo de amigos evangélicos em um encontro repleto de surpresas e momentos bem-humorados.",
    "poster": "/2CBuuC4fjo29RoOzW3yZLQ3hmZP.jpg",
    "trailer": null,
-   "popularidade": 0.3002,
+   "popularidade": 0.3044,
    "plataformas": [],
    "justwatch": null,
    "duracao": null,
@@ -7607,7 +7858,7 @@
    "sinopse": "Em 1916, em plena Primeira Guerra Mundial, o jovem soldado belga Pierre é enviado para o brutal fronte de batalha das trincheiras. Para tentar manter a sanidade, ele decide juntar-se a uma trupe de teatro improvisada nos bastidores da linha inimiga. Lá, Pierre conhece Francis, o líder criativo do grupo, e os dois acabam desenvolvendo uma intensa e secreta história de amor.",
    "poster": "/pePsTAhnEc7w7jUU3lI7l1SNnN9.jpg",
    "trailer": "T1SAZTIZnrQ",
-   "popularidade": 9.9691,
+   "popularidade": 9.245,
    "plataformas": [],
    "justwatch": null,
    "duracao": 128,
@@ -7668,7 +7919,7 @@
    "sinopse": "",
    "poster": "/qdWoYn4KOiZNjR4EOHUsNjamzJ0.jpg",
    "trailer": null,
-   "popularidade": 3.3325,
+   "popularidade": 3.3176,
    "plataformas": [
     {
      "id": 119,
@@ -7771,7 +8022,7 @@
    "sinopse": "Helena é filha do fazendeiro Sinval e irmã de João Donato, renomado campeão internacional de rodeios. Seu sonho é ser uma grande peoa, apesar da resistência do pai, e por isso ela se divide entre treinos secretos de montaria e o trabalho como médica em Barretos.",
    "poster": "/ryE72jpPwARrdYDkFu00MtAnTdv.jpg",
    "trailer": null,
-   "popularidade": 0.4185,
+   "popularidade": 0.3744,
    "plataformas": [],
    "justwatch": null,
    "duracao": 100,
@@ -7897,7 +8148,7 @@
    "sinopse": "O gângster de Nova Orleans, Russell Lee Washington Jr., chega a Frisco, no Texas, onde transforma pequenos golpes em um grande negócio, com a ajuda de um protegido ambicioso, um motorista leal e uma rede crescente de parceiros excêntricos.",
    "poster": "/9wNdTWthGpTZZaOBKlO07pK77pU.jpg",
    "trailer": "wAFHBHXUzWE",
-   "popularidade": 6.2444,
+   "popularidade": 6.6339,
    "plataformas": [
     {
      "id": null,
@@ -7983,6 +8234,38 @@
    ]
   },
   {
+   "id": "serie-342320",
+   "tmdb": 342320,
+   "imdb": null,
+   "tipo": "serie",
+   "titulo": "Les caméras cachées de François Damiens",
+   "original": null,
+   "data": "2026-12-18",
+   "semana": "2026-w51",
+   "segunda": "2026-12-14",
+   "generos": [],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "",
+   "poster": null,
+   "trailer": null,
+   "popularidade": 1.5504,
+   "plataformas": [
+    {
+     "id": null,
+     "nome": "Netflix",
+     "logo": null,
+     "tipo": "assinatura",
+     "inferido": true
+    }
+   ],
+   "justwatch": null,
+   "temporada": 1,
+   "canais": [
+    "Netflix"
+   ]
+  },
+  {
    "id": "serie-305520",
    "tmdb": 305520,
    "imdb": "tt38935871",
@@ -8018,38 +8301,6 @@
    ]
   },
   {
-   "id": "serie-342320",
-   "tmdb": 342320,
-   "imdb": null,
-   "tipo": "serie",
-   "titulo": "Les caméras cachées de François Damiens",
-   "original": null,
-   "data": "2026-12-18",
-   "semana": "2026-w51",
-   "segunda": "2026-12-14",
-   "generos": [],
-   "nota": null,
-   "votos": 0,
-   "sinopse": "",
-   "poster": null,
-   "trailer": null,
-   "popularidade": 1.1437,
-   "plataformas": [
-    {
-     "id": null,
-     "nome": "Netflix",
-     "logo": null,
-     "tipo": "assinatura",
-     "inferido": true
-    }
-   ],
-   "justwatch": null,
-   "temporada": 1,
-   "canais": [
-    "Netflix"
-   ]
-  },
-  {
    "id": "serie-342511",
    "tmdb": 342511,
    "imdb": null,
@@ -8067,7 +8318,7 @@
    "sinopse": "",
    "poster": null,
    "trailer": null,
-   "popularidade": 0.735,
+   "popularidade": 0.7266,
    "plataformas": [
     {
      "id": null,
@@ -8137,7 +8388,7 @@
    "sinopse": "Um jovem é simplesmente viciado em tentar adivinhar o que as outras pessoas estão conversando, o problema é que ele nunca acerta...",
    "poster": "/dYJAMbJ6ibvoaY8YL5A9MJypD0z.jpg",
    "trailer": null,
-   "popularidade": 0.0063,
+   "popularidade": 0.0059,
    "plataformas": [],
    "justwatch": null,
    "duracao": 18,
@@ -8159,7 +8410,7 @@
    "sinopse": "Documentário sobre o festival de cultura independente que nasceu em homenagem à banda The Gorillas. Mais de uma década de arte e resistência em Carmo do Paranaíba, interior de Minas Gerais, Brasil.",
    "poster": "/wpVLEjzpOK29NZTnk3bjU0pMsf1.jpg",
    "trailer": null,
-   "popularidade": 0.0443,
+   "popularidade": 0.0298,
    "plataformas": [],
    "justwatch": null,
    "duracao": 15,
@@ -8185,7 +8436,7 @@
    "sinopse": "A empolgação toma conta do Colégio Night Raven com o próximo Torneio Intercasas de Disco-Mágico, e Leona Kingscholar, monitor da Casa Savanaclaw, está determinado a vencer a qualquer custo. Enquanto isso, uma série de acidentes misteriosos começa a atingir os estudantes. A pedido do grão-mago, Yu e Grim investigam o caso e acabam descobrindo uma verdade chocante.",
    "poster": "/daxNuL1MW3rNYhq8OO10AjwEvT9.jpg",
    "trailer": null,
-   "popularidade": 1.4779,
+   "popularidade": 1.8567,
    "plataformas": [
     {
      "id": null,
@@ -8219,7 +8470,7 @@
    "sinopse": "No Pantanal, a onça-pintada Patrícia precisa proteger sua família de ameaças naturais e humanas que colocam seu lar em risco neste documentário sobre a vida selvagem.",
    "poster": "/bx23rldO3MwXvouP337iuzSJIpf.jpg",
    "trailer": null,
-   "popularidade": 0.2764,
+   "popularidade": 0.403,
    "plataformas": [],
    "justwatch": null,
    "duracao": 75,
@@ -8334,7 +8585,7 @@
    "sinopse": "Cinco jovens mulheres, todas chamadas Júlia, encaram verdades profundas quando suas mensagens mais íntimas se tornam públicas.",
    "poster": "/x6d3EFmH8p7yx2W1sbZ5GDAEi9K.jpg",
    "trailer": null,
-   "popularidade": 0.2696,
+   "popularidade": 0.2613,
    "plataformas": [],
    "justwatch": null,
    "duracao": null,
@@ -8356,7 +8607,7 @@
     "Mistério"
    ],
    "nota": 6.6,
-   "votos": 150,
+   "votos": 151,
    "sinopse": "Alvo de uma investigação interna, uma policial de Estocolmo decide descansar numa região conhecida pelo esqui. Até que o desaparecimento de uma garota acaba com essa paz.",
    "poster": "/1TUSNZdN1HWSGDMhjre0y33y1Me.jpg",
    "trailer": "BY7ChjDm0GY",
@@ -8497,7 +8748,7 @@
    "sinopse": "Dez solteiros atraentes curtem um retiro em um paraíso tropical. Mas para ganhar uma bolada em dinheiro, eles vão precisar resistir às tentações carnais.",
    "poster": "/5R1TUuMrf8AConXBbWac9SuYghO.jpg",
    "trailer": "mXUcnZkw_kM",
-   "popularidade": 3.5392,
+   "popularidade": 3.5252,
    "plataformas": [
     {
      "id": 8,
@@ -8632,7 +8883,7 @@
    "sinopse": "Uma garota acabou de terminar o namoro e precisa desabafar.",
    "poster": "/uD8ScsbQgz6EsXU2GyvdyTbQEMe.jpg",
    "trailer": null,
-   "popularidade": 0.327,
+   "popularidade": 0.3219,
    "plataformas": [],
    "justwatch": null,
    "duracao": 20,
@@ -8688,6 +8939,39 @@
    "classificacao": "L"
   },
   {
+   "id": "serie-243200",
+   "tmdb": 243200,
+   "imdb": "tt30817086",
+   "tipo": "serie",
+   "titulo": "Animal",
+   "original": null,
+   "data": "2027-01-01",
+   "semana": "2026-w53",
+   "segunda": "2026-12-28",
+   "generos": [
+    "Comédia"
+   ],
+   "nota": 6.7,
+   "votos": 65,
+   "sinopse": "O veterinário pobretão Antón arruma emprego em uma pet shop chique e deixa de tratar animais de fazenda para dar petiscos premium a bichinhos mimados.",
+   "poster": "/5MGDcHyLLtrnv1v3vMaoJ8sMj7p.jpg",
+   "trailer": "UQI8Ac7OJEA",
+   "popularidade": 4.8914,
+   "plataformas": [
+    {
+     "id": 8,
+     "nome": "Netflix",
+     "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "tipo": "assinatura"
+    }
+   ],
+   "justwatch": "https://www.themoviedb.org/tv/243200-animal/watch?locale=BR",
+   "temporada": 2,
+   "canais": [
+    "Netflix"
+   ]
+  },
+  {
    "id": "serie-217745",
    "tmdb": 217745,
    "imdb": "tt23058150",
@@ -8719,39 +9003,6 @@
    "temporada": 5,
    "canais": [
     "Prime Video"
-   ]
-  },
-  {
-   "id": "serie-243200",
-   "tmdb": 243200,
-   "imdb": "tt30817086",
-   "tipo": "serie",
-   "titulo": "Animal",
-   "original": null,
-   "data": "2027-01-01",
-   "semana": "2026-w53",
-   "segunda": "2026-12-28",
-   "generos": [
-    "Comédia"
-   ],
-   "nota": 6.7,
-   "votos": 65,
-   "sinopse": "O veterinário pobretão Antón arruma emprego em uma pet shop chique e deixa de tratar animais de fazenda para dar petiscos premium a bichinhos mimados.",
-   "poster": "/5MGDcHyLLtrnv1v3vMaoJ8sMj7p.jpg",
-   "trailer": "UQI8Ac7OJEA",
-   "popularidade": 4.7185,
-   "plataformas": [
-    {
-     "id": 8,
-     "nome": "Netflix",
-     "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
-     "tipo": "assinatura"
-    }
-   ],
-   "justwatch": "https://www.themoviedb.org/tv/243200-animal/watch?locale=BR",
-   "temporada": 2,
-   "canais": [
-    "Netflix"
    ]
   },
   {
@@ -8891,7 +9142,7 @@
    "sinopse": "Um homem, uma estrela do cinema e um vinho seco para um último brinde.",
    "poster": "/mlFZbvf8oLjHzbfQ2z4F7ZbMXlO.jpg",
    "trailer": null,
-   "popularidade": 0.2254,
+   "popularidade": 0.1887,
    "plataformas": [],
    "justwatch": null,
    "duracao": 12,
@@ -9042,7 +9293,7 @@
     "Mistério"
    ],
    "nota": 8.2,
-   "votos": 724,
+   "votos": 725,
    "sinopse": "Morgan, uma mãe solteira com três filhos e uma mente excepcional, ajuda a resolver um crime insolúvel quando reorganiza algumas evidências durante seu turno como faxineira do departamento de polícia. Quando descobrem que ela tem um talento especial para colocar as coisas em ordem por causa de seu alto potencial intelectual, ela é contratada como consultora para trabalhar com um detetive experiente e fiel às regras, Karadec. Juntos, eles formam uma equipe incomum e imparável.",
    "poster": "/ziLlEnGLackecy13Al5Gn8LHJUI.jpg",
    "trailer": "B5Hn1higb_8",
@@ -9079,7 +9330,7 @@
    "sinopse": "A equipe do SUR celebra o Orgulho Gay com um carro alegórico chamativo; Jax quer colocar seu relacionamento com Stassi de volta no eixo, mas seu comportamento inadequado uma festa de aniversário pode ser a gota d'água.",
    "poster": "/qovZ9pIWArGLTOguUFIWPccErqW.jpg",
    "trailer": "vxuvhsip7W4",
-   "popularidade": 24.1445,
+   "popularidade": 26.3336,
    "plataformas": [
     {
      "id": 1889,
@@ -9110,7 +9361,7 @@
     "Comédia"
    ],
    "nota": 8.5,
-   "votos": 3635,
+   "votos": 3636,
    "sinopse": "John Nolan, um homem de 40 anos, deixa para trás sua vida confortável em uma cidade pequena para viver seu sonho de ser um agente policial no Departamento de Polícia de Los Angeles. Como o novato mais velho, ele enfrenta a descrença de seus colegas.",
    "poster": "/yCPGrd6fzbftuaH97OUS6tUdE4B.jpg",
    "trailer": "8BPlx6eK1vc",
@@ -9272,7 +9523,7 @@
    "sinopse": "",
    "poster": "/sVlwTGXBwm1UqM75CMMDf7MC7ZI.jpg",
    "trailer": null,
-   "popularidade": 3.0245,
+   "popularidade": 3.4027,
    "plataformas": [
     {
      "id": null,
@@ -9337,8 +9588,8 @@
     "Drama",
     "Thriller"
    ],
-   "nota": 7.8,
-   "votos": 8,
+   "nota": 8,
+   "votos": 11,
    "sinopse": "Tigre de Papel acompanha a história de dois irmãos em busca do sonho americano. Enquanto o engenheiro Irwin Pearl construiu uma família com Hester, Gary seguiu carreira na polícia. Quando Gary apresenta ao irmão uma oportunidade de negócio boa demais para ser verdade, os dois se envolvem com o perigoso mundo da máfia russa, e os laços familiares começam a se romper, com consequências que mudam suas vidas para sempre.",
    "poster": "/f6S1rwC1oGl2vlw15wiEC0V2Z6V.jpg",
    "trailer": "dUxQ3ltEEwU",
@@ -9413,11 +9664,11 @@
     "Comédia"
    ],
    "nota": 6.1,
-   "votos": 27,
+   "votos": 28,
    "sinopse": "Imbuído da essência de Victor Hugo, o ator Robert Zucchini busca seu lugar entre o palco e a vida. Todas as noites, ele lota teatros compartilhando seu amor pelas palavras, até o dia em que sua filha, que ele não viu crescer, reaparece...",
    "poster": "/eQnsG3eFupvzgn6BWuCNAFqlgMT.jpg",
    "trailer": "XQxxIeqOI10",
-   "popularidade": 2.4063,
+   "popularidade": 2.3529,
    "plataformas": [],
    "justwatch": null,
    "duracao": 88,
@@ -9501,7 +9752,7 @@
    "sinopse": "Ambientado no Recife, cidade entrecortada por rios e manguezais, o filme acompanha Izaquiel, um jovem auxiliar de serviços gerais cuja busca noturna por encontros secretos no mangue o leva até Jeremias, um pescador intrigante e magnético. À medida que uma ameaça externa invade o lugar trazendo violência, os dois embarcam em uma jornada pelas profundezas do manguezal, onde realidade e mito se entrelaçam.",
    "poster": "/rQrDcFyTUdiYdXtNYWpQeeJG4aa.jpg",
    "trailer": null,
-   "popularidade": 0.7045,
+   "popularidade": 0.805,
    "plataformas": [],
    "justwatch": null,
    "duracao": 117,
@@ -9740,7 +9991,7 @@
     "Drama"
    ],
    "nota": 7.5,
-   "votos": 1771,
+   "votos": 1772,
    "sinopse": "Um grupo de cientistas faz descobertas revolucionárias ao longo das décadas. Ao mesmo tempo, as leis da ciência começam a cair por terra.",
    "poster": "/rqMYUtyrRJrZ1zKQvBfLgPh1c0T.jpg",
    "trailer": "SdvzhCL7vIA",
@@ -9779,7 +10030,7 @@
    "sinopse": "Uma série animada que segue Peter Parker em seu caminho para se tornar o Homem-Aranha no MCU, com uma jornada como nunca vimos e um estilo que celebra as raízes dos primeiros quadrinhos do personagem.",
    "poster": "/fEhEJowHEcWgqWknxwbdsiHyGty.jpg",
    "trailer": "uo_2L8p_67E",
-   "popularidade": 17.559,
+   "popularidade": 18.4057,
    "plataformas": [
     {
      "id": null,
@@ -9879,12 +10130,12 @@
     "Drama",
     "Crime"
    ],
-   "nota": 7,
+   "nota": 7.3,
    "votos": 38,
    "sinopse": "A escritora Patricia Highsmith, autora do clássico O talentoso Ripley, tem um encontro curioso e intenso com um jovem agente literário determinado a convencê-la a lançar mais um livro.",
    "poster": "/bOHVe8XVlUU21Fjxtbhx4Jknksx.jpg",
    "trailer": "2AMYg6UmmjM",
-   "popularidade": 39.7124,
+   "popularidade": 34.0239,
    "plataformas": [],
    "justwatch": null,
    "duracao": 106,
@@ -9944,7 +10195,7 @@
    "sinopse": "Agora um homem procurado, o ex-assassino do governo Adam Clay continua sua vingança contra aqueles que o prejudicaram.",
    "poster": "/6qF4Z9sfP2rDsn8SBdLAiGEaRlQ.jpg",
    "trailer": "5HK3wimDxBI",
-   "popularidade": 10.6474,
+   "popularidade": 10.4644,
    "plataformas": [],
    "justwatch": null,
    "duracao": null,
@@ -9968,7 +10219,7 @@
    "sinopse": "",
    "poster": "/kohUtEueIVyDXC30MaOdi36aAwn.jpg",
    "trailer": "TpNEh5vvAns",
-   "popularidade": 8.1568,
+   "popularidade": 8.4707,
    "plataformas": [],
    "justwatch": null,
    "duracao": 111,
@@ -10077,7 +10328,7 @@
    "sinopse": "Em 1859, a jovem maori Mary viaja da Nova Zelândia para North Yorkshire, na Inglaterra, em busca de informações sobre sua família. Ao chegar, é acolhida por um aristocrata e ex-baleeiro admirador de sua cultura e que lhe oferece um emprego de governanta de sua neta. No entanto, ela começa a ter visões e pesadelos na casa relacionados a uma horrível herança colonial.",
    "poster": "/tD9yi1i2t6cgXDrqaBRzjUy7bEX.jpg",
    "trailer": "uP_BNr2VerM",
-   "popularidade": 2.7615,
+   "popularidade": 2.7054,
    "plataformas": [],
    "justwatch": null,
    "duracao": 89,
@@ -10136,7 +10387,7 @@
    "sinopse": "Morador de Balneário Camboriú, Jesse Koz decide deixar para trás o trabalho em um shopping e desbravar as estradas ao lado do golden retriever Shurastey, seu fiel companheiro, em um Fusca 1978. A dupla segue viagem saindo de Ushuaia, no extremo sul da Argentina, até o Alasca, nos Estados Unidos, e chama o projeto de Shurastey or Shuraigow?. Jesse e o cão passam por 17 países e conquistam um milhão de seguidores nas redes sociais, mas o roteiro é interrompido por um trágico acidente de trânsito.",
    "poster": null,
    "trailer": null,
-   "popularidade": 0.7323,
+   "popularidade": 0.5493,
    "plataformas": [],
    "justwatch": null,
    "duracao": null,
@@ -10280,7 +10531,7 @@
     "War & Politics"
    ],
    "nota": 7.4,
-   "votos": 1372,
+   "votos": 1373,
    "sinopse": "Situada após a queda do Império, a série segue a ex-cavaleira Jedi Ahsoka Tano enquanto ela investiga uma ameaça emergente a uma galáxia vulnerável.",
    "poster": "/eiJeWeCAEZAmRppnXHiTWDcCd3Q.jpg",
    "trailer": "Z6nx8IPg8_Y",
@@ -10314,7 +10565,7 @@
     "Animação"
    ],
    "nota": 8.5,
-   "votos": 897,
+   "votos": 898,
    "sinopse": "Movida pelo sonho de vingança contra as pessoas que a transformaram em excluída no Japão do período Edo, uma jovem guerreira decide trilhar um caminho sangrento.",
    "poster": "/kgRZ9g4fnDRToxrUsWqEyCW4wbV.jpg",
    "trailer": "3ciOn_4XFfE",
@@ -10352,7 +10603,7 @@
    "sinopse": "JLI JIS é um curta-metragem filmado em áreas do interior da Paraíba.",
    "poster": "/hKTrKAzyxJ1N9JjNZgNRsxQSs1Z.jpg",
    "trailer": null,
-   "popularidade": 0.0713,
+   "popularidade": 0.0637,
    "plataformas": [],
    "justwatch": null,
    "duracao": null,
@@ -10376,7 +10627,7 @@
    "sinopse": "Veja a ascensão de um dos mais famosos saqueadores nórdicos da história, Erik Bloodaxe, e sua esposa Gunnhild, conhecida como a Mãe dos Reis. Enquanto lutam pelo trono da Noruega, o território é devastado por rivais ferozes, alianças instáveis e traições sangrentas. Com a guerra iminente e o caos consumindo o reino, atraindo impiedosos reis de outros países escandinavos e até mesmo um poderoso governante inglês, o cenário está pronto para uma nova saga nórdica grandiosa.",
    "poster": "/tR222Xa2tkQ1BFkg6loDXIccAva.jpg",
    "trailer": "nT8Mdw5nKd0",
-   "popularidade": 3.1046,
+   "popularidade": 3.5413,
    "plataformas": [
     {
      "id": null,
@@ -10407,11 +10658,11 @@
     "Guerra"
    ],
    "nota": 7.9,
-   "votos": 263,
+   "votos": 265,
    "sinopse": "As histórias de três homens cujas vidas estão intimamente ligadas pelo desejo, pela dor e pela herança, ao longo de três épocas diferentes: 1932, 1937 e 2017.",
    "poster": "/66Pj7O90qWce4pYZYKriVkFNcOS.jpg",
    "trailer": "lBVxKt0gKDY",
-   "popularidade": 84.8727,
+   "popularidade": 72.8745,
    "plataformas": [],
    "justwatch": null,
    "duracao": 155,
@@ -10529,7 +10780,7 @@
    "sinopse": "Um pai toma uma decisão errônea ao levar seu filho a um festival de hip-hop, o que provoca o caos entre a multidão, a segurança e a dinâmica familiar com os excêntricos companheiros.",
    "poster": "/sZO7LHrza8exExg6hBqdCV5ePCA.jpg",
    "trailer": "o_pIiP1A0RY",
-   "popularidade": 14.8092,
+   "popularidade": 11.8986,
    "plataformas": [],
    "justwatch": null,
    "duracao": 95,
@@ -10599,8 +10850,8 @@
    "generos": [
     "Drama"
    ],
-   "nota": 7.9,
-   "votos": 85,
+   "nota": 7.8,
+   "votos": 86,
    "sinopse": "Diretora de uma instituição de cuidados para idosos, Marie-Lou se esforça para introduzir uma filosofia de atendimento baseada na escuta e no respeito à dignidade dos residentes, apesar da resistência de parte de sua equipe. Seu encontro com Mari, uma diretora de teatro japonesa que luta contra o câncer, altera profundamente seu caminho. Ao formarem uma amizade profunda e de apoio mútuo, as duas unem forças em uma luta para tornar o impossível possível.",
    "poster": "/gniQjGg0LaLaiWQOqxdVJkMH0Jx.jpg",
    "trailer": "2AxtdPvDojA",
@@ -10700,30 +10951,6 @@
    "classificacao": null
   },
   {
-   "id": "cinema-1530193",
-   "tmdb": 1530193,
-   "imdb": "tt39602467",
-   "tipo": "cinema",
-   "titulo": "Um Homem Perdido",
-   "original": "Der verlorene Mann",
-   "data": "2027-01-21",
-   "semana": "2027-w03",
-   "segunda": "2027-01-18",
-   "generos": [
-    "Drama"
-   ],
-   "nota": 6.2,
-   "votos": 4,
-   "sinopse": "A artista Hanne e o pastor aposentado Bernd vivem um casamento feliz que acomodou-se em uma rotina confortável, quando o ex-marido de Hanne, Kurt, surge inesperadamente à sua porta. Devido à demência, Kurt já não se lembra de que ele e Hanne estão divorciados há 20 anos.",
-   "poster": "/6IL3A66mtC0Xy1eVqxENqAcWgPe.jpg",
-   "trailer": null,
-   "popularidade": 0.804,
-   "plataformas": [],
-   "justwatch": null,
-   "duracao": 102,
-   "classificacao": null
-  },
-  {
    "id": "cinema-1508855",
    "tmdb": 1508855,
    "imdb": "tt34737700",
@@ -10745,6 +10972,30 @@
    "plataformas": [],
    "justwatch": null,
    "duracao": null,
+   "classificacao": null
+  },
+  {
+   "id": "cinema-1530193",
+   "tmdb": 1530193,
+   "imdb": "tt39602467",
+   "tipo": "cinema",
+   "titulo": "Um Homem Perdido",
+   "original": "Der verlorene Mann",
+   "data": "2027-01-21",
+   "semana": "2027-w03",
+   "segunda": "2027-01-18",
+   "generos": [
+    "Drama"
+   ],
+   "nota": 6.2,
+   "votos": 4,
+   "sinopse": "A artista Hanne e o pastor aposentado Bernd vivem um casamento feliz que acomodou-se em uma rotina confortável, quando o ex-marido de Hanne, Kurt, surge inesperadamente à sua porta. Devido à demência, Kurt já não se lembra de que ele e Hanne estão divorciados há 20 anos.",
+   "poster": "/6IL3A66mtC0Xy1eVqxENqAcWgPe.jpg",
+   "trailer": null,
+   "popularidade": 0.7325,
+   "plataformas": [],
+   "justwatch": null,
+   "duracao": 102,
    "classificacao": null
   },
   {
@@ -10789,7 +11040,7 @@
    "sinopse": "",
    "poster": "/ckWL5kX8Dpi9FXW8U4HIy4KFGDy.jpg",
    "trailer": null,
-   "popularidade": 1.3309,
+   "popularidade": 1.429,
    "plataformas": [
     {
      "id": null,
@@ -10884,7 +11135,7 @@
    "sinopse": "",
    "poster": null,
    "trailer": null,
-   "popularidade": 2.8022,
+   "popularidade": 2.8641,
    "plataformas": [
     {
      "id": null,
@@ -10920,8 +11171,8 @@
    "votos": 0,
    "sinopse": "Uma aventura alucinante repleta de dinossauros e lava, que leva Manny, Sid, Diego, Ellie, Scrat e o resto do bando pelas regiões inexploradas do perigoso Mundo Perdido.",
    "poster": "/lWjA97vk4kXhRF3ecGDEgVswz5p.jpg",
-   "trailer": "e67Qtn_3hkc",
-   "popularidade": 17.9722,
+   "trailer": "uYtay82EPfk",
+   "popularidade": 17.7891,
    "plataformas": [],
    "justwatch": null,
    "duracao": 103,
@@ -10999,7 +11250,7 @@
    "sinopse": "",
    "poster": "/66mWiwl4sbg0mV0sxdR7XV5oUOw.jpg",
    "trailer": null,
-   "popularidade": 2.9301,
+   "popularidade": 3.0357,
    "plataformas": [],
    "justwatch": null,
    "duracao": null,
@@ -11048,7 +11299,7 @@
    "sinopse": "",
    "poster": "/nqx7MU9t7I8VduKlxToNxV2BpNd.jpg",
    "trailer": "yFxvH5XZI1Q",
-   "popularidade": 0.0456,
+   "popularidade": 0.0279,
    "plataformas": [],
    "justwatch": null,
    "duracao": 25,
@@ -11135,7 +11386,7 @@
    "sinopse": "Nesse reality de sucesso, um grupo de mulheres ricas vive amizades e conflitos regados a bons drinks e altas doses de drama.",
    "poster": "/8ktaCSlCgGDMFzgdYc1LYF6CiWq.jpg",
    "trailer": "d0NCzZ9q2kg",
-   "popularidade": 42.0077,
+   "popularidade": 42.7558,
    "plataformas": [
     {
      "id": 337,
@@ -11164,7 +11415,7 @@
     "Drama"
    ],
    "nota": 7.3,
-   "votos": 161,
+   "votos": 163,
    "sinopse": "Uma família romeno-norueguesa se muda para uma pequena cidade e vê a educação de seus filhos ser questionada quando contusões são encontradas no corpo da filha mais velha.",
    "poster": "/rIhqYAVPmMQaTCiBJI5o21KDFM2.jpg",
    "trailer": "frg59VOungA",
@@ -11194,7 +11445,7 @@
    "sinopse": "Quando o recluso arquiteto Tate Gordon se muda para uma pequena cidade litorânea para concluir seu mais recente projeto, ele conhece uma jovem fascinante que o tira de sua concha e o coloca no centro de um mistério mortal que paira sobre a cidade.",
    "poster": "/XPE1RcxKQgkhcmxQn6xv4KZQDd.jpg",
    "trailer": "Fso81Ypg9T4",
-   "popularidade": 6.1556,
+   "popularidade": 5.5069,
    "plataformas": [],
    "justwatch": null,
    "duracao": null,
@@ -11218,7 +11469,7 @@
    "sinopse": "A emocionante história do impacto inspirador e duradouro que John Tuggle deixou em sua equipe e em seus companheiros após ser escolhido pelo New York Giants.",
    "poster": "/7zqRyrih4esbQjFXdpxfHr64Wcc.jpg",
    "trailer": "5DddMUVQ5xQ",
-   "popularidade": 4.5384,
+   "popularidade": 4.7876,
    "plataformas": [],
    "justwatch": null,
    "duracao": 125,
@@ -11326,7 +11577,7 @@
    "sinopse": "Céline chega à Armênia para legalizar a morte do marido, Arto, e descobre que ele mentiu: lutou na guerra, assumiu outra identidade e é considerado um desertor. Assim começa uma jornada pelo passado de Arto, enquanto ela conhece pessoas e assombrações de uma guerra sem fim.",
    "poster": "/3JVAXZw7IH8dWBMskDALBbkFHC5.jpg",
    "trailer": "rvBYxv8GurE",
-   "popularidade": 1.1711,
+   "popularidade": 1.1474,
    "plataformas": [],
    "justwatch": null,
    "duracao": 104,
@@ -11352,7 +11603,7 @@
    "sinopse": "Dois policiais da comunidade indígena Navajo, o xerife Joe Leaphorn e o novato Jim Chee, investigam um homícidio duplo em um motel de uma comunidade pacífica no sudeste dos Estados Unidos.",
    "poster": "/kDlrMN0P9ByrEH2GoRbBFeZHbcf.jpg",
    "trailer": "TcmY-9eeBIM",
-   "popularidade": 24.5123,
+   "popularidade": 25.3301,
    "plataformas": [
     {
      "id": 8,
@@ -11461,7 +11712,7 @@
    "sinopse": "",
    "poster": "/8hMh9CJ3HA2sMbITNKkEInknAS9.jpg",
    "trailer": null,
-   "popularidade": 2.8883,
+   "popularidade": 3.0583,
    "plataformas": [
     {
      "id": null,
@@ -11583,7 +11834,7 @@
    "sinopse": "O casal Patrick e Abigail viaja para um retiro espiritual no Novo México em busca de cura após uma tragédia. Disposto a tudo para ajudar a esposa, Patrick passa a desconfiar das intenções e dos métodos pouco convencionais da enigmática líder do grupo, enquanto Abigail se deixa envolver cada vez mais por ela. Com a paranoia crescendo, o casal precisa descobrir se as terapias oferecidas trazem de fato a cura que procuram ou se escondem um segredo aterrorizante que ameaça consumi-los.",
    "poster": "/shu3m0eShymGekTJW3X5ffEhlLB.jpg",
    "trailer": "0z9o6EP6wvw",
-   "popularidade": 2.6074,
+   "popularidade": 2.3047,
    "plataformas": [],
    "justwatch": null,
    "duracao": 109,
@@ -11669,7 +11920,7 @@
    "sinopse": "A jornada caótica de Benny, um ex-jogador de futebol enrustido e rei da festa de boas-vindas, enquanto se torna amigo de Carmen, uma estranha com a missão de se adequar a qualquer custo. Muito engraçada e pessoal, a série explora até que ponto todos nós nos esforçamos muito enquanto descobrimos quem somos.",
    "poster": "/lwtBsOUCGumGd0kR8XBJWHlqel3.jpg",
    "trailer": "LSli17bsonk",
-   "popularidade": 10.012,
+   "popularidade": 9.7787,
    "plataformas": [
     {
      "id": 119,
@@ -11734,7 +11985,7 @@
     "Ficção científica"
    ],
    "nota": 8.2,
-   "votos": 23225,
+   "votos": 23227,
    "sinopse": "A princesa Leia é mantida refém pelas forças imperiais comandadas por Darth Vader. Luke Skywalker e Han Solo precisam libertá-la e restaurar a liberdade e a justiça na galáxia.",
    "poster": "/dw7X9YPjjAfIxKHW04V64Bb9TB0.jpg",
    "trailer": "i-vsILeJ8_8",
@@ -11759,11 +12010,11 @@
     "Mistério"
    ],
    "nota": 7.8,
-   "votos": 728,
+   "votos": 729,
    "sinopse": "Um assassinato hediondo deixa o escritório da Promotoria de Justiça de Chicago de cabeça para baixo quando um dos funcionários é suspeito do crime, o que deixa o acusado lutando para manter sua família unida.",
    "poster": "/bBX1PjeHpm00bhz6AbEcY0a41Ir.jpg",
    "trailer": "ZNSY3lMioHs",
-   "popularidade": 16.0012,
+   "popularidade": 17.3381,
    "plataformas": [
     {
      "id": 350,
@@ -11830,40 +12081,6 @@
    "classificacao": null
   },
   {
-   "id": "serie-289730",
-   "tmdb": 289730,
-   "imdb": "tt36634723",
-   "tipo": "serie",
-   "titulo": "A Época da Inocência",
-   "original": "The Age of Innocence",
-   "data": "2027-02-18",
-   "semana": "2027-w07",
-   "segunda": "2027-02-15",
-   "generos": [
-    "Drama"
-   ],
-   "nota": null,
-   "votos": 0,
-   "sinopse": "",
-   "poster": null,
-   "trailer": null,
-   "popularidade": 1.8767,
-   "plataformas": [
-    {
-     "id": null,
-     "nome": "Netflix",
-     "logo": null,
-     "tipo": "assinatura",
-     "inferido": true
-    }
-   ],
-   "justwatch": null,
-   "temporada": 1,
-   "canais": [
-    "Netflix"
-   ]
-  },
-  {
    "id": "cinema-1523553",
    "tmdb": 1523553,
    "imdb": "tt16390372",
@@ -11887,6 +12104,40 @@
    "justwatch": null,
    "duracao": 100,
    "classificacao": null
+  },
+  {
+   "id": "serie-289730",
+   "tmdb": 289730,
+   "imdb": "tt36634723",
+   "tipo": "serie",
+   "titulo": "A Época da Inocência",
+   "original": "The Age of Innocence",
+   "data": "2027-02-18",
+   "semana": "2027-w07",
+   "segunda": "2027-02-15",
+   "generos": [
+    "Drama"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "",
+   "poster": null,
+   "trailer": null,
+   "popularidade": 1.7592,
+   "plataformas": [
+    {
+     "id": null,
+     "nome": "Netflix",
+     "logo": null,
+     "tipo": "assinatura",
+     "inferido": true
+    }
+   ],
+   "justwatch": null,
+   "temporada": 1,
+   "canais": [
+    "Netflix"
+   ]
   },
   {
    "id": "cinema-1125822",
@@ -11956,7 +12207,7 @@
    "sinopse": "Juraci, uma senhora que leva uma vida solitária em seu apartamento, vê sua rotina mudar com a chegada de Ícaro, um estudante migrante, no apartamento à frente.",
    "poster": "/15hBSGhMrLMAEm5OcmsZAJjTStF.jpg",
    "trailer": "t1c50sqDtdU",
-   "popularidade": 0.1488,
+   "popularidade": 0.1558,
    "plataformas": [],
    "justwatch": null,
    "duracao": 21,
@@ -11978,7 +12229,7 @@
    "sinopse": "Em uma pesquisa iniciada a partir de um presente misterioso, uma estudante de História mergulha em uma experiência do resgate mitológico das mulheres guerreiras que teriam migrado da Trácia (região dividida hoje como Bulgária, Grécia e Turquia) até o Amazonas. O que parecia ser uma simples busca por respostas se transforma em uma jornada imersiva no mundo das Ykamiabas.",
    "poster": null,
    "trailer": null,
-   "popularidade": 0.0191,
+   "popularidade": 0.0178,
    "plataformas": [],
    "justwatch": null,
    "duracao": 105,
@@ -12027,11 +12278,11 @@
     "Drama"
    ],
    "nota": 8,
-   "votos": 948,
+   "votos": 949,
    "sinopse": "Daryl Dixon chega à costa da França e luta para entender como chegou lá e por quê. A série acompanha a sua jornada por uma França quebrada, mas resiliente, enquanto ele tenta encontrar um caminho de volta para casa. As conexões que ele forma no caminho, no entanto, complicam os seus planos.",
    "poster": "/72kaL0YYGYyPCDSEkW9QXyQZrzl.jpg",
    "trailer": "iTOaFootkSk",
-   "popularidade": 27.8954,
+   "popularidade": 28.1283,
    "plataformas": [
     {
      "id": 119,
@@ -12065,7 +12316,7 @@
    "sinopse": "Lizzy Lee é uma jovem coreano-americana que passou a vida inteira seguindo o caminho escolhido por sua família. Tudo muda quando ela conquista uma vaga em uma competição televisionada mundialmente para formar o próximo grande girl group de K-pop. Decidida a correr atrás do sonho que precisa manter em segredo, ela viaja para Seul, na Coreia do Sul. Cercada por artistas extraordinárias de várias partes do mundo, todas disputando apenas quatro vagas cobiçadas, Lizzy terá que superar seus próprios limites, assumir sua verdadeira identidade e provar que tem o que é preciso para estrear e conquistar seu lugar nos palcos globais.",
    "poster": "/9MED2GFhwsMJvYKEc9Wt7aB0S2a.jpg",
    "trailer": "_eco9F8FXK0",
-   "popularidade": 6.7909,
+   "popularidade": 6.608,
    "plataformas": [],
    "justwatch": null,
    "duracao": null,
@@ -12117,7 +12368,7 @@
    "sinopse": "",
    "poster": "/agQGw5Cux2CYaxI8UHlLbta2bgw.jpg",
    "trailer": "mdGrH_f4wJw",
-   "popularidade": 3.0374,
+   "popularidade": 3.0806,
    "plataformas": [],
    "justwatch": null,
    "duracao": 102,
@@ -12194,7 +12445,7 @@
    "sinopse": "Depois que uma vidente prevê a morte iminente de sua mãe, Sakol reúne toda a família para uma peregrinação por nove templos budistas em um único dia. O que começa como uma experiência espiritual logo se transforma em um reencontro marcado por antigas mágoas, segredos e conflitos que há muito permaneciam adormecidos.",
    "poster": "/9nBRqy5RS3HP9ru86ySVOB0PcqB.jpg",
    "trailer": "m02q5G9rjSw",
-   "popularidade": 1.1036,
+   "popularidade": 0.9472,
    "plataformas": [],
    "justwatch": null,
    "duracao": 140,
@@ -12268,7 +12519,7 @@
    "sinopse": "Jeff e Johnny são dois amigos que compartilham o sonho de ingressar na polícia do Rio de Janeiro. Após sofrerem bullying durante o treinamento devido à sua orientação sexual, eles decidem provar seu valor e conquistar respeito ao solucionar um crime de grande repercussão. Desafiados a desbaratar o perigoso \"Bando da Onça\", a dupla se infiltra na quadrilha, enfrentando fugas atrapalhadas e situações inusitadas. O plano culmina em uma armadilha estratégica preparada para um grande evento de moda, onde os aspirantes a oficiais tentam, finalmente, consolidar suas carreiras.",
    "poster": "/w4lwP3p9ftuWtnSIZ7NMl05AMmG.jpg",
    "trailer": null,
-   "popularidade": 0.3593,
+   "popularidade": 0.3415,
    "plataformas": [],
    "justwatch": null,
    "duracao": null,
@@ -12408,7 +12659,7 @@
    "sinopse": "Em Santos, nos anos 90, Graziela e Chorão vivem um intenso romance marcado por arte, música e rebeldia. Unidos pela paixão e pelo sonho do sucesso, eles enfrentam os desafios da fama, os conflitos internos e as dores do crescimento.",
    "poster": "/eluRWw3ZGeAOsN3ElDDNdJhcKDq.jpg",
    "trailer": null,
-   "popularidade": 0.9074,
+   "popularidade": 0.8694,
    "plataformas": [],
    "justwatch": null,
    "duracao": 113,
@@ -12432,7 +12683,7 @@
    "sinopse": "Após serem jurados de morte por um traficante, os golpistas Perereca e Moqueca fogem para bem longe, indo parar em uma pequena cidade do interior chamada Xantózinho do Sul. Por coincidência, o novo padre da paróquia local está chegando também e Perereca resolve assumir sua identidade de olho nas doações para a igreja.",
    "poster": "/xFhXB2JPIf0OVGNZWEI6SwqXis9.jpg",
    "trailer": null,
-   "popularidade": 0.5197,
+   "popularidade": 0.581,
    "plataformas": [],
    "justwatch": null,
    "duracao": 109,
@@ -12481,7 +12732,7 @@
    "sinopse": "Após sair de um relacionamento abusivo, passar a ser vista como louca e ficar isolada na universidade, Samantha cria uma tecnologia capaz de captar pensamentos e usa os traumas mais íntimos do ex como arma.",
    "poster": "/pX7o34TpK6PP3nYZVEcpH2chOGZ.jpg",
    "trailer": null,
-   "popularidade": 0.0496,
+   "popularidade": 0.0455,
    "plataformas": [],
    "justwatch": null,
    "duracao": null,
@@ -12605,7 +12856,7 @@
    "sinopse": "A história de vida de Jessé Gomes da Silva Filho, hoje conhecido como Zeca Pagodinho, desde a origem humilde nos subúrbios do Rio de Janeiro até a consagração como um dos maiores nomes da música brasileira.",
    "poster": null,
    "trailer": null,
-   "popularidade": 0.3493,
+   "popularidade": 0.4422,
    "plataformas": [],
    "justwatch": null,
    "duracao": null,
@@ -12653,7 +12904,7 @@
    "sinopse": "Um grupo de excluídos, criminosos e desajustados acaba salvando o continente quando uma relíquia arcana capaz de remodelar a realidade cai nas mãos erradas.",
    "poster": "/qJTZanXDiJKABLNGRM9LmSg8YT7.jpg",
    "trailer": "Ri2wNyvSpiY",
-   "popularidade": 15.0616,
+   "popularidade": 14.9898,
    "plataformas": [
     {
      "id": 119,
@@ -12687,7 +12938,7 @@
    "sinopse": "",
    "poster": "/wo6gbvAxX3wbrHwmQwB48uZMveO.jpg",
    "trailer": null,
-   "popularidade": 11.5788,
+   "popularidade": 12.2413,
    "plataformas": [
     {
      "id": 119,
@@ -12729,6 +12980,31 @@
    "classificacao": null
   },
   {
+   "id": "cinema-1266643",
+   "tmdb": 1266643,
+   "imdb": "tt18795088",
+   "tipo": "cinema",
+   "titulo": "Sede de Sangue",
+   "original": "Day Drinker",
+   "data": "2027-03-25",
+   "semana": "2027-w12",
+   "segunda": "2027-03-22",
+   "generos": [
+    "Ação",
+    "Thriller"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "Uma bartender de iate particular conhece um passageiro misterioso. Logo, eles se veem envolvidos com uma figura do mundo do crime e conectados de maneiras totalmente inesperadas.",
+   "poster": "/zYZcelNmowkCuzQsJAvWMeoHHE5.jpg",
+   "trailer": null,
+   "popularidade": 2.816,
+   "plataformas": [],
+   "justwatch": null,
+   "duracao": null,
+   "classificacao": null
+  },
+  {
    "id": "cinema-1718699",
    "tmdb": 1718699,
    "imdb": "tt43609247",
@@ -12751,31 +13027,6 @@
    "poster": "/uUjNuBuJXo0ZSBLhqexa7ZleqSb.jpg",
    "trailer": "wtUdmUTNbO4",
    "popularidade": 2.7118,
-   "plataformas": [],
-   "justwatch": null,
-   "duracao": null,
-   "classificacao": null
-  },
-  {
-   "id": "cinema-1266643",
-   "tmdb": 1266643,
-   "imdb": "tt18795088",
-   "tipo": "cinema",
-   "titulo": "Sede de Sangue",
-   "original": "Day Drinker",
-   "data": "2027-03-25",
-   "semana": "2027-w12",
-   "segunda": "2027-03-22",
-   "generos": [
-    "Ação",
-    "Thriller"
-   ],
-   "nota": null,
-   "votos": 0,
-   "sinopse": "Uma bartender de iate particular conhece um passageiro misterioso. Logo, eles se veem envolvidos com uma figura do mundo do crime e conectados de maneiras totalmente inesperadas.",
-   "poster": "/zYZcelNmowkCuzQsJAvWMeoHHE5.jpg",
-   "trailer": null,
-   "popularidade": 2.5113,
    "plataformas": [],
    "justwatch": null,
    "duracao": null,
@@ -12824,7 +13075,7 @@
    "sinopse": "Um jovem professor é expulso de casa após um colapso nervoso e encontra nos antigos amigos de infância o apoio necessário para atravessar esse momento delicado.",
    "poster": "/vd1MQCTauba4oJBpCrwI7tvSfvp.jpg",
    "trailer": null,
-   "popularidade": 0.8977,
+   "popularidade": 0.8659,
    "plataformas": [],
    "justwatch": null,
    "duracao": 88,
@@ -12848,7 +13099,7 @@
    "sinopse": "Genésio, um ator fracassado que vagueia pelo Piauí com seu monólogo da Paixão de Cristo, esbarra em uma pequena vila que espera o retorno do filho de Deus e se aproveita da fé alheia, se passando por Jesus.",
    "poster": "/1S48pzxQ2SD6JRhbkOFMhXCZtBo.jpg",
    "trailer": null,
-   "popularidade": 0.5075,
+   "popularidade": 0.6512,
    "plataformas": [],
    "justwatch": null,
    "duracao": null,
@@ -12956,7 +13207,7 @@
    "sinopse": "",
    "poster": null,
    "trailer": null,
-   "popularidade": 0.6249,
+   "popularidade": 0.6732,
    "plataformas": [],
    "justwatch": null,
    "duracao": null,
@@ -13005,7 +13256,7 @@
    "sinopse": "Filme conta a trajetória de Marta Vieira da Silva, a maior jogadora da história do futebol.",
    "poster": "/ot4PhffaxROVAucuK7gYyKXj9x6.jpg",
    "trailer": null,
-   "popularidade": 0.2731,
+   "popularidade": 0.2936,
    "plataformas": [],
    "justwatch": null,
    "duracao": null,
@@ -13163,7 +13414,7 @@
    "sinopse": "Acompanhe um dia na vida de duas mulheres em busca de si mesmas: Julia, uma escritora que se prepara para oferecer uma elaborada Festa de 4 de Julho; e Taylor, uma jovem mãe de três filhos que luta para manter o equilíbrio.",
    "poster": "/xFFnbhUIddss60t9LQuouqdMcuU.jpg",
    "trailer": null,
-   "popularidade": 0.8603,
+   "popularidade": 0.9674,
    "plataformas": [],
    "justwatch": null,
    "duracao": 99,
@@ -13183,11 +13434,11 @@
     "Drama"
    ],
    "nota": 8.8,
-   "votos": 926,
+   "votos": 927,
    "sinopse": "Hannah Wells dá aulas ao capitão do hóquei, Garrett Graham, em troca de dicas para conquistar o paquera. O acordo vira uma conexão quando eles encaram o passado. Os amigos Logan, Dean, Tucker e Allie vivem a vida universitária e o amor.",
    "poster": "/iQ1WbmoC08ql4qRZkfUD2LlzNOL.jpg",
    "trailer": "wAozjf2frxw",
-   "popularidade": 40.5024,
+   "popularidade": 41.3522,
    "plataformas": [
     {
      "id": 119,
@@ -13539,7 +13790,7 @@
    "sinopse": "",
    "poster": "/2unM0Z2AeTJGCQg11MB0PkvkrwE.jpg",
    "trailer": null,
-   "popularidade": 0.3531,
+   "popularidade": 0.2623,
    "plataformas": [],
    "justwatch": null,
    "duracao": 83,
