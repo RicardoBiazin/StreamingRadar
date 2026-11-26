@@ -63,7 +63,10 @@ const linha = (i) => {
     ...(i.classificacao ? [`Classificação ${esc(i.classificacao)}`] : []),
   ];
   return `<li class="linha" id="i-${esc(i.id)}" ${attrs(i)}>
-      <p class="l-data"><time datetime="${esc(i.data)}">${esc(i.dataLonga)}</time></p>
+      <div class="l-lado">
+        <p class="l-data"><time datetime="${esc(i.data)}">${esc(i.dataLonga)}</time></p>
+        ${i.poster ? `<img class="l-poster" src="${esc(i.poster)}" alt="Pôster de ${esc(i.titulo)}" width="342" height="513" loading="lazy" decoding="async">` : `<div class="l-poster sem" aria-hidden="true">${esc(i.inicial)}</div>`}
+      </div>
       <div class="l-corpo">
         <h4>${esc(i.titulo)}${i.nota ? `<span class="nota" title="Nota TMDB (${esc(i.votos)} votos)"><span aria-hidden="true">★</span> ${esc(i.notaTxt)}<span class="so-leitor"> na nota do TMDB</span></span>` : ''}</h4>
         ${i.original && i.original !== i.titulo ? `<p class="original">${esc(i.original)}</p>` : ''}

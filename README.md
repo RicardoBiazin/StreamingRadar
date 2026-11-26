@@ -40,7 +40,7 @@ Regras: cinema = estreia teatral (tipos 2 e 3 do TMDB) no Brasil; filme no strea
 
 ## Temas
 
-O menu superior tem **Tema: Padrão · Instagram · Lens · Apple**. O Padrão é o site da raiz; Instagram (`/instagram/`), Lens (`/lens/`) e Apple (`/apple/`) mostram a mesma página da semana, com os mesmos dados, em outro visual. A escolha fica salva no navegador (`sr-tema`) e a página da semana do Padrão leva ao tema salvo; o catálogo segue no visual Padrão. Os temas saem de `modelos/<tema>/` (o `gerar` renderiza cada semana em cada tema; o seletor está em `src/temas.mjs`). Os temas ficam com `noindex` e fora do sitemap. Outros modelos de layout (Google, LinkedIn, WhatsApp, TikTok): `npm run modelos`, ver `modelos/CONTRATO.md`.
+O menu superior tem **Tema: Padrão · Instagram · Lens · Apple**. O Padrão é o site da raiz; Instagram (`/instagram/`), Lens (`/lens/`) e Apple (`/apple/`) mostram a mesma página da semana, com os mesmos dados, em outro visual. A escolha fica salva no navegador (`sr-tema`) e a página da semana do Padrão leva ao tema salvo; o Catálogo também sai em cada tema (`/<tema>/catalogo/`), com o skin `modelos/<tema>/catalogo.css` sobre a página do Padrão. Os temas saem de `modelos/<tema>/` (o `gerar` renderiza cada semana em cada tema; o seletor está em `src/temas.mjs`). Os temas ficam com `noindex` e fora do sitemap. Outros modelos de layout (Google, LinkedIn, WhatsApp, TikTok): `npm run modelos`, ver `modelos/CONTRATO.md`.
 
 ## Publicação
 

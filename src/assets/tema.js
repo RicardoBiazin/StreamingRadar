@@ -12,8 +12,8 @@
     });
   });
 
-  // Só a página da semana do Padrão redireciona (os temas só têm a página da semana).
-  if (atual !== 'padrao' || !document.body.hasAttribute('data-semana')) return;
+  // Só a semana e o catálogo do Padrão redirecionam; cada tema tem a sua versão dessas páginas.
+  if (atual !== 'padrao' || !(document.body.hasAttribute('data-semana') || document.body.hasAttribute('data-catalogo'))) return;
   var salvo = null;
   try { salvo = localStorage.getItem(CHAVE); } catch (e) {}
   if (!salvo || salvo === 'padrao' || !/^[a-z]+$/.test(salvo)) return;

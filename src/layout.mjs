@@ -16,12 +16,19 @@ const PLATAFORMAS_RODAPE = ['Netflix', 'Amazon Prime Video', 'Disney Plus', 'HBO
  */
 function relativos(html, caminho) {
   if (caminho === '/404.html') return html;
-  const pref = caminho.split('/').length > 2 ? '../' : '';
+  const pref = '../'.repeat(Math.max(0, caminho.split('/').length - 2));
   return html.replace(/(href|src)="\/(?!\/)([^"]*)"/g, (_m, atr, resto) => `${atr}="${pref}${resto === '' ? 'index.html' : resto}"`);
 }
 
-export function pagina({ titulo, descricao, caminho, corpo, json = null, scripts = [], semana = null }) {
-  const url = SITE + caminho;
+/**
+ * `semana` (slug) ou `catalogo` (página dentro de /catalogo/, '' = índice) dizem ao seletor de temas qual
+ * é a mesma página nos outros temas. `tema` ≠ padrao: a mesma página no visual do tema (skin
+ * /<tema>/catalogo.css), com `canonico` apontando para a página do Padrão e sem indexação.
+ */
+export function pagina({ titulo, descricao, caminho, corpo, json = null, scripts = [], semana = null, catalogo = null, tema = 'padrao', canonico = null }) {
+  const url = SITE + (canonico || caminho);
+  const pre = tema === 'padrao' ? '' : `/${tema}`;
+  const ref = semana || (catalogo != null ? { catalogo } : null);
   return relativos(`<!doctype html>
 <html lang="pt-BR">
 <head>
@@ -40,12 +47,12 @@ export function pagina({ titulo, descricao, caminho, corpo, json = null, scripts
 <meta name="color-scheme" content="light dark">
 <link rel="icon" href="/favicon.svg" type="image/svg+xml">
 <link rel="stylesheet" href="/assets/estilo.css?v=${VERSAO}">
-${json ? `<script type="application/ld+json">${JSON.stringify(json).replace(/</g, '\\u003c')}</script>\n` : ''}</head>
-<body${semana ? ` data-semana="${esc(semana)}"` : ''}>
+${tema === 'padrao' ? '' : `<meta name="robots" content="noindex, nofollow">\n<link rel="stylesheet" href="/${tema}/catalogo.css?v=${VERSAO}">\n`}${json ? `<script type="application/ld+json">${JSON.stringify(json).replace(/</g, '\\u003c')}</script>\n` : ''}</head>
+<body${tema === 'padrao' ? '' : ` class="skin-${tema}"`}${semana ? ` data-semana="${esc(semana)}"` : ''}${catalogo != null ? ' data-catalogo' : ''}>
 <header class="topo">
-  <a class="marca" href="/"><span class="radar" aria-hidden="true"></span>Streaming Radar</a>
-  <nav class="menu" aria-label="Principal"><a href="/">Semana</a><a href="/catalogo/">Catálogo</a></nav>
-  ${seletorTemas('padrao', semana)}
+  <a class="marca" href="${pre}/"><span class="radar" aria-hidden="true"></span>Streaming Radar</a>
+  <nav class="menu" aria-label="Principal"><a href="${pre}/">Semana</a><a href="${pre}/catalogo/">Catálogo</a></nav>
+  ${seletorTemas(tema, ref)}
   <span class="versao">v${VERSAO}</span>
 </header>
 <main data-vista="junto">

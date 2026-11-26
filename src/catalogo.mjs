@@ -4,6 +4,7 @@
 import { lerJSON, gravarTexto, esc, slug, VERSAO, SITE } from '../scripts/util.mjs';
 import { pagina } from './layout.mjs';
 import { sitePlataforma } from './plataformas.mjs';
+import { TEMAS } from './temas.mjs';
 
 const IMG = 'https://image.tmdb.org/t/p/';
 const INICIAL = 48; // cartões já no HTML (SEO e navegador sem JS)
@@ -39,6 +40,21 @@ export function gerarCatalogo() {
 
   const paginas = [];
 
+  // Cada página do catálogo sai no Padrão (/catalogo/) e em cada tema (/<tema>/catalogo/): o mesmo conteúdo
+  // e os mesmos JSON, com o skin do tema (modelos/<tema>/catalogo.css). Só o Padrão entra no sitemap.
+  function emitir(rel, titulo, descricao, corpo) {
+    const arq = rel || 'index.html';
+    const scripts = ['/assets/catalogo.js'];
+    gravarTexto(`public/catalogo/${arq}`, pagina({ titulo, descricao, caminho: `/catalogo/${rel}`, corpo, scripts, catalogo: rel }));
+    for (const t of TEMAS.filter((x) => x.id !== 'padrao')) {
+      gravarTexto(`public/${t.id}/catalogo/${arq}`, pagina({
+        titulo: titulo.replace(' | Streaming Radar', ` | Streaming Radar (${t.nome})`), descricao,
+        caminho: `/${t.id}/catalogo/${rel}`, canonico: `/catalogo/${rel}`, tema: t.id, catalogo: rel, scripts,
+        corpo: corpo.replaceAll('href="/catalogo/', `href="/${t.id}/catalogo/`),
+      }));
+    }
+  }
+
   // ---------- uma página por plataforma ----------
   for (const p of plats) {
     const usadosGen = new Set(p.itens.flatMap((i) => i[7]));
@@ -65,7 +81,7 @@ export function gerarCatalogo() {
 ${p.itens.slice(0, INICIAL).map(cartao).join('\n')}
 </div>
 <p class="mais"><button type="button" id="c-mais">Mostrar mais</button></p>`;
-    gravarTexto(`public/catalogo/${p.slug}.html`, pagina({ titulo, descricao, caminho: `/catalogo/${p.slug}.html`, corpo, scripts: ['/assets/catalogo.js'] }));
+    emitir(`${p.slug}.html`, titulo, descricao, corpo);
     paginas.push(`/catalogo/${p.slug}.html`);
   }
 
@@ -114,7 +130,7 @@ ${ordenados.slice(0, INICIAL).map((i) => cartao(i, i[8].map((k) => plats[k].nome
 <ul class="plat-lista" id="b-plats">
 ${plats.map((p) => `<li><a href="/catalogo/${esc(p.slug)}.html"><strong>${esc(p.nome)}</strong><span>${fmtNum(p.filmes)} filmes · ${fmtNum(p.series)} séries</span></a></li>`).join('\n')}
 </ul>`;
-  gravarTexto('public/catalogo/index.html', pagina({ titulo, descricao, caminho: '/catalogo/', corpo, scripts: ['/assets/catalogo.js'] }));
+  emitir('', titulo, descricao, corpo);
   paginas.push('/catalogo/');
 
   console.log(`catálogo: ${plats.length} plataformas, ${fmtNum(unicos)} títulos únicos`);

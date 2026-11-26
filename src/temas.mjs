@@ -1,5 +1,6 @@
-// Temas do site: o Padrão (raiz) e dois visuais alternativos da página da semana (Instagram e Lens),
-// gerados em /instagram/ e /lens/. O seletor fica no menu superior de todas as páginas.
+// Temas do site: o Padrão (raiz) e visuais alternativos (Instagram, Lens, Apple), gerados em /instagram/,
+// /lens/ e /apple/: página da semana (modelos/<id>/) e catálogo (a página do Padrão com um "skin" em
+// modelos/<id>/catalogo.css). O seletor fica no menu superior de todas as páginas.
 
 export const TEMAS = [
   { id: 'padrao', nome: 'Padrão' },
@@ -8,14 +9,21 @@ export const TEMAS = [
   { id: 'apple', nome: 'Apple' },
 ];
 
-/** Endereço do tema; com `slug`, a mesma semana naquele tema. */
-export function urlTema(id, slug = null) {
-  if (id === 'padrao') return slug ? `/semana/${slug}.html` : '/';
-  return slug ? `/${id}/semana/${slug}.html` : `/${id}/`;
+/**
+ * Endereço de uma página no tema. `ref`: nada = início; texto = semana (slug);
+ * { catalogo: 'netflix.html' } = página do catálogo ('' = índice).
+ */
+export function urlTema(id, ref = null) {
+  const pre = id === 'padrao' ? '' : `/${id}`;
+  if (ref && typeof ref === 'object') return `${pre}/catalogo/${ref.catalogo || ''}`;
+  if (ref) return `${pre}/semana/${ref}.html`;
+  return pre ? `${pre}/` : '/';
 }
 
-/** Menu "Tema: Padrão · Instagram · Lens". O tema.js guarda a escolha e leva o visitante ao tema salvo. */
-export function seletorTemas(atual, slug = null) {
+export const urlCatalogo = (id) => urlTema(id, { catalogo: '' });
+
+/** Menu "Tema: Padrão · Instagram · Lens · Apple": cada link leva à mesma página no outro tema. */
+export function seletorTemas(atual, ref = null) {
   return `<nav class="temas" aria-label="Tema do site" data-atual="${atual}"><span class="temas-rot">Tema</span>${TEMAS.map((t) =>
-    `<a href="${urlTema(t.id, slug)}" data-tema="${t.id}"${t.id === atual ? ' aria-current="true"' : ''}>${t.nome}</a>`).join('')}</nav>`;
+    `<a href="${urlTema(t.id, ref)}" data-tema="${t.id}"${t.id === atual ? ' aria-current="true"' : ''}>${t.nome}</a>`).join('')}</nav>`;
 }

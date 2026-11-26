@@ -194,6 +194,23 @@ for (const t of TEMAS.filter((x) => x.id !== 'padrao')) {
   ok(existsSync(`${dir}/estilo.css`) && existsSync(`${dir}/filtro.js`), `tema ${t.id}: estilo.css/filtro.js ausentes`);
   const pags = existsSync(`${dir}/semana`) ? readdirSync(`${dir}/semana`).filter((f) => f.endsWith('.html')) : [];
   ok(pags.length === paginas.length, `tema ${t.id}: ${pags.length} páginas de semana, o Padrão tem ${paginas.length}`);
+  // catálogo no tema: uma página para cada página do catálogo do Padrão, com o skin do tema
+  ok(existsSync(`${dir}/catalogo.css`), `tema ${t.id}: catalogo.css ausente`);
+  const catPad = existsSync(`${pub}/catalogo`) ? readdirSync(`${pub}/catalogo`).filter((f) => f.endsWith('.html')) : [];
+  const catTema = existsSync(`${dir}/catalogo`) ? readdirSync(`${dir}/catalogo`).filter((f) => f.endsWith('.html')) : [];
+  ok(catTema.length === catPad.length, `tema ${t.id}: ${catTema.length} páginas de catálogo, o Padrão tem ${catPad.length}`);
+  for (const f of catTema) {
+    const h = lerPag(`${t.id}/catalogo/${f}`);
+    const rot = `${t.id}/catalogo/${f}`;
+    ok(h.includes(`class="skin-${t.id}"`) && h.includes(`${t.id}/catalogo.css`), `${rot}: sem o skin do tema`);
+    ok(/<meta name="robots" content="noindex/.test(h) && h.includes(`data-atual="${t.id}"`), `${rot}: sem noindex ou seletor`);
+    ok(TEMAS.every((x) => h.includes(`data-tema="${x.id}"`)), `${rot}: menu de temas incompleto`);
+    ok(!/<script(?![^>]*(src=|application\/ld\+json))/.test(h) && !/<style[\s>]/.test(h) && !/\sstyle="/.test(h), `${rot}: script ou estilo inline`);
+    // os links para o catálogo ficam dentro do tema (sem voltar ao Padrão)
+    const fora = [...h.replace(/<nav class="temas"[\s\S]*?<\/nav>/, '').matchAll(/href="((?:\.\.\/)*)catalogo\/[^"]*"/g)].length;
+    ok(fora === 0, `${rot}: ${fora} link(s) do catálogo apontam para o Padrão`);
+    ok(h.includes(`>v${VERSAO}</span>`), `${rot}: sem versão`);
+  }
   for (const [nome, html] of [['index.html', lerPag(`${t.id}/index.html`)], ...pags.map((f) => [`semana/${f}`, lerPag(`${t.id}/semana/${f}`)])]) {
     const rot = `${t.id}/${nome}`;
     if (!html) { ok(false, `${rot} não existe`); continue; }

@@ -1,0 +1,53 @@
+/* Skin Lens para o catálogo: a página do Padrão (cabeçalho, filtros, cartões, modal) com o visual do tema.
+   Só redefine cores, formas e tipografia; o conteúdo e o JS são os mesmos. */
+body.skin-lens {
+  --fundo: #fff; --painel: #f7f4ff; --texto: #2a2342; --suave: #6a6486; --linha: #e9e5f5;
+  --destaque: #5b3df5; --destaque-fundo: #efe6ff; --nota: #b34a00; --rede: #5b3df5; --rede-fundo: #efe6ff;
+  --pessego: #ffd0b0; --menta: #b4f0d3; --lilas: #cdb8ff;
+  font: 500 16px/1.55 ui-rounded, 'SF Pro Rounded', 'Nunito', 'Segoe UI Variable Display', system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+  background: radial-gradient(900px 380px at 50% -60px, #efe6ff, transparent 70%) no-repeat, var(--fundo);
+}
+@media (prefers-color-scheme: dark) {
+  body.skin-lens {
+    --fundo: #17151f; --painel: #211e2e; --texto: #f1edff; --suave: #b3acd0; --linha: #332e48;
+    --destaque: #b9a6ff; --destaque-fundo: #3a2d6e; --nota: #ffb48f; --rede: #c9bbff; --rede-fundo: #3a2d6e;
+    background: radial-gradient(900px 380px at 50% -60px, #2f2459, transparent 70%) no-repeat, var(--fundo);
+  }
+}
+.skin-lens h1, .skin-lens h2, .skin-lens h3 { font-weight: 800; letter-spacing: -0.02em; }
+
+/* topo */
+.skin-lens .topo { padding-top: 12px; padding-bottom: 12px; }
+.skin-lens .marca { font-weight: 800; font-size: 1.2rem; }
+.skin-lens .radar { border-color: var(--destaque); box-shadow: 0 0 0 4px var(--destaque-fundo); }
+.skin-lens .menu a { padding: 8px 16px; background: var(--painel); font-weight: 700; border: 0; }
+.skin-lens .menu a:hover { background: var(--lilas); color: #2a2342; }
+.skin-lens .temas a { padding: 6px 14px; border: 0; background: var(--painel); font-weight: 700; }
+.skin-lens .temas a:hover { background: var(--lilas); color: #2a2342; }
+.skin-lens .temas a[aria-current] { background: var(--destaque); color: var(--fundo); }
+
+/* título e filtros */
+.skin-lens .semana-tit h1 { font-size: clamp(1.8rem, 5vw, 2.8rem); }
+.skin-lens .cat-controles input, .skin-lens .cat-controles select { padding: 10px 16px; border-radius: 999px; background: var(--painel); border: 2px solid var(--linha); }
+.skin-lens .cat-controles input:focus, .skin-lens .cat-controles select:focus { outline: 0; border-color: var(--destaque); }
+.skin-lens .chips-gen button { padding: 8px 16px; border: 0; background: var(--painel); font-weight: 700; }
+.skin-lens .chips-gen button:nth-child(4n+1) { background: var(--destaque-fundo); }
+.skin-lens .chips-gen button:nth-child(4n+2) { background: color-mix(in srgb, var(--pessego) 40%, var(--fundo)); }
+.skin-lens .chips-gen button:nth-child(4n+3) { background: color-mix(in srgb, var(--menta) 40%, var(--fundo)); }
+.skin-lens .chips-gen button:hover { filter: brightness(.96); }
+.skin-lens .chips-gen button[aria-pressed="true"] { background: var(--destaque); color: var(--fundo); }
+
+/* cartões: cantos bem redondos, cada um com uma cor pastel */
+.skin-lens .grade-cat { gap: 18px; }
+.skin-lens .mini { border: 0; border-radius: 26px; padding: 10px; background: var(--painel); box-shadow: 0 24px 40px -30px rgb(70 40 150 / .5); }
+.skin-lens .mini:nth-child(3n+1) { background: color-mix(in srgb, var(--lilas) 35%, var(--fundo)); }
+.skin-lens .mini:nth-child(3n+2) { background: color-mix(in srgb, var(--pessego) 35%, var(--fundo)); }
+.skin-lens .mini:nth-child(3n) { background: color-mix(in srgb, var(--menta) 35%, var(--fundo)); }
+.skin-lens .mini .poster { border-radius: 18px; }
+.skin-lens .mini-info h3 { font-size: .95rem; }
+.skin-lens .mais button { padding: 12px 28px; border: 0; background: var(--destaque); color: var(--fundo); font-weight: 800; }
+.skin-lens .plat-lista a { border: 0; border-radius: 20px; background: var(--painel); font-weight: 700; }
+.skin-lens .plat-lista a:hover { background: var(--destaque-fundo); }
+.skin-lens .resultado { border: 0; border-radius: 20px; }
+.skin-lens dialog.detalhe { border-radius: 28px; }
+.skin-lens .rodape { border-top: 2px dashed var(--linha); }

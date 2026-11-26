@@ -200,6 +200,8 @@ h1 {
 .linha { display: grid; grid-template-columns: 170px minmax(0, 1fr); gap: 8px 40px; padding: 36px 0; border-bottom: 1px solid var(--linha); }
 .l-data { font-size: 14px; color: var(--fg2); padding-top: 6px; }
 .l-data::first-letter { text-transform: uppercase; }
+.l-poster { display: block; width: min(150px, 100%); height: auto; aspect-ratio: 2 / 3; object-fit: cover; margin-top: 14px; border-radius: 16px; background: var(--chip); box-shadow: 0 1px 3px rgb(0 0 0 / 0.18); }
+.l-poster.sem { display: grid; place-items: center; font-size: 48px; font-weight: 600; color: var(--fg2); }
 .l-corpo > * + * { margin-top: 10px; }
 .l-corpo h4 { font-size: 24px; line-height: 1.2; font-weight: 600; letter-spacing: -0.03em; }
 .nota { display: inline-block; margin-left: 12px; font-size: 14px; font-weight: 600; color: var(--acento); letter-spacing: 0; vertical-align: 3px; white-space: nowrap; }
@@ -275,6 +277,7 @@ h1 {
 @media (max-width: 860px) {
   .linha { grid-template-columns: minmax(0, 1fr); padding: 28px 0; gap: 4px; }
   .l-data { padding-top: 0; }
+  .l-poster { width: 120px; margin-top: 10px; }
 }
 @media (max-width: 734px) {
   :root { --gutter: 16px; }

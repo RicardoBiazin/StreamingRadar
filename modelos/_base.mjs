@@ -4,7 +4,7 @@
 import { lerJSON, esc, slug, cortar, hojeBR, segunda, somarDias, slugSemana, faixa, diaLongo, diaMini, VERSAO, SITE } from '../scripts/util.mjs';
 import { REDES, linkRede } from '../src/redes.mjs';
 import { sitePlataforma } from '../src/plataformas.mjs';
-import { seletorTemas, urlTema } from '../src/temas.mjs';
+import { seletorTemas, urlTema, urlCatalogo } from '../src/temas.mjs';
 
 export { esc, cortar, VERSAO, SITE };
 export const IMG = 'https://image.tmdb.org/t/p/';
@@ -135,7 +135,7 @@ export function carregar({ slug: pedido = null, tema = null } = {}) {
     generos, // [{ nome, slug, qtd }]
     plataformas, // [{ nome, slug, qtd, href }]
     redes: REDES.map((r) => ({ nome: r.nome, href: r.cartaz })),
-    catalogo: { url: tema ? '/catalogo/' : `${SITE}/catalogo/`, ...catalogo },
+    catalogo: { url: tema ? urlCatalogo(tema) : `${SITE}/catalogo/`, ...catalogo },
     totais: { itens: dela.length, cinema: dela.filter((i) => i.tipo === 'cinema').length, filmes: dela.filter((i) => i.tipo === 'filme').length, series: dela.filter((i) => i.tipo === 'serie').length },
     // créditos obrigatórios (todo modelo deve mostrar no rodapé)
     creditos: {

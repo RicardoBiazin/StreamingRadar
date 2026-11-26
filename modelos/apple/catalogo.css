@@ -1,0 +1,60 @@
+/* Skin Apple para o catálogo: a página do Padrão (cabeçalho, filtros, cartões, modal) com o visual do tema.
+   Só redefine cores, formas e tipografia; o conteúdo e o JS são os mesmos. */
+body.skin-apple {
+  --fundo: #fff; --painel: #f5f5f7; --texto: #1d1d1f; --suave: #6e6e73; --linha: #d2d2d7;
+  --destaque: #0071e3; --destaque-fundo: #e8f1fc; --nota: #bf4800; --rede: #0066cc; --rede-fundo: #e8f1fc;
+  font: 400 17px/1.47 system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+  letter-spacing: -0.022em; -webkit-font-smoothing: antialiased;
+}
+@media (prefers-color-scheme: dark) {
+  body.skin-apple {
+    --fundo: #000; --painel: #1c1c1e; --texto: #f5f5f7; --suave: #a1a1a6; --linha: #3a3a3c;
+    --destaque: #2997ff; --destaque-fundo: #0f2a44; --nota: #f56300; --rede: #2997ff; --rede-fundo: #0f2a44;
+  }
+}
+.skin-apple main, .skin-apple .topo, .skin-apple .rodape { max-width: 1080px; }
+.skin-apple h1, .skin-apple h2, .skin-apple h3 { font-weight: 600; letter-spacing: -0.03em; }
+
+/* topo: barra fina e translúcida */
+.skin-apple .topo { position: sticky; top: 0; z-index: 40; max-width: none; padding: 6px max(22px, calc((100% - 1080px) / 2 + 22px)); background: color-mix(in srgb, var(--fundo) 80%, transparent); -webkit-backdrop-filter: saturate(180%) blur(20px); backdrop-filter: saturate(180%) blur(20px); border-bottom: 1px solid rgb(128 128 128 / .18); }
+.skin-apple .marca { font-size: .95rem; font-weight: 600; letter-spacing: -0.02em; }
+.skin-apple .radar { width: 18px; height: 18px; border-width: 1.8px; border-color: var(--texto); }
+.skin-apple .radar::after { width: 6px; height: 6px; margin: -3px 0 0 -3px; background: var(--texto); }
+.skin-apple .menu a { padding: 3px 10px; font-size: .78rem; border: 0; opacity: .85; }
+.skin-apple .menu a:hover { background: transparent; opacity: 1; }
+.skin-apple .temas a { border-radius: 980px; font-size: .76rem; padding: 3px 11px; }
+.skin-apple .temas a[aria-current] { background: var(--texto); border-color: var(--texto); color: var(--fundo); }
+.skin-apple .versao { font-size: .75rem; }
+
+/* título grande e filtros em pílula */
+.skin-apple .semana-tit { padding: 42px 0 8px; }
+.skin-apple .semana-tit h1 { font-size: clamp(2.2rem, 6vw, 3.6rem); line-height: 1.05; letter-spacing: -0.04em; }
+.skin-apple .semana-tit p { font-size: 1.1rem; }
+.skin-apple .cat-controles input, .skin-apple .cat-controles select { padding: 9px 16px; border-radius: 980px; background: var(--painel); border-color: transparent; }
+.skin-apple .cat-controles input:focus, .skin-apple .cat-controles select:focus { outline: 2px solid var(--destaque); outline-offset: 1px; }
+.skin-apple .chips-gen button { border-radius: 980px; background: var(--painel); border-color: transparent; font-size: .9rem; }
+.skin-apple .chips-gen button:hover { border-color: var(--suave); }
+.skin-apple .chips-gen button[aria-pressed="true"] { background: var(--texto); border-color: var(--texto); color: var(--fundo); }
+.skin-apple .chips-gen button[aria-pressed="true"] span { color: var(--fundo); }
+
+/* pôsteres grandes de canto redondo e sem moldura */
+.skin-apple .grade-cat { gap: 28px 20px; grid-template-columns: repeat(auto-fill, minmax(190px, 1fr)); }
+.skin-apple .mini { border: 0; border-radius: 0; background: transparent; overflow: visible; }
+.skin-apple .mini .poster { border-radius: 20px; box-shadow: 0 1px 3px rgb(0 0 0 / .18); }
+.skin-apple .mini-info { padding: 12px 0 0; }
+.skin-apple .mini-info h3 { font-size: .95rem; font-weight: 600; }
+.skin-apple .nota-mini { color: var(--nota); }
+.skin-apple .mais button { padding: 11px 26px; border-radius: 980px; border: 1px solid var(--destaque); background: transparent; color: var(--destaque); font-size: 1rem; }
+.skin-apple .mais button:hover { background: var(--destaque); color: #fff; }
+.skin-apple .plat-lista a { border: 0; border-radius: 18px; background: var(--painel); }
+.skin-apple .plat-lista a:hover { background: var(--destaque-fundo); }
+.skin-apple .resultado { border: 0; border-radius: 18px; background: var(--painel); }
+.skin-apple dialog.detalhe { border-radius: 22px; }
+.skin-apple .rodape { background: var(--painel); max-width: none; margin-top: 40px; padding-left: max(22px, calc((100% - 1080px) / 2 + 22px)); padding-right: max(22px, calc((100% - 1080px) / 2 + 22px)); border-top: 0; }
+
+@media (max-width: 734px) {
+  .skin-apple .topo { padding-inline: 16px; }
+  .skin-apple .semana-tit { padding-top: 24px; }
+  .skin-apple .grade-cat { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 20px 12px; }
+  .skin-apple .mini .poster { border-radius: 14px; }
+}
