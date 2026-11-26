@@ -1,6 +1,6 @@
 {
   "name": "streaming-radar",
-  "version": "0.3.2",
+  "version": "0.4.0",
   "private": true,
   "description": "Lançamentos da semana no Brasil: cinema (com redes), filmes e séries no streaming, com links",
   "license": "MIT",
@@ -17,6 +17,7 @@
     "testar": "node scripts/testar.mjs",
     "atualizar": "node scripts/coletar.mjs && node scripts/catalogo.mjs && node scripts/normalizar.mjs && node scripts/notas.mjs && node scripts/gerar.mjs && node scripts/testar.mjs",
     "exemplo": "node scripts/exemplo.mjs",
+    "modelos": "node scripts/modelos.mjs",
     "preview": "node scripts/servir.mjs",
     "publicar": "npm run atualizar && netlify deploy --prod --dir public"
   }

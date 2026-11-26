@@ -1,6 +1,6 @@
 {
  "fonte": "tmdb",
- "coletadoEm": "2026-11-26T04:23:22.676Z",
+ "coletadoEm": "2026-11-26T04:51:18.916Z",
  "hoje": "2026-11-26",
  "de": "2026-11-16",
  "ate": "2027-05-30",
@@ -55,9 +55,9 @@
     "Ação",
     "Aventura"
    ],
-   "nota": 8.455,
-   "votos": 7113,
-   "popularidade": 292.181,
+   "nota": 8.456,
+   "votos": 7117,
+   "popularidade": 294.2906,
    "duracao": 143,
    "empresas": [
     "Marvel Studios",
@@ -868,7 +868,7 @@
    ],
    "nota": 7.887,
    "votos": 13087,
-   "popularidade": 23.5657,
+   "popularidade": 24.3004,
    "duracao": 123,
    "empresas": [
     "New Line Cinema",
@@ -2324,7 +2324,7 @@
    ],
    "nota": 8,
    "votos": 1,
-   "popularidade": 5.5025,
+   "popularidade": 5.1657,
    "duracao": 88,
    "empresas": [
     "Brio Films",
@@ -2589,7 +2589,7 @@
    ],
    "nota": 0,
    "votos": 0,
-   "popularidade": 4.5329,
+   "popularidade": 4.4294,
    "duracao": null,
    "empresas": [
     "Legendary Pictures"
@@ -3192,7 +3192,7 @@
    ],
    "nota": 0,
    "votos": 0,
-   "popularidade": 2.6916,
+   "popularidade": 2.7761,
    "duracao": null,
    "empresas": [
     "87Eleven",
@@ -3606,7 +3606,7 @@
    ],
    "nota": 0,
    "votos": 0,
-   "popularidade": 1.8137,
+   "popularidade": 1.728,
    "duracao": 115,
    "empresas": [
     "MACRO",
@@ -4390,7 +4390,7 @@
    ],
    "nota": 0,
    "votos": 0,
-   "popularidade": 0.856,
+   "popularidade": 0.86,
    "duracao": null,
    "empresas": [
     "TvZERO",
@@ -6604,7 +6604,7 @@
    "generos": [],
    "nota": 0,
    "votos": 0,
-   "popularidade": 0.1942,
+   "popularidade": 0.2105,
    "duracao": null,
    "empresas": [],
    "datas": [
@@ -6726,7 +6726,7 @@
    ],
    "nota": 0,
    "votos": 0,
-   "popularidade": 0.1625,
+   "popularidade": 0.0917,
    "duracao": 66,
    "empresas": [],
    "datas": [
@@ -6988,7 +6988,7 @@
    ],
    "nota": 0,
    "votos": 0,
-   "popularidade": 0.1051,
+   "popularidade": 0.1196,
    "duracao": 80,
    "empresas": [
     "RUBI Produtora",
@@ -7517,7 +7517,7 @@
    ],
    "nota": 0,
    "votos": 0,
-   "popularidade": 0,
+   "popularidade": 0.0582,
    "duracao": null,
    "empresas": [
     "Heco Produções",
@@ -8454,7 +8454,7 @@
    ],
    "nota": 7.9,
    "votos": 261,
-   "popularidade": 8.9017,
+   "popularidade": 9.0687,
    "duracao": 159,
    "empresas": [
     "Pathé",
@@ -8503,9 +8503,9 @@
     "Terror",
     "Ficção científica"
    ],
-   "nota": 6,
-   "votos": 311,
-   "popularidade": 8.0486,
+   "nota": 5.966,
+   "votos": 312,
+   "popularidade": 8.0175,
    "duracao": 92,
    "empresas": [
     "23ten",
@@ -8989,7 +8989,7 @@
    ],
    "nota": 0,
    "votos": 0,
-   "popularidade": 1.1557,
+   "popularidade": 1.0616,
    "duracao": 35,
    "empresas": [],
    "datas": [
@@ -9103,7 +9103,7 @@
    ],
    "nota": 1,
    "votos": 1,
-   "popularidade": 0.4769,
+   "popularidade": 0.4487,
    "duracao": 18,
    "empresas": [
     "Onda Filmes"
@@ -9887,7 +9887,7 @@
    ],
    "nota": 0,
    "votos": 0,
-   "popularidade": 0.0244,
+   "popularidade": 0.026,
    "duracao": 67,
    "empresas": [
     "Lp Originals"
@@ -10687,8 +10687,8 @@
     "Comédia"
    ],
    "nota": 8.029,
-   "votos": 11200,
-   "popularidade": 1074.589,
+   "votos": 11199,
+   "popularidade": 1044.1923,
    "primeira": "1989-12-17",
    "ultimoEp": {
     "data": "2026-11-22",
@@ -11303,8 +11303,8 @@
     "Comédia"
    ],
    "nota": 8.322,
-   "votos": 2980,
-   "popularidade": 303.8827,
+   "votos": 2981,
+   "popularidade": 300.1171,
    "primeira": "2022-11-13",
    "ultimoEp": {
     "data": "2026-11-20",
@@ -12593,7 +12593,7 @@
    ],
    "nota": 6.869,
    "votos": 558,
-   "popularidade": 169.4255,
+   "popularidade": 184.7751,
    "primeira": "1975-10-11",
    "ultimoEp": {
     "data": "2026-11-14",
@@ -20526,7 +20526,7 @@
    ],
    "nota": 7.7,
    "votos": 15,
-   "popularidade": 29.0024,
+   "popularidade": 29.8762,
    "primeira": "2026-10-02",
    "ultimoEp": {
     "data": "2026-11-20",
@@ -21196,7 +21196,7 @@
    ],
    "nota": 6.2,
    "votos": 70,
-   "popularidade": 26.4353,
+   "popularidade": 26.9395,
    "primeira": "2022-09-27",
    "ultimoEp": {
     "data": "2026-11-24",
@@ -21252,7 +21252,7 @@
    ],
    "nota": 7.325,
    "votos": 83,
-   "popularidade": 26.3998,
+   "popularidade": 27.1388,
    "primeira": "2025-01-07",
    "ultimoEp": {
     "data": "2026-11-17",
@@ -21835,7 +21835,7 @@
    ],
    "nota": 0,
    "votos": 0,
-   "popularidade": 22.8389,
+   "popularidade": 23.6992,
    "primeira": "2006-04-28",
    "ultimoEp": {
     "data": "2026-11-22",
@@ -22386,18 +22386,14 @@
    ],
    "nota": 7,
    "votos": 86,
-   "popularidade": 21.8372,
+   "popularidade": 22.2274,
    "primeira": "2025-09-23",
    "ultimoEp": {
-    "data": "2026-11-18",
-    "temporada": 2,
-    "episodio": 7
-   },
-   "proximoEp": {
     "data": "2026-11-25",
     "temporada": 2,
     "episodio": 8
    },
+   "proximoEp": null,
    "temporadas": [
     {
      "n": 1,
@@ -23595,7 +23591,7 @@
    ],
    "nota": 8.135,
    "votos": 215,
-   "popularidade": 17.5298,
+   "popularidade": 18.1492,
    "primeira": "2020-03-26",
    "ultimoEp": {
     "data": "2026-11-19",
@@ -24139,17 +24135,17 @@
    ],
    "nota": 9.2,
    "votos": 9,
-   "popularidade": 16.6882,
+   "popularidade": 17.7193,
    "primeira": "2026-10-07",
    "ultimoEp": {
-    "data": "2026-11-18",
-    "temporada": 1,
-    "episodio": 7
-   },
-   "proximoEp": {
     "data": "2026-11-25",
     "temporada": 1,
     "episodio": 8
+   },
+   "proximoEp": {
+    "data": "2026-12-02",
+    "temporada": 1,
+    "episodio": 9
    },
    "temporadas": [
     {
@@ -25555,7 +25551,7 @@
    ],
    "nota": 6,
    "votos": 26,
-   "popularidade": 14.3471,
+   "popularidade": 14.8708,
    "primeira": "2016-10-31",
    "ultimoEp": {
     "data": "2026-11-24",
@@ -25819,7 +25815,7 @@
    ],
    "nota": 8,
    "votos": 30,
-   "popularidade": 13.7683,
+   "popularidade": 13.7701,
    "primeira": "2020-02-07",
    "ultimoEp": {
     "data": "2026-11-19",
@@ -25881,7 +25877,7 @@
    ],
    "nota": 6.3,
    "votos": 3,
-   "popularidade": 13.6768,
+   "popularidade": 12.7743,
    "primeira": "2026-11-23",
    "ultimoEp": {
     "data": "2026-11-23",
@@ -26832,7 +26828,7 @@
    ],
    "nota": 0,
    "votos": 0,
-   "popularidade": 1.3117,
+   "popularidade": 1.5399,
    "primeira": "2026-11-20",
    "ultimoEp": {
     "data": "2026-11-20",
@@ -27942,7 +27938,7 @@
    ],
    "nota": 7.8,
    "votos": 13,
-   "popularidade": 2.9335,
+   "popularidade": 3.0754,
    "primeira": "2025-07-11",
    "ultimoEp": {
     "data": "2025-07-11",
@@ -28056,7 +28052,7 @@
    ],
    "nota": 7.5,
    "votos": 9,
-   "popularidade": 2.7803,
+   "popularidade": 2.8468,
    "primeira": "2016-10-04",
    "ultimoEp": {
     "data": "2026-11-24",
@@ -28465,7 +28461,7 @@
    ],
    "nota": 0,
    "votos": 0,
-   "popularidade": 1.8115,
+   "popularidade": 1.914,
    "primeira": "2026-08-27",
    "ultimoEp": {
     "data": "2026-11-19",
@@ -30303,7 +30299,7 @@
    ],
    "nota": 0,
    "votos": 0,
-   "popularidade": 0.4143,
+   "popularidade": 0.5654,
    "primeira": "2026-09-28",
    "ultimoEp": {
     "data": "2026-11-23",
@@ -30845,17 +30841,17 @@
    ],
    "nota": 0,
    "votos": 0,
-   "popularidade": 2.9071,
+   "popularidade": 3.5325,
    "primeira": "2026-11-09",
    "ultimoEp": {
-    "data": "2026-11-24",
-    "temporada": 1,
-    "episodio": 14
-   },
-   "proximoEp": {
     "data": "2026-11-25",
     "temporada": 1,
     "episodio": 15
+   },
+   "proximoEp": {
+    "data": "2026-11-26",
+    "temporada": 1,
+    "episodio": 16
    },
    "temporadas": [
     {
@@ -32085,7 +32081,7 @@
    ],
    "nota": 5.4,
    "votos": 23,
-   "popularidade": 10.3075,
+   "popularidade": 10.9848,
    "primeira": "2024-10-18",
    "ultimoEp": {
     "data": "2026-01-02",
@@ -32649,7 +32645,7 @@
    ],
    "nota": 5.5,
    "votos": 35,
-   "popularidade": 6.4577,
+   "popularidade": 6.3509,
    "primeira": "1999-09-30",
    "ultimoEp": {
     "data": "2026-11-22",
@@ -34083,7 +34079,7 @@
    ],
    "nota": 9.4,
    "votos": 8,
-   "popularidade": 11.5699,
+   "popularidade": 10.983,
    "primeira": "2026-10-04",
    "ultimoEp": {
     "data": "2026-11-22",
@@ -34251,7 +34247,7 @@
    ],
    "nota": 0,
    "votos": 0,
-   "popularidade": 11.1378,
+   "popularidade": 11.2691,
    "primeira": "2026-10-06",
    "ultimoEp": {
     "data": "2026-11-24",
@@ -34480,7 +34476,7 @@
    ],
    "nota": 8.4,
    "votos": 16,
-   "popularidade": 9.5302,
+   "popularidade": 9.6249,
    "primeira": "2026-07-04",
    "ultimoEp": {
     "data": "2026-11-21",
@@ -35176,7 +35172,7 @@
    ],
    "nota": 8.1,
    "votos": 5,
-   "popularidade": 6.6709,
+   "popularidade": 7.2885,
    "primeira": "2026-10-10",
    "ultimoEp": {
     "data": "2026-11-21",
@@ -35287,7 +35283,7 @@
    ],
    "nota": 4,
    "votos": 1,
-   "popularidade": 5.9409,
+   "popularidade": 5.5516,
    "primeira": "2026-10-03",
    "ultimoEp": {
     "data": "2026-11-21",
@@ -37560,7 +37556,7 @@
    ],
    "nota": 8.6,
    "votos": 47,
-   "popularidade": 1.6508,
+   "popularidade": 1.7824,
    "primeira": "1959-11-29",
    "ultimoEp": {
     "data": "2026-02-01",
@@ -38734,7 +38730,7 @@
    ],
    "nota": 0,
    "votos": 0,
-   "popularidade": 1.1017,
+   "popularidade": 1.0424,
    "primeira": "2026-10-20",
    "ultimoEp": {
     "data": "2026-11-24",
@@ -39469,7 +39465,7 @@
    ],
    "nota": 6.7,
    "votos": 3,
-   "popularidade": 19.1391,
+   "popularidade": 19.2902,
    "primeira": "2003-11-03",
    "ultimoEp": {
     "data": "2026-11-21",
@@ -39808,7 +39804,7 @@
    ],
    "nota": 7.7,
    "votos": 17,
-   "popularidade": 8.0484,
+   "popularidade": 9.1452,
    "primeira": "2025-02-23",
    "ultimoEp": {
     "data": "2026-11-22",
@@ -40356,7 +40352,7 @@
    ],
    "nota": 0,
    "votos": 0,
-   "popularidade": 3.3378,
+   "popularidade": 6.2879,
    "primeira": "2026-12-04",
    "ultimoEp": null,
    "proximoEp": {
@@ -40389,7 +40385,7 @@
    ],
    "nota": 0,
    "votos": 0,
-   "popularidade": 3.2458,
+   "popularidade": 3.3592,
    "primeira": "2026-01-19",
    "ultimoEp": {
     "data": "2026-11-23",

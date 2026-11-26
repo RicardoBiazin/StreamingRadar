@@ -9,3 +9,4 @@ public/
 # Catálogo completo: muda todo dia e pesa ~10 MB; é coletado de novo a cada execução.
 dados/catalogo/
 dados/detalhes.json
+dist-modelos

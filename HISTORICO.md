@@ -1,5 +1,12 @@
 # Histórico
 
+## 0.4.0 — 26/11/2026
+
+- Modelos de layout: sete visuais alternativos para a página da semana, com os dados reais, inspirados em Instagram (perfil em grade), Google (resultados de busca), LinkedIn (feed profissional), Lens (amigável pastel), WhatsApp (conversa), TikTok (vídeo curto escuro) e Apple (minimalista premium). Cada um tem sua própria estrutura de tela, não só cores: claro/escuro, responsivo, filtros por gênero (e plataforma, em alguns) com JS opcional, e todos os itens, redes de cinema, créditos e licença do site oficial.
+- `npm run modelos` gera `dist-modelos/` (galeria + uma pasta por modelo) e confere cada um: CSP (sem script/estilo inline), todos os itens da semana com link, redes, créditos, licença MIT, versão e `noindex`. `node scripts/modelos.mjs --servir [porta]` abre a galeria local com a CSP do site; `--testar` revalida o que já foi gerado. O contrato para criar mais um modelo está em `modelos/CONTRATO.md`.
+- Os modelos não alteram o site oficial (`public/`); saem em `dist-modelos/` (fora do git) e são publicados à parte, com `noindex`.
+- Os sete modelos foram escritos por agentes em paralelo, cada um só dentro da própria pasta.
+
 ## 0.3.2 — 26/11/2026
 
 - Índice do catálogo (`/catalogo/`) com filtros: faixas de tipo (filmes/séries) e de gêneros com contagem, seletor de plataforma, ordem (populares, nota, recentes, A a Z) e busca, sobre os ~59 mil títulos de todas as plataformas, com as plataformas de cada título no cartão. Os 48 mais populares já vêm no HTML; o `busca.json` (títulos com gêneros e plataformas) só é baixado na primeira interação. A página de cada plataforma e o índice usam o mesmo motor em `catalogo.js`.

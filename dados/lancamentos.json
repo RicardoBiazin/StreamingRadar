@@ -1,6 +1,6 @@
 {
  "fonte": "tmdb",
- "coletadoEm": "2026-11-26T04:23:22.676Z",
+ "coletadoEm": "2026-11-26T04:51:18.916Z",
  "de": "2026-11-16",
  "ate": "2027-05-30",
  "itens": [
@@ -296,7 +296,7 @@
    "sinopse": "",
    "poster": "/w1Lk1jynfYEAmQxuLfpZX8TIcSo.jpg",
    "trailer": null,
-   "popularidade": 0.1625,
+   "popularidade": 0.0917,
    "plataformas": [],
    "justwatch": null,
    "duracao": 66,
@@ -911,32 +911,6 @@
    ]
   },
   {
-   "id": "filme-1830483",
-   "tmdb": 1830483,
-   "imdb": null,
-   "tipo": "filme",
-   "titulo": "O Melhor Dia de Todos",
-   "original": null,
-   "data": "2026-11-18",
-   "semana": "2026-w47",
-   "segunda": "2026-11-16",
-   "generos": [
-    "Mistério",
-    "Terror",
-    "Drama"
-   ],
-   "nota": 1,
-   "votos": 1,
-   "sinopse": "Duda é uma pessoa agradável, sociável e que todos gostam. Faz obras de caridade e se emociona com a vida difícil dos outros, do tipo de mulher que valoriza a vida. Porém, em casa, vive um relacionamento abusivo. Esse relacionamento chega ao limite após uma discussão que leva a nova agressão, Duda, pela primeira vez, reage. O que para muitos poderia ser o início de mais um pesadelo, para Duda, será libertador.",
-   "poster": "/zu4EKDQsKYzRD8Rg61SedWIoxts.jpg",
-   "trailer": null,
-   "popularidade": 0.4769,
-   "plataformas": [],
-   "justwatch": null,
-   "duracao": 18,
-   "classificacao": "16"
-  },
-  {
    "id": "filme-1829152",
    "tmdb": 1829152,
    "imdb": null,
@@ -957,6 +931,32 @@
    "justwatch": null,
    "duracao": 8,
    "classificacao": "12"
+  },
+  {
+   "id": "filme-1830483",
+   "tmdb": 1830483,
+   "imdb": null,
+   "tipo": "filme",
+   "titulo": "O Melhor Dia de Todos",
+   "original": null,
+   "data": "2026-11-18",
+   "semana": "2026-w47",
+   "segunda": "2026-11-16",
+   "generos": [
+    "Mistério",
+    "Terror",
+    "Drama"
+   ],
+   "nota": 1,
+   "votos": 1,
+   "sinopse": "Duda é uma pessoa agradável, sociável e que todos gostam. Faz obras de caridade e se emociona com a vida difícil dos outros, do tipo de mulher que valoriza a vida. Porém, em casa, vive um relacionamento abusivo. Esse relacionamento chega ao limite após uma discussão que leva a nova agressão, Duda, pela primeira vez, reage. O que para muitos poderia ser o início de mais um pesadelo, para Duda, será libertador.",
+   "poster": "/zu4EKDQsKYzRD8Rg61SedWIoxts.jpg",
+   "trailer": null,
+   "popularidade": 0.4487,
+   "plataformas": [],
+   "justwatch": null,
+   "duracao": 18,
+   "classificacao": "16"
   },
   {
    "id": "cinema-1827374",
@@ -1217,6 +1217,39 @@
    "classificacao": "14"
   },
   {
+   "id": "filme-1165369",
+   "tmdb": 1165369,
+   "imdb": "tt35856133",
+   "tipo": "filme",
+   "titulo": "De Gaulle: A França Livre - Parte 2",
+   "original": "La Bataille de Gaulle : J'écris ton nom",
+   "data": "2026-11-19",
+   "semana": "2026-w47",
+   "segunda": "2026-11-16",
+   "generos": [
+    "Drama",
+    "Guerra",
+    "História"
+   ],
+   "nota": 7.9,
+   "votos": 261,
+   "sinopse": "A França é ocupada pelos nazistas, mas um homem se recusa a desistir. Sem tropas, sem país e movido por uma convicção irracional, o general De Gaulle tenta convencer o mundo de que a batalha pelo seu país ainda não terminou.",
+   "poster": "/3ElUZHW6cfar2X07Kh68DDkaNla.jpg",
+   "trailer": "J6MRNchmZkY",
+   "popularidade": 9.0687,
+   "plataformas": [
+    {
+     "id": 2356,
+     "nome": "Filmelier Plus Amazon Channel",
+     "logo": "/qsa5pNRHmZReAhr4CFBQoaPh253.png",
+     "tipo": "assinatura"
+    }
+   ],
+   "justwatch": "https://www.themoviedb.org/movie/1165369-la-bataille-de-gaulle-j-ecris-ton-nom/watch?locale=BR",
+   "duracao": 159,
+   "classificacao": "14"
+  },
+  {
    "id": "serie-87994",
    "tmdb": 87994,
    "imdb": "tt10115054",
@@ -1248,39 +1281,6 @@
    "canais": [
     "National Geographic"
    ]
-  },
-  {
-   "id": "filme-1165369",
-   "tmdb": 1165369,
-   "imdb": "tt35856133",
-   "tipo": "filme",
-   "titulo": "De Gaulle: A França Livre - Parte 2",
-   "original": "La Bataille de Gaulle : J'écris ton nom",
-   "data": "2026-11-19",
-   "semana": "2026-w47",
-   "segunda": "2026-11-16",
-   "generos": [
-    "Drama",
-    "Guerra",
-    "História"
-   ],
-   "nota": 7.9,
-   "votos": 261,
-   "sinopse": "A França é ocupada pelos nazistas, mas um homem se recusa a desistir. Sem tropas, sem país e movido por uma convicção irracional, o general De Gaulle tenta convencer o mundo de que a batalha pelo seu país ainda não terminou.",
-   "poster": "/3ElUZHW6cfar2X07Kh68DDkaNla.jpg",
-   "trailer": "J6MRNchmZkY",
-   "popularidade": 8.9017,
-   "plataformas": [
-    {
-     "id": 2356,
-     "nome": "Filmelier Plus Amazon Channel",
-     "logo": "/qsa5pNRHmZReAhr4CFBQoaPh253.png",
-     "tipo": "assinatura"
-    }
-   ],
-   "justwatch": "https://www.themoviedb.org/movie/1165369-la-bataille-de-gaulle-j-ecris-ton-nom/watch?locale=BR",
-   "duracao": 159,
-   "classificacao": "14"
   },
   {
    "id": "cinema-1061798",
@@ -1645,7 +1645,7 @@
    "sinopse": "O youtuber Enaldinho tem sua identidade roubada pelo vilão Zap, que o aprisiona no Mundo Sombrio. Agora, ele precisa unir forças com novos aliados para escapar e impedir que seus amigos caiam nas garras do impostor.",
    "poster": null,
    "trailer": null,
-   "popularidade": 0.1051,
+   "popularidade": 0.1196,
    "plataformas": [],
    "justwatch": null,
    "duracao": 80,
@@ -1968,11 +1968,11 @@
     "Ficção científica"
    ],
    "nota": 6,
-   "votos": 311,
+   "votos": 312,
    "sinopse": "Quando criaturas dimensionais ameaçam destruir tudo, um pai treina a filha escondida. Porém, com o caos se espalhando, eles descobrem que nenhum lugar é seguro.",
    "poster": "/svNNsHrcPqqq4cRfQ0Xs0MyrlOn.jpg",
    "trailer": "oJ960Hqz9DY",
-   "popularidade": 8.0486,
+   "popularidade": 8.0175,
    "plataformas": [
     {
      "id": 484,
@@ -2030,7 +2030,7 @@
    "sinopse": "Esta série relata os desafios enfrentados pelos compradores de um imóvel. Cada episódio acompanha a jornada de indivíduos, casais e famílias que procuram uma nova casa para morar. Eles aprendem a selecionar imóveis e a reconhecer se uma casa é adequada ou não às suas necessidades, em uma experiência emocionante e repleta de aprendizados.",
    "poster": "/e8AgoOQ7nsb5BL6HcSZIF2g2HT3.jpg",
    "trailer": null,
-   "popularidade": 6.4577,
+   "popularidade": 6.3509,
    "plataformas": [
     {
      "id": 1899,
@@ -2183,6 +2183,40 @@
    ]
   },
   {
+   "id": "serie-340624",
+   "tmdb": 340624,
+   "imdb": "tt35463263",
+   "tipo": "serie",
+   "titulo": "Ayô",
+   "original": null,
+   "data": "2026-11-20",
+   "semana": "2026-w47",
+   "segunda": "2026-11-16",
+   "generos": [
+    "Comédia",
+    "Drama"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "Em São Paulo, Ayô enfrenta desafios amorosos, busca novas conexões e reflete sobre sua trajetória como ator negro, gay e baiano em ascensão.",
+   "poster": "/ip6wj2rrooSpJozRPkrJpavG5vG.jpg",
+   "trailer": null,
+   "popularidade": 1.5399,
+   "plataformas": [
+    {
+     "id": 307,
+     "nome": "Globoplay",
+     "logo": "/9A6Oxd3F7iXm7mds7CxYOBicojs.png",
+     "tipo": "assinatura"
+    }
+   ],
+   "justwatch": "https://www.themoviedb.org/tv/340624-ayo/watch?locale=BR",
+   "temporada": 1,
+   "canais": [
+    "Globoplay"
+   ]
+  },
+  {
    "id": "filme-1630801",
    "tmdb": 1630801,
    "imdb": "tt39402072",
@@ -2213,40 +2247,6 @@
    "justwatch": "https://www.themoviedb.org/movie/1630801-love-ted-bundy/watch?locale=BR",
    "duracao": 84,
    "classificacao": "14"
-  },
-  {
-   "id": "serie-340624",
-   "tmdb": 340624,
-   "imdb": "tt35463263",
-   "tipo": "serie",
-   "titulo": "Ayô",
-   "original": null,
-   "data": "2026-11-20",
-   "semana": "2026-w47",
-   "segunda": "2026-11-16",
-   "generos": [
-    "Comédia",
-    "Drama"
-   ],
-   "nota": null,
-   "votos": 0,
-   "sinopse": "Em São Paulo, Ayô enfrenta desafios amorosos, busca novas conexões e reflete sobre sua trajetória como ator negro, gay e baiano em ascensão.",
-   "poster": "/ip6wj2rrooSpJozRPkrJpavG5vG.jpg",
-   "trailer": null,
-   "popularidade": 1.3117,
-   "plataformas": [
-    {
-     "id": 307,
-     "nome": "Globoplay",
-     "logo": "/9A6Oxd3F7iXm7mds7CxYOBicojs.png",
-     "tipo": "assinatura"
-    }
-   ],
-   "justwatch": "https://www.themoviedb.org/tv/340624-ayo/watch?locale=BR",
-   "temporada": 1,
-   "canais": [
-    "Globoplay"
-   ]
   },
   {
    "id": "serie-341297",
@@ -2376,7 +2376,7 @@
    "sinopse": "",
    "poster": "/vThkUfJOferJ69yuCCniB7AFRT8.jpg",
    "trailer": "1hyBHinCqdg",
-   "popularidade": 22.8389,
+   "popularidade": 23.6992,
    "plataformas": [
     {
      "id": 309,
@@ -2663,7 +2663,7 @@
    "sinopse": "Uma série de documentos examinando a morte do policial John O'Keefe de Boston e o polêmico julgamento da namorada Karen Read por seu assassinato. O caso terminou com um júri empatado em 2024, com os promotores buscando um novo julgamento enquanto a defesa de Read pretendia rejeitar as acusações.",
    "poster": "/449rpusr7ZtAqSsLcYHXqiIJfw7.jpg",
    "trailer": "cya18nTNMzI",
-   "popularidade": 13.6768,
+   "popularidade": 12.7743,
    "plataformas": [
     {
      "id": 8,
@@ -3076,7 +3076,7 @@
    "sinopse": "Começa a alta temporada em uma cidade praieira na esquina do américa do sul. a chegada de uma nova chef, vinda de uma grande cidade, altera a rotina da jovem vitória, garçonete de um restaurante a beira mar frequentada por gringos.",
    "poster": "/42TmcLHnUOnECsbVXvdnFP4EAL2.jpg",
    "trailer": null,
-   "popularidade": 0,
+   "popularidade": 0.0582,
    "plataformas": [],
    "justwatch": null,
    "duracao": null,
@@ -4952,11 +4952,11 @@
     "Aventura"
    ],
    "nota": 8.5,
-   "votos": 7113,
+   "votos": 7117,
    "sinopse": "É um novo dia para Peter Parker. Combatendo o crime em tempo integral como Homem-Aranha em um mundo que não se lembra mais dele e lidando com a pressão de ver seus antigos amigos seguirem em frente sem sua presença, Peter passa por uma mudança que talvez nem ele tenha o poder de controlar. Mas essa transformação também pode ser a única coisa capaz de deter uma surpreendente nova ameaça à cidade e às pessoas que ele ama: um poderoso vilão que ninguém sequer consegue enxergar.",
    "poster": "/x0nvYzQpyJc5pdT9lMnkMuYAg0O.jpg",
    "trailer": "QrxivJMVCyU",
-   "popularidade": 292.181,
+   "popularidade": 294.2906,
    "plataformas": [],
    "justwatch": null,
    "duracao": 143,
@@ -5451,7 +5451,7 @@
    "sinopse": "É época de festas na rocha Encantada, e Wembley mal pode esperar para espalhar alegria na função de Capitão do Espírito Festivo. Mas, quando esse espírito festivo começa a desaparecer, Wembley parte em uma jornada para descobrir o que realmente torna esta época especial.",
    "poster": "/pW1hgAe4WN7XDAoHsPKUzwzN5uz.jpg",
    "trailer": "JhIwpmslObY",
-   "popularidade": 1.1557,
+   "popularidade": 1.0616,
    "plataformas": [],
    "justwatch": null,
    "duracao": 35,
@@ -5820,7 +5820,7 @@
    "sinopse": "Irreverente comédia da HBO que traz para a tela as histórias mais absurdas da Flórida, recriadas por estrelas de Hollywood.",
    "poster": "/PPHQJOstz1i64LbcQ2Vo3UUBXh.jpg",
    "trailer": "ahRyxQn1l58",
-   "popularidade": 10.3075,
+   "popularidade": 10.9848,
    "plataformas": [
     {
      "id": 1899,
@@ -5859,7 +5859,7 @@
    "sinopse": "Ao longo de três gerações, casais buscam o amor, enfrentam casamentos complicados e lidam com expectativas familiares em meio a escolhas que afetam a própria felicidade.",
    "poster": "/jKfdaZm6UmciTygqkZwRXSVURUj.jpg",
    "trailer": "HGY8x0qy0aI",
-   "popularidade": 3.3378,
+   "popularidade": 6.2879,
    "plataformas": [
     {
      "id": null,
@@ -6679,7 +6679,7 @@
    "sinopse": "Na década de 40, o operário Noah Calhoun e a rica Allie estão desesperadamente apaixonados, mas os pais da jovem não aprovam o namoro. Quando Noah vai para a Segunda Guerra Mundial, parece ser o fim do romance. Enquanto isso, Allie se envolve com outro homem. Mas quando Noah retorna para a pequena cidade anos mais tarde, próximo ao casamento de Allie, logo se torna claro que a paixão ainda não acabou.",
    "poster": "/hO6k34ZNDwWzgcnzFbqYf2Rjg5W.jpg",
    "trailer": "FC6biTjEyZw",
-   "popularidade": 23.5657,
+   "popularidade": 24.3004,
    "plataformas": [],
    "justwatch": null,
    "duracao": 123,
@@ -7318,7 +7318,7 @@
    "sinopse": "Em uma jornada marcada pela dor, pela reflexão e pela busca por esperança, um jovem revisita momentos que definiram quem ele é.",
    "poster": "/aJaZtzUQXuCOVEoSFpVe6mx9GR1.jpg",
    "trailer": null,
-   "popularidade": 0.0244,
+   "popularidade": 0.026,
    "plataformas": [],
    "justwatch": null,
    "duracao": 67,
@@ -8424,7 +8424,7 @@
    "sinopse": "Na noite de 13 de novembro de 2022, quatro estudantes universitários foram brutalmente assassinados em uma casa fora do campus, na tranquila cidade universitária de Moscow, Idaho. Com acesso exclusivo e íntimo às pessoas mais próximas das vítimas, Uma Noite em Idaho: Os Assassinatos na Faculdade explora os desdobramentos emocionais dessa tragédia estadunidense e suas consequências contínuas.",
    "poster": "/74KGPlhyBM7AUfYQJ9VWB2sifpu.jpg",
    "trailer": "Ro_qTgaXCPk",
-   "popularidade": 2.9335,
+   "popularidade": 3.0754,
    "plataformas": [
     {
      "id": 119,
@@ -8654,7 +8654,7 @@
    "sinopse": "",
    "poster": "/cjHQIU1UiM6O1bs8ALjOdjDvZwO.jpg",
    "trailer": null,
-   "popularidade": 0.1942,
+   "popularidade": 0.2105,
    "plataformas": [],
    "justwatch": null,
    "duracao": null,
@@ -11277,7 +11277,7 @@
    "sinopse": "Em uma Manhattan de um futuro próximo, a lealdade corporativa e a tradição cultural remodelam completamente o cotidiano. Quando um estranho misterioso se infiltra em uma empresa influente logo após a morte de um funcionário, ele passa a expor o sistema violento e implacável oculto sob uma fachada impecável.",
    "poster": "/keQnXKzum19FU03HnxYuylALAzJ.jpg",
    "trailer": "jQHoAsDcjVU",
-   "popularidade": 2.6916,
+   "popularidade": 2.7761,
    "plataformas": [],
    "justwatch": null,
    "duracao": null,
@@ -11422,7 +11422,7 @@
    "sinopse": "",
    "poster": "/2itSpL4aBPoJXQ4QVtBFxQyz0j0.jpg",
    "trailer": null,
-   "popularidade": 1.6508,
+   "popularidade": 1.7824,
    "plataformas": [
     {
      "id": null,
@@ -11907,7 +11907,7 @@
    "sinopse": "Siga Cass. Ela atingiu um ponto pessoal de invulnerabilidade emocional, até conhecer Virgil. Junto com seu parceiro Malcolm, eles tentarão viajar no tempo para despertar o amor em Cass.",
    "poster": "/2uifxB5QsZoxgy1keRHTXJh1rwt.jpg",
    "trailer": "2iIBYPng3uI",
-   "popularidade": 1.8137,
+   "popularidade": 1.728,
    "plataformas": [],
    "justwatch": null,
    "duracao": 115,
@@ -12218,7 +12218,7 @@
    "sinopse": "Anos depois de abrir mão de ser a garota de programa mais famosa do Brasil, Raquel vê desmoronar o casamento com o ex-cliente Huldson. Disposta a tudo para recuperar o controle da própria história, ela resgata a poderosa Bruna Surfistinha e vai confrontar os limites entre sua identidade e o desafio de ser uma mulher livre.",
    "poster": "/d6Mq47QP3mzI4PFZ0BIpjqBYpy9.jpg",
    "trailer": null,
-   "popularidade": 0.856,
+   "popularidade": 0.86,
    "plataformas": [],
    "justwatch": null,
    "duracao": null,
@@ -12722,7 +12722,7 @@
    "sinopse": "",
    "poster": "/gEGDDG6QMDFZ1sV32CGxvzaVPnv.jpg",
    "trailer": null,
-   "popularidade": 4.5329,
+   "popularidade": 4.4294,
    "plataformas": [],
    "justwatch": null,
    "duracao": null,
@@ -12932,7 +12932,7 @@
    "sinopse": "",
    "poster": "/mWv4HUYAUkjLAPnmkiyoCU2cx0Q.jpg",
    "trailer": "UdLKENyhjKM",
-   "popularidade": 5.5025,
+   "popularidade": 5.1657,
    "plataformas": [],
    "justwatch": null,
    "duracao": 88,
