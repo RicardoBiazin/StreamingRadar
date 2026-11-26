@@ -1,6 +1,6 @@
 {
  "fonte": "tmdb",
- "coletadoEm": "2026-11-26T03:23:47.903Z",
+ "coletadoEm": "2026-11-26T03:49:16.983Z",
  "de": "2026-11-16",
  "ate": "2027-05-30",
  "itens": [
@@ -477,7 +477,7 @@
    "sinopse": "",
    "poster": "/steeGJML8VlognYJLS6KSnNvc9l.jpg",
    "trailer": "DfFq8MKQyE8",
-   "popularidade": 1.9105,
+   "popularidade": 2.1817,
    "plataformas": [
     {
      "id": null,
@@ -826,7 +826,7 @@
    "sinopse": "",
    "poster": "/p9dfUH3jSgdpVzrwdGZtBG1TADS.jpg",
    "trailer": null,
-   "popularidade": 10.6654,
+   "popularidade": 9.3495,
    "plataformas": [
     {
      "id": null,
@@ -894,7 +894,7 @@
    "sinopse": "",
    "poster": "/a8kD3PbjgshEpcOjhXTkwahL9Dn.jpg",
    "trailer": null,
-   "popularidade": 1.0557,
+   "popularidade": 1.3114,
    "plataformas": [
     {
      "id": null,
@@ -1078,7 +1078,7 @@
    "sinopse": "Jovens, idealistas e, de repente, bilionários. Este casal tentou fazer boas ações, mas só despertou o pior um no outro. Uma história de amor tóxico inspirada em uma fraude real.",
    "poster": "/enOhB2zy0o0P7Vn4WhK8NRsjA8J.jpg",
    "trailer": "9aGeKSSyuhk",
-   "popularidade": 43.2333,
+   "popularidade": 40.5131,
    "plataformas": [
     {
      "id": 8,
@@ -1301,7 +1301,7 @@
    "sinopse": "Jim, ícone sexy da cena queer, vê sua vida virar de cabeça pra baixo quando contrai Heterotopzis, um vírus estranho que transforma homens gays... em héteros. A partir de então, todos viram as costas pra ele, exceto seu último seguidor (e primeiro admirador), Lucien, um jovem que luta pra se aceitar. Juntos, eles partirão em busca de um remédio misterioso capaz de curar Jim e evitar a extinção da sua comunidade.",
    "poster": "/bILLk1YLaCWmJrhBXXWfYqZpMr8.jpg",
    "trailer": "CHof1Bc8oeM",
-   "popularidade": 5.7576,
+   "popularidade": 5.374,
    "plataformas": [],
    "justwatch": null,
    "duracao": 85,
@@ -1417,31 +1417,6 @@
    "classificacao": null
   },
   {
-   "id": "cinema-1148331",
-   "tmdb": 1148331,
-   "imdb": "tt28279347",
-   "tipo": "cinema",
-   "titulo": "Amálgama",
-   "original": null,
-   "data": "2026-11-19",
-   "semana": "2026-w47",
-   "segunda": "2026-11-16",
-   "generos": [
-    "Drama",
-    "Mistério"
-   ],
-   "nota": null,
-   "votos": 0,
-   "sinopse": "",
-   "poster": "/yGeTzV2ZWPSfHKfx6fsXOvVsaSd.jpg",
-   "trailer": null,
-   "popularidade": 0.709,
-   "plataformas": [],
-   "justwatch": null,
-   "duracao": 101,
-   "classificacao": "14"
-  },
-  {
    "id": "cinema-1793945",
    "tmdb": 1793945,
    "imdb": null,
@@ -1513,6 +1488,31 @@
    "plataformas": [],
    "justwatch": null,
    "duracao": 97,
+   "classificacao": "14"
+  },
+  {
+   "id": "cinema-1148331",
+   "tmdb": 1148331,
+   "imdb": "tt28279347",
+   "tipo": "cinema",
+   "titulo": "Amálgama",
+   "original": null,
+   "data": "2026-11-19",
+   "semana": "2026-w47",
+   "segunda": "2026-11-16",
+   "generos": [
+    "Drama",
+    "Mistério"
+   ],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "",
+   "poster": "/yGeTzV2ZWPSfHKfx6fsXOvVsaSd.jpg",
+   "trailer": null,
+   "popularidade": 0.5395,
+   "plataformas": [],
+   "justwatch": null,
+   "duracao": 101,
    "classificacao": "14"
   },
   {
@@ -1620,7 +1620,7 @@
    "sinopse": "Investigação de como o privilégio branco ainda molda todos os aspectos das sociedades ao redor do mundo, sobretudo no Brasil. Dois ativistas, uma brasileira e um suíço, conduzem uma jornada repleta de fatos históricos e depoimentos de grandes intelectuais, mapeando resistências e transformações pelo mundo.",
    "poster": "/t3YWqHwTaMKk7JZxBDVUlFNrvvr.jpg",
    "trailer": null,
-   "popularidade": 0.2109,
+   "popularidade": 0.2132,
    "plataformas": [],
    "justwatch": null,
    "duracao": 95,
@@ -2523,12 +2523,12 @@
     "Comédia",
     "Documentário"
    ],
-   "nota": null,
-   "votos": 0,
+   "nota": 5,
+   "votos": 1,
    "sinopse": "Conhecido por suas pegadinhas virais, entre elas a do restaurante falso melhor avaliado de Londres, Oobah Butler coloca na mira as indústrias e as instituições poderosas, e se infiltra nelas por meio de planos elaborados e audaciosos.",
    "poster": "/iqGHsCsi4zpLsAnGiiP5Wki1CR0.jpg",
    "trailer": "i3fXiJ40WOw",
-   "popularidade": 5.0644,
+   "popularidade": 5.3677,
    "plataformas": [
     {
      "id": 1899,
@@ -3244,6 +3244,28 @@
    "classificacao": "14"
   },
   {
+   "id": "filme-1831999",
+   "tmdb": 1831999,
+   "imdb": null,
+   "tipo": "filme",
+   "titulo": "Noite de Estreia",
+   "original": null,
+   "data": "2026-11-25",
+   "semana": "2026-w48",
+   "segunda": "2026-11-23",
+   "generos": [],
+   "nota": null,
+   "votos": 0,
+   "sinopse": "Na noite de estreia de um talk show ao vivo, o convidado informa, de última hora, que vai se atrasar, fazendo com que o apresentador, a produtora e o diretor tenham que decidir entre esperar sua chegada ou buscar um novo convidado.",
+   "poster": "/8gL25kLTeA5d3YWWdAqt6icZaA4.jpg",
+   "trailer": null,
+   "popularidade": 0.1711,
+   "plataformas": [],
+   "justwatch": null,
+   "duracao": 25,
+   "classificacao": null
+  },
+  {
    "id": "filme-1828420",
    "tmdb": 1828420,
    "imdb": null,
@@ -3267,28 +3289,6 @@
    "plataformas": [],
    "justwatch": null,
    "duracao": 3,
-   "classificacao": null
-  },
-  {
-   "id": "filme-1831999",
-   "tmdb": 1831999,
-   "imdb": null,
-   "tipo": "filme",
-   "titulo": "Noite de Estreia",
-   "original": null,
-   "data": "2026-11-25",
-   "semana": "2026-w48",
-   "segunda": "2026-11-23",
-   "generos": [],
-   "nota": null,
-   "votos": 0,
-   "sinopse": "Na noite de estreia de um talk show ao vivo, o convidado informa, de última hora, que vai se atrasar, fazendo com que o apresentador, a produtora e o diretor tenham que decidir entre esperar sua chegada ou buscar um novo convidado.",
-   "poster": "/8gL25kLTeA5d3YWWdAqt6icZaA4.jpg",
-   "trailer": null,
-   "popularidade": 0.1512,
-   "plataformas": [],
-   "justwatch": null,
-   "duracao": 25,
    "classificacao": null
   },
   {
@@ -3467,7 +3467,7 @@
    "sinopse": "Sweetpea é a história bombástica de Rhiannon Lewis, uma moça tímida e invisível que é levada ao extremo quando seu pai morre e sua agressora dos tempos de escola volta para a cidade.",
    "poster": "/feoDYCy0AUD031gLqBmA9gC4pw1.jpg",
    "trailer": "7-Zb6aYhAsk",
-   "popularidade": 10.7899,
+   "popularidade": 11.5649,
    "plataformas": [
     {
      "id": 119,
@@ -3641,7 +3641,7 @@
    "sinopse": "",
    "poster": "/yTn41duVqEmiBimV3itSyOpUPnU.jpg",
    "trailer": null,
-   "popularidade": 2.6379,
+   "popularidade": 2.7831,
    "plataformas": [
     {
      "id": null,
@@ -4135,7 +4135,7 @@
    "sinopse": "Uma esponja-do-mar chamada Bob Esponja Calça Quadrada mora com seu caracol de estimação na Fenda do Biquíni, no fundo do oceano. Bob trabalha no Siri Cascudo e, nas horas vagas, vive arrumando confusões com seu melhor amigo, a estrela-do-mar Patrick.",
    "poster": "/yXrtQINkVRyNmfUQFyVG2LuoTqm.jpg",
    "trailer": null,
-   "popularidade": 241.967,
+   "popularidade": 230.9045,
    "plataformas": [
     {
      "id": 8,
@@ -4451,7 +4451,7 @@
    "sinopse": "Após um encontro às cegas desastroso, Lindsey e Philip acabam se encontrando inesperadamente no Walt Disney World Resort, onde um desejo de Natal os leva do \"jamais\" ao \"felizes para sempre\".",
    "poster": "/82mJFoloEZ8XIx7ksx0IN4Fg8dx.jpg",
    "trailer": "WZmH1-hTKM4",
-   "popularidade": 3.2164,
+   "popularidade": 3.0091,
    "plataformas": [],
    "justwatch": null,
    "duracao": null,
@@ -5734,6 +5734,39 @@
    ]
   },
   {
+   "id": "serie-87826",
+   "tmdb": 87826,
+   "imdb": "tt9817298",
+   "tipo": "serie",
+   "titulo": "Sunset - Milha de Ouro",
+   "original": "Selling Sunset",
+   "data": "2026-12-04",
+   "semana": "2026-w49",
+   "segunda": "2026-11-30",
+   "generos": [
+    "Reality"
+   ],
+   "nota": 6.6,
+   "votos": 68,
+   "sinopse": "Os agentes de elite do Oppenheim Group vendem uma vida de luxo aos endinheirados de Los Angeles. Os relacionamentos são cruciais, e por isso geram fortes conflitos.",
+   "poster": "/u7oG5RKpXQC0c10jUvLfKYggKOY.jpg",
+   "trailer": "Xpa35HwBdwM",
+   "popularidade": 14.5309,
+   "plataformas": [
+    {
+     "id": 8,
+     "nome": "Netflix",
+     "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "tipo": "assinatura"
+    }
+   ],
+   "justwatch": "https://www.themoviedb.org/tv/87826-selling-sunset/watch?locale=BR",
+   "temporada": 10,
+   "canais": [
+    "Netflix"
+   ]
+  },
+  {
    "id": "serie-157061",
    "tmdb": 157061,
    "imdb": "tt14379784",
@@ -5766,39 +5799,6 @@
    "temporada": 3,
    "canais": [
     "Prime Video"
-   ]
-  },
-  {
-   "id": "serie-87826",
-   "tmdb": 87826,
-   "imdb": "tt9817298",
-   "tipo": "serie",
-   "titulo": "Sunset - Milha de Ouro",
-   "original": "Selling Sunset",
-   "data": "2026-12-04",
-   "semana": "2026-w49",
-   "segunda": "2026-11-30",
-   "generos": [
-    "Reality"
-   ],
-   "nota": 6.6,
-   "votos": 68,
-   "sinopse": "Os agentes de elite do Oppenheim Group vendem uma vida de luxo aos endinheirados de Los Angeles. Os relacionamentos são cruciais, e por isso geram fortes conflitos.",
-   "poster": "/u7oG5RKpXQC0c10jUvLfKYggKOY.jpg",
-   "trailer": "Xpa35HwBdwM",
-   "popularidade": 12.1408,
-   "plataformas": [
-    {
-     "id": 8,
-     "nome": "Netflix",
-     "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
-     "tipo": "assinatura"
-    }
-   ],
-   "justwatch": "https://www.themoviedb.org/tv/87826-selling-sunset/watch?locale=BR",
-   "temporada": 10,
-   "canais": [
-    "Netflix"
    ]
   },
   {
@@ -6926,7 +6926,7 @@
    "sinopse": "",
    "poster": "/eT2l6bIWCeovWd9DIOGr91m5hxN.jpg",
    "trailer": "h-SvdK88-mQ",
-   "popularidade": 1.7742,
+   "popularidade": 1.8611,
    "plataformas": [
     {
      "id": null,
@@ -7099,7 +7099,7 @@
    "sinopse": "A intensa vida do autor de \"Aquarela do Brasil,\" Ary Barroso, é narrada em primeira pessoa pelo ator Lima Duarte. Da infância mineira aos dias de glória no Rio de Janeiro, passando pela parceria com os estúdios Disney, o filme mistura ficção e imagens de arquivo raras, embaladas por clássicos como ​No Rancho Fundo e No Tabuleiro da Baiana. Um ensaio cinematográfico íntimo sobre a mente criativa do homem que inventou o \"Brasil brasileiro.\"",
    "poster": "/mPN35ZXTU1l64zJj9ZKmXUtbptR.jpg",
    "trailer": null,
-   "popularidade": 0.503,
+   "popularidade": 0.4264,
    "plataformas": [],
    "justwatch": null,
    "duracao": 71,
@@ -8001,7 +8001,7 @@
    "sinopse": "",
    "poster": "/jbLrXQiw8HBZ7x3gzNWOZLPuY1v.jpg",
    "trailer": null,
-   "popularidade": 1.3079,
+   "popularidade": 1.3629,
    "plataformas": [
     {
      "id": null,
@@ -8278,7 +8278,7 @@
    "sinopse": "Novas paixões, novas roupas... Nova Emily? Uma impetuosa especialista em marketing conquista o emprego dos sonhos em Paris, ganhando independência na vida e no amor.",
    "poster": "/2QeSY4fkl3tKRAg3HEiTHxSJg8j.jpg",
    "trailer": "lptctjAT-Mk",
-   "popularidade": 32.3055,
+   "popularidade": 33.6347,
    "plataformas": [
     {
      "id": 8,
@@ -8360,7 +8360,7 @@
    "sinopse": "Alvo de uma investigação interna, uma policial de Estocolmo decide descansar numa região conhecida pelo esqui. Até que o desaparecimento de uma garota acaba com essa paz.",
    "poster": "/1TUSNZdN1HWSGDMhjre0y33y1Me.jpg",
    "trailer": "BY7ChjDm0GY",
-   "popularidade": 3.766,
+   "popularidade": 4.0235,
    "plataformas": [
     {
      "id": 8,
@@ -8458,7 +8458,7 @@
    "sinopse": "Rowan Fielding, uma jovem neurocirurgiã intuitiva, descobre que ela é a improvável herdeira de uma família de bruxas. Enquanto ela lida com seus novos poderes, ela deve lidar com uma presença sinistra que assombra sua família há gerações.",
    "poster": "/hcGhWkbY2885PFAGSiWgsnEFBTY.jpg",
    "trailer": "xscoUU7AeY8",
-   "popularidade": 22.0907,
+   "popularidade": 23.8753,
    "plataformas": [
     {
      "id": 8,
@@ -8866,7 +8866,7 @@
    "sinopse": "Dois assassinos em série que não se conhecem atacam nos mesmos locais e com o mesmo padrão de vítimas. O Diabo faz um pacto com um deles: ajudá-lo a levar o outro para o inferno em troca de uns anos a mais de matança.",
    "poster": "/e2IsRDY2w692MkkP65dCprEE26Q.jpg",
    "trailer": null,
-   "popularidade": 0.3532,
+   "popularidade": 0.3898,
    "plataformas": [],
    "justwatch": null,
    "duracao": 70,
@@ -9200,7 +9200,7 @@
    "sinopse": "Há milhares de anos, o Japão é protegido por cinco clãs que dominam a magia de criar barreiras. Hana, uma jovem de dezoito anos nascida em uma família secundária de um desses clãs, sempre viveu à sombra de sua irmã gêmea, mais talentosa, bonita e popular. Quando um poder extraordinário desperta dentro dela, Hana decide escondê-lo para continuar levando uma vida tranquila, longe dos holofotes. No entanto, esse estilo de vida com que tanto sonha começa a ficar cada vez mais distante quando Saku Ichinomiya assume a liderança do clã Ichinomiya e parte em busca de uma noiva poderosa o suficiente para estar ao seu lado. Determinada a manter suas habilidades em segredo, Hana faz de tudo para evitar Saku... Mas será que ela resistirá à tentação de aceitar um contrato de casamento se isso significar garantir o futuro tranquilo e pacífico com que sempre sonhou?",
    "poster": "/qdJgSuTE36OWeHKP36Y4MlHxhHI.jpg",
    "trailer": null,
-   "popularidade": 4.0049,
+   "popularidade": 4.1283,
    "plataformas": [
     {
      "id": null,
@@ -9337,12 +9337,12 @@
     "Drama",
     "Thriller"
    ],
-   "nota": 8,
-   "votos": 6,
+   "nota": 7.8,
+   "votos": 8,
    "sinopse": "Tigre de Papel acompanha a história de dois irmãos em busca do sonho americano. Enquanto o engenheiro Irwin Pearl construiu uma família com Hester, Gary seguiu carreira na polícia. Quando Gary apresenta ao irmão uma oportunidade de negócio boa demais para ser verdade, os dois se envolvem com o perigoso mundo da máfia russa, e os laços familiares começam a se romper, com consequências que mudam suas vidas para sempre.",
    "poster": "/f6S1rwC1oGl2vlw15wiEC0V2Z6V.jpg",
    "trailer": "dUxQ3ltEEwU",
-   "popularidade": 22.1229,
+   "popularidade": 20.5922,
    "plataformas": [],
    "justwatch": null,
    "duracao": 115,
@@ -9444,7 +9444,7 @@
    "sinopse": "Miss Moxy, uma gata doméstica, se perde durante as férias e precisa encontrar o caminho de volta para casa com a ajuda das criaturas mais desprezíveis que um gato pode imaginar: um cachorro bobo e um pássaro velho. Durante a jornada, ela amplia sua visão de mundo e descobre o verdadeiro significado de amizade.",
    "poster": "/8YFuRsNOgDHB4hg5pdlDJJ3eM0q.jpg",
    "trailer": "AsMmKpKIvfk",
-   "popularidade": 1.3189,
+   "popularidade": 1.1267,
    "plataformas": [],
    "justwatch": null,
    "duracao": 88,
@@ -9814,7 +9814,7 @@
    "sinopse": "",
    "poster": "/qsS3xGLmNAlElDNs2B89QABCgMx.jpg",
    "trailer": null,
-   "popularidade": 3.5047,
+   "popularidade": 4.066,
    "plataformas": [
     {
      "id": null,
@@ -10185,7 +10185,7 @@
    "sinopse": "Segue a família McLusky, liderada pelo impiedoso Mike McClusky – corretores poderosos em Kingstown, Michigan, onde o negócio do encarceramento é a única indústria próspera. Abordando temas como o racismo sistêmico, corrupção e desigualdade, a série oferece um olhar severo em sua tentativa de trazer ordem e justiça a uma cidade que não possui nenhum dos dois.",
    "poster": "/aoZm9TTbxHfexecDoEiiYWvft3p.jpg",
    "trailer": "VkQzvwxOp0s",
-   "popularidade": 57.1056,
+   "popularidade": 57.4497,
    "plataformas": [
     {
      "id": 8,
@@ -10667,7 +10667,7 @@
    "sinopse": "A tranquilidade da aldeia de Asterix e Obelix chega ao fim quando, por acidente, uma poção misteriosa transforma todos os moradores em crianças! Com os romanos prontos para atacar, a dupla parte em uma missão até o distante Reino da Núbia em busca de um ingrediente raro, o único capaz de desfazer essa transformação.",
    "poster": "/uI9U22lV7R5OstzO6QPFgphgO1S.jpg",
    "trailer": "JaRX_L9nlaQ",
-   "popularidade": 5.4826,
+   "popularidade": 5.8727,
    "plataformas": [],
    "justwatch": null,
    "duracao": 86,
@@ -10824,7 +10824,7 @@
    "sinopse": "EM BREVE DISPONÍVEL NO YOUTUBE  Um grupo de jovens vai para uma trilha de sua cidade que se diz amaldiçoada para provar que tudo isso é um mito, mas o que eles encontram os surpreende mais.",
    "poster": "/d1XvdD1SylDbgXovDJZVGuN9S1I.jpg",
    "trailer": null,
-   "popularidade": 0,
+   "popularidade": 0.0388,
    "plataformas": [],
    "justwatch": null,
    "duracao": null,
@@ -11734,11 +11734,11 @@
     "Ficção científica"
    ],
    "nota": 8.2,
-   "votos": 23224,
+   "votos": 23225,
    "sinopse": "A princesa Leia é mantida refém pelas forças imperiais comandadas por Darth Vader. Luke Skywalker e Han Solo precisam libertá-la e restaurar a liberdade e a justiça na galáxia.",
    "poster": "/dw7X9YPjjAfIxKHW04V64Bb9TB0.jpg",
    "trailer": "i-vsILeJ8_8",
-   "popularidade": 30.8131,
+   "popularidade": 30.783,
    "plataformas": [],
    "justwatch": null,
    "duracao": 121,
@@ -11798,7 +11798,7 @@
    "sinopse": "",
    "poster": "/dHMQSBUsIh3epsx9MbFzG6RfsGK.jpg",
    "trailer": "dlpxXcC8nPk",
-   "popularidade": 3.9618,
+   "popularidade": 3.5982,
    "plataformas": [],
    "justwatch": null,
    "duracao": null,
@@ -12005,7 +12005,7 @@
    "sinopse": "O esforçado dono da feira, Kesselring (Nicolás de Jesús), recebe uma oportunidade única de restaurar a antiga glória da feira quando seu amigo Dr. Goodkat (Fredy Roque) o apresenta a Marcus Kelevra (Alexis Adrián), um homem cujo ato misterioso atrairá as pessoas de volta à feira, a um custo mortal, e até mesmo despertará o interesse entre os outros frequentadores.",
    "poster": "/iVvMHiEL4NUSJWUGCYYpUxXlKnn.jpg",
    "trailer": "UM1_7Cwszao",
-   "popularidade": 1.2774,
+   "popularidade": 1.3971,
    "plataformas": [],
    "justwatch": null,
    "duracao": 119,
@@ -12384,7 +12384,7 @@
    "sinopse": "",
    "poster": "/xTFj4zxTIz7oRqnqWntpGC5j1kO.jpg",
    "trailer": "A643rogutGM",
-   "popularidade": 4.3338,
+   "popularidade": 3.9785,
    "plataformas": [],
    "justwatch": null,
    "duracao": 130,
@@ -13445,7 +13445,7 @@
    "sinopse": "Após um cataclismo global, uma jovem descobre ser o novo Avatar - agora rotulada como a Destruidora, não uma salvadora. Caçada por humanos e espíritos, ela e sua gêmea há muito perdida precisam descobrir suas origens e salvar a humanidade do colapso.",
    "poster": "/l8qbsNAr1CZK2tZ60l5lrJdT5mW.jpg",
    "trailer": "nhdh962_ee0",
-   "popularidade": 31.3915,
+   "popularidade": 31.1586,
    "plataformas": [
     {
      "id": 531,
