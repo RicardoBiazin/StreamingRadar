@@ -1,5 +1,11 @@
 # Histórico
 
+## 0.2.2 — 26/11/2026
+
+- Causa de "Plataforma ainda não informada" em O Pequeno Guerreiro (Way of the Warrior Kid): dado velho. O TMDB só ligou o filme à Apple TV depois da última coleta, e o site não se atualiza sozinho enquanto os secrets do GitHub (`TMDB_API_KEY`, `NETLIFY_AUTH_TOKEN`, `NETLIFY_SITE_ID`) não existirem: o workflow diário roda em 8 s e não faz nada.
+- Filmes originais de streaming sem provedor no TMDB agora têm a plataforma deduzida do estúdio de produção (Apple Studios/Original Films, Netflix, Amazon MGM Studios, Disney+/Hulu Originals, Max Originals, Paramount+ Originals), como já era com a rede de origem nas séries.
+- Limite: o Google também mostra Prime Video (assinatura do canal Apple TV dentro do Prime); o site ignora variantes de canal de propósito.
+
 ## 0.2.1 — 25/11/2026
 
 - Séries originais sem dado de provedor no TMDB agora aparecem. Caso que mostrou o furo: Blade Runner 2099 (Prime Video) não tinha provedor nenhum para o Brasil no dia da estreia e era descartado. A coleta passa a consultar também por rede de origem (Netflix, Prime Video, Disney+, Apple TV, HBO Max, Paramount+, Crunchyroll) e a plataforma é deduzida do nome da rede quando o TMDB não informa (só redes que são streaming; canal de TV não entra). Séries na janela: 92 para 172.

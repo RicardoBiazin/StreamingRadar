@@ -81,6 +81,7 @@ async function detalheFilme(chave, id) {
     id: d.id, imdb: d.imdb_id || null, titulo: d.title, original: d.original_title, lingua: d.original_language,
     sinopse: d.overview, poster: d.poster_path, generos: (d.genres || []).map((g) => g.name),
     nota: d.vote_average, votos: d.vote_count, popularidade: d.popularity, duracao: d.runtime || null,
+    empresas: (d.production_companies || []).map((c) => c.name),
     datas: br.filter((x) => x.release_date).map((x) => ({ tipo: x.type, data: x.release_date.slice(0, 10) })),
     classificacao: br.map((x) => x.certification).find(Boolean) || null,
     trailer: trailer(d.videos), provedores: provedores(d['watch/providers']),

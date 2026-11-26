@@ -49,10 +49,21 @@ for (const r of bruto.cinema) {
   itens.push({ ...base(r, 'cinema', menor(datas)), duracao: r.duracao, classificacao: r.classificacao, plataformas: [], justwatch: null });
 }
 
+// Filme original de streaming que o TMDB ainda não ligou a nenhum provedor: o estúdio de
+// produção diz a plataforma (só estúdios que SÃO do serviço). Marcado como "inferido".
+const ESTUDIOS_STREAMING = [
+  [/^apple (studios|original films|tv\+?)$/i, 'Apple TV'], [/^netflix( animation| studios)?$/i, 'Netflix'],
+  [/^amazon (mgm )?studios$|^prime video$|^amazon original/i, 'Amazon Prime Video'],
+  [/^disney\+ original|^hulu original/i, 'Disney Plus'], [/^max original|^hbo max/i, 'HBO Max'], [/^paramount\+ original/i, 'Paramount Plus'],
+];
+const deduzirEstudio = (empresas) => (empresas || []).flatMap((c) => ESTUDIOS_STREAMING.filter(([re]) => re.test(c)).map(([, nome]) => ({ id: null, nome, logo: null, tipo: 'assinatura', inferido: true })));
+
 for (const r of bruto.filmes) {
   const datas = (r.datas || []).filter((x) => [1, 4, 5, 6].includes(x.tipo) && dentro(x.data)).map((x) => x.data);
   if (!datas.length) continue;
-  itens.push({ ...base(r, 'filme', menor(datas)), duracao: r.duracao, classificacao: r.classificacao });
+  let pl = plataformas(r.provedores);
+  if (!pl.length) pl = [...new Map(deduzirEstudio(r.empresas).map((p) => [p.nome, p])).values()];
+  itens.push({ ...base(r, 'filme', menor(datas)), plataformas: pl, duracao: r.duracao, classificacao: r.classificacao });
 }
 // Filme com data digital mas sem plataforma informada ainda (comum nas semanas futuras):
 // entra como "plataforma a confirmar", no máximo 10 por semana, os mais populares.
